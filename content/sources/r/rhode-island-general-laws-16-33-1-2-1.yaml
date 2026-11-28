@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://webserver.rilegislature.gov/Statutes/TITLE16/16-33.1/16-33.1-2.1.htm
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260528095038/https://webserver.rilegislature.gov/Statutes/TITLE16/16-33.1/16-33.1-2.1.htm
+  captured: '2026-05-28'
 history:
   status: live
   last_checked: '2026-11-27'

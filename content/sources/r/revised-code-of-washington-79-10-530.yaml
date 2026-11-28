@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://app.leg.wa.gov/RCW/default.aspx?cite=79.10.530
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260208162700/https://app.leg.wa.gov/RCW/default.aspx?cite=79.10.530
+  captured: '2026-02-08'
 history:
   status: live
   last_checked: '2026-11-27'

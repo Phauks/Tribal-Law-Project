@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://webserver.rilegislature.gov/Statutes/TITLE27/27-50/27-50-3.htm
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260215104355/https://webserver.rilegislature.gov/Statutes/TITLE27/27-50/27-50-3.htm
+  captured: '2026-02-15'
 history:
   status: live
   last_checked: '2026-11-27'

@@ -59,3 +59,7 @@ review:
   - check: decided
     result: agree
     detail: index 1994-08-22; cover sheet 1994-08-22; decision 1994-08-22
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010932/https://www.oha.doi.gov/IBIA/IbiaDecisions/26ibia/26ibia203.PDF
+  captured: '2026-03-25'
