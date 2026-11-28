@@ -54,3 +54,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Commission''s table was read: https://www.nigc.gov/commission/commission-actions/commission-final-decisions/'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260710110533/https://www.nigc.gov/wp-content/uploads/2024/12/FinalDecisionOrdAppealofNOV0935-1.pdf
+  captured: '2026-07-10'

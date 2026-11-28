@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_143B/GS_143B-411.2.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260125053543/https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_143B/GS_143B-411.2.html
+  captured: '2026-01-25'
 history:
   status: live
   last_checked: '2026-11-27'

@@ -54,3 +54,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Commission''s table was read: https://www.nigc.gov/commission/commission-actions/commission-final-decisions/'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260717021942/https://www.nigc.gov/wp-content/uploads/2025/01/ColoradoRiverIndianTribes071703.pdf
+  captured: '2026-07-17'

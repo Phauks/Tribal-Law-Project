@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_108D/GS_108D-5.3.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260518125725/https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_108D/GS_108D-5.3.html
+  captured: '2026-05-18'
 history:
   status: live
   last_checked: '2026-11-27'

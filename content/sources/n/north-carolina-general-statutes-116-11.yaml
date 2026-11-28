@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_116/GS_116-11.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260712032811/https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_116/gs_116-11.html
+  captured: '2026-07-12'
 history:
   status: live
   last_checked: '2026-11-27'

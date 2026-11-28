@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Commission''s table was read: https://www.nigc.gov/commission/commission-actions/commission-final-decisions/'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260711114559/https://www.nigc.gov/wp-content/uploads/2024/12/Street-Edward-and-Oakland-Enterprises-LLC.pdf
+  captured: '2026-07-11'

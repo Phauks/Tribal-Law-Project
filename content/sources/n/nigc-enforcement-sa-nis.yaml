@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Commission''s table was read: https://www.nigc.gov/commission/commission-actions/enforcement-actions/'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260213075437/https://www.nigc.gov/wp-content/uploads/2025/03/20070817_Ltr_to_Settlement_Agreement_-_Nisqually_Indian_Tribe.pdf
+  captured: '2026-02-13'

@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_71A/GS_71A-8.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260324075752/https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_71A/GS_71A-8.html
+  captured: '2026-03-24'
 history:
   status: live
   last_checked: '2026-11-27'

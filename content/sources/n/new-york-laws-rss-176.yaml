@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.nysenate.gov/legislation/laws/RSS/176
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260115231340/https://www.nysenate.gov/legislation/laws/RSS/176
+  captured: '2026-01-15'
 history:
   status: live
   last_checked: '2026-11-27'
