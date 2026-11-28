@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 3453, published 2016-01-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201221236/https://www.federalregister.gov/documents/2016/01/21/2016-01156/salt-river-pima-maricopa-indian-community-of-the-salt-river-reservation-liquor-ordinance
+  captured: '2025-02-01'

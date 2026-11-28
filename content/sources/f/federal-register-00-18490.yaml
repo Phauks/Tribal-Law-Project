@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 45394, published 2000-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204111523/https://www.federalregister.gov/documents/2000/07/21/00-18490/proposed-finding-for-federal-acknowledgment-of-the-little-shell-tribe-of-chippewa-indians-of-montana
+  captured: '2025-02-04'

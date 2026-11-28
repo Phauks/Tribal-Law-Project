@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 86357, published 2024-10-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611180001/https://www.federalregister.gov/documents/2024/10/30/2024-25194/notice-of-intended-repatriation-university-of-georgia-laboratory-of-archaeology-athens-ga
+  captured: '2025-06-11'

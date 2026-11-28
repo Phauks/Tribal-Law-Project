@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 9633, published 2009-03-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211045244/https://www.federalregister.gov/documents/2009/03/05/E9-4671/notice-of-inventory-completion-us-department-of-energy-richland-operations-office-richland-wa-and
+  captured: '2025-02-11'

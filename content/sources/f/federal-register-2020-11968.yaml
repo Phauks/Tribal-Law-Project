@@ -69,3 +69,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 34228, published 2020-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204231130/https://www.federalregister.gov/documents/2020/06/03/2020-11968/notice-of-inventory-completion-university-of-the-pacific-dugoni-school-of-dentistry-san-francisco-ca
+  captured: '2025-02-04'

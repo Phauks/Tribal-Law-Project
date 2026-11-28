@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 661, published 2025-01-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250405080250/https://www.federalregister.gov/documents/2025/01/06/2024-31647/receipt-of-documented-petition-for-federal-acknowledgment-as-an-american-indian-tribe
+  captured: '2025-04-05'

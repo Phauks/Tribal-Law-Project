@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 53781, published 2013-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204150155/https://www.federalregister.gov/documents/2013/08/30/2013-21251/notice-of-inventory-completion-indiana-department-of-natural-resources-division-of-historic
+  captured: '2025-02-04'

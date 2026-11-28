@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/10781642/kandra-l-amboh-v-spring-clemente-hon-bruce-l-nelson-and-jeffrey/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127201052/https://www.courtlistener.com/opinion/10781642/kandra-l-amboh-v-spring-clemente-hon-bruce-l-nelson-and-jeffrey/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

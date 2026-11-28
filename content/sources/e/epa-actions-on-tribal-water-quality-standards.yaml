@@ -42,3 +42,7 @@ review:
   - check: listing
     result: missing
     detail: Read by script only
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261118014623/https://www.epa.gov./wqs-tech/epa-actions-tribal-water-quality-standards-and-contacts
+  captured: '2026-11-18'

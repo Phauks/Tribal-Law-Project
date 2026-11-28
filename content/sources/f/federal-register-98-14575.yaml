@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 30019, published 1998-06-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204192605/https://www.federalregister.gov/documents/1998/06/02/98-14575/notice-of-inventory-completion-for-native-american-human-remains-from-port-huron-mi-in-the
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 17964, published 2025-04-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812184523/https://www.federalregister.gov/documents/2025/04/30/2025-07418/notice-of-intended-repatriation-roseland-school-district-santa-rosa-ca
+  captured: '2026-08-12'

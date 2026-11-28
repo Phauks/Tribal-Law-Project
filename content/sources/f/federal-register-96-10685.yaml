@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 19314, published 1996-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260927062202/https://www.federalregister.gov/documents/1996/05/01/96-10685/receipt-of-petition-for-federal-acknowledgment-of-existence-as-an-indian-tribe
+  captured: '2026-09-27'

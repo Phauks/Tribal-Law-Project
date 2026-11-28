@@ -101,3 +101,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 9826, published 2019-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230404002041/https://www.federalregister.gov/documents/2019/03/18/2019-04921/notice-of-inventory-completion-historical-society-of-saginaw-county-inc-saginaw-county-mi
+  captured: '2023-04-04'

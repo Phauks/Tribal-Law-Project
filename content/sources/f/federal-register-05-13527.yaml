@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 39787, published 2005-07-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206061536/https://www.federalregister.gov/documents/2005/07/11/05-13527/office-of-indian-education-programs-proposed-agency-information-collection-activities-comment
+  captured: '2025-02-06'

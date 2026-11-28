@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 38091, published 2023-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250827193738/https://www.federalregister.gov/documents/2023/06/12/2023-12493/notice-of-approved-class-iii-tribal-gaming-ordinance
+  captured: '2025-08-27'

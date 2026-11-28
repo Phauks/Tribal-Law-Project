@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 47225, published 2008-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202114429/https://www.federalregister.gov/documents/2008/08/13/E8-18691/notice-of-inventory-completion-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-02'

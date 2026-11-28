@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 33736, published 2021-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205005253/https://www.federalregister.gov/documents/2021/06/25/2021-13509/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-national-park-service
+  captured: '2025-02-05'

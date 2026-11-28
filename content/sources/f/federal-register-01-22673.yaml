@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 47239, published 2001-09-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206164115/https://www.federalregister.gov/documents/2001/09/11/01-22673/amendment-to-santa-ana-pueblo-liquor-code
+  captured: '2025-02-06'

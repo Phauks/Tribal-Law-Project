@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 17997, published 2026-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260721021917/https://www.federalregister.gov/documents/2026/04/09/2026-06813/notice-of-inventory-completion-kansas-state-historical-society-topeka-ks
+  captured: '2026-07-21'

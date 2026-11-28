@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 60650, published 2004-10-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208230900/https://www.federalregister.gov/documents/2004/10/12/04-22827/notice-of-intent-to-repatriate-a-cultural-item-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-08'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 49513, published 2010-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202204839/https://www.federalregister.gov/documents/2010/08/13/2010-19906/final-environmental-impact-statement-for-the-ione-band-of-miwok-indians-22804-acre-fee-to-trust-land
+  captured: '2025-02-02'

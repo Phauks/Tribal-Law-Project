@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 53602, published 2007-09-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218110821/https://www.federalregister.gov/documents/2007/09/19/E7-18487/notice-of-inventory-completion-us-army-corps-of-engineers-portland-district-portland-or-and
+  captured: '2025-02-18'

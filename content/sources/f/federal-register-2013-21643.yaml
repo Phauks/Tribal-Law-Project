@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 54670, published 2013-09-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219055509/https://www.federalregister.gov/documents/2013/09/05/2013-21643/miami-tribe-of-oklahoma-liquor-control-ordinance
+  captured: '2025-02-19'

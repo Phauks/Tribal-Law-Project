@@ -18,7 +18,10 @@ citation:
       - 27
 original_link: https://legislature.maine.gov/statutes/25/title25sec1544.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260215022849/https://legislature.maine.gov/statutes/25/title25sec1544.html
+  captured: '2026-02-15'
 history:
   status: live
   last_checked: '2026-11-27'

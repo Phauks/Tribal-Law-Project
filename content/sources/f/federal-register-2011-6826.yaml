@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 16427, published 2011-03-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204041231/https://www.federalregister.gov/documents/2011/03/23/2011-6826/memorandum-of-agreement-between-the-indian-health-service-and-the-department-of-interior-bureau-of
+  captured: '2025-02-04'

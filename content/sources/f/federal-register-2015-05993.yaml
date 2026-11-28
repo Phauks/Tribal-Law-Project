@@ -88,3 +88,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 13613, published 2015-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205003510/https://www.federalregister.gov/documents/2015/03/16/2015-05993/notice-of-inventory-completion-the-toledo-zoological-society-toledo-oh
+  captured: '2025-02-05'

@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 65768, published 2026-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261016075343/https://www.federalregister.gov/documents/2026/10/16/2026-21119/notice-of-inventory-completion-grand-rapids-public-museum-grand-rapids-mi
+  captured: '2026-10-16'

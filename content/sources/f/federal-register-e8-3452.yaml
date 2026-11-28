@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 10061, published 2008-02-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202054323/https://www.federalregister.gov/documents/2008/02/25/E8-3452/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-reclamation-upper-colorado
+  captured: '2025-02-02'

@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 48624, published 2003-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204100902/https://www.federalregister.gov/documents/2003/08/14/03-20755/notice-of-inventory-completion-museum-of-northern-arizona-flagstaff-az
+  captured: '2025-02-04'

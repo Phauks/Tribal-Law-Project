@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 8982, published 1997-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418044531/https://www.federalregister.gov/documents/1997/02/27/97-4838/notice-of-receipt-of-petition-for-federal-acknowledgment-of-existence-as-an-indian-tribe
+  captured: '2026-04-18'

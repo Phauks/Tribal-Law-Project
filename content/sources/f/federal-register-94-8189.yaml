@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-04-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208164041/https://www.federalregister.gov/documents/1994/04/07/94-8189/resource-allocation-methodology-for-the-housing-improvement-program
+  captured: '2025-02-08'

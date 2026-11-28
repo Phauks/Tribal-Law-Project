@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 5450, published 2014-01-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204024901/https://www.federalregister.gov/documents/2014/01/31/2014-01682/final-environmental-impact-statement-for-the-proposed-fee-to-trust-conveyance-of-property-and-casino
+  captured: '2025-02-04'

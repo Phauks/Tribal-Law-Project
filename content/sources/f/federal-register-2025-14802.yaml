@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 37552, published 2025-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825225641/https://www.federalregister.gov/documents/2025/08/05/2025-14802/notice-of-inventory-completion-autry-museum-of-the-american-west-los-angeles-ca
+  captured: '2025-08-25'

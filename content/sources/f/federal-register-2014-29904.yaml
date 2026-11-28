@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 76349, published 2014-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260904012034/https://www.federalregister.gov/documents/2014/12/22/2014-29904/notice-of-inventory-completion-us-department-of-defense-army-fort-sill-national-historic-landmark
+  captured: '2026-09-04'

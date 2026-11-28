@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 63517, published 2010-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204140132/https://www.federalregister.gov/documents/2010/10/15/2010-26074/notice-of-availability-of-the-record-of-decision-for-environmental-impact-statement-for-the
+  captured: '2025-02-04'

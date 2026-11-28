@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 27905, published 2023-05-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260430132528/https://www.federalregister.gov/documents/2023/05/03/2023-09363/community-health-aide-program-tribal-planning-and-implementation
+  captured: '2026-04-30'

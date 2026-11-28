@@ -116,3 +116,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 4250, published 2018-01-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204043838/https://www.federalregister.gov/documents/2018/01/30/2018-01725/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-alibates-flint
+  captured: '2025-02-04'

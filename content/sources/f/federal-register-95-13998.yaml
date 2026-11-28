@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 30430, published 1995-06-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211202345/https://www.federalregister.gov/documents/1995/06/08/95-13998/proposed-finding-against-federal-acknowledgment-of-the-golden-hill-paugussett-tribe
+  captured: '2025-02-11'

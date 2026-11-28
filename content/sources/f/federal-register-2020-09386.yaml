@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 26491, published 2020-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240727183803/https://www.federalregister.gov/documents/2020/05/04/2020-09386/hearth-act-approval-of-pueblo-of-laguna-leasing-code
+  captured: '2024-07-27'

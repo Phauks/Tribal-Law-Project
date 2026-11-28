@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 2875, published 2014-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202063810/https://www.federalregister.gov/documents/2014/01/16/2014-00770/notice-of-inventory-completion-thomas-burke-memorial-washington-state-museum-university-of
+  captured: '2025-02-02'

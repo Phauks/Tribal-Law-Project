@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 29732, published 2015-05-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213072249/https://www.federalregister.gov/documents/2015/05/22/2015-12532/notice-of-inventory-completion-the-american-museum-of-natural-history-new-york-ny-correction
+  captured: '2025-02-13'

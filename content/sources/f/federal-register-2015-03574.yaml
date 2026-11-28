@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 9479, published 2015-02-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204101358/https://www.federalregister.gov/documents/2015/02/23/2015-03574/renewal-of-agency-information-collection-for-the-bureau-of-indian-education-adult-education-program
+  captured: '2025-02-04'

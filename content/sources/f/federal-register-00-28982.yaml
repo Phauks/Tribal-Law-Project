@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 67754, published 2000-11-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208204650/https://www.federalregister.gov/documents/2000/11/13/00-28982/base-roll-dated-may-2-1996-submitted-by-the-pokagon-band-of-potawatomi-indians
+  captured: '2025-02-08'

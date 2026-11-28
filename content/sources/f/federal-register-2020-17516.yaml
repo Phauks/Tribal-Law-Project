@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 49386, published 2020-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201210927/https://www.federalregister.gov/documents/2020/08/13/2020-17516/awards-unsolicited-proposal-for-the-health-communication-initiative-program
+  captured: '2025-02-01'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 58172, published 2024-07-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211035718/https://www.federalregister.gov/documents/2024/07/17/2024-15679/proclaiming-certain-lands-as-reservation-for-yavapai-apache-nation
+  captured: '2025-02-11'

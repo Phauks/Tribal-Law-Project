@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 60065, published 2021-10-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414114552/https://www.federalregister.gov/documents/2021/10/29/2021-23591/draft-programmatic-environmental-impact-statement-for-the-navajo-nation-integrated-weed-management
+  captured: '2025-04-14'

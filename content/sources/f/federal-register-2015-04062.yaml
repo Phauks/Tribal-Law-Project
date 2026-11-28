@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 10501, published 2015-02-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810205620/https://www.federalregister.gov/documents/2015/02/26/2015-04062/notice-of-inventory-completion-robert-s-peabody-museum-of-archaeology-phillips-academy-andover-ma
+  captured: '2026-08-10'

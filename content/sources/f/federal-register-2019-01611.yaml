@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 2904, published 2019-02-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207122612/https://www.federalregister.gov/documents/2019/02/08/2019-01611/notice-of-inventory-completion-morris-museum-morristown-nj
+  captured: '2025-02-07'

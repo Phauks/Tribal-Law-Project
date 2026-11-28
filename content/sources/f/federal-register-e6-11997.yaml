@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 42671, published 2006-07-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203224343/https://www.federalregister.gov/documents/2006/07/27/E6-11997/notice-of-intent-to-repatriate-cultural-items-thomas-burke-memorial-washington-state-museum
+  captured: '2025-02-03'

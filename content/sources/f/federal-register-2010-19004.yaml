@@ -71,3 +71,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 45655, published 2010-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204064041/https://www.federalregister.gov/documents/2010/08/03/2010-19004/notice-of-inventory-completion-university-of-colorado-museum-boulder-co
+  captured: '2025-02-04'

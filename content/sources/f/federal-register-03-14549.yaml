@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 34616, published 2003-06-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211205013/https://www.federalregister.gov/documents/2003/06/10/03-14549/redesignation-of-contract-health-service-delivery-area-rosebud-sioux-tribe-of-the-rosebud-indian
+  captured: '2025-02-11'

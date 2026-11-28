@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 18860, published 2018-04-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204125231/https://www.federalregister.gov/documents/2018/04/30/2018-08997/proclaiming-certain-lands-as-reservation-for-the-spokane-tribe-of-the-spokane-reservation
+  captured: '2025-02-04'

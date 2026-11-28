@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 12893, published 2009-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216013522/https://www.federalregister.gov/documents/2009/03/25/E9-6509/notice-of-intent-to-repatriate-cultural-items-us-department-of-agriculture-forest-service-gila
+  captured: '2025-02-16'

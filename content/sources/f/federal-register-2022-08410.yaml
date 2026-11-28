@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 23537, published 2022-04-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812184859/https://www.federalregister.gov/documents/2022/04/20/2022-08410/hearth-act-approval-of-morongo-band-of-mission-indians-california-leasing-ordinance
+  captured: '2026-08-12'

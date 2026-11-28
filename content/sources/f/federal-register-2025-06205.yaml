@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 15479, published 2025-04-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250612160031/https://www.federalregister.gov/documents/2025/04/11/2025-06205/notice-of-inventory-completion-peabody-museum-of-archaeology-and-ethnology-harvard-university
+  captured: '2025-06-12'

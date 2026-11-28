@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-135/STATUTE-135-Pg429
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807194814/https://www.govinfo.gov/app/details/STATUTE-135/STATUTE-135-Pg429
+  captured: '2026-08-07'
 file:
   storage_key: govinfo/STATUTE-135/STATUTE-135-Pg429.pdf
   checksum: 211548d6ca048ba61ac663b692bccf84c5d038a70b1e89688613c80097f7414b

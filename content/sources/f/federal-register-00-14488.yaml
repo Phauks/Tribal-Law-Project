@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 36464, published 2000-06-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201232512/https://www.federalregister.gov/documents/2000/06/08/00-14488/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-01'

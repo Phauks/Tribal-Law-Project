@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-449.114.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260210152650/https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-449.114.html
+  captured: '2026-02-10'
 history:
   status: live
   last_checked: '2026-11-27'

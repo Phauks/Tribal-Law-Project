@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 54506, published 1995-10-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211142905/https://www.federalregister.gov/documents/1995/10/24/95-26158/proposed-finding-against-federal-acknowledgment-of-the-yuchi-tribal-organization
+  captured: '2025-02-11'

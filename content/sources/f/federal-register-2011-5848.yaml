@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 14050, published 2011-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210329062431/https://www.federalregister.gov/documents/2011/03/15/2011-5848/notice-of-intent-to-repatriate-a-cultural-item-us-department-of-the-interior-bureau-of-indian
+  captured: '2021-03-29'

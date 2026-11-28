@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-120/STATUTE-120-Pg1218
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807095633/https://www.govinfo.gov/app/details/STATUTE-120/STATUTE-120-Pg1218
+  captured: '2026-08-07'
 file:
   storage_key: govinfo/STATUTE-120/STATUTE-120-Pg1218.pdf
   checksum: bb2a9a7d0784b6e9ef611596cd1b4d054ea1f8693de75870f3644f00a828f1ee

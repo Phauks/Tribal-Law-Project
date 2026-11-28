@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 14137, published 1998-03-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204222624/https://www.federalregister.gov/documents/1998/03/24/98-7580/notice-of-inventory-completion-for-native-american-human-remains-from-plymouth-ma-in-the-possession
+  captured: '2025-02-04'

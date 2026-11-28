@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 13387, published 2025-03-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601034351/https://www.federalregister.gov/documents/2025/03/21/2025-04804/shakopee-mdewakanton-sioux-community-amendments-to-liquor-ordinance
+  captured: '2025-06-01'

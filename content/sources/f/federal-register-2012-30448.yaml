@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 74868, published 2012-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810174107/https://www.federalregister.gov/documents/2012/12/18/2012-30448/notice-of-inventory-completion-department-of-anthropology-university-of-massachusetts-amherst-ma
+  captured: '2026-08-10'

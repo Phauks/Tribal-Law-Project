@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 13449, published 1995-03-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203035217/https://www.federalregister.gov/documents/1995/03/13/95-6140/receipt-of-petition-for-federal-acknowledgment-of-existence-as-an-indian-tribe
+  captured: '2025-02-03'

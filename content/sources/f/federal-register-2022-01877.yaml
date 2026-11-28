@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 4911, published 2022-01-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206033923/https://www.federalregister.gov/documents/2022/01/31/2022-01877/hearth-act-approval-of-tule-river-indian-tribe-of-the-tule-river-reservation-california-leasing
+  captured: '2025-02-06'

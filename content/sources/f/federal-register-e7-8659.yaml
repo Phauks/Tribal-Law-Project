@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 25774, published 2007-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204032345/https://www.federalregister.gov/documents/2007/05/07/E7-8659/proposed-information-collection-under-the-paperwork-reduction-act-comment-request
+  captured: '2025-02-04'

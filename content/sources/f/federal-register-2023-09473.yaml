@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 28609, published 2023-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260516012951/https://www.federalregister.gov/documents/2023/05/04/2023-09473/notice-of-inventory-completion-illinois-state-museum-springfield-il
+  captured: '2026-05-16'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 16907, published 2008-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206111507/https://www.federalregister.gov/documents/2008/03/31/E8-6575/notice-of-inventory-completion-university-of-wisconsin-stevens-point-stevens-point-wi
+  captured: '2025-02-06'

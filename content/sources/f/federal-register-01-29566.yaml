@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 59436, published 2001-11-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210416020729/https://www.federalregister.gov/documents/2001/11/28/01-29566/availability-of-funds-for-loan-repayment-program-for-repayment-of-health-professions-educational
+  captured: '2021-04-16'

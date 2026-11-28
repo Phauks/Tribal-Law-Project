@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2024/12/12/2024-29459/establishment-of-the-carlisle-federal-indian-boarding-school-national-monument'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260712064037/https://www.federalregister.gov/documents/2024/12/12/2024-29459/establishment-of-the-carlisle-federal-indian-boarding-school-national-monument
+  captured: '2026-07-12'

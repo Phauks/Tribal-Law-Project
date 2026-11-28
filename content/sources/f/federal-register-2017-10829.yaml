@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 24384, published 2017-05-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217214927/https://www.federalregister.gov/documents/2017/05/26/2017-10829/renewal-of-agency-information-collection-for-home-living-programs-and-school-closure-and
+  captured: '2025-02-17'

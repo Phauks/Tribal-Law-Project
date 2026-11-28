@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 58279, published 2018-11-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260327200551/https://www.federalregister.gov/documents/2018/11/19/2018-25171/agency-information-collection-activities-reindeer-in-alaska
+  captured: '2026-03-27'

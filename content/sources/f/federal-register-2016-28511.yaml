@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 85638, published 2016-11-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207052937/https://www.federalregister.gov/documents/2016/11/28/2016-28511/notice-of-inventory-completion-hood-museum-of-art-dartmouth-college-hanover-nh
+  captured: '2025-02-07'

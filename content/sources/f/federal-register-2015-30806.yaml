@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 76031, published 2015-12-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202225734/https://www.federalregister.gov/documents/2015/12/07/2015-30806/sovereignty-in-indian-education
+  captured: '2025-02-02'

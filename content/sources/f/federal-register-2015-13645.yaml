@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 31991, published 2015-06-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260724201708/https://www.federalregister.gov/documents/2015/06/05/2015-13645/various-national-indian-gaming-commission-regulations
+  captured: '2026-07-24'

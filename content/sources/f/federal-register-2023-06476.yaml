@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 18581, published 2023-03-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204235148/https://www.federalregister.gov/documents/2023/03/29/2023-06476/notice-of-inventory-completion-virginia-commonwealth-university-department-of-forensic-science-and
+  captured: '2025-02-04'

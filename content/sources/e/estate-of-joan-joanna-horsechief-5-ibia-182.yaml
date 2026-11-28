@@ -53,3 +53,7 @@ review:
   - check: decided
     result: agree
     detail: index 1976-09-29; cover sheet 1976-09-29; decision 1976-09-29
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010635/https://www.oha.doi.gov/IBIA/IbiaDecisions/05ibia/05ibia182.PDF
+  captured: '2026-03-25'

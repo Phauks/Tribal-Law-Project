@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 45462, published 2018-09-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217124145/https://www.federalregister.gov/documents/2018/09/07/2018-19426/advisory-board-for-exceptional-children
+  captured: '2025-02-17'

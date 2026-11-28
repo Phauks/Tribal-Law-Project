@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 59196, published 2025-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251219031453/https://www.federalregister.gov/documents/2025/12/18/2025-23147/notice-of-inventory-completion-department-of-anthropology-university-of-south-florida-tampa-fl-and
+  captured: '2025-12-19'

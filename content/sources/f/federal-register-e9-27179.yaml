@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 58311, published 2009-11-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210506112255/https://www.federalregister.gov/documents/2009/11/12/E9-27179/advisory-board-for-exceptional-children
+  captured: '2021-05-06'

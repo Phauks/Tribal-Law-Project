@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 75694, published 2010-12-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215121516/https://www.federalregister.gov/documents/2010/12/06/2010-30437/klamath-tribes-liquor-control-ordinance-correction
+  captured: '2025-02-15'

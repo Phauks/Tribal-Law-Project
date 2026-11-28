@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 807, published 2016-01-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203172203/https://www.federalregister.gov/documents/2016/01/07/2016-00055/notice-of-inventory-completion-university-of-hawaii-at-hilo-hilo-hi
+  captured: '2025-02-03'

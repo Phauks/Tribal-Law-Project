@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 948, published 2016-01-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206013730/https://www.federalregister.gov/documents/2016/01/08/2016-00310/proclaiming-certain-lands-as-reservation-for-the-mashpee-wampanoag
+  captured: '2025-02-06'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 41467, published 2024-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208231525/https://www.federalregister.gov/documents/2024/05/13/2024-10334/notice-of-intended-repatriation-ball-state-university-david-owsley-museum-of-art-muncie-in
+  captured: '2025-02-08'

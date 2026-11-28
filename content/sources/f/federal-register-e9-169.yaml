@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 917, published 2009-01-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205003931/https://www.federalregister.gov/documents/2009/01/09/E9-169/notice-of-renewal-of-information-collection-for-tribal-self-governance-25-cfr-part-1000
+  captured: '2025-02-05'

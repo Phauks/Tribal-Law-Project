@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-04-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205075423/https://www.federalregister.gov/documents/1994/04/15/94-9097/approval-of-class-iii-tribal-gaming-ordinances
+  captured: '2025-02-05'

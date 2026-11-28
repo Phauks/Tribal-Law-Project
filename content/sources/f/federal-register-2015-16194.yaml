@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 37538, published 2015-07-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203072853/https://www.federalregister.gov/documents/2015/07/01/2015-16194/requests-for-administrative-acknowledgment-of-federal-indian-tribes
+  captured: '2025-02-03'

@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: IF11500, version 1'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260515235725/https://www.congress.gov/crs-product/IF11500
+  captured: '2026-05-15'

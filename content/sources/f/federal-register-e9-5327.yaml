@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 10772, published 2009-03-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214094923/https://www.federalregister.gov/documents/2009/03/12/E9-5327/notice-of-intent-to-repatriate-cultural-items-bureau-of-indian-affairs-great-plains-regional-office
+  captured: '2025-02-14'

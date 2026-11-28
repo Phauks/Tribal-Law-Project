@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 12401, published 2023-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206234543/https://www.federalregister.gov/documents/2023/02/27/2023-03945/proposed-finding-against-federal-acknowledgment-of-the-grand-river-bands-of-ottawa-indians
+  captured: '2025-02-06'

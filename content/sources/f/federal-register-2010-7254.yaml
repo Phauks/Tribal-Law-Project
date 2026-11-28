@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 16175, published 2010-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251206160706/https://www.federalregister.gov/documents/2010/03/31/2010-7254/notice-of-inventory-completion-museum-of-cultural-and-natural-history-central-michigan-university-mt
+  captured: '2025-12-06'

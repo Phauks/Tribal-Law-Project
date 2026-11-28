@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 28994, published 2007-05-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202053907/https://www.federalregister.gov/documents/2007/05/23/E7-10012/notice-of-inventory-completion-thomas-burke-memorial-washington-state-museum-university-of
+  captured: '2025-02-02'

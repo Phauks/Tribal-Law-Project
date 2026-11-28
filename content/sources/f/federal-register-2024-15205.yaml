@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 56898, published 2024-07-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208212859/https://www.federalregister.gov/documents/2024/07/11/2024-15205/notice-of-inventory-completion-maxey-museum-whitman-college-walla-walla-wa
+  captured: '2025-02-08'

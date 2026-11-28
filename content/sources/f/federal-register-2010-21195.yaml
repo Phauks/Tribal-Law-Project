@@ -85,3 +85,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 52364, published 2010-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215083242/https://www.federalregister.gov/documents/2010/08/25/2010-21195/notice-of-inventory-completion-department-of-anthropology-and-ethnic-studies-university-of-nevada
+  captured: '2025-02-15'

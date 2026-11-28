@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 2426, published 2006-01-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250418233245/https://www.federalregister.gov/documents/2006/01/13/06-295/reindeer-in-alaska
+  captured: '2025-04-18'

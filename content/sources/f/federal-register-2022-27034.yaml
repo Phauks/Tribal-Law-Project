@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 76928, published 2022-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206112552/https://www.federalregister.gov/documents/2022/12/16/2022-27034/appeals-to-the-commission
+  captured: '2025-02-06'

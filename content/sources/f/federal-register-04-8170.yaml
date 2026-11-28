@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 19920, published 2004-04-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213141800/https://www.federalregister.gov/documents/2004/04/14/04-8170/notice-of-inventory-completion-the-colorado-college-colorado-springs-co
+  captured: '2025-02-13'

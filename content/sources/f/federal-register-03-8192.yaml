@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 16550, published 2003-04-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202145429/https://www.federalregister.gov/documents/2003/04/04/03-8192/notice-of-inventory-completion-franklin-pierce-college-rindge-nh
+  captured: '2025-02-02'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 52525, published 2018-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202114259/https://www.federalregister.gov/documents/2018/10/17/2018-22585/notice-of-inventory-completion-the-university-of-oregon-museum-of-natural-and-cultural-history
+  captured: '2025-02-02'

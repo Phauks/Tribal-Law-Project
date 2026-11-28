@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 62721, published 2004-10-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210424044934/https://www.federalregister.gov/documents/2004/10/27/04-23998/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-north-fork-rancherias-proposed
+  captured: '2021-04-24'

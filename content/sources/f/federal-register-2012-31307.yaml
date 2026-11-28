@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 76512, published 2012-12-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204095549/https://www.federalregister.gov/documents/2012/12/28/2012-31307/renewal-of-agency-information-collection-for-electric-service-data-for-the-operation-of-power
+  captured: '2025-02-04'

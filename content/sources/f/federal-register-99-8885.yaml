@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 17411, published 1999-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205055709/https://www.federalregister.gov/documents/1999/04/09/99-8885/notice-of-inventory-completion-for-native-american-human-remains-from-barrow-ak-in-the-possession-of
+  captured: '2025-02-05'

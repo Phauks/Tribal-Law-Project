@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 25276, published 2009-05-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205012555/https://www.federalregister.gov/documents/2009/05/27/E9-12258/notice-of-intent-to-repatriate-cultural-items-maryhill-museum-of-art-goldendale-wa-correction
+  captured: '2025-02-05'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 54167, published 2019-10-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203004126/https://www.federalregister.gov/documents/2019/10/09/2019-22049/notice-of-intent-to-repatriate-cultural-items-colgate-university-longyear-museum-of-anthropology
+  captured: '2025-02-03'

@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 8103, published 2018-02-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260212165924/https://www.federalregister.gov/documents/2018/02/23/2018-03754/notice-of-inventory-completion-utah-museum-of-natural-history-salt-lake-city-ut
+  captured: '2026-02-12'

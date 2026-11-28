@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 39152, published 1996-07-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210511030020/https://www.federalregister.gov/documents/1996/07/26/96-19066/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-milwaukee-public-museum
+  captured: '2021-05-11'

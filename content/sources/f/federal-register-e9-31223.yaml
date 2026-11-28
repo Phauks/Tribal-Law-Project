@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 433, published 2010-01-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214063931/https://www.federalregister.gov/documents/2010/01/05/E9-31223/notice-of-intent-to-repatriate-a-cultural-item-seton-hall-university-museum-seton-hall-university
+  captured: '2025-02-14'

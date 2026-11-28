@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 57514, published 2022-09-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208191145/https://www.federalregister.gov/documents/2022/09/20/2022-20297/notice-of-inventory-completion-nevada-state-museum-carson-city-nv
+  captured: '2025-02-08'

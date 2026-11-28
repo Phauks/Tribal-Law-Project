@@ -46,3 +46,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/little-shell-tribe-chippewa-indians-montana; it gives no year'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261126224854/https://www.bia.gov/sites/default/files/media_document/031_fd.pdf
+  captured: '2026-11-26'

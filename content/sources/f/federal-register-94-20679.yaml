@@ -48,3 +48,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-08-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204042953/https://www.federalregister.gov/documents/1994/08/23/94-20679/proclaiming-certain-lands-as-part-of-the-reservation-of-the-seminole-tribe-of-indians-of-florida
+  captured: '2025-02-04'

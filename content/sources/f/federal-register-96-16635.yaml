@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 33941, published 1996-07-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210529141515/https://www.federalregister.gov/documents/1996/07/01/96-16635/the-confederated-tribes-of-the-grand-ronde-community-of-oregon-liquor-ordinance
+  captured: '2021-05-29'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 38173, published 2006-07-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250311170503/https://www.federalregister.gov/documents/2006/07/05/E6-10448/class-iii-gaming-procedures-and-tribal-revenue-allocation-plans-submission-to-the-office-of
+  captured: '2025-03-11'

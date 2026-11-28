@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 54162, published 2011-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212082049/https://www.federalregister.gov/documents/2011/08/31/2011-22302/no-child-left-behind-school-facilities-and-construction-negotiated-rulemaking-committee-notice-of
+  captured: '2025-02-12'

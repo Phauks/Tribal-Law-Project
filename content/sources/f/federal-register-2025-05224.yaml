@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 13874, published 2025-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601105101/https://www.federalregister.gov/documents/2025/03/27/2025-05224/notice-of-intended-repatriation-university-of-california-berkeley-berkeley-ca
+  captured: '2025-06-01'

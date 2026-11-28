@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 65062, published 2020-10-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206175849/https://www.federalregister.gov/documents/2020/10/14/2020-22728/notice-of-listing-of-members-of-the-indian-health-services-senior-executive-service-performance
+  captured: '2025-02-06'

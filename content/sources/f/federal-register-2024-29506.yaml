@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 101608, published 2024-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611190756/https://www.federalregister.gov/documents/2024/12/16/2024-29506/notice-of-proposed-purchasedreferred-care-delivery-area-redesignation-for-the-shoshone-bannock
+  captured: '2025-06-11'

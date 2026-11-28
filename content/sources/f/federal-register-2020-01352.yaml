@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 5026, published 2020-01-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206164024/https://www.federalregister.gov/documents/2020/01/28/2020-01352/notice-of-inventory-completion-state-university-of-new-york-at-buffalo-buffalo-ny
+  captured: '2025-02-06'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 16530, published 2025-04-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250418143400/https://www.federalregister.gov/documents/2025/04/18/2025-06655/notice-of-intended-repatriation-shelburne-museum-shelburne-vt
+  captured: '2025-04-18'

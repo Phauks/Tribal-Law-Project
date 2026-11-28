@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35726, published 2025-07-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250826001421/https://www.federalregister.gov/documents/2025/07/29/2025-14276/notice-of-inventory-completion-santa-barbara-museum-of-natural-history-santa-barbara-ca
+  captured: '2025-08-26'

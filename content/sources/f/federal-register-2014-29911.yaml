@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 76364, published 2014-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208173901/https://www.federalregister.gov/documents/2014/12/22/2014-29911/notice-of-inventory-completion-bowers-museum-santa-ana-ca
+  captured: '2025-02-08'

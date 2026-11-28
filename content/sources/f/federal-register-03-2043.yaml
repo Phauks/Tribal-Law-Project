@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 4505, published 2003-01-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208204316/https://www.federalregister.gov/documents/2003/01/29/03-2043/vacancies-for-committee-members-on-the-transportation-equity-act-for-the-21st-century-tea-21
+  captured: '2025-02-08'

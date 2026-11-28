@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 61675, published 2007-10-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207085646/https://www.federalregister.gov/documents/2007/10/31/E7-21380/notice-of-inventory-completion-the-wistar-institute-philadelphia-pa-and-puuhonua-o-honaunau-national
+  captured: '2025-02-07'

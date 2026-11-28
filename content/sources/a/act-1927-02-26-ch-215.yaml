@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-44/STATUTE-44-Pg1247
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127073819/https://www.govinfo.gov/app/details/STATUTE-44/STATUTE-44-Pg1247
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-44/STATUTE-44-Pg1247.pdf
   checksum: 1431c29707b1c91fd809313152535203a3304f5892a97ddc93d551cdd7f9da90

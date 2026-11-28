@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 17083, published 2003-04-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219102609/https://www.federalregister.gov/documents/2003/04/08/03-8504/notice-of-intent-to-repatriate-a-cultural-item-museum-of-western-colorado-grand-junction-co
+  captured: '2025-02-19'

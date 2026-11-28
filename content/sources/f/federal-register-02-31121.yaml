@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 75828, published 2002-12-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210420172949/https://www.federalregister.gov/documents/2002/12/10/02-31121/negotiated-rulemaking-no-child-left-behind-act-of-2001-public-law-107-110
+  captured: '2021-04-20'

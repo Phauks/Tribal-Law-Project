@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-61/STATUTE-61-Pg731-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127080054/https://www.govinfo.gov/app/details/STATUTE-61/STATUTE-61-Pg731-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-61/STATUTE-61-Pg731-2.pdf
   checksum: c584125b40e5f82e827b8df6524e5cd4585188959859851d30a44e302623e9ef

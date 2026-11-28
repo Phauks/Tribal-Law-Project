@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 34317, published 2008-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212080038/https://www.federalregister.gov/documents/2008/06/17/E8-13578/notice-of-inventory-completion-museum-of-anthropology-washington-state-university-pullman-wa
+  captured: '2025-02-12'

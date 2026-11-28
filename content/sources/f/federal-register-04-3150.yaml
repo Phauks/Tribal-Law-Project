@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 7250, published 2004-02-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206193035/https://www.federalregister.gov/documents/2004/02/13/04-3150/notice-of-additional-public-scoping-for-the-environmental-impact-statement-underway-for-the-proposed
+  captured: '2025-02-06'

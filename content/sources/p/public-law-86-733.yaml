@@ -18,7 +18,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-74/STATUTE-74-Pg867
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127090247/https://www.govinfo.gov/app/details/STATUTE-74/STATUTE-74-Pg867
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-74/STATUTE-74-Pg867.pdf
   checksum: ead0459ff858a9f943ee5f49d9292dc6344817d0c887b4c25e57c2463ac2fe65

@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35723, published 2025-07-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250826003125/https://www.federalregister.gov/documents/2025/07/29/2025-14280/notice-of-inventory-completion-minnesota-indian-affairs-council-saint-paul-mn
+  captured: '2025-08-26'

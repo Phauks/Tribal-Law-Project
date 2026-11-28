@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 56861, published 2009-11-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251206184121/https://www.federalregister.gov/documents/2009/11/03/E9-26373/final-determination-against-federal-acknowledgment-of-the-little-shell-tribe-of-chippewa-indians-of
+  captured: '2025-12-06'

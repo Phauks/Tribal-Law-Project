@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 45435, published 1997-08-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214101939/https://www.federalregister.gov/documents/1997/08/27/97-22800/extension-of-the-comment-period-for-tribal-shares
+  captured: '2025-02-14'

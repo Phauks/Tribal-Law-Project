@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 16958, published 2000-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210806002202/https://www.federalregister.gov/documents/2000/03/30/00-7850/notice-of-inventory-completion-for-native-american-human-remains-and-unassociated-funerary-objects
+  captured: '2021-08-06'

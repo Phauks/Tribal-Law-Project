@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 21384, published 2009-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204152210/https://www.federalregister.gov/documents/2009/05/07/E9-10545/notice-of-inventory-completion-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-04'

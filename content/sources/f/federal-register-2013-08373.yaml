@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 21403, published 2013-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204225134/https://www.federalregister.gov/documents/2013/04/10/2013-08373/notice-of-inventory-completion-san-francisco-state-university-nagpra-program-san-francisco-ca
+  captured: '2025-02-04'

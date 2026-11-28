@@ -129,3 +129,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 34713, published 2022-06-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208134947/https://www.federalregister.gov/documents/2022/06/07/2022-12111/notice-of-inventory-completion-university-of-wisconsin-oshkosh-oshkosh-wi
+  captured: '2025-02-08'

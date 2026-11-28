@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 27176, published 2015-05-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217145052/https://www.federalregister.gov/documents/2015/05/12/2015-11364/request-for-public-comment-30-day-notice-for-extension-of-fast-track-generic-clearance-for-the
+  captured: '2025-02-17'

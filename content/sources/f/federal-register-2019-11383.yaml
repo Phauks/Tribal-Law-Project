@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 25303, published 2019-05-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202031432/https://www.federalregister.gov/documents/2019/05/31/2019-11383/final-environmental-impact-statement-for-the-tule-river-tribes-proposed-fee-to-trust-and-eagle
+  captured: '2025-02-02'

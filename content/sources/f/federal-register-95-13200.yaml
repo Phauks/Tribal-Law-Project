@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 28429, published 1995-05-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210422220212/https://www.federalregister.gov/documents/1995/05/31/95-13200/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2021-04-22'

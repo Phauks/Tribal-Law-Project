@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 61701, published 2009-11-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208020326/https://www.federalregister.gov/documents/2009/11/25/E9-28230/kalispel-tribe-of-indians-tobacco-and-liquor-code
+  captured: '2025-02-08'

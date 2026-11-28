@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 46966, published 2018-09-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203092358/https://www.federalregister.gov/documents/2018/09/17/2018-20130/submission-of-information-collections-under-the-paperwork-reduction-act
+  captured: '2025-02-03'

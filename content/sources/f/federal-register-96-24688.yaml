@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 50501, published 1996-09-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202035027/https://www.federalregister.gov/documents/1996/09/26/96-24688/final-determination-against-federal-acknowledgment-of-the-golden-hill-paugussett-tribe
+  captured: '2025-02-02'

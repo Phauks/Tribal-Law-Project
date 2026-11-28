@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 41987, published 2017-09-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216085830/https://www.federalregister.gov/documents/2017/09/05/2017-18685/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-02-16'

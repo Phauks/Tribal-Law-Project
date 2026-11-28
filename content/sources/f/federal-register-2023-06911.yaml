@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 19985, published 2023-04-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611195154/https://www.federalregister.gov/documents/2023/04/04/2023-06911/notice-of-inventory-completion-minnesota-indian-affairs-council-st-paul-mn
+  captured: '2025-06-11'

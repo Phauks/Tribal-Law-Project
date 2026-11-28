@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 50118, published 2007-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203125232/https://www.federalregister.gov/documents/2007/08/30/07-4263/notice-of-inventory-completion-safety-harbor-museum-of-regional-history-safety-harbor-fl
+  captured: '2025-02-03'

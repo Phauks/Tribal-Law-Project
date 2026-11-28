@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 13623, published 2025-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250404211313/https://www.federalregister.gov/documents/2025/03/25/2025-04962/hearth-act-approval-of-mohegan-tribe-of-indians-of-connecticut-residential-leasing-ordinance
+  captured: '2025-04-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 59303, published 2007-10-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208214105/https://www.federalregister.gov/documents/2007/10/19/E7-20683/final-programmatic-environmental-impact-statement-for-the-proposed-coeur-dalene-tribal-integrated
+  captured: '2025-02-08'

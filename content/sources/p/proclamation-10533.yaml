@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2023/03/27/2023-06387/establishment-of-the-avi-kwa-ame-national-monument'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250823200438/https://www.federalregister.gov/documents/2023/03/27/2023-06387/establishment-of-the-avi-kwa-ame-national-monument
+  captured: '2025-08-23'

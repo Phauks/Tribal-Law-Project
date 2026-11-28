@@ -84,3 +84,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 92962, published 2024-11-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524185526/https://www.federalregister.gov/documents/2024/11/25/2024-27502/notice-of-inventory-completion-michigan-state-police-dimondale-mi
+  captured: '2025-05-24'

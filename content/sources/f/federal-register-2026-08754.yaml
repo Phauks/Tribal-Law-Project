@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 24292, published 2026-05-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260505054216/https://www.federalregister.gov/documents/2026/05/05/2026-08754/notice-of-inventory-completion-santa-barbara-museum-of-natural-history-santa-barbara-ca
+  captured: '2026-05-05'

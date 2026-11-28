@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 16636, published 2020-03-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20241219035328/https://www.federalregister.gov/documents/2020/03/24/2020-06140/request-for-public-comment-30-day-information-collection-application-for-participation-in-the-ihs
+  captured: '2024-12-19'

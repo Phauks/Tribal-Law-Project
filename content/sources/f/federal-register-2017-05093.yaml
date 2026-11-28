@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 13837, published 2017-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209231441/https://www.federalregister.gov/documents/2017/03/15/2017-05093/notice-of-intent-to-repatriate-cultural-items-st-joseph-museums-inc-st-joseph-mo
+  captured: '2025-02-09'

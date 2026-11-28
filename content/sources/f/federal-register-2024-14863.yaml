@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 55969, published 2024-07-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250418221150/https://www.federalregister.gov/documents/2024/07/08/2024-14863/proclaiming-certain-lands-as-reservation-for-kootenai-tribe-of-idaho
+  captured: '2025-04-18'

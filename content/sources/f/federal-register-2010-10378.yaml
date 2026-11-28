@@ -71,3 +71,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 23802, published 2010-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208174839/https://www.federalregister.gov/documents/2010/05/04/2010-10378/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-bureau-of-reclamation
+  captured: '2025-02-08'

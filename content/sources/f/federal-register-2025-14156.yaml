@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35555, published 2025-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250827192329/https://www.federalregister.gov/documents/2025/07/28/2025-14156/notice-of-intended-repatriation-university-of-north-dakota-grand-forks-nd
+  captured: '2025-08-27'

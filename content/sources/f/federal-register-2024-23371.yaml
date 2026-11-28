@@ -86,3 +86,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 81937, published 2024-10-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205000449/https://www.federalregister.gov/documents/2024/10/09/2024-23371/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-new-mexico
+  captured: '2025-02-05'

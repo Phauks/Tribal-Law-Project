@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 49899, published 2024-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260720201053/https://www.federalregister.gov/documents/2024/06/12/2024-12843/hearth-act-approval-of-tunica-biloxi-indian-tribe-business-and-renewable-energy-leasing-ordinance
+  captured: '2026-07-20'

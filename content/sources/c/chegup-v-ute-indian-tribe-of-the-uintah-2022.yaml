@@ -18,7 +18,10 @@ citation:
   number: 19-4178
 original_link: https://www.courtlistener.com/opinion/6452557/chegup-v-ute-indian-tribe-of-the-uintah/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128121935/https://www.courtlistener.com/opinion/6452557/chegup-v-ute-indian-tribe-of-the-uintah/
+  captured: '2026-11-28'
 history:
   status: live
   last_checked: '2026-11-26'

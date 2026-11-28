@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 102945, published 2024-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201092538/https://www.federalregister.gov/documents/2024/12/18/2024-29952/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-reclamation-boise-id
+  captured: '2025-02-01'

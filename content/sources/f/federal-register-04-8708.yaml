@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 20637, published 2004-04-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210426044409/https://www.federalregister.gov/documents/2004/04/16/04-8708/proposed-collection-of-information
+  captured: '2021-04-26'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 43546, published 2004-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210507170639/https://www.federalregister.gov/documents/2004/07/21/04-16657/meeting-of-the-no-child-left-behind-negotiated-rulemaking-committee
+  captured: '2021-05-07'

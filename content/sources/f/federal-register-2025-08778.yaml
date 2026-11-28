@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 21070, published 2025-05-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250612012719/https://www.federalregister.gov/documents/2025/05/16/2025-08778/notice-of-intended-disposition-us-department-of-the-interior-national-park-service-rock-creek-park
+  captured: '2025-06-12'

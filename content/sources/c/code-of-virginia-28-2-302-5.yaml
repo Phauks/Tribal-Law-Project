@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://law.lis.virginia.gov/vacode/title28.2/chapter3/section28.2-302.5/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260201215821/https://law.lis.virginia.gov/vacode/title28.2/chapter3/section28.2-302.5/
+  captured: '2026-02-01'
 history:
   status: live
   last_checked: '2026-11-27'

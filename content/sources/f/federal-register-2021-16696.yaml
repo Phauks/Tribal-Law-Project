@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 42873, published 2021-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220705220044/https://www.federalregister.gov/documents/2021/08/05/2021-16696/rate-adjustments-for-indian-irrigation-projects
+  captured: '2022-07-05'

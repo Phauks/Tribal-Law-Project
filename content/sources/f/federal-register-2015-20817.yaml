@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 51300, published 2015-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219153540/https://www.federalregister.gov/documents/2015/08/24/2015-20817/renewal-of-agency-information-collection-for-bureau-of-indian-education-collection-activities
+  captured: '2025-02-19'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 19337, published 1997-04-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250411235714/https://www.federalregister.gov/documents/1997/04/21/97-10136/indian-child-protection-and-child-abuse-prevention
+  captured: '2025-04-11'

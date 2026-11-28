@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 12608, published 2026-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260314124044/https://www.federalregister.gov/documents/2026/03/16/2026-05041/notice-of-intended-repatriation-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2026-03-14'

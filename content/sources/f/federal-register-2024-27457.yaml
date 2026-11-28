@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 92694, published 2024-11-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260331131023/https://www.federalregister.gov/documents/2024/11/22/2024-27457/notice-of-purchasedreferred-care-delivery-area-redesignation-for-the-pokagon-band-of-potawatomi
+  captured: '2026-03-31'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 72706, published 2013-12-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205235044/https://www.federalregister.gov/documents/2013/12/03/2013-28916/notice-of-inventory-completion-michigan-state-police-houghton-lake-post-houghton-lake-mi
+  captured: '2025-02-05'

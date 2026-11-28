@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 52369, published 2010-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215060442/https://www.federalregister.gov/documents/2010/08/25/2010-21188/notice-of-inventory-completion-oregon-museum-of-science-and-industry-portland-or
+  captured: '2025-02-15'

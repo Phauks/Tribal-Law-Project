@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 77007, published 2015-12-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202213616/https://www.federalregister.gov/documents/2015/12/11/2015-31320/notice-of-inventory-completion-hudson-museum-university-of-maine-orono-me
+  captured: '2025-02-02'

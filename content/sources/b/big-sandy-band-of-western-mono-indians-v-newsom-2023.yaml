@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/9586617/big-sandy-band-of-western-mono-indians-v-newsom/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127231533/https://www.courtlistener.com/opinion/9586617/big-sandy-band-of-western-mono-indians-v-newsom/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

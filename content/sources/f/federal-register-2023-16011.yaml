@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 48896, published 2023-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611174322/https://www.federalregister.gov/documents/2023/07/28/2023-16011/request-for-public-comment-30-day-information-collection-indian-health-service-medical-staff
+  captured: '2025-06-11'

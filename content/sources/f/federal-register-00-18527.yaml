@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 45558, published 2000-07-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208071234/https://www.federalregister.gov/documents/2000/07/24/00-18527/environment-public-health-and-safety
+  captured: '2025-02-08'

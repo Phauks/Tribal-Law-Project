@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2001/11/15/01-28805/national-american-indian-heritage-month-2001'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217101331/https://www.federalregister.gov/documents/2001/11/15/01-28805/national-american-indian-heritage-month-2001
+  captured: '2025-02-17'

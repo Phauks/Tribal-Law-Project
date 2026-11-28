@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 11820, published 2019-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207164242/https://www.federalregister.gov/documents/2019/03/28/2019-05993/notice-of-inventory-completion-pueblo-grande-museum-phoenix-az
+  captured: '2025-02-07'

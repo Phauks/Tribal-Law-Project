@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 17191, published 2019-04-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213062752/https://www.federalregister.gov/documents/2019/04/24/2019-08231/notice-of-intent-to-repatriate-cultural-items-university-of-georgia-laboratory-of-archaeology-athens
+  captured: '2025-02-13'

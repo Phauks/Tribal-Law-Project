@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 54348, published 2023-08-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204045121/https://www.federalregister.gov/documents/2023/08/10/2023-17133/notice-of-inventory-completion-university-of-georgia-laboratory-of-archaeology-athens-ga
+  captured: '2025-02-04'

@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 15035, published 2013-03-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204221341/https://www.federalregister.gov/documents/2013/03/08/2013-05498/extension-without-changes-of-agency-information-collection-for-indian-self-determination-and
+  captured: '2025-02-04'

@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 58136, published 2003-10-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202001323/https://www.federalregister.gov/documents/2003/10/08/03-25536/notice-of-intent-to-repatriate-cultural-items-ucla-fowler-museum-of-cultural-history-university-of
+  captured: '2025-02-02'

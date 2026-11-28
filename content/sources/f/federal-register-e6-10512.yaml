@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 38413, published 2006-07-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204142622/https://www.federalregister.gov/documents/2006/07/06/E6-10512/notice-of-inventory-completion-us-department-of-agriculture-forest-service-gila-national-forest
+  captured: '2025-02-04'

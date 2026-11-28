@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 15373, published 2004-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205084514/https://www.federalregister.gov/documents/2004/03/25/04-6650/notice-of-inventory-completion-phoebe-a-hearst-museum-of-anthropology-university-of-california
+  captured: '2025-02-05'

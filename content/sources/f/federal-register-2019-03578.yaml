@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 7110, published 2019-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216183340/https://www.federalregister.gov/documents/2019/03/01/2019-03578/notice-of-inventory-completion-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-16'

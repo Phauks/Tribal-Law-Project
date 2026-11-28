@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 15286, published 2004-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210323223846/https://www.federalregister.gov/documents/2004/03/25/04-6641/authentic-native-handicrafts
+  captured: '2021-03-23'

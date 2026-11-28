@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 6405, published 2010-02-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213075153/https://www.federalregister.gov/documents/2010/02/09/2010-2718/information-collection-for-energy-and-mineral-development-program-grants-comment-request
+  captured: '2025-02-13'

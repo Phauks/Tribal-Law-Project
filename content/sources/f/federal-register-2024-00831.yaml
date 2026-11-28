@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 3418, published 2024-01-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524184720/https://www.federalregister.gov/documents/2024/01/18/2024-00831/notice-of-inventory-completion-north-carolina-office-of-state-archaeology-raleigh-nc
+  captured: '2025-05-24'

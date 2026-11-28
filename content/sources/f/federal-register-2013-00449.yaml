@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 2434, published 2013-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204105505/https://www.federalregister.gov/documents/2013/01/11/2013-00449/notice-of-inventory-completion-natural-history-museum-of-utah-salt-lake-city-ut
+  captured: '2025-02-04'

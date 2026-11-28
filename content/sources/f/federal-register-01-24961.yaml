@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 51067, published 2001-10-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204230621/https://www.federalregister.gov/documents/2001/10/05/01-24961/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-maxwell-museum-of
+  captured: '2025-02-04'

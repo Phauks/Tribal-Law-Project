@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2024/02/12/2024-02934/national-tribal-colleges-and-universities-week-2024'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250421072720/https://www.federalregister.gov/documents/2024/02/12/2024-02934/national-tribal-colleges-and-universities-week-2024
+  captured: '2025-04-21'

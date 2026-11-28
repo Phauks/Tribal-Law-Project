@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 68478, published 2014-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812174508/https://www.federalregister.gov/documents/2014/11/17/2014-27136/notice-of-intent-to-repatriate-cultural-items-us-department-of-agriculture-forest-service-cherokee
+  captured: '2026-08-12'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 41928, published 2009-08-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217205252/https://www.federalregister.gov/documents/2009/08/19/E9-19882/environmental-impact-statement-for-the-spokane-tribes-2719b1a-application-and-for-the-proposed-west
+  captured: '2025-02-17'

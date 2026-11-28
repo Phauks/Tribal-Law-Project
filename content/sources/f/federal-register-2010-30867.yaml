@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 76483, published 2010-12-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216220404/https://www.federalregister.gov/documents/2010/12/08/2010-30867/land-acquisitions-cherokee-nation-of-oklahoma
+  captured: '2025-02-16'

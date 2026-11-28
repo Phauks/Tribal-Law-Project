@@ -117,3 +117,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 6624, published 2014-02-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218131555/https://www.federalregister.gov/documents/2014/02/04/2014-02341/notice-of-inventory-completion-university-of-colorado-museum-of-natural-history-boulder-co
+  captured: '2025-02-18'

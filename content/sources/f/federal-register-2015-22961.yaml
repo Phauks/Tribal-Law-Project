@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 55149, published 2015-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205031449/https://www.federalregister.gov/documents/2015/09/14/2015-22961/renewal-of-agency-information-collection-for-student-transportation-form
+  captured: '2025-02-05'

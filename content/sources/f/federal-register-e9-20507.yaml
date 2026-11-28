@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 43150, published 2009-08-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210507042447/https://www.federalregister.gov/documents/2009/08/26/E9-20507/renewal-of-information-collection-for-tribal-self-governance-program
+  captured: '2021-05-07'

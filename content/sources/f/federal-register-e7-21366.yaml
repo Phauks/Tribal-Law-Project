@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 61669, published 2007-10-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207012024/https://www.federalregister.gov/documents/2007/10/31/E7-21366/notice-of-intent-to-repatriate-a-cultural-item-denver-museum-of-nature-and-science-denver-co
+  captured: '2025-02-07'

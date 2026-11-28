@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 46753, published 2019-09-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218093842/https://www.federalregister.gov/documents/2019/09/05/2019-19111/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for
+  captured: '2025-02-18'

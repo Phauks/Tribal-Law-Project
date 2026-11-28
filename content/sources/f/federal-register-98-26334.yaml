@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 52745, published 1998-10-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204171443/https://www.federalregister.gov/documents/1998/10/01/98-26334/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-us-fish-and-wildlife-service
+  captured: '2025-02-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 41515, published 2011-07-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210408001139/https://www.federalregister.gov/documents/2011/07/14/2011-17801/proclaiming-certain-lands-maier-property-as-an-addition-to-the-bay-mills-indian-community-of
+  captured: '2021-04-08'

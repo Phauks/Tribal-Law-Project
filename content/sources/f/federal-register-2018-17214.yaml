@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 39776, published 2018-08-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208023110/https://www.federalregister.gov/documents/2018/08/10/2018-17214/notice-of-inventory-completion-anniston-museum-of-natural-history-anniston-al
+  captured: '2025-02-08'

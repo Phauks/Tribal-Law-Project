@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 71667, published 2022-11-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202102813/https://www.federalregister.gov/documents/2022/11/23/2022-25618/land-acquisitions-tejon-tribe-mettler-site-kern-county-california
+  captured: '2025-02-02'

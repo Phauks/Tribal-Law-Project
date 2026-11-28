@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 36563, published 2015-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210325030256/https://www.federalregister.gov/documents/2015/06/25/2015-15595/hearth-act-approval-of-ewiiaapaayp-band-of-kumeyaay-indians-regulations
+  captured: '2021-03-25'

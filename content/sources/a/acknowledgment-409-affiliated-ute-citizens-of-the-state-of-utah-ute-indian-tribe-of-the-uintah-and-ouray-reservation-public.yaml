@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/petitions-in-process/affiliated-ute-citizens-state-utah'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812203003/https://www.bia.gov/sites/default/files/media_document/cor-2025-09-26-inc-000001_public_comment_ute_indian_tribe_of_the_unitah_and_ouray_reservation_1_508compressed.pdf
+  captured: '2026-08-12'

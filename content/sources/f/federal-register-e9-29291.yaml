@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 65141, published 2009-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202195246/https://www.federalregister.gov/documents/2009/12/09/E9-29291/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-alaska-state
+  captured: '2025-02-02'

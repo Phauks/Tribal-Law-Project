@@ -18,7 +18,10 @@ citation:
       - 27
 original_link: https://delcode.delaware.gov/title14/c090c/index.html#9003C
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260414180856/https://www.delcode.delaware.gov/title14/c090c/index.html
+  captured: '2026-04-14'
 history:
   status: live
   last_checked: '2026-11-27'

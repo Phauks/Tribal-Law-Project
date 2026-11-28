@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 39855, published 1997-07-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208061704/https://www.federalregister.gov/documents/1997/07/24/97-19410/confederated-tribes-of-siletz-indians-of-oregon-alcohol-beverage-control-law
+  captured: '2025-02-08'

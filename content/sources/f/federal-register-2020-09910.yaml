@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 27435, published 2020-05-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207062334/https://www.federalregister.gov/documents/2020/05/08/2020-09910/notice-of-inventory-completion-pueblo-grande-museum-city-of-phoenix-az
+  captured: '2025-02-07'

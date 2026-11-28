@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 29228, published 2019-06-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230403195232/https://www.federalregister.gov/documents/2019/06/21/2019-13263/kickapoo-traditional-tribe-of-texas-liquor-ordinance-repeal-and-replace
+  captured: '2023-04-03'

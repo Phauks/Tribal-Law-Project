@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12336, published 2025-03-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601035151/https://www.federalregister.gov/documents/2025/03/17/2025-04173/notice-of-intended-disposition-us-department-of-defense-navy-naval-base-coronado-san-clemente-island
+  captured: '2025-06-01'

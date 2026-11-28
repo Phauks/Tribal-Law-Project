@@ -95,3 +95,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 29298, published 2016-05-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260327213618/https://www.federalregister.gov/documents/2016/05/11/2016-11086/notice-of-inventory-completion-michigan-state-police-jackson-post-jackson-mi
+  captured: '2026-03-27'

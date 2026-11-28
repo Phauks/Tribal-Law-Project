@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 39968, published 2003-07-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216171239/https://www.federalregister.gov/documents/2003/07/03/03-16806/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-us-fish-and-wildlife
+  captured: '2025-02-16'

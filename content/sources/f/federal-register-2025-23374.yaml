@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 59549, published 2025-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251219232806/https://www.federalregister.gov/documents/2025/12/19/2025-23374/notice-of-inventory-completion-university-of-michigan-ann-arbor-mi
+  captured: '2025-12-19'

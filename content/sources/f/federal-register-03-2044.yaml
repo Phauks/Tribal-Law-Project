@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 4507, published 2003-01-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250420221612/https://www.federalregister.gov/documents/2003/01/29/03-2044/proposed-finding-against-federal-acknowledgment-of-the-golden-hill-paugussett-tribe
+  captured: '2025-04-20'

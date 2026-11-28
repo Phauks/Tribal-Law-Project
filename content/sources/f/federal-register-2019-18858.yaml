@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 46035, published 2019-09-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230403182552/https://www.federalregister.gov/documents/2019/09/03/2019-18858/notice-of-inventory-completion-us-department-of-agriculture-forest-service-shoshone-national-forest
+  captured: '2023-04-03'

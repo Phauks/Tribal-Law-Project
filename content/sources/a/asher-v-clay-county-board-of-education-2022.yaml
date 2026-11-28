@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/9713714/asher-v-clay-county-board-of-education/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127210436/https://www.courtlistener.com/opinion/9713714/asher-v-clay-county-board-of-education/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 52676, published 2008-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210430193256/https://www.federalregister.gov/documents/2008/09/10/E8-21011/notice-of-intent-to-repatriate-cultural-items-field-museum-of-natural-history-chicago-il
+  captured: '2021-04-30'

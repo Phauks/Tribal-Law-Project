@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 13060, published 2026-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260715111628/https://www.federalregister.gov/documents/2026/03/18/2026-05299/notice-of-inventory-completion-tennessee-department-of-environment-and-conservation-division-of
+  captured: '2026-07-15'

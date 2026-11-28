@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 62204, published 2014-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206184458/https://www.federalregister.gov/documents/2014/10/16/2014-24520/notice-of-intent-to-repatriate-cultural-items-school-for-advanced-research-indian-arts-research
+  captured: '2025-02-06'

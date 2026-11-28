@@ -18,7 +18,10 @@ citation:
       - 27
 original_link: https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23J/Section15
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260422181035/https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23j/Section15
+  captured: '2026-04-22'
 history:
   status: live
   last_checked: '2026-11-27'

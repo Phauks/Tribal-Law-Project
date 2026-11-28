@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 77012, published 2011-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216234317/https://www.federalregister.gov/documents/2011/12/09/2011-31614/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-organ-pipe-cactus
+  captured: '2025-02-16'

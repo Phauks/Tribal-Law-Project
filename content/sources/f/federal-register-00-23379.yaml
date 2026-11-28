@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 55042, published 2000-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210418135245/https://www.federalregister.gov/documents/2000/09/12/00-23379/notice-of-inventory-completion-for-human-remains-and-associated-funerary-objects-from-fort-stevenson
+  captured: '2021-04-18'

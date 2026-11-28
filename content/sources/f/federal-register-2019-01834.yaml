@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 3135, published 2019-02-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207013946/https://www.federalregister.gov/documents/2019/02/11/2019-01834/bureau-of-indian-education-standards-assessments-and-accountability-system-negotiated-rulemaking
+  captured: '2025-02-07'

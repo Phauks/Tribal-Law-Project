@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 3419, published 2024-01-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207183613/https://www.federalregister.gov/documents/2024/01/18/2024-00832/notice-of-intent-to-repatriate-cultural-items-pioneer-museum-blue-licks-battlefield-state-resort
+  captured: '2025-02-07'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 36560, published 2015-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210327195942/https://www.federalregister.gov/documents/2015/06/25/2015-15586/hearth-act-approval-of-ak-chin-indian-community-leasing-regulations
+  captured: '2021-03-27'

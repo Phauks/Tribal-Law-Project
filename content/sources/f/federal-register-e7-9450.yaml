@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 27843, published 2007-05-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207203449/https://www.federalregister.gov/documents/2007/05/17/E7-9450/notice-of-intent-to-repatriate-a-cultural-item-us-department-of-agriculture-forest-service-cibola
+  captured: '2025-02-07'

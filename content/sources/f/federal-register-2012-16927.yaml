@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 40901, published 2012-07-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202183944/https://www.federalregister.gov/documents/2012/07/11/2012-16927/notice-of-inventory-completion-gregg-county-historical-museum-longview-tx
+  captured: '2025-02-02'

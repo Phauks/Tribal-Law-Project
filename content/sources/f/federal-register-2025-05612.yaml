@@ -92,3 +92,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 14472, published 2025-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601052936/https://www.federalregister.gov/documents/2025/04/02/2025-05612/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-06-01'

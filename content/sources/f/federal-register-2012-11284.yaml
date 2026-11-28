@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 27467, published 2012-05-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208215152/https://www.federalregister.gov/documents/2012/05/10/2012-11284/proposed-information-collection-request-for-public-comment-indian-health-service-loan-repayment
+  captured: '2025-02-08'

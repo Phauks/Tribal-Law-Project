@@ -18,7 +18,10 @@ citation:
   number: 24-5565
 original_link: https://www.courtlistener.com/opinion/10665433/confederated-tribes-of-the-colville-reservation-v-teck-cominco-metals-ltd/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128164125/https://www.courtlistener.com/opinion/10665433/confederated-tribes-of-the-colville-reservation-v-teck-cominco-metals-ltd/
+  captured: '2026-11-28'
 history:
   status: live
   last_checked: '2026-11-26'

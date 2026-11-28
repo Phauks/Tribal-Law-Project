@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 52014, published 2010-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213180017/https://www.federalregister.gov/documents/2010/08/24/2010-20938/notice-of-inventory-completion-us-department-of-agriculture-forest-service-cherokee-national-forest
+  captured: '2025-02-13'

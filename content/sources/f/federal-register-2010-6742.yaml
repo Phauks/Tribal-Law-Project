@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 14547, published 2010-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204120451/https://www.federalregister.gov/documents/2010/03/26/2010-6742/tribal-consultation-on-draft-buy-indian-act-regulations
+  captured: '2025-02-04'

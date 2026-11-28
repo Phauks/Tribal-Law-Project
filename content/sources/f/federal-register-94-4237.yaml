@@ -48,3 +48,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-02-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205002237/https://www.federalregister.gov/documents/1994/02/25/94-4237/notice-of-completion-of-inventory-of-native-american-human-remains-from-the-hawaiian-islands-in-the
+  captured: '2025-02-05'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 74419, published 2021-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250505084723/https://www.federalregister.gov/documents/2021/12/30/2021-28336/agency-information-collection-activities-tribal-self-governance-program
+  captured: '2025-05-05'

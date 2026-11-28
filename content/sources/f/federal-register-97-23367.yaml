@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 46510, published 1997-09-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212131819/https://www.federalregister.gov/documents/1997/09/03/97-23367/notice-of-inventory-completion-for-native-american-human-remains-from-fort-stevenson-dakota
+  captured: '2025-02-12'

@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 15378, published 2004-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205002056/https://www.federalregister.gov/documents/2004/03/25/04-6651/notice-of-intent-to-repatriate-cultural-items-us-department-of-defense-department-of-the-army-us
+  captured: '2025-02-05'

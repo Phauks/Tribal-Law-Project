@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 71138, published 2010-11-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210521071748/https://www.federalregister.gov/documents/2010/11/22/2010-29389/land-acquisitions-navajo-nation-arizona
+  captured: '2021-05-21'

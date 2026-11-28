@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 19009, published 2021-04-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202190705/https://www.federalregister.gov/documents/2021/04/12/2021-07407/notice-of-intent-to-repatriate-cultural-items-bixby-memorial-free-library-vergennes-vt
+  captured: '2025-02-02'

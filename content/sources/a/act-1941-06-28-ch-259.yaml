@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-55/STATUTE-55-Pg303
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127075755/https://www.govinfo.gov/app/details/STATUTE-55/STATUTE-55-Pg303
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-55/STATUTE-55-Pg303.pdf
   checksum: 22071a9fc283a5b253e9db1bcd8ab1b45ffebb017803d3e913aabbeadc36a566

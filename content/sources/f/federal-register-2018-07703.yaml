@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 16119, published 2018-04-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204220042/https://www.federalregister.gov/documents/2018/04/13/2018-07703/notice-of-intent-to-repatriate-cultural-items-us-army-corps-of-engineers-omaha-district-omaha-ne-and
+  captured: '2025-02-04'

@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.legis.iowa.gov/docs/code/232.114.pdf
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251218025040/https://www.legis.iowa.gov/docs/code//232.114.pdf
+  captured: '2025-12-18'
 history:
   status: live
   last_checked: '2026-11-27'

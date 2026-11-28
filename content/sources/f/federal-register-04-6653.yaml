@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 15899, published 2004-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208035447/https://www.federalregister.gov/documents/2004/03/26/04-6653/notice-of-inventory-completion-carnegie-museum-of-natural-history-pittsburgh-pa
+  captured: '2025-02-08'

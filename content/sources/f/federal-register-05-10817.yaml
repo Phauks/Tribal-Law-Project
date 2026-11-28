@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 31531, published 2005-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201235300/https://www.federalregister.gov/documents/2005/06/01/05-10817/notice-of-intent-to-repatriate-cultural-items-university-of-alaska-museum-of-the-north-fairbanks-ak
+  captured: '2025-02-01'

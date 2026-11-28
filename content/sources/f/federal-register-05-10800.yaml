@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 31527, published 2005-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202040005/https://www.federalregister.gov/documents/2005/06/01/05-10800/notice-of-inventory-completion-oregon-state-museum-of-anthropology-university-of-oregon-eugene-or
+  captured: '2025-02-02'

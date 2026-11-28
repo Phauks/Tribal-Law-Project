@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 11024, published 2005-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215093139/https://www.federalregister.gov/documents/2005/03/07/05-4367/grant-availability-to-federally-recognized-indian-tribes-for-projects-implementing-traffic-safety-on
+  captured: '2025-02-15'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 63723, published 1995-12-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250305042418/https://www.federalregister.gov/documents/1995/12/12/95-30244/upper-skagit-indian-tribe-liquor-control-ordinance
+  captured: '2025-03-05'

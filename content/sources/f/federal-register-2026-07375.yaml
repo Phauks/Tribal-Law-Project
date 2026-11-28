@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 20484, published 2026-04-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260416124950/https://www.federalregister.gov/documents/2026/04/16/2026-07375/notice-of-intended-repatriation-california-polytechnic-state-university-pomona-pomona-ca
+  captured: '2026-04-16'

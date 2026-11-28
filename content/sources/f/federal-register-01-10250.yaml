@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 21086, published 2001-04-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250418233657/https://www.federalregister.gov/documents/2001/04/27/01-10250/use-and-distribution-of-the-san-carlos-apache-tribe-development-trust-fund-and-san-carlos-apache
+  captured: '2025-04-18'

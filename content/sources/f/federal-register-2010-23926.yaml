@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 58429, published 2010-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206020233/https://www.federalregister.gov/documents/2010/09/24/2010-23926/notice-of-inventory-completion-northwest-museum-of-arts-and-culture-spokane-wa
+  captured: '2025-02-06'

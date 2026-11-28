@@ -103,3 +103,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 37572, published 2023-06-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203185704/https://www.federalregister.gov/documents/2023/06/08/2023-12279/notice-of-inventory-completion-detroit-institute-of-arts-detroit-mi
+  captured: '2025-02-03'

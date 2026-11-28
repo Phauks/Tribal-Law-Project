@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 18648, published 2001-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20201217232841/https://www.federalregister.gov/documents/2001/04/10/01-8749/soboba-band-of-mission-indians-liquor-control-ordinance
+  captured: '2020-12-17'

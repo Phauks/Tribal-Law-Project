@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 18384, published 2022-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208134523/https://www.federalregister.gov/documents/2022/03/30/2022-06673/hearth-act-approval-of-northfork-rancheria-of-mono-indians-of-california-business-site-leasing
+  captured: '2025-02-08'

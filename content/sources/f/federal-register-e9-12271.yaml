@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 25277, published 2009-05-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204194918/https://www.federalregister.gov/documents/2009/05/27/E9-12271/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-alaska-state
+  captured: '2025-02-04'

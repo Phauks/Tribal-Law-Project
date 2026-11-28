@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 65217, published 2004-11-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210922185110/https://www.federalregister.gov/documents/2004/11/10/04-25045/plan-for-the-use-and-distribution-of-pueblo-of-isleta-judgment-funds-in-docket-no-98-166l
+  captured: '2021-09-22'

@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 21846, published 2026-04-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260423080502/https://www.federalregister.gov/documents/2026/04/23/2026-07950/notice-of-inventory-completion-indiana-university-bloomington-in
+  captured: '2026-04-23'

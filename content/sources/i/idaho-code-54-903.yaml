@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title54/T54CH9/SECT54-903
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260218210508/https://legislature.idaho.gov/statutesrules/idstat/title54/t54ch9/sect54-903/
+  captured: '2026-02-18'
 history:
   status: live
   last_checked: '2026-11-27'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 28607, published 2023-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202075418/https://www.federalregister.gov/documents/2023/05/04/2023-09476/notice-of-intent-to-repatriate-cultural-items-us-army-corps-of-engineers-savannah-district-savannah
+  captured: '2025-02-02'

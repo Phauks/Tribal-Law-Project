@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-91/STATUTE-91-Pg1415
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260429165246/https://www.govinfo.gov/app/details/STATUTE-91/STATUTE-91-Pg1415
+  captured: '2026-04-29'
 file:
   storage_key: govinfo/STATUTE-91/STATUTE-91-Pg1415.pdf
   checksum: d15c58732cfbcd43c53b0eca42add85fc921f796d29f453627e0dad5a2cd2c76

@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-85/STATUTE-85-Pg625
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127091030/https://www.govinfo.gov/app/details/STATUTE-85/STATUTE-85-Pg625
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-85/STATUTE-85-Pg625.pdf
   checksum: 90973c2e1b69291aa44d02573c66ad848e97beaa16e336599327bf1d56f0c5a2

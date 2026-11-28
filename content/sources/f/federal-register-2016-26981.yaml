@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 78847, published 2016-11-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208080724/https://www.federalregister.gov/documents/2016/11/09/2016-26981/notice-of-inventory-completion-phoebe-a-hearst-museum-of-anthropology-at-the-university-of
+  captured: '2025-02-08'

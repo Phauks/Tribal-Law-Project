@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 19098, published 2018-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260212022603/https://www.federalregister.gov/documents/2018/05/01/2018-09174/notice-of-inventory-completion-nebraska-state-historical-society-lincoln-ne
+  captured: '2026-02-12'

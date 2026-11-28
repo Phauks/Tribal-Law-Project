@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 65354, published 2007-11-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210024420/https://www.federalregister.gov/documents/2007/11/20/E7-22669/notice-of-intent-to-repatriate-cultural-items-horner-collection-oregon-state-university-corvallis-or
+  captured: '2025-02-10'

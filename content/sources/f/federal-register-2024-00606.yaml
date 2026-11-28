@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 2642, published 2024-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524223932/https://www.federalregister.gov/documents/2024/01/16/2024-00606/notice-of-intent-to-repatriate-cultural-items-detroit-institute-of-arts-detroit-mi
+  captured: '2025-05-24'

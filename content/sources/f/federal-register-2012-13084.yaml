@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 31871, published 2012-05-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204152323/https://www.federalregister.gov/documents/2012/05/30/2012-13084/land-acquisitions-ione-band-of-miwok-indians-of-california
+  captured: '2025-02-04'

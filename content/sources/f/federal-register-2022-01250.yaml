@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 3562, published 2022-01-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215023621/https://www.federalregister.gov/documents/2022/01/24/2022-01250/request-for-public-comment-60-day-information-collection-indian-health-service-purchasedreferred
+  captured: '2025-02-15'

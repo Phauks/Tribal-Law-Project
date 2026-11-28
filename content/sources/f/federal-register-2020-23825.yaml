@@ -110,3 +110,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 68360, published 2020-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204125321/https://www.federalregister.gov/documents/2020/10/28/2020-23825/notice-of-inventory-completion-ball-state-university-department-of-anthropology-muncie-in
+  captured: '2025-02-04'

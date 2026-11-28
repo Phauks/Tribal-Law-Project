@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 4498, published 1995-01-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204042001/https://www.federalregister.gov/documents/1995/01/23/95-1586/power-rate-adjustment-mission-valley-power-utility-montana
+  captured: '2025-02-04'

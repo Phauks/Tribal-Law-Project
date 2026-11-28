@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 15722, published 2007-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208171637/https://www.federalregister.gov/documents/2007/04/02/E7-5975/notice-of-inventory-completion-museum-of-indian-arts-and-culture-laboratory-of-anthropology-museum
+  captured: '2025-02-08'

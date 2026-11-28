@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 40712, published 2001-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418114736/https://www.federalregister.gov/documents/2001/08/03/01-19529/proposed-finding-against-federal-acknowledgment-of-the-ohlonecostanoan-muwekma-tribe
+  captured: '2026-04-18'

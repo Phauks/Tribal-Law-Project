@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 68827, published 2012-11-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209023542/https://www.federalregister.gov/documents/2012/11/16/2012-27955/notice-of-intent-to-repatriate-cultural-items-the-museum-of-indian-arts-and-culture-museum-of-new
+  captured: '2025-02-09'

@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 15070, published 2023-03-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260207164514/https://www.federalregister.gov/documents/2023/03/10/2023-04897/notice-of-inventory-completion-university-of-california-san-diego-san-diego-ca
+  captured: '2026-02-07'

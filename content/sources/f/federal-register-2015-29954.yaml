@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 73811, published 2015-11-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204093336/https://www.federalregister.gov/documents/2015/11/25/2015-29954/renewal-of-agency-information-collection-for-bureau-of-indian-education-tribal-colleges-and
+  captured: '2025-02-04'

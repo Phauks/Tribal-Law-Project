@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 40595, published 2008-07-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250224105454/https://www.federalregister.gov/documents/2008/07/15/E8-16098/privacy-act-of-1974-as-amended-amendment-of-an-existing-system-of-records
+  captured: '2025-02-24'

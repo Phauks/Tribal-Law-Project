@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 54936, published 2014-09-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211081232/https://www.federalregister.gov/documents/2014/09/15/2014-21966/grants-to-tribally-controlled-colleges-and-universities-din-college-and-tribally-controlled
+  captured: '2025-02-11'

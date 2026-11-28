@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 51773, published 2025-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251203115525/https://www.federalregister.gov/documents/2025/11/18/2025-20118/notice-of-inventory-completion-san-jos-state-university-san-jos-ca
+  captured: '2025-12-03'

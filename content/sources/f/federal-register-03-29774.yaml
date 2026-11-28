@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 67208, published 2003-12-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201235450/https://www.federalregister.gov/documents/2003/12/01/03-29774/notice-of-intent-to-repatriate-cultural-items-kansas-state-historical-society-topeka-ks
+  captured: '2025-02-01'

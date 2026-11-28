@@ -111,3 +111,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 7459, published 2023-02-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250226180656/https://www.federalregister.gov/documents/2023/02/03/2023-02278/notice-of-inventory-completion-university-of-wisconsin-milwaukee-milwaukee-wi
+  captured: '2025-02-26'

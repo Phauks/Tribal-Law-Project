@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 63991, published 2008-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210418061804/https://www.federalregister.gov/documents/2008/10/28/E8-25792/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2021-04-18'

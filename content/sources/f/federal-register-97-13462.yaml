@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 28063, published 1997-05-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204093527/https://www.federalregister.gov/documents/1997/05/22/97-13462/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-04'

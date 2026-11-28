@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 18578, published 2023-03-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204192204/https://www.federalregister.gov/documents/2023/03/29/2023-06479/notice-of-inventory-completion-tennessee-valley-authority-knoxville-tn
+  captured: '2025-02-04'

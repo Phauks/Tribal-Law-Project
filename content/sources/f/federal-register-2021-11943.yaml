@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 30475, published 2021-06-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204154029/https://www.federalregister.gov/documents/2021/06/08/2021-11943/notice-of-inventory-completion-university-of-pennsylvania-museum-of-archaeology-and-anthropology
+  captured: '2025-02-04'

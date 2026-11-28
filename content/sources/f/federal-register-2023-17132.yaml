@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 54346, published 2023-08-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212120146/https://www.federalregister.gov/documents/2023/08/10/2023-17132/notice-of-inventory-completion-oberlin-college-oberlin-oh
+  captured: '2025-02-12'

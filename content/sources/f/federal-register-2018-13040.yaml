@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 28266, published 2018-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260212182731/https://www.federalregister.gov/documents/2018/06/18/2018-13040/notice-of-inventory-completion-university-of-arkansas-museum-collections-fayetteville-ar
+  captured: '2026-02-12'

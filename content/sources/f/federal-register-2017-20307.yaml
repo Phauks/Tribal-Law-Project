@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 44459, published 2017-09-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212052702/https://www.federalregister.gov/documents/2017/09/22/2017-20307/notice-of-inventory-completion-kentucky-historical-society-frankfort-ky
+  captured: '2025-02-12'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 51836, published 2015-08-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251206192807/https://www.federalregister.gov/documents/2015/08/26/2015-20888/hearth-act-approval-of-makah-indian-tribe-of-the-makah-indian-reservation-regulations
+  captured: '2025-12-06'

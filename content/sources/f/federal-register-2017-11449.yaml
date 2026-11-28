@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 25622, published 2017-06-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208201827/https://www.federalregister.gov/documents/2017/06/02/2017-11449/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-08'

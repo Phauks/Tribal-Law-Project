@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 62593, published 2023-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207020150/https://www.federalregister.gov/documents/2023/09/12/2023-19600/notice-of-intent-to-repatriate-cultural-items-michigan-state-university-east-lansing-mi
+  captured: '2025-02-07'

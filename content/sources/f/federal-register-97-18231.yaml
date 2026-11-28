@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 37280, published 1997-07-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210510070508/https://www.federalregister.gov/documents/1997/07/11/97-18231/notice-of-inventory-completion-for-native-american-human-remains-from-hawaii-in-the-possession-of
+  captured: '2021-05-10'

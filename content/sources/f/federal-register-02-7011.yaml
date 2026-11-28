@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 13650, published 2002-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218061622/https://www.federalregister.gov/documents/2002/03/25/02-7011/correction-notice-of-inventory-completion-for-native-american-human-remains-in-the-control-of-the
+  captured: '2025-02-18'

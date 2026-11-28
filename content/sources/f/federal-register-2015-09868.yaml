@@ -69,3 +69,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 23591, published 2015-04-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208081925/https://www.federalregister.gov/documents/2015/04/28/2015-09868/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-isle-royale
+  captured: '2025-02-08'

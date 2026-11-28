@@ -20,7 +20,10 @@ citation:
       - 26
 original_link: https://static.case.law/f/219/html/0670-01.html
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128155021/https://static.case.law/f/219/html/0670-01.html
+  captured: '2026-11-28'
 history:
   status: live
   last_checked: '2026-11-26'

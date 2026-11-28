@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 86367, published 2024-10-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524203314/https://www.federalregister.gov/documents/2024/10/30/2024-25196/notice-of-inventory-completion-university-of-nebraska-state-museum-lincoln-ne
+  captured: '2025-05-24'

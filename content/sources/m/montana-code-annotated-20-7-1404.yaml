@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://mca.legmt.gov/bills/mca/title_0200/chapter_0070/part_0140/section_0040/0200-0070-0140-0040.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260512184057/https://mca.legmt.gov/bills/mca/title_0200/chapter_0070/part_0140/section_0040/0200-0070-0140-0040.html
+  captured: '2026-05-12'
 history:
   status: live
   last_checked: '2026-11-27'

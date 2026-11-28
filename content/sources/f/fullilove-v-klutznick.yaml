@@ -43,6 +43,10 @@ opinions:
     page: 532
 original_link: https://www.loc.gov/item/usrep448448/
 retrieved: '2026-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230123080111/https://www.loc.gov/item/usrep448448/
+  captured: '2023-01-23'
 history:
   status: live
   last_checked: '2026-11-26'

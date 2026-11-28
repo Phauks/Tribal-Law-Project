@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 37557, published 2025-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250826075556/https://www.federalregister.gov/documents/2025/08/05/2025-14793/notice-of-intended-repatriation-minnesota-historical-society-st-paul-mn
+  captured: '2025-08-26'

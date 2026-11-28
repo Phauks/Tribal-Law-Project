@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 7800, published 2003-02-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208191436/https://www.federalregister.gov/documents/2003/02/18/03-3830/certificate-of-degree-of-indian-or-alaska-native-blood-information-collection
+  captured: '2025-02-08'

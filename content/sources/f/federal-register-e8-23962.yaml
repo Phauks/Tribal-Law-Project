@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 59654, published 2008-10-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207193907/https://www.federalregister.gov/documents/2008/10/09/E8-23962/notice-of-intent-to-repatriate-cultural-items-us-department-of-agriculture-forest-service-kootenai
+  captured: '2025-02-07'

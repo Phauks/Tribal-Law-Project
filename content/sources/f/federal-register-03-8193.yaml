@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 16549, published 2003-04-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203052811/https://www.federalregister.gov/documents/2003/04/04/03-8193/notice-of-intent-to-repatriate-a-cultural-item-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-03'

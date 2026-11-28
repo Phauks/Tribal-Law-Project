@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 34399, published 2004-06-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218130614/https://www.federalregister.gov/documents/2004/06/21/04-13928/notice-of-inventory-completion-denver-museum-of-nature-and-science-denver-co
+  captured: '2025-02-18'

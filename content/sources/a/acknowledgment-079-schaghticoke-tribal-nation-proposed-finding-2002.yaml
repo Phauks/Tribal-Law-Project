@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/schaghticoke-tribal-nation'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261126231723/https://www.bia.gov/sites/default/files/media_document/079_pf.pdf
+  captured: '2026-11-26'

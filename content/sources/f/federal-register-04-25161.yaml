@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 65447, published 2004-11-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208183749/https://www.federalregister.gov/documents/2004/11/12/04-25161/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-cowlitz-indian-tribes
+  captured: '2025-02-08'

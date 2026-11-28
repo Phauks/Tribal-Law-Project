@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 20818, published 2002-04-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210405025300/https://www.federalregister.gov/documents/2002/04/26/02-10264/electric-utility-power-rate-and-service-fee-adjustment-mission-valley-power
+  captured: '2021-04-05'

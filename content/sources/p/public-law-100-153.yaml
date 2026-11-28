@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-101/STATUTE-101-Pg886
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127085424/https://www.govinfo.gov/app/details/STATUTE-101/STATUTE-101-Pg886
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-101/STATUTE-101-Pg886.pdf
   checksum: da66a4a8dd917a771eddc4480139849efc8309fcae7bffce881ed3afcc8a0a05

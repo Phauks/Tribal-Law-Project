@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 36342, published 2022-06-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230331084811/https://www.federalregister.gov/documents/2022/06/16/2022-13023/agency-information-collection-activities-payment-for-appointed-counsel-in-involuntary-indian-child
+  captured: '2023-03-31'

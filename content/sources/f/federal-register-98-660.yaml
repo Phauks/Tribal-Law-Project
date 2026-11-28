@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 1872, published 1998-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250222100803/https://www.federalregister.gov/documents/1998/01/12/98-660/notice-of-intent-to-repatriate-a-cultural-item-from-south-carolina-in-the-possession-of-the-museum
+  captured: '2025-02-22'

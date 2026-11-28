@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 51141, published 1999-09-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206185941/https://www.federalregister.gov/documents/1999/09/21/99-24475/notice-of-inventory-completion-for-native-american-human-remains-and-an-associated-funerary-object
+  captured: '2025-02-06'

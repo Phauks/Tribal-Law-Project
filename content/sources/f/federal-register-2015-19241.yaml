@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 46596, published 2015-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204044719/https://www.federalregister.gov/documents/2015/08/05/2015-19241/notice-of-inventory-completion-oregon-state-university-department-of-anthropology-corvallis-or
+  captured: '2025-02-04'

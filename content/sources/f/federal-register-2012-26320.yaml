@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 65407, published 2012-10-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260811152947/https://www.federalregister.gov/documents/2012/10/26/2012-26320/native-american-graves-protection-and-repatriation-review-committee-notice-of-nomination
+  captured: '2026-08-11'

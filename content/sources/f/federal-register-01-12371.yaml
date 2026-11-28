@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 27155, published 2001-05-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219110205/https://www.federalregister.gov/documents/2001/05/16/01-12371/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-weber-dam-repair-and
+  captured: '2025-02-19'

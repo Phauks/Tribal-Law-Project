@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 406, published 2024-01-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524184353/https://www.federalregister.gov/documents/2024/01/03/2023-28929/notice-of-inventory-completion-us-army-corps-of-engineers-nashville-district-nashville-tn-and
+  captured: '2025-05-24'

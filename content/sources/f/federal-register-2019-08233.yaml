@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 17196, published 2019-04-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214041419/https://www.federalregister.gov/documents/2019/04/24/2019-08233/notice-of-inventory-completion-phoebe-a-hearst-museum-of-anthropology-university-of-california
+  captured: '2025-02-14'

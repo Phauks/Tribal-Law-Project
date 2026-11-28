@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 71763, published 2016-10-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203001632/https://www.federalregister.gov/documents/2016/10/18/2016-25127/notice-of-intent-to-repatriate-cultural-items-stearns-history-museum-saint-cloud-mn
+  captured: '2025-02-03'

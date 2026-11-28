@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 65101, published 2022-10-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414102215/https://www.federalregister.gov/documents/2022/10/27/2022-23401/notice-of-inventory-completion-arkansas-archeological-survey-fayetteville-ar
+  captured: '2025-04-14'

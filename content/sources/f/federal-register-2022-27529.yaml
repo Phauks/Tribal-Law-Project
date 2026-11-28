@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 77881, published 2022-12-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204033954/https://www.federalregister.gov/documents/2022/12/20/2022-27529/notice-of-inventory-completion-oberlin-college-oberlin-oh
+  captured: '2025-02-04'

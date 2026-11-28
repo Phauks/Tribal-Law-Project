@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 38415, published 2006-07-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250404001055/https://www.federalregister.gov/documents/2006/07/06/E6-10524/notice-of-intent-to-repatriate-cultural-items-american-museum-of-natural-history-new-york-ny
+  captured: '2025-04-04'

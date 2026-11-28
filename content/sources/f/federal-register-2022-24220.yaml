@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 67061, published 2022-11-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211142122/https://www.federalregister.gov/documents/2022/11/07/2022-24220/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-colonial-national
+  captured: '2025-02-11'

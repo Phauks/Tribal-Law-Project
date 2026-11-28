@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 14460, published 2010-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202210804/https://www.federalregister.gov/documents/2010/03/25/2010-6563/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-national-park-service
+  captured: '2025-02-02'

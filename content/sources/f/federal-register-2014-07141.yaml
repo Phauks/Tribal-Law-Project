@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 18060, published 2014-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208142321/https://www.federalregister.gov/documents/2014/03/31/2014-07141/notice-of-inventory-completion-ball-state-university-department-of-anthropology-muncie-in
+  captured: '2025-02-08'

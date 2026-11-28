@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 37592, published 1997-07-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210514225632/https://www.federalregister.gov/documents/1997/07/14/97-18431/notice-of-intent-to-repatriate-a-cultural-item-from-new-mexico-in-the-possession-of-the-laboratory
+  captured: '2021-05-14'

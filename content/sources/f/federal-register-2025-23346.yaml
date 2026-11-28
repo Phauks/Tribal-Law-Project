@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 59555, published 2025-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251221225850/https://www.federalregister.gov/documents/2025/12/19/2025-23346/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-12-21'

@@ -48,3 +48,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/lower-muscogee-creek-tribe-east-mississippi; it gives no year'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261126222718/https://www.bia.gov/sites/default/files/media_document/008_pf.pdf
+  captured: '2026-11-26'

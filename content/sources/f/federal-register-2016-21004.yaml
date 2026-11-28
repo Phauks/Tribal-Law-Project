@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 60381, published 2016-09-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204103051/https://www.federalregister.gov/documents/2016/09/01/2016-21004/notice-of-inventory-completion-tennessee-valley-authority-knoxville-tn
+  captured: '2025-02-04'

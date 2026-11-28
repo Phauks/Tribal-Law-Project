@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 46012, published 2021-08-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207022357/https://www.federalregister.gov/documents/2021/08/17/2021-17562/notice-of-inventory-completion-baylor-universitys-mayborn-museum-complex-formerly-baylor-universitys
+  captured: '2025-02-07'

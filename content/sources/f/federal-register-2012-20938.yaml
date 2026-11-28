@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 52057, published 2012-08-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212080936/https://www.federalregister.gov/documents/2012/08/28/2012-20938/notice-of-inventory-completion-brigham-young-university-museum-of-peoples-and-cultures-provo-ut
+  captured: '2025-02-12'

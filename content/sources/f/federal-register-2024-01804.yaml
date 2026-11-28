@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 5931, published 2024-01-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524210337/https://www.federalregister.gov/documents/2024/01/30/2024-01804/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-fort-vancouver
+  captured: '2025-05-24'

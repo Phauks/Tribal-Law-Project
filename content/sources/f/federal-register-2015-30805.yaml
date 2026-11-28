@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 76033, published 2015-12-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202225517/https://www.federalregister.gov/documents/2015/12/07/2015-30805/notice-of-intent-to-prepare-a-programmatic-environmental-impact-statement-for-the-proposed
+  captured: '2025-02-02'

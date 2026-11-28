@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 50674, published 2001-10-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218103043/https://www.federalregister.gov/documents/2001/10/04/01-24932/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-18'

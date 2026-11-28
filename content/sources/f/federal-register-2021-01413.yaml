@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 7646, published 2021-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203071822/https://www.federalregister.gov/documents/2021/02/01/2021-01413/annual-adjustment-of-civil-monetary-penalty-to-reflect-inflation
+  captured: '2025-02-03'

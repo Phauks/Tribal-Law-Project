@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 9801, published 1997-03-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250226191721/https://www.federalregister.gov/documents/1997/03/04/97-5213/notice-of-inventory-completion-for-native-american-human-remains-from-kitsap-county-wa-in-the
+  captured: '2025-02-26'

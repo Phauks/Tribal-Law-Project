@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 57112, published 2012-09-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812152215/https://www.federalregister.gov/documents/2012/09/17/2012-22747/notice-of-inventory-completion-us-department-of-defense-army-fort-sill-museum-lawton-ok
+  captured: '2026-08-12'

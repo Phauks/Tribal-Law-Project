@@ -45,3 +45,7 @@ review:
   - check: listing
     result: missing
     detail: Only the National Archives Catalog's description was read
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127105919/https://catalog.archives.gov/id/101899
+  captured: '2026-11-27'

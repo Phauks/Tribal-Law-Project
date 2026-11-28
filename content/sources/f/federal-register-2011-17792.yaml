@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 41813, published 2011-07-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203225522/https://www.federalregister.gov/documents/2011/07/15/2011-17792/renewal-of-agency-information-collection-for-higher-education-grant-program-application-request-for
+  captured: '2025-02-03'

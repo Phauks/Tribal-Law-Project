@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 16901, published 2008-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210521061915/https://www.federalregister.gov/documents/2008/03/31/E8-6571/notice-of-intent-to-repatriate-cultural-items-amerind-foundation-museum-amerind-foundation-inc
+  captured: '2021-05-21'

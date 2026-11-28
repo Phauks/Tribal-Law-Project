@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 49009, published 2009-09-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208052842/https://www.federalregister.gov/documents/2009/09/25/E9-23342/final-environmental-impact-statement-for-the-mandan-hidatsa-arikara-mha-nations-proposed-clean-fuels
+  captured: '2025-02-08'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 68190, published 2024-08-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250526132024/https://www.federalregister.gov/documents/2024/08/23/2024-18964/notice-of-intended-repatriation-oberlin-college-oberlin-oh
+  captured: '2025-05-26'

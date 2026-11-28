@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 47229, published 2008-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202114344/https://www.federalregister.gov/documents/2008/08/13/E8-18688/notice-of-inventory-completion-hastings-museum-of-natural-and-cultural-history-hastings-ne
+  captured: '2025-02-02'

@@ -19,7 +19,10 @@ citation:
       - 26
 original_link: https://static.case.law/va/1/html/0495-01.html
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260607000941/https://static.case.law/va/1/html/0495-01.html
+  captured: '2026-06-07'
 history:
   status: live
   last_checked: '2026-11-26'

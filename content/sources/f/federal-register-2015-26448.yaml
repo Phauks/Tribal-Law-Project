@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 63253, published 2015-10-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208164726/https://www.federalregister.gov/documents/2015/10/19/2015-26448/proposed-renewal-of-information-collection-omb-control-number-1035-0003-application-to-withdraw
+  captured: '2025-02-08'

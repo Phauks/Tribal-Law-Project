@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 68908, published 2014-11-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250430210721/https://www.federalregister.gov/documents/2014/11/19/2014-27375/revision-of-agency-information-collection-for-indian-child-welfare-quarterly-and-annual-report
+  captured: '2025-04-30'

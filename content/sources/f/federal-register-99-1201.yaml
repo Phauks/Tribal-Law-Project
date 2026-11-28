@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 3136, published 1999-01-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260720094435/https://www.federalregister.gov/documents/1999/01/20/99-1201/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-repository-for-archaeological
+  captured: '2026-07-20'

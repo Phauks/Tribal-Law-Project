@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 49190, published 2024-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202172749/https://www.federalregister.gov/documents/2024/06/11/2024-12718/notice-of-intended-repatriation-department-of-the-interior-national-park-service-pipe-spring
+  captured: '2025-02-02'

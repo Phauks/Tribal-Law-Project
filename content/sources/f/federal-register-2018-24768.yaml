@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 56871, published 2018-11-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260416094028/https://www.federalregister.gov/documents/2018/11/14/2018-24768/notice-of-intent-to-repatriate-cultural-items-minnesota-historical-society-st-paul-mn
+  captured: '2026-04-16'

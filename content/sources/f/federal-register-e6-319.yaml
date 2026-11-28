@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 2268, published 2006-01-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209004540/https://www.federalregister.gov/documents/2006/01/13/E6-319/certificate-of-degree-of-indian-or-alaska-native-blood-information-collection
+  captured: '2025-02-09'

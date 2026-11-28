@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 51462, published 1996-10-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208174915/https://www.federalregister.gov/documents/1996/10/02/96-25165/notice-of-inventory-completion-for-native-american-human-remains-from-hawaii-in-the-possession-of
+  captured: '2025-02-08'

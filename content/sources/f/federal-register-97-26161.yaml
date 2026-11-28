@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 51680, published 1997-10-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218215805/https://www.federalregister.gov/documents/1997/10/02/97-26161/operation-and-maintenance-rate-adjustment-fort-belknap-irrigation-project-montana
+  captured: '2025-02-18'

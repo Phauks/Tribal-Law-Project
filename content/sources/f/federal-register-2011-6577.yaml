@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 15334, published 2011-03-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210422034834/https://www.federalregister.gov/documents/2011/03/21/2011-6577/information-collection-for-ideia-part-b-and-c-child-count-comment-request
+  captured: '2021-04-22'

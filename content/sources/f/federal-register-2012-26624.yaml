@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 65712, published 2012-10-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211014118/https://www.federalregister.gov/documents/2012/10/30/2012-26624/osage-negotiated-rulemaking-committee
+  captured: '2025-02-11'

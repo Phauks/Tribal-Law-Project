@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 15389, published 2012-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205055046/https://www.federalregister.gov/documents/2012/03/15/2012-6320/notice-of-inventory-completion-california-department-of-parks-and-recreation-sacramento-ca
+  captured: '2025-02-05'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 51370, published 2021-09-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204001142/https://www.federalregister.gov/documents/2021/09/15/2021-19838/table-mountain-rancheria-liquor-control-ordinance
+  captured: '2025-02-04'

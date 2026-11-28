@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-32/STATUTE-32-Pg284
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127072158/https://www.govinfo.gov/app/details/STATUTE-32/STATUTE-32-Pg284
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-32/STATUTE-32-Pg284.pdf
   checksum: d714b9dfccd0d143239c7e3d80fd3454e6a34ad2d8873542e09a2bea34341345

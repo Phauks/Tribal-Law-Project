@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-110/STATUTE-110-Pg4016
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260806170933/https://www.govinfo.gov/app/details/STATUTE-110/STATUTE-110-Pg4016
+  captured: '2026-08-06'
 file:
   storage_key: govinfo/STATUTE-110/STATUTE-110-Pg4016.pdf
   checksum: b2f890010f30b4d5ae094317a988a0d4173e6650274309eecc345aff7c6d71e8

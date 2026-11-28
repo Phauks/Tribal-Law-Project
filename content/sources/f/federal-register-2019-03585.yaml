@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 7121, published 2019-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202115642/https://www.federalregister.gov/documents/2019/03/01/2019-03585/notice-of-inventory-completion-tennessee-valley-authority-knoxville-tn-correction
+  captured: '2025-02-02'

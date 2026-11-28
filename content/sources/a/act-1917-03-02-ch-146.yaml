@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-39/STATUTE-39-Pg969
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127072959/https://www.govinfo.gov/app/details/STATUTE-39/STATUTE-39-Pg969
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-39/STATUTE-39-Pg969.pdf
   checksum: 1cd1a29f77a1b60ddbd79cfa837d09dbfdde5c55f5c622973866874882e19558

@@ -33,6 +33,10 @@ original_link: https://www.supremecourt.gov/opinions/boundvolumes/577bv.pdf
 shares_link_with:
 - menominee-indian-tribe-of-wisconsin-v-united-states
 retrieved: '2026-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260709025738/https://www.supremecourt.gov/opinions/boundvolumes/577BV.pdf
+  captured: '2026-07-09'
 history:
   status: live
   last_checked: '2026-11-26'

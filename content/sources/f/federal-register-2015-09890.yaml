@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 23574, published 2015-04-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210407134449/https://www.federalregister.gov/documents/2015/04/28/2015-09890/notice-of-inventory-completion-state-historical-society-of-iowa-iowa-city-ia
+  captured: '2021-04-07'

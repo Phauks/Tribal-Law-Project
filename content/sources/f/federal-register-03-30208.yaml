@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 67941, published 2003-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205031106/https://www.federalregister.gov/documents/2003/12/05/03-30208/partial-distribution-of-fiscal-year-2004-indian-reservation-roads-funds
+  captured: '2025-02-05'

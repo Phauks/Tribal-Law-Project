@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 39452, published 2023-06-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208093904/https://www.federalregister.gov/documents/2023/06/16/2023-12856/notice-of-inventory-completion-university-of-illinois-urbana-champaign-champaign-il
+  captured: '2025-02-08'

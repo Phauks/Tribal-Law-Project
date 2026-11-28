@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 87797, published 2023-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250404092043/https://www.federalregister.gov/documents/2023/12/19/2023-27800/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-04-04'

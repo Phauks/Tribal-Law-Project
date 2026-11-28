@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 17479, published 2015-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202071900/https://www.federalregister.gov/documents/2015/04/01/2015-07396/notice-of-intent-to-repatriate-cultural-items-logan-museum-of-anthropology-beloit-college-beloit-wi
+  captured: '2025-02-02'

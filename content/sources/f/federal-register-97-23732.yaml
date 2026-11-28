@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 47514, published 1997-09-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210132539/https://www.federalregister.gov/documents/1997/09/09/97-23732/chitimacha-tribe-of-louisiana-liquor-ordinance
+  captured: '2025-02-10'

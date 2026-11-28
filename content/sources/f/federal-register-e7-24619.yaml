@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 71952, published 2007-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214132320/https://www.federalregister.gov/documents/2007/12/19/E7-24619/notice-of-inventory-completion-the-university-museum-university-of-arkansas-fayetteville-ar
+  captured: '2025-02-14'

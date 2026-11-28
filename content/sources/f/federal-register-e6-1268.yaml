@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 5365, published 2006-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215233154/https://www.federalregister.gov/documents/2006/02/01/E6-1268/notice-of-inventory-completion-fort-collins-museum-fort-collins-co
+  captured: '2025-02-15'

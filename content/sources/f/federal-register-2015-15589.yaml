@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 36568, published 2015-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251207021356/https://www.federalregister.gov/documents/2015/06/25/2015-15589/hearth-act-approval-of-absentee-shawnee-tribe-of-oklahoma-regulations
+  captured: '2025-12-07'

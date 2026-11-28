@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 78459, published 2006-12-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214083158/https://www.federalregister.gov/documents/2006/12/29/E6-22343/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-02-14'

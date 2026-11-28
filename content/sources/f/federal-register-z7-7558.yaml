@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 24678, published 2007-05-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203164905/https://www.federalregister.gov/documents/2007/05/03/Z7-7558/rate-adjustments-for-indian-irrigation-projects
+  captured: '2025-02-03'

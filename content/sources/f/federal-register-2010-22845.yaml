@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 55824, published 2010-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206131645/https://www.federalregister.gov/documents/2010/09/14/2010-22845/land-acquisitions-nisqually-indian-tribe
+  captured: '2025-02-06'

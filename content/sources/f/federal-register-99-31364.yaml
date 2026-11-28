@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 67932, published 1999-12-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209020500/https://www.federalregister.gov/documents/1999/12/03/99-31364/notice-of-inventory-completion-for-native-american-human-remains-in-the-possession-of-the-carnegie
+  captured: '2025-02-09'

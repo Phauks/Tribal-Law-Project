@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 10714, published 2020-02-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204082346/https://www.federalregister.gov/documents/2020/02/25/2020-03734/court-of-indian-offenses-serving-the-kewa-pueblo-previously-listed-as-the-pueblo-of-santo-domingo
+  captured: '2025-02-04'

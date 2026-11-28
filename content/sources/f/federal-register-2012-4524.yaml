@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 11572, published 2012-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810205915/https://www.federalregister.gov/documents/2012/02/27/2012-4524/notice-of-inventory-completion-bishop-museum-honolulu-hi
+  captured: '2026-08-10'

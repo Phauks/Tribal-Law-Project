@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 24198, published 2022-04-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250503152529/https://www.federalregister.gov/documents/2022/04/22/2022-08602/notice-of-inventory-completion-maryland-center-for-history-and-culture-formerly-maryland-historical
+  captured: '2025-05-03'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 24383, published 2017-05-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215101634/https://www.federalregister.gov/documents/2017/05/26/2017-10828/renewal-of-agency-information-collection-for-application-for-job-placement-and-training-services
+  captured: '2025-02-15'

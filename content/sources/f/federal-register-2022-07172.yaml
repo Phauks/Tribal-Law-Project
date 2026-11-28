@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 19700, published 2022-04-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204000830/https://www.federalregister.gov/documents/2022/04/05/2022-07172/notice-of-intent-to-repatriate-cultural-items-nebraska-state-historical-society-dba-history-nebraska
+  captured: '2025-02-04'

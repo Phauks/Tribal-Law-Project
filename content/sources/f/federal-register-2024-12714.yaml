@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 49185, published 2024-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202170258/https://www.federalregister.gov/documents/2024/06/11/2024-12714/notice-of-inventory-completion-los-rios-community-college-district-sacramento-ca
+  captured: '2025-02-02'

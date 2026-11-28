@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-40/STATUTE-40-Pg606
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127073010/https://www.govinfo.gov/app/details/STATUTE-40/STATUTE-40-Pg606
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-40/STATUTE-40-Pg606.pdf
   checksum: 3e6a135e66d1889da5289cf5e95329cd0fb8c5cef4466326e9ae4969b516e189

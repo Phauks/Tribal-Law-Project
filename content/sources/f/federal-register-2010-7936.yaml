@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 17953, published 2010-04-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208065553/https://www.federalregister.gov/documents/2010/04/08/2010-7936/native-american-graves-protection-and-repatriation-review-committee-findings-related-to-the-identity
+  captured: '2025-02-08'

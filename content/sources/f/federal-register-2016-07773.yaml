@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 19624, published 2016-04-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203035736/https://www.federalregister.gov/documents/2016/04/05/2016-07773/notice-of-intent-to-repatriate-cultural-items-illinois-historic-preservation-agency-springfield-il
+  captured: '2025-02-03'

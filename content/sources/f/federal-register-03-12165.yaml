@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 26329, published 2003-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212091415/https://www.federalregister.gov/documents/2003/05/15/03-12165/notice-of-distribution-of-second-partial-settlement-ramah-navajo-chapter-v-gale-norton
+  captured: '2025-02-12'

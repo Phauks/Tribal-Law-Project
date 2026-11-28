@@ -82,3 +82,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 41989, published 2016-06-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260328010720/https://www.federalregister.gov/documents/2016/06/28/2016-15244/notice-of-inventory-completion-history-colorado-formerly-colorado-historical-society-denver-co
+  captured: '2026-03-28'

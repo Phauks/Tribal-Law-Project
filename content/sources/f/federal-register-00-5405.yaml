@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 12026, published 2000-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250406160741/https://www.federalregister.gov/documents/2000/03/07/00-5405/request-for-projects-using-the-183-million-fiscal-year-2000-indian-reservation-roads-funds
+  captured: '2025-04-06'

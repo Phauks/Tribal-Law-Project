@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 17208, published 2009-04-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217044235/https://www.federalregister.gov/documents/2009/04/14/E9-8449/nottawaseppi-huron-band-of-the-potawatomi-indian-liquor-ordinance
+  captured: '2025-02-17'

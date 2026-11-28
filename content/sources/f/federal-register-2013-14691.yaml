@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 37568, published 2013-06-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202230843/https://www.federalregister.gov/documents/2013/06/21/2013-14691/draft-environmental-impact-statement-for-proposed-strategies-to-benefit-native-species-by-reducing
+  captured: '2025-02-02'

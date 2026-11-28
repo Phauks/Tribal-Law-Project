@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 21581, published 2012-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205071847/https://www.federalregister.gov/documents/2012/04/10/2012-8571/kootenai-tribe-of-idaho-chapter-11-alcohol-control-act
+  captured: '2025-02-05'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 36568, published 1995-07-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204000944/https://www.federalregister.gov/documents/1995/07/17/95-17427/narragansett-indian-tribe-liquor-ordinance
+  captured: '2025-02-04'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 71947, published 2007-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210505113602/https://www.federalregister.gov/documents/2007/12/19/E7-24614/notice-of-inventory-completion-field-museum-of-natural-history-chicago-il
+  captured: '2021-05-05'

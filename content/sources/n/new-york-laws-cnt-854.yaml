@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.nysenate.gov/legislation/laws/CNT/854
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260118024954/https://www.nysenate.gov/legislation/laws/CNT/854
+  captured: '2026-01-18'
 history:
   status: live
   last_checked: '2026-11-27'

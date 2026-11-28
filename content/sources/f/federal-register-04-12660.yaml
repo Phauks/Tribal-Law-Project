@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 31840, published 2004-06-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202140345/https://www.federalregister.gov/documents/2004/06/07/04-12660/notice-of-inventory-completion-denver-museum-of-nature-andscience-denver-co
+  captured: '2025-02-02'

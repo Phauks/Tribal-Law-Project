@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 20351, published 2022-04-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260407011454/https://www.federalregister.gov/documents/2022/04/07/2022-06617/self-regulation-of-class-ii-gaming
+  captured: '2026-04-07'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 24853, published 2024-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260712055530/https://www.federalregister.gov/documents/2024/04/09/2024-07509/hearth-act-approval-of-ione-band-of-miwok-indians-of-california-business-leasing-ordinance
+  captured: '2026-07-12'

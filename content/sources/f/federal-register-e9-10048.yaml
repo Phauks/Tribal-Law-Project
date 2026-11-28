@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 20485, published 2009-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207024017/https://www.federalregister.gov/documents/2009/05/04/E9-10048/request-for-public-comment-30-day-proposed-information-collection-indian-health-service-directors
+  captured: '2025-02-07'

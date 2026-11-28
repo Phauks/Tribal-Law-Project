@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 38734, published 2016-06-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250421093831/https://www.federalregister.gov/documents/2016/06/14/2016-14014/notice-of-inventory-completion-office-of-the-state-archaeologist-university-of-iowa-iowa-city-ia
+  captured: '2025-04-21'

@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.cga.ct.gov/current/pub/chap_420h.htm#sec_21a-422j
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260902064333/https://www.cga.ct.gov/current/pub/chap_420h.htm
+  captured: '2026-09-02'
 history:
   status: live
   last_checked: '2026-11-27'

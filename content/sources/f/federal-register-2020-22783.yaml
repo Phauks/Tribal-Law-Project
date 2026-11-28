@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 65869, published 2020-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206184908/https://www.federalregister.gov/documents/2020/10/16/2020-22783/osage-county-oil-and-gas-final-environmental-impact-statement-osage-county-oklahoma
+  captured: '2025-02-06'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 12615, published 2026-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260315111627/https://www.federalregister.gov/documents/2026/03/16/2026-05039/notice-of-inventory-completion-gilcrease-museum-tulsa-ok
+  captured: '2026-03-15'

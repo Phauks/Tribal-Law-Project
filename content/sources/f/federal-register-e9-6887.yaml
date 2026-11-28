@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 13454, published 2009-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208021812/https://www.federalregister.gov/documents/2009/03/27/E9-6887/proclaiming-certain-lands-shalit-family-property-as-an-addition-to-the-pueblo-of-laguna-reservation
+  captured: '2025-02-08'

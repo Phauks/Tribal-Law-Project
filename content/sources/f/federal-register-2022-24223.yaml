@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 67061, published 2022-11-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414093836/https://www.federalregister.gov/documents/2022/11/07/2022-24223/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-04-14'

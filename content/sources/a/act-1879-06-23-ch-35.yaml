@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-21/STATUTE-21-Pg30
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127071126/https://www.govinfo.gov/app/details/STATUTE-21/STATUTE-21-Pg30
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-21/STATUTE-21-Pg30.pdf
   checksum: bbcf604609ab13a78650d12c3f47d767bade8d5ef1cbc223dfd3a0d58e4480cd

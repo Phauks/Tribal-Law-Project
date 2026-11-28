@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 15073, published 2023-03-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260209104344/https://www.federalregister.gov/documents/2023/03/10/2023-04900/notice-of-inventory-completion-pittsburg-state-university-pittsburg-ks
+  captured: '2026-02-09'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 38419, published 2006-07-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204152215/https://www.federalregister.gov/documents/2006/07/06/E6-10522/notice-of-intent-to-repatriate-cultural-items-institute-for-american-indian-studies-washington-ct
+  captured: '2025-02-04'

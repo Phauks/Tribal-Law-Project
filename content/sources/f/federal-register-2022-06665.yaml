@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 18395, published 2022-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208211330/https://www.federalregister.gov/documents/2022/03/30/2022-06665/notice-of-inventory-completion-brooklyn-childrens-museum-brooklyn-ny
+  captured: '2025-02-08'

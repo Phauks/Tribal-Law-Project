@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 36111, published 2010-06-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206132705/https://www.federalregister.gov/documents/2010/06/24/2010-15335/notice-of-inventory-completion-cranbrook-institute-of-science-bloomfield-hills-mi
+  captured: '2025-02-06'

@@ -79,3 +79,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 34131, published 2013-06-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260713153809/https://www.federalregister.gov/documents/2013/06/06/2013-13461/notice-of-intent-to-repatriate-cultural-items-us-department-of-agriculture-forest-service-san-juan
+  captured: '2026-07-13'

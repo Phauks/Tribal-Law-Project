@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 62199, published 2014-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260811145713/https://www.federalregister.gov/documents/2014/10/16/2014-24514/notice-of-inventory-completion-us-department-of-agriculture-forest-service-medicine-bow-routt
+  captured: '2026-08-11'

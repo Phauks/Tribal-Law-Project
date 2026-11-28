@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 45911, published 2023-07-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206185416/https://www.federalregister.gov/documents/2023/07/18/2023-15102/notice-of-inventory-completion-university-of-northern-colorado-greeley-co
+  captured: '2025-02-06'

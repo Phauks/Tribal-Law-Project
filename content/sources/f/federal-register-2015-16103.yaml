@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 37654, published 2015-07-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202075756/https://www.federalregister.gov/documents/2015/07/01/2015-16103/native-american-graves-protection-and-repatriation-review-committee-notice-of-nomination
+  captured: '2025-02-02'

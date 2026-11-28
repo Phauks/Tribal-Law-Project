@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 79504, published 2008-12-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251206200644/https://www.federalregister.gov/documents/2008/12/29/E8-30899/notice-of-inventory-completion-muskegon-county-museum-muskegon-mi
+  captured: '2025-12-06'

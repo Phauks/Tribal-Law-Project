@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 9574, published 1995-02-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213015758/https://www.federalregister.gov/documents/1995/02/17/95-4056/blackfeet-irrigation-project-oandm-rate-increase-montana
+  captured: '2025-02-13'

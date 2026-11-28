@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 77899, published 2010-12-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208174141/https://www.federalregister.gov/documents/2010/12/14/2010-31284/notice-of-inventory-completion-minnesota-indian-affairs-council-st-paul-and-bemidji-mn
+  captured: '2025-02-08'

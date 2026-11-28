@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title72/T72CH13/SECT72-1349C
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260423033720/https://legislature.idaho.gov/statutesrules/idstat/Title72/T72CH13/SECT72-1349C/
+  captured: '2026-04-23'
 history:
   status: live
   last_checked: '2026-11-27'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: R46490, version 2'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260102171742/https://www.congress.gov/crs-product/R46490
+  captured: '2026-01-02'

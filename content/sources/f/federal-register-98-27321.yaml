@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 54729, published 1998-10-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217195139/https://www.federalregister.gov/documents/1998/10/13/98-27321/notice-of-intent-to-repatriate-cultural-items-from-the-pecos-valley-nm-in-the-possession-of-the
+  captured: '2025-02-17'

@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 45402, published 2000-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210501221841/https://www.federalregister.gov/documents/2000/07/21/00-18466/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2021-05-01'

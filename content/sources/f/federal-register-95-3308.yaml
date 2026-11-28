@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 8132, published 1995-02-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215221419/https://www.federalregister.gov/documents/1995/02/10/95-3308/costanoan-rumsen-carmel-tribe-receipt-of-petition-for-federal-acknowledgment-of-existence-as-an
+  captured: '2025-02-15'

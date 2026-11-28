@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PRC&sectionNum=5097.98.
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260705031335/https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PRC&sectionNum=5097.98.
+  captured: '2026-07-05'
 history:
   status: live
   last_checked: '2026-11-27'

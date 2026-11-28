@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 36566, published 2015-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204230432/https://www.federalregister.gov/documents/2015/06/25/2015-15562/hearth-act-approval-of-wichita-and-affiliated-tribes-regulations
+  captured: '2025-02-04'

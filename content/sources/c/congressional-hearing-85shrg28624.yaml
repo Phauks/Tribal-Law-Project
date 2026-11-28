@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CHRG-85shrg28624'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260729114740/https://www.govinfo.gov/app/details/CHRG-85shrg28624/
+  captured: '2026-07-29'

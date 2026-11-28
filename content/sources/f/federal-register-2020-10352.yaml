@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 28973, published 2020-05-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202194742/https://www.federalregister.gov/documents/2020/05/14/2020-10352/suspension-of-preparation-of-environmental-impact-statement-for-the-proposed-redding-rancheria
+  captured: '2025-02-02'

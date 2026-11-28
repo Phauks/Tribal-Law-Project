@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 25626, published 2025-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250622165632/https://www.federalregister.gov/documents/2025/06/17/2025-11137/notice-of-intended-repatriation-fine-arts-museums-of-san-francisco-san-francisco-ca
+  captured: '2025-06-22'

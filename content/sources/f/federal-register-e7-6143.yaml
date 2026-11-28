@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 15899, published 2007-04-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213210633/https://www.federalregister.gov/documents/2007/04/03/E7-6143/public-notice-of-lands-previously-conveyed-into-trust-and-proclaimed-as-reservation-for-mississippi
+  captured: '2025-02-13'

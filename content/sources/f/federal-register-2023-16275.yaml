@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 50160, published 2023-08-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260121135208/https://www.federalregister.gov/documents/2023/08/01/2023-16275/notice-of-proposed-purchasedreferred-care-delivery-area-redesignation-for-the-mid-atlantic-tribes
+  captured: '2026-01-21'

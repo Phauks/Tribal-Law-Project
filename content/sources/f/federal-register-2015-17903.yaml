@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 43112, published 2015-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204033850/https://www.federalregister.gov/documents/2015/07/21/2015-17903/wampanoag-tribe-of-gay-head-aquinnah-liquor-control-ordinance-14-01
+  captured: '2025-02-04'

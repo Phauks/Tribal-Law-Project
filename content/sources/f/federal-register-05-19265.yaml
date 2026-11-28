@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 56483, published 2005-09-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210506011944/https://www.federalregister.gov/documents/2005/09/27/05-19265/notice-of-inventory-completion-us-department-of-agriculture-forest-service-gila-national-forest
+  captured: '2021-05-06'

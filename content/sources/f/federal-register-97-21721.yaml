@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 44013, published 1997-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210430051127/https://www.federalregister.gov/documents/1997/08/18/97-21721/mission-valley-power-utility-montana-power-rate-adjustment-bureau-of-indian-affairs-department-of
+  captured: '2021-04-30'

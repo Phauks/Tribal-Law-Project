@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 11451, published 1998-03-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216024751/https://www.federalregister.gov/documents/1998/03/09/98-5916/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-16'

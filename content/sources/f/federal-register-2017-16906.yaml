@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 37609, published 2017-08-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260710180641/https://www.federalregister.gov/documents/2017/08/11/2017-16906/land-acquisitions-the-cherokee-nation
+  captured: '2026-07-10'

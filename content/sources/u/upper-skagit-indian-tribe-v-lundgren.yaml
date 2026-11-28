@@ -39,6 +39,10 @@ original_link: https://www.supremecourt.gov/opinions/boundvolumes/584bv.pdf
 shares_link_with:
 - washington-v-united-states
 retrieved: '2026-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261001013025/https://www.supremecourt.gov/opinions/boundvolumes/584bv.pdf
+  captured: '2026-10-01'
 history:
   status: live
   last_checked: '2026-11-26'

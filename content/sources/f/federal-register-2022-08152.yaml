@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 22917, published 2022-04-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502141602/https://www.federalregister.gov/documents/2022/04/18/2022-08152/notice-of-purchasedreferred-care-delivery-area-redesignation-for-the-minnesota-chippewa-tribe
+  captured: '2025-05-02'

@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://law.lis.virginia.gov/vacode/title36/chapter6/section36-105.5/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260515013234/https://law.lis.virginia.gov/vacode/title36/chapter6/section36-105.5/
+  captured: '2026-05-15'
 history:
   status: live
   last_checked: '2026-11-27'

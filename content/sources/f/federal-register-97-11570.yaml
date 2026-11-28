@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 24505, published 1997-05-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210503025837/https://www.federalregister.gov/documents/1997/05/05/97-11570/grant-availability-to-federally-recognized-indian-tribes-for-projects-implementing-traffic-safety-on
+  captured: '2021-05-03'

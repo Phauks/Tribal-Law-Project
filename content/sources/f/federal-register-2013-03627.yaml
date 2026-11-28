@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 11677, published 2013-02-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201235609/https://www.federalregister.gov/documents/2013/02/19/2013-03627/notice-of-inventory-completion-us-department-of-agriculture-forest-service-apache-sitgreaves
+  captured: '2025-02-01'

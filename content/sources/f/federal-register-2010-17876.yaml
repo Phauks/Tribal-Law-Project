@@ -87,3 +87,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 42771, published 2010-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212042944/https://www.federalregister.gov/documents/2010/07/22/2010-17876/notice-of-inventory-completion-university-of-colorado-museum-boulder-co
+  captured: '2025-02-12'

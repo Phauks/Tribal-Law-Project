@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 44544, published 2000-07-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208054811/https://www.federalregister.gov/documents/2000/07/18/00-18136/notice-of-inventory-completion-for-native-american-human-remains-in-the-possession-of-the-american
+  captured: '2025-02-08'

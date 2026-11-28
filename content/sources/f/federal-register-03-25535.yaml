@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 58139, published 2003-10-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202063043/https://www.federalregister.gov/documents/2003/10/08/03-25535/notice-of-inventory-completion-university-of-oregon-museum-of-natural-history-eugene-or-and-us
+  captured: '2025-02-02'

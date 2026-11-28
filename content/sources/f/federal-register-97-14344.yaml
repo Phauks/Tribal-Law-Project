@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 30334, published 1997-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250228031504/https://www.federalregister.gov/documents/1997/06/03/97-14344/information-collection-submitted-to-the-office-of-management-and-budget-for-review-under-the
+  captured: '2025-02-28'

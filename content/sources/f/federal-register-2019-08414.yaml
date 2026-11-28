@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 17843, published 2019-04-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217191017/https://www.federalregister.gov/documents/2019/04/26/2019-08414/office-of-urban-indian-health-programs-4-in-1-grant-programs
+  captured: '2025-02-17'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 40415, published 2004-07-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205063521/https://www.federalregister.gov/documents/2004/07/02/04-15163/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-05'

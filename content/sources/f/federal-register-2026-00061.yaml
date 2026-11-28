@@ -113,3 +113,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 535, published 2026-01-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260116162227/https://www.federalregister.gov/documents/2026/01/07/2026-00061/notice-of-inventory-completion-mercyhurst-university-erie-pa
+  captured: '2026-01-16'

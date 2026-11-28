@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 53431, published 1995-10-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208081410/https://www.federalregister.gov/documents/1995/10/13/95-25414/seminole-tribe-of-florida-alcohol-beverage-control-act
+  captured: '2025-02-08'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 5995, published 2025-01-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203050301/https://www.federalregister.gov/documents/2025/01/17/2025-01187/notice-of-intended-repatriation-gilcrease-museum-tulsa-ok
+  captured: '2025-02-03'

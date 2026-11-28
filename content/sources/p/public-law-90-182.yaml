@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-81/STATUTE-81-Pg559
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127090741/https://www.govinfo.gov/app/details/STATUTE-81/STATUTE-81-Pg559
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-81/STATUTE-81-Pg559.pdf
   checksum: 6691899fb578f876637271b2777dbaa1b63546b6443822e9d1c022539fd22a27

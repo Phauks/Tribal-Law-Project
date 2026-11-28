@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 64365, published 2003-11-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209233810/https://www.federalregister.gov/documents/2003/11/13/03-28394/notice-of-availability-of-draft-environmental-impact-statement-for-the-proposed-wanapa-energy-center
+  captured: '2025-02-09'

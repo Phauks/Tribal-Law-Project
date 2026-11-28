@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 17007, published 2023-03-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204171827/https://www.federalregister.gov/documents/2023/03/21/2023-05727/notice-of-intent-to-repatriate-cultural-items-amendment-california-department-of-parks-and
+  captured: '2025-02-04'

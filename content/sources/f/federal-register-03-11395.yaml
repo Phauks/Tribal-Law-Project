@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 24746, published 2003-05-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218120503/https://www.federalregister.gov/documents/2003/05/08/03-11395/nursing-recruitment-program-for-american-indiansalaska-natives
+  captured: '2025-02-18'

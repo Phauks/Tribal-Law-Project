@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 5988, published 2025-01-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201213353/https://www.federalregister.gov/documents/2025/01/17/2025-01227/notice-of-inventory-completion-federal-bureau-of-investigation-portland-maine-resident-agency
+  captured: '2025-02-01'

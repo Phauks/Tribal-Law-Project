@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 64394, published 2026-10-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261008120442/https://www.federalregister.gov/documents/2026/10/08/2026-20571/notice-of-intended-repatriation-jamestown-yorktown-foundation-williamsburg-va
+  captured: '2026-10-08'

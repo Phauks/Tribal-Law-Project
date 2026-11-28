@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: IN12087, version 2'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260221112730/https://www.congress.gov/crs-product/IN12087
+  captured: '2026-02-21'

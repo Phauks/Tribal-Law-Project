@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 19713, published 2002-04-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204145641/https://www.federalregister.gov/documents/2002/04/23/02-9861/minimum-internal-control-standards
+  captured: '2025-02-04'

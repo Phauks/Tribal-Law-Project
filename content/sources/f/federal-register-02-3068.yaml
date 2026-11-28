@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 6048, published 2002-02-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213194546/https://www.federalregister.gov/documents/2002/02/08/02-3068/notice-of-availability-of-the-draft-environmental-impact-statement-for-section-14-specific-plan-on
+  captured: '2025-02-13'

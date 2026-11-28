@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 952, published 2024-01-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524174206/https://www.federalregister.gov/documents/2024/01/08/2024-00131/notice-of-inventory-completion-portland-state-university-portland-or
+  captured: '2025-05-24'

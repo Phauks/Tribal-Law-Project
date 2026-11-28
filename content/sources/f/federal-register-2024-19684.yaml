@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 71385, published 2024-09-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525170140/https://www.federalregister.gov/documents/2024/09/03/2024-19684/notice-of-inventory-completion-science-museum-of-minnesota-saint-paul-mn
+  captured: '2025-05-25'

@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: Only the catalog record was read, not the volume
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260301044908/https://www.loc.gov/item/28014185
+  captured: '2026-03-01'

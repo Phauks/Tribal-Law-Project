@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 46247, published 2025-09-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251203112040/https://www.federalregister.gov/documents/2025/09/25/2025-18572/notice-of-intended-repatriation-the-metropolitan-museum-of-art-new-york-ny
+  captured: '2025-12-03'

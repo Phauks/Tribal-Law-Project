@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 48613, published 2022-08-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201203540/https://www.federalregister.gov/documents/2022/08/10/2022-16977/definitions-background-investigation-for-primary-management-officials-and-key-employees-gaming
+  captured: '2025-02-01'

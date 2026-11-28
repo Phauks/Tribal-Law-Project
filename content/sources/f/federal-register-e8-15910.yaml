@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 40363, published 2008-07-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207192142/https://www.federalregister.gov/documents/2008/07/14/E8-15910/notice-of-intent-to-repatriate-cultural-items-seton-hall-university-museum-seton-hall-university
+  captured: '2025-02-07'

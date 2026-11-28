@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://ksrevisor.gov/statutes/chapters/ch60/060_002_0028a.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251214233659/https://ksrevisor.gov/statutes/chapters/ch60/060_002_0028a.html
+  captured: '2025-12-14'
 history:
   status: live
   last_checked: '2026-11-27'

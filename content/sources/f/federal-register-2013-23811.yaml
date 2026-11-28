@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 59953, published 2013-09-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260711113459/https://www.federalregister.gov/documents/2013/09/30/2013-23811/notice-of-inventory-completion-us-department-of-agriculture-forest-service-coconino-national-forest
+  captured: '2026-07-11'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 14048, published 2011-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206002536/https://www.federalregister.gov/documents/2011/03/15/2011-5882/notice-of-intent-to-repatriate-a-cultural-item-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-06'

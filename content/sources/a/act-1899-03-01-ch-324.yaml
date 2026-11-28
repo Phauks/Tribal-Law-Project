@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-30/STATUTE-30-Pg924
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127072042/https://www.govinfo.gov/app/details/STATUTE-30/STATUTE-30-Pg924
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-30/STATUTE-30-Pg924.pdf
   checksum: e2cceac6481a92b8ddb5fb4de21fc692c987ffcf42dc5cd1ed1fdbcdb03b5345

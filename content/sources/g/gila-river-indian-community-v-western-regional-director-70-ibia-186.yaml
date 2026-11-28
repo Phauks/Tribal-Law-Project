@@ -59,3 +59,7 @@ review:
   - check: decided
     result: missing
     detail: index 2024-11-05; cover sheet not found; decision not found
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010950/https://www.oha.doi.gov/IBIA/Ibiadecisions/70ibia/70ibia186.pdf
+  captured: '2026-03-25'

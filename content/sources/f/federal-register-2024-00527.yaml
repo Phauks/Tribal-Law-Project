@@ -80,3 +80,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 2244, published 2024-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525175600/https://www.federalregister.gov/documents/2024/01/12/2024-00527/notice-of-inventory-completion-amendment-michigan-state-historic-preservation-office-lansing-mi
+  captured: '2025-05-25'

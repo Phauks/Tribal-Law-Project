@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 23454, published 2023-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230603080742/https://www.federalregister.gov/documents/2023/04/17/2023-07999/land-acquisitions-the-samish-indian-nation-washington
+  captured: '2023-06-03'

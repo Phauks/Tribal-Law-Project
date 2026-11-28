@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 2911, published 2019-02-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207081451/https://www.federalregister.gov/documents/2019/02/08/2019-01612/notice-of-intent-to-repatriate-cultural-items-us-fish-and-wildlife-service-office-of-law-enforcement
+  captured: '2025-02-07'

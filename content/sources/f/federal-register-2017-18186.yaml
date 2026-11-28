@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 40801, published 2017-08-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204090517/https://www.federalregister.gov/documents/2017/08/28/2017-18186/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-bureau-of-indian-affairs
+  captured: '2025-02-04'

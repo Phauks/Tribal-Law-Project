@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 35130, published 2019-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215160256/https://www.federalregister.gov/documents/2019/07/22/2019-15544/delaware-nation-beverage-control-act-of-2019
+  captured: '2025-02-15'

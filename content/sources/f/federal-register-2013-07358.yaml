@@ -78,3 +78,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 19296, published 2013-03-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208165601/https://www.federalregister.gov/documents/2013/03/29/2013-07358/notice-of-inventory-completion-history-colorado-formerly-colorado-historical-society-denver-co
+  captured: '2025-02-08'

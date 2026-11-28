@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 5838, published 2012-02-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202135413/https://www.federalregister.gov/documents/2012/02/06/2012-2530/notice-of-intent-to-repatriate-cultural-items-usda-forest-service-coconino-national-forest-flagstaff
+  captured: '2025-02-02'

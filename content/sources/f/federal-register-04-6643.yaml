@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 15369, published 2004-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205003321/https://www.federalregister.gov/documents/2004/03/25/04-6643/notice-of-intent-to-repatriate-cultural-items-state-historical-society-of-iowa-iowa-city-ia
+  captured: '2025-02-05'

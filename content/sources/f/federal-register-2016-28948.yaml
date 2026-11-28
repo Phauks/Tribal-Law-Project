@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 87061, published 2016-12-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202231839/https://www.federalregister.gov/documents/2016/12/02/2016-28948/notice-of-inventory-completion-peabody-museum-of-natural-history-yale-university-new-haven-ct
+  captured: '2025-02-02'

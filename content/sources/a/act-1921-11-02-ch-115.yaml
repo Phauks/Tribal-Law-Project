@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-42/STATUTE-42-Pg208-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127073156/https://www.govinfo.gov/app/details/STATUTE-42/STATUTE-42-Pg208-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-42/STATUTE-42-Pg208-2.pdf
   checksum: 343189c2789af279b6b18a53ee92542f6e666e23620d4cec276634ce6d75d87a

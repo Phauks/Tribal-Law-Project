@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 4906, published 2022-01-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250402192555/https://www.federalregister.gov/documents/2022/01/31/2022-01870/hearth-act-approval-of-northern-cheyenne-tribe-of-the-northern-cheyenne-indian-reservation-montana
+  captured: '2025-04-02'

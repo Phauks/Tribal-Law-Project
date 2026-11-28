@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 15476, published 2025-04-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601041047/https://www.federalregister.gov/documents/2025/04/11/2025-06204/notice-of-intended-repatriation-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-06-01'

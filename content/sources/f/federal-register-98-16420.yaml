@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 33945, published 1998-06-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218172057/https://www.federalregister.gov/documents/1998/06/22/98-16420/notice-of-final-agency-action
+  captured: '2025-02-18'

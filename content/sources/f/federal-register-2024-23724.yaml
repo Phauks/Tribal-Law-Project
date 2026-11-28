@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 83042, published 2024-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525173021/https://www.federalregister.gov/documents/2024/10/15/2024-23724/notice-of-inventory-completion-fernbank-museum-of-natural-history-atlanta-ga
+  captured: '2025-05-25'

@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 59540, published 2025-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251221034347/https://www.federalregister.gov/documents/2025/12/19/2025-23381/notice-of-inventory-completion-princeton-university-princeton-nj
+  captured: '2025-12-21'

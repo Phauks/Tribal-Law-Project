@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 45660, published 2018-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207090101/https://www.federalregister.gov/documents/2018/09/10/2018-19522/notice-of-inventory-completion-san-diego-museum-of-man-san-diego-ca
+  captured: '2025-02-07'

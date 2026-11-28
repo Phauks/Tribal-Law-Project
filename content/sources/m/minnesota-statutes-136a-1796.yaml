@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.revisor.mn.gov/statutes/cite/136A.1796
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260219072205/https://www.revisor.mn.gov/statutes/cite/136A.1796
+  captured: '2026-02-19'
 history:
   status: live
   last_checked: '2026-11-27'

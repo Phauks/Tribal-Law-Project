@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 36916, published 1999-07-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204133852/https://www.federalregister.gov/documents/1999/07/08/99-17399/information-collection-for-adult-vocational-training-and-employment
+  captured: '2025-02-04'

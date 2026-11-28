@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 26967, published 2011-05-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250422174042/https://www.federalregister.gov/documents/2011/05/10/2011-11284/regulatory-review-schedule
+  captured: '2025-04-22'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 18441, published 1998-04-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206071443/https://www.federalregister.gov/documents/1998/04/15/98-9863/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-06'

@@ -79,3 +79,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 29923, published 2017-06-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208234630/https://www.federalregister.gov/documents/2017/06/30/2017-13741/notice-of-inventory-completion-texas-state-university-center-for-archaeological-studies-and
+  captured: '2025-02-08'

@@ -24,6 +24,10 @@ caption:
   checked: '2026-11-27'
 original_link: https://www.govinfo.gov/content/pkg/USREPORTS-172/pdf/USREPORTS-172-BackMatter-2.pdf
 retrieved: '2026-11-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260805161500/https://www.govinfo.gov/content/pkg/USREPORTS-172/pdf/USREPORTS-172-BackMatter-2.pdf
+  captured: '2026-08-05'
 history:
   status: live
   last_checked: '2026-11-27'

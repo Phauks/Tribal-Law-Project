@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 7022, published 2004-02-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212125243/https://www.federalregister.gov/documents/2004/02/12/04-3044/notice-of-intent-to-prepare-an-environmental-impact-statement-and-of-a-scoping-meeting-for-the
+  captured: '2025-02-12'

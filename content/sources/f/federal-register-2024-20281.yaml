@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 73437, published 2024-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524170049/https://www.federalregister.gov/documents/2024/09/10/2024-20281/notice-of-inventory-completion-office-of-the-state-archaeologist-university-of-iowa-iowa-city-ia
+  captured: '2025-05-24'

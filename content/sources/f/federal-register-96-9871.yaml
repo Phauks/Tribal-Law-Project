@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 17903, published 1996-04-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204085438/https://www.federalregister.gov/documents/1996/04/23/96-9871/proposed-information-collection-activities-available-for-public-comment-and-recommendations
+  captured: '2025-02-04'

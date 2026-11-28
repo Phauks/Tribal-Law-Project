@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 19875, published 2024-03-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611214833/https://www.federalregister.gov/documents/2024/03/20/2024-05853/notice-of-intended-repatriation-boston-childrens-museum-boston-ma
+  captured: '2025-06-11'

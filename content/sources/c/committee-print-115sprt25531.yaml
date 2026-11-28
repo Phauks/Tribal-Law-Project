@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CPRT-115SPRT25531'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260804210228/https://www.govinfo.gov/app/details/CPRT-115SPRT25531/
+  captured: '2026-08-04'

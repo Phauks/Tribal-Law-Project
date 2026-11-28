@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 15770, published 2008-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208072741/https://www.federalregister.gov/documents/2008/03/25/E8-5923/land-acquisitions-puyallup-tribe-washington
+  captured: '2025-02-08'

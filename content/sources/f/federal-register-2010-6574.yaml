@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 14461, published 2010-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202150406/https://www.federalregister.gov/documents/2010/03/25/2010-6574/notice-of-inventory-completion-university-of-oregon-museum-of-natural-and-cultural-historyoregon
+  captured: '2025-02-02'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 65000, published 2020-10-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250419095607/https://www.federalregister.gov/documents/2020/10/14/2020-21536/use-of-bureau-operated-schools-by-third-parties-under-lease-agreements-and-fundraising-activity-by
+  captured: '2025-04-19'

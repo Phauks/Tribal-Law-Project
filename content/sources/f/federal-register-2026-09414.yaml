@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 25906, published 2026-05-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260512112921/https://www.federalregister.gov/documents/2026/05/12/2026-09414/notice-of-inventory-completion-california-state-university-channel-islands-camarillo-ca
+  captured: '2026-05-12'

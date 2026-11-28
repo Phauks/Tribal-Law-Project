@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 68831, published 2006-11-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204100955/https://www.federalregister.gov/documents/2006/11/28/E6-20152/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-extension-of-the
+  captured: '2025-02-04'

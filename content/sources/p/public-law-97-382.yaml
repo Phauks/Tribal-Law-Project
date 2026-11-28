@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-96/STATUTE-96-Pg1938
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127091411/https://www.govinfo.gov/app/details/STATUTE-96/STATUTE-96-Pg1938
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-96/STATUTE-96-Pg1938.pdf
   checksum: 1939621b05776851dded9c8d00664b55c2f573953b27ba0fc0dc10ce4667c439

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 19514, published 2025-05-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812152044/https://www.federalregister.gov/documents/2025/05/08/2025-08036/notice-of-inventory-completion-university-of-california-davis-davis-ca
+  captured: '2026-08-12'

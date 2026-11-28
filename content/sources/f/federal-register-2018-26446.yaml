@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 62891, published 2018-12-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260416100108/https://www.federalregister.gov/documents/2018/12/06/2018-26446/notice-of-intent-to-repatriate-cultural-items-oakland-museum-of-california-oakland-ca
+  captured: '2026-04-16'

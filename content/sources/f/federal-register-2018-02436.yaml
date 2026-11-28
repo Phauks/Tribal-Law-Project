@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 5456, published 2018-02-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207032621/https://www.federalregister.gov/documents/2018/02/07/2018-02436/indian-trust-asset-reform-act-title-ii-indian-trust-asset-management-demonstration-project
+  captured: '2025-02-07'

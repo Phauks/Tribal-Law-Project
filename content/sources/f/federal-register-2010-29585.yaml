@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 71732, published 2010-11-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202234440/https://www.federalregister.gov/documents/2010/11/24/2010-29585/proposed-finding-against-federal-acknowledgment-of-the-tolowa-nation
+  captured: '2025-02-02'

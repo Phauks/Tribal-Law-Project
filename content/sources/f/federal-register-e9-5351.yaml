@@ -88,3 +88,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 10760, published 2009-03-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214114805/https://www.federalregister.gov/documents/2009/03/12/E9-5351/notice-of-inventory-completion-us-department-of-the-interior-utah-state-office-bureau-of-land
+  captured: '2025-02-14'

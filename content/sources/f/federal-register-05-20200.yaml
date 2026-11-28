@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 58742, published 2005-10-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213045848/https://www.federalregister.gov/documents/2005/10/07/05-20200/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-13'

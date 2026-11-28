@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 100526, published 2024-12-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250612025146/https://www.federalregister.gov/documents/2024/12/12/2024-29256/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-investigative
+  captured: '2025-06-12'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 76184, published 2002-12-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260429084705/https://www.federalregister.gov/documents/2002/12/11/02-31229/proposed-finding-against-federal-acknowledgment-of-the-schaghticoke-tribal-nation
+  captured: '2026-04-29'

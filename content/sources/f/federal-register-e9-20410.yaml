@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 43143, published 2009-08-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250420014820/https://www.federalregister.gov/documents/2009/08/26/E9-20410/privacy-act-of-1974-report-of-an-altered-system-of-records-sanitation-facilities-construction
+  captured: '2025-04-20'

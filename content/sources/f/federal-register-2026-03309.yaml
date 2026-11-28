@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 8017, published 2026-02-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260717031057/https://www.federalregister.gov/documents/2026/02/19/2026-03309/indian-energy-service-center-receipt-of-tribal-energy-resource-agreement-for-the-southern-ute-indian
+  captured: '2026-07-17'

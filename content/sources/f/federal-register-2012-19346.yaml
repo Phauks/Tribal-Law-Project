@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 47399, published 2012-08-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213143948/https://www.federalregister.gov/documents/2012/08/08/2012-19346/funding-opportunity-tribal-self-governance-program-planning-cooperative-agreement
+  captured: '2025-02-13'

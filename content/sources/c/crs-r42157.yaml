@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: R42157, version 9'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260221070710/https://www.congress.gov/crs-product/R42157
+  captured: '2026-02-21'

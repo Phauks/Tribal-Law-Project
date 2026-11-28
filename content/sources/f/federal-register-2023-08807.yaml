@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 25422, published 2023-04-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230426092441/https://www.federalregister.gov/documents/2023/04/26/2023-08807/notice-of-intent-to-repatriate-cultural-items-us-army-corps-of-engineers-mobile-district-mobile-al
+  captured: '2023-04-26'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 29173, published 2007-05-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201222030/https://www.federalregister.gov/documents/2007/05/24/E7-10019/notice-of-inventory-completion-bernice-pauahi-bishop-museum-honolulu-hi-correction
+  captured: '2025-02-01'

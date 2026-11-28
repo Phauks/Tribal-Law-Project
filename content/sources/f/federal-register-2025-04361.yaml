@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12563, published 2025-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250323112342/https://www.federalregister.gov/documents/2025/03/18/2025-04361/notice-of-inventory-completion-university-of-wisconsin-oshkosh-oshkosh-wi
+  captured: '2025-03-23'

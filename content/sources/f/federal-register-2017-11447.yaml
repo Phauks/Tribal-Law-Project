@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 25624, published 2017-06-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208210653/https://www.federalregister.gov/documents/2017/06/02/2017-11447/notice-of-intent-to-repatriate-cultural-items-allen-county-fort-wayne-historical-society-fort-wayne
+  captured: '2025-02-08'

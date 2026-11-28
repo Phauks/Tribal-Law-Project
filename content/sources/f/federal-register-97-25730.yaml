@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 50964, published 1997-09-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210429234557/https://www.federalregister.gov/documents/1997/09/29/97-25730/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2021-04-29'

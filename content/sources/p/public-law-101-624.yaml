@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-104/STATUTE-104-Pg3359
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260705112202/https://www.govinfo.gov/app/details/STATUTE-104/STATUTE-104-Pg3359
+  captured: '2026-07-05'
 rights:
   status: no-permission-needed
   basis: us-government-work

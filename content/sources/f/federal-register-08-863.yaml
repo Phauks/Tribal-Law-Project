@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 10780, published 2008-02-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204042209/https://www.federalregister.gov/documents/2008/02/28/08-863/division-of-epidemiology-and-disease-prevention-urban-indian-communities
+  captured: '2025-02-04'

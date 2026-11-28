@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 43702, published 2011-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210406121826/https://www.federalregister.gov/documents/2011/07/21/2011-18431/renewal-of-agency-information-collection-for-probate-of-indian-estates
+  captured: '2021-04-06'

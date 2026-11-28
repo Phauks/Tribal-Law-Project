@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 54768, published 2016-08-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211040033/https://www.federalregister.gov/documents/2016/08/17/2016-19599/notice-of-intent-to-establish-a-negotiated-rulemaking-committee
+  captured: '2025-02-11'

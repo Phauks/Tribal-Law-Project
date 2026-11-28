@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 54075, published 2005-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219103744/https://www.federalregister.gov/documents/2005/09/13/05-18073/notice-of-inventory-completion-robert-s-peabody-museum-of-archaeology-andover-ma
+  captured: '2025-02-19'

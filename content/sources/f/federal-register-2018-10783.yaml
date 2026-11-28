@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 23482, published 2018-05-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210404012717/https://www.federalregister.gov/documents/2018/05/21/2018-10783/notice-of-inventory-completion-florida-department-of-state-division-of-historical-resources
+  captured: '2021-04-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 29160, published 2026-05-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260608090648/https://www.federalregister.gov/documents/2026/05/19/2026-10024/notice-of-inventory-completion-field-museum-chicago-il
+  captured: '2026-06-08'

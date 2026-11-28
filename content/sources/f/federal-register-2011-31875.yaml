@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 77549, published 2011-12-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215000123/https://www.federalregister.gov/documents/2011/12/13/2011-31875/colorado-river-indian-tribes-amendment-to-health-and-safety-code-article-2-liquor
+  captured: '2025-02-15'

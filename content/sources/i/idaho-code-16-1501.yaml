@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title16/T16CH15/SECT16-1501
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260718174550/https://legislature.idaho.gov/statutesrules/idstat/Title16/T16CH15/SECT16-1501/
+  captured: '2026-07-18'
 history:
   status: live
   last_checked: '2026-11-27'

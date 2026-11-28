@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 58755, published 2024-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204034729/https://www.federalregister.gov/documents/2024/07/19/2024-15895/notice-of-inventory-completion-indiana-university-bloomington-in
+  captured: '2025-02-04'

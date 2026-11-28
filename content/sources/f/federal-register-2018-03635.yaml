@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 7766, published 2018-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202064126/https://www.federalregister.gov/documents/2018/02/22/2018-03635/notice-of-intent-to-repatriate-cultural-items-united-states-army-corps-of-engineers-tulsa-district
+  captured: '2025-02-02'

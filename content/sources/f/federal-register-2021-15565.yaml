@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 38758, published 2021-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220705195751/https://www.federalregister.gov/documents/2021/07/22/2021-15565/notice-of-intent-to-repatriate-cultural-items-california-department-of-transportation-sacramento-ca
+  captured: '2022-07-05'

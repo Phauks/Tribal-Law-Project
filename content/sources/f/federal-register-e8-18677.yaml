@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 47235, published 2008-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202114144/https://www.federalregister.gov/documents/2008/08/13/E8-18677/notice-of-intent-to-repatriate-cultural-items-northwest-museum-whitman-college-walla-walla-wa
+  captured: '2025-02-02'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 42096, published 2023-06-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203011645/https://www.federalregister.gov/documents/2023/06/29/2023-13815/notice-of-inventory-completion-beloit-college-logan-museum-of-anthropology-beloit-wi
+  captured: '2025-02-03'

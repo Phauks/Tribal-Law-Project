@@ -107,3 +107,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 9831, published 2019-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204131658/https://www.federalregister.gov/documents/2019/03/18/2019-04913/notice-of-inventory-completion-marshall-university-huntington-wv
+  captured: '2025-02-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 16815, published 2007-04-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209000851/https://www.federalregister.gov/documents/2007/04/05/E7-6386/proclaiming-certain-lands-as-reservation-for-the-jicarilla-apache-nation-of-new-mexico
+  captured: '2025-02-09'

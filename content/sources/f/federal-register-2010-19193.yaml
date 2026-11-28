@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 47616, published 2010-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215104758/https://www.federalregister.gov/documents/2010/08/06/2010-19193/intent-to-prepare-an-environmental-impact-statement-for-the-proposed-fee-to-trust-conveyance-of
+  captured: '2025-02-15'

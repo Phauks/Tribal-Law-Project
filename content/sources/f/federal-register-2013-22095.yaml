@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 55737, published 2013-09-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217013543/https://www.federalregister.gov/documents/2013/09/11/2013-22095/notice-of-service-delivery-area-designation-for-the-tejon-indian-tribe
+  captured: '2025-02-17'

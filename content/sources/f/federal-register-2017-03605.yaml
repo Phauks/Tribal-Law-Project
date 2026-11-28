@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 11643, published 2017-02-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208054759/https://www.federalregister.gov/documents/2017/02/24/2017-03605/notice-of-intent-to-repatriate-cultural-items-thomas-burke-memorial-washington-state-museum
+  captured: '2025-02-08'

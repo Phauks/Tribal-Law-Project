@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 13017, published 2015-03-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204154519/https://www.federalregister.gov/documents/2015/03/12/2015-05695/tohono-oodham-nation-of-arizonas-title-21-liquor-chapter-1-alcoholic-beverage-licensing-and-control
+  captured: '2025-02-04'

@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 52508, published 2018-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202033326/https://www.federalregister.gov/documents/2018/10/17/2018-22597/notice-of-inventory-completion-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-02'

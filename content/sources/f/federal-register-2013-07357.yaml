@@ -80,3 +80,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 19297, published 2013-03-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208164321/https://www.federalregister.gov/documents/2013/03/29/2013-07357/notice-of-inventory-completion-university-of-washington-department-of-anthropology-seattle-wa
+  captured: '2025-02-08'

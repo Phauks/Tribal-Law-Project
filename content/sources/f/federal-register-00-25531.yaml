@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 59461, published 2000-10-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210423112019/https://www.federalregister.gov/documents/2000/10/05/00-25531/operation-and-maintenance-rate-adjustment-for-the-colorado-river-irrigation-project-arizona
+  captured: '2021-04-23'

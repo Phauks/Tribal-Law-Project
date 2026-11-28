@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 50990, published 2008-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210524165712/https://www.federalregister.gov/documents/2008/08/29/E8-20089/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-bureau-of-land
+  captured: '2021-05-24'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 41447, published 2002-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210429002554/https://www.federalregister.gov/documents/2002/06/18/02-15292/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-springfield-science-museum
+  captured: '2021-04-29'

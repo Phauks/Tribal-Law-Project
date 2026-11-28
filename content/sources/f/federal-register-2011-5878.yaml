@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 14068, published 2011-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205013226/https://www.federalregister.gov/documents/2011/03/15/2011-5878/notice-of-inventory-completion-us-department-of-agriculture-forest-service-sequoia-national-forest
+  captured: '2025-02-05'

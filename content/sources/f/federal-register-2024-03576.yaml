@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 13367, published 2024-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524181552/https://www.federalregister.gov/documents/2024/02/22/2024-03576/notice-of-intent-to-repatriate-cultural-items-university-of-hawaii-hawaii
+  captured: '2025-05-24'

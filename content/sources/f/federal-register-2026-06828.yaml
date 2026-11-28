@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 17991, published 2026-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260716080639/https://www.federalregister.gov/documents/2026/04/09/2026-06828/notice-of-intended-repatriation-north-carolina-state-university-gregg-museum-of-art-and-design
+  captured: '2026-07-16'

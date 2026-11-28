@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 68469, published 2014-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250225165754/https://www.federalregister.gov/documents/2014/11/17/2014-27143/notice-of-inventory-completion-department-of-anthropology-and-sociology-university-of-southern
+  captured: '2025-02-25'

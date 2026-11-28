@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 70527, published 2024-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204093848/https://www.federalregister.gov/documents/2024/08/30/2024-19421/catastrophic-health-emergency-fund
+  captured: '2025-02-04'

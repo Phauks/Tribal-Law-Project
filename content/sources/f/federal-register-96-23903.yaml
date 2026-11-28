@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 49152, published 1996-09-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202004053/https://www.federalregister.gov/documents/1996/09/18/96-23903/cow-creek-band-of-umpqua-tribe-of-indians-liquor-code
+  captured: '2025-02-02'

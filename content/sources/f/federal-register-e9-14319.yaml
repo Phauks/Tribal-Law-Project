@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 28942, published 2009-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204093924/https://www.federalregister.gov/documents/2009/06/18/E9-14319/30-day-notice-of-intention-to-request-clearance-of-collection-of-information-opportunity-for-public
+  captured: '2025-02-04'

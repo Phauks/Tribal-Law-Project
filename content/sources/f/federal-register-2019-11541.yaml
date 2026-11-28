@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 25825, published 2019-06-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212021004/https://www.federalregister.gov/documents/2019/06/04/2019-11541/notice-of-inventory-completion-office-of-the-state-archaeologist-university-of-iowa-iowa-city-ia
+  captured: '2025-02-12'

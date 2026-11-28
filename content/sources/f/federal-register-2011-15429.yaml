@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 36146, published 2011-06-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210412083330/https://www.federalregister.gov/documents/2011/06/21/2011-15429/notice-of-inventory-completion-university-of-oregon-museum-of-natural-and-cultural-history-eugene-or
+  captured: '2021-04-12'

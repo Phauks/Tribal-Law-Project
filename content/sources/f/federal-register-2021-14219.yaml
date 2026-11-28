@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 35326, published 2021-07-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204085040/https://www.federalregister.gov/documents/2021/07/02/2021-14219/cayuga-nation-of-new-york-alcoholic-beverage-control-ordinance
+  captured: '2025-02-04'

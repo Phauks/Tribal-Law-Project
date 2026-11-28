@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 55838, published 2022-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208132053/https://www.federalregister.gov/documents/2022/09/12/2022-19586/draft-environmental-impact-statement-for-the-proposed-yahthumb-solar-project-clark-county-nevada
+  captured: '2025-02-08'

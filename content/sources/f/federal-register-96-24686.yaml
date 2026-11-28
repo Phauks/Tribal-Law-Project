@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 50505, published 1996-09-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210416015634/https://www.federalregister.gov/documents/1996/09/26/96-24686/notice-of-inventory-completion-for-native-american-human-remains-in-the-possession-of-chickasaw
+  captured: '2021-04-16'

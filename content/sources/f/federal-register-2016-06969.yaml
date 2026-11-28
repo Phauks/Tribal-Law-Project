@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 17181, published 2016-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250403225722/https://www.federalregister.gov/documents/2016/03/28/2016-06969/american-indians-into-nursing-nursing-program
+  captured: '2025-04-03'

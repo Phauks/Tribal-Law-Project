@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 47828, published 2006-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516122409/https://www.federalregister.gov/documents/2006/08/18/E6-13686/notice-of-inventory-completion-pacific-lutheran-university-tacoma-wa
+  captured: '2017-05-16'

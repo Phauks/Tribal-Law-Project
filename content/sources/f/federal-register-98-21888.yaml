@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 43719, published 1998-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250416073019/https://www.federalregister.gov/documents/1998/08/14/98-21888/notice-of-inventory-completion-for-native-american-human-remains-from-fresno-and-madera-counties-ca
+  captured: '2025-04-16'

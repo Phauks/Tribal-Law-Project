@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/petitions-in-process/mattaponi-indian-tribe-and-reservation'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812214117/https://www.bia.gov/sites/default/files/media_document/408_dpco_2025_stephens_l_to_asia_2025-03-24_0.pdf
+  captured: '2026-08-12'

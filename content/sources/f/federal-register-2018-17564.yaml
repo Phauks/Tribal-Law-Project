@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 40532, published 2018-08-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250404062316/https://www.federalregister.gov/documents/2018/08/15/2018-17564/division-of-epidemiology-and-disease-prevention-epidemiology-program-for-american-indianalaska
+  captured: '2025-04-04'

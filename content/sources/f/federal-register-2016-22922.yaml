@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 65661, published 2016-09-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250430184845/https://www.federalregister.gov/documents/2016/09/23/2016-22922/notice-of-tribal-consultation-and-urban-confer-sessions-on-the-state-of-the-great-plains-area-indian
+  captured: '2025-04-30'

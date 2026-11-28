@@ -94,3 +94,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 35199, published 2024-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207014214/https://www.federalregister.gov/documents/2024/05/01/2024-09412/notice-of-inventory-completion-haffenreffer-museum-of-anthropology-brown-university-bristol-ri
+  captured: '2025-02-07'

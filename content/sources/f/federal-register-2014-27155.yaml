@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 68476, published 2014-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206192647/https://www.federalregister.gov/documents/2014/11/17/2014-27155/notice-of-inventory-completion-san-francisco-state-university-nagpra-program-san-francisco-ca
+  captured: '2025-02-06'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 32998, published 2026-06-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260721052144/https://www.federalregister.gov/documents/2026/06/02/2026-11005/hearth-act-approval-of-peoria-tribe-of-indians-of-oklahoma-business-leasing-ordinance
+  captured: '2026-07-21'

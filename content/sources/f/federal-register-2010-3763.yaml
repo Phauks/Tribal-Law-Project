@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 9429, published 2010-03-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219112656/https://www.federalregister.gov/documents/2010/03/02/2010-3763/native-american-graves-protection-and-repatriation-review-committee-meetings
+  captured: '2025-02-19'

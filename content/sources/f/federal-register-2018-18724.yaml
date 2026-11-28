@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 44061, published 2018-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230331084550/http://www.federalregister.gov/documents/2018/08/29/2018-18724/agency-information-collection-activities-tribal-reassumption-of-jurisdiction-over-child-custody
+  captured: '2023-03-31'

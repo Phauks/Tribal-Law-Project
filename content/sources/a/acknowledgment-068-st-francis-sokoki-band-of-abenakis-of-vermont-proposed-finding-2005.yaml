@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/st-francissokoki-band-abenakis-vermont'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260921111156/https://www.bia.gov/sites/default/files/media_document/068_pf_0.pdf
+  captured: '2026-09-21'

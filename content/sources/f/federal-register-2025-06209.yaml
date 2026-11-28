@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 15474, published 2025-04-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601035034/https://www.federalregister.gov/documents/2025/04/11/2025-06209/notice-of-inventory-completion-university-of-california-berkeley-berkeley-ca
+  captured: '2025-06-01'

@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 11618, published 2017-02-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208225805/https://www.federalregister.gov/documents/2017/02/24/2017-03612/notice-of-inventory-completion-vanderbilt-university-nashville-tn
+  captured: '2025-02-08'

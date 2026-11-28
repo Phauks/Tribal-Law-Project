@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 9428, published 2010-03-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205005757/https://www.federalregister.gov/documents/2010/03/02/2010-4213/notice-of-intent-to-repatriate-cultural-items-peabody-museum-of-archaeology-and-ethnology-harvard
+  captured: '2025-02-05'

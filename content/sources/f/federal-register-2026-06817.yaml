@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 17999, published 2026-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260715111803/https://www.federalregister.gov/documents/2026/04/09/2026-06817/notice-of-inventory-completion-university-of-missouri-museum-of-anthropology-columbia-mo
+  captured: '2026-07-15'

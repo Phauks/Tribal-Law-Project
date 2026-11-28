@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 24495, published 2024-04-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525154139/https://www.federalregister.gov/documents/2024/04/08/2024-07360/notice-of-intended-repatriation-memphis-museum-of-science-and-history-memphis-tn
+  captured: '2025-05-25'

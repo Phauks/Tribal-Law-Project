@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 60233, published 2023-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240814002940/https://www.federalregister.gov/documents/2023/08/31/2023-18826/notice-of-intent-to-repatriate-cultural-items-st-joseph-museums-inc-st-joseph-mo
+  captured: '2024-08-14'

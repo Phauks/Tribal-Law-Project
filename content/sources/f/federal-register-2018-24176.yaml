@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 55396, published 2018-11-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260327161845/https://www.federalregister.gov/documents/2018/11/05/2018-24176/proclaiming-certain-lands-as-reservation-for-the-skokomish-indian-tribe-of-washington
+  captured: '2026-03-27'

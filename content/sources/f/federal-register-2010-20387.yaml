@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 51105, published 2010-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260813095438/https://www.federalregister.gov/documents/2010/08/18/2010-20387/proposed-finding-against-federal-acknowledgment-of-the-central-band-of-cherokee
+  captured: '2026-08-13'

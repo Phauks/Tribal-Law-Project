@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 84396, published 2024-10-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524174628/https://www.federalregister.gov/documents/2024/10/22/2024-24415/notice-of-inventory-completion-amendment-los-angeles-county-museum-of-natural-history-los-angeles-ca
+  captured: '2025-05-24'

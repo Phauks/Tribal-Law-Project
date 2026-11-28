@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 68174, published 2004-11-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260428014640/https://www.federalregister.gov/documents/2004/11/23/04-25923/notice-of-inventory-completion-university-of-massachusetts-department-of-anthropology-amherst-ma
+  captured: '2026-04-28'

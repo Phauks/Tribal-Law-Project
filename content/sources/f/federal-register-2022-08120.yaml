@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 22575, published 2022-04-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202194859/https://www.federalregister.gov/documents/2022/04/15/2022-08120/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-channel-islands
+  captured: '2025-02-02'

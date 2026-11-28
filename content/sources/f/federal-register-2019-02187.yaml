@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 3813, published 2019-02-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202192431/https://www.federalregister.gov/documents/2019/02/13/2019-02187/land-acquisitions-arapaho-tribe-of-the-wind-river-reservation-wyoming
+  captured: '2025-02-02'

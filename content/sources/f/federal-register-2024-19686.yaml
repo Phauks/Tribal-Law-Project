@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 71390, published 2024-09-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260607224557/https://www.federalregister.gov/documents/2024/09/03/2024-19686/notice-of-inventory-completion-hood-museum-of-art-dartmouth-college-hanover-nh
+  captured: '2026-06-07'

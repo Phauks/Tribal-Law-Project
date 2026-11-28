@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 14866, published 2026-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260714032534/https://www.federalregister.gov/documents/2026/03/27/2026-05962/notice-of-intended-repatriation-the-university-of-maine-orono-me
+  captured: '2026-07-14'

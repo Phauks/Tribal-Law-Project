@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 11227, published 1996-03-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210327041659/https://www.federalregister.gov/documents/1996/03/19/96-6509/request-for-extension-and-revision-of-a-currently-approved-information-collection
+  captured: '2021-03-27'

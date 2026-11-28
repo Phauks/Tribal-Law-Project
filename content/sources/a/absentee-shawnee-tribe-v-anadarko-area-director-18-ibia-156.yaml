@@ -59,3 +59,7 @@ review:
   - check: decided
     result: agree
     detail: index 1990-02-20; cover sheet 1990-02-20; decision 1990-02-20
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127004808/https://www.oha.doi.gov/IBIA/IbiaDecisions/18ibia/18ibia156.PDF
+  captured: '2026-11-27'

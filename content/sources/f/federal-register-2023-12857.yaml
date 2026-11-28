@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 39454, published 2023-06-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208094659/https://www.federalregister.gov/documents/2023/06/16/2023-12857/notice-of-inventory-completion-california-state-university-sacramento-sacramento-ca
+  captured: '2025-02-08'

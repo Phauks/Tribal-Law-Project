@@ -85,3 +85,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 68471, published 2014-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210520235818/https://www.federalregister.gov/documents/2014/11/17/2014-27149/notice-of-inventory-completion-michigan-state-police-lakeview-post-lakeview-mi
+  captured: '2021-05-20'

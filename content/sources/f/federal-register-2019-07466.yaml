@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 15630, published 2019-04-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208144212/https://www.federalregister.gov/documents/2019/04/16/2019-07466/ewiiaapaayp-band-of-kumeyaay-indians-liquor-control-ordinance
+  captured: '2025-02-08'

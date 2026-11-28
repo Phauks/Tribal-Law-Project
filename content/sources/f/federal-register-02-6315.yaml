@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 11706, published 2002-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260104105114/https://www.federalregister.gov/documents/2002/03/15/02-6315/land-acquisitions-united-auburn-indian-community-of-california
+  captured: '2026-01-04'

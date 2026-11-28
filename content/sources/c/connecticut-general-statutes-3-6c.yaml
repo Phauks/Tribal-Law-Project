@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.cga.ct.gov/current/pub/chap_031.htm#sec_3-6c
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810022936/https://cga.ct.gov/current/PUB/chap_031.htm
+  captured: '2026-08-10'
 history:
   status: live
   last_checked: '2026-11-27'

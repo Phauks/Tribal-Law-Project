@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 54854, published 2024-07-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250404175417/https://www.federalregister.gov/documents/2024/07/02/2024-14484/notice-of-inventory-completion-field-museum-chicago-il
+  captured: '2025-04-04'

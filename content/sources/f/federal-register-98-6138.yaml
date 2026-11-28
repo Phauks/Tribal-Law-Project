@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 11692, published 1998-03-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213043316/https://www.federalregister.gov/documents/1998/03/10/98-6138/notice-of-inventory-completion-for-native-american-human-remains-from-auburn-ny-in-the-possession-of
+  captured: '2025-02-13'

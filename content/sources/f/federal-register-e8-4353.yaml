@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 12204, published 2008-03-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205003953/https://www.federalregister.gov/documents/2008/03/06/E8-4353/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-trust-acquisition-of
+  captured: '2025-02-05'

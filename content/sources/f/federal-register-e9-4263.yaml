@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 9007, published 2009-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214061001/https://www.federalregister.gov/documents/2009/02/27/E9-4263/notice-of-availability-of-a-final-environmental-impact-statement-and-a-final-conformity
+  captured: '2025-02-14'

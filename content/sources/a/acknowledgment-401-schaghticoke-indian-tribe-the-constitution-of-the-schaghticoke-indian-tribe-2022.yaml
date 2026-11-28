@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/petitions-in-process/schaghticoke-indian-tribe'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812203952/https://www.bia.gov/sites/default/files/media_document/401_dpwd_2022_sit_constitution_508_comp.pdf
+  captured: '2026-08-12'

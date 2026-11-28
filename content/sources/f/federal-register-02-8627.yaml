@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 17462, published 2002-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208224222/https://www.federalregister.gov/documents/2002/04/10/02-8627/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-us-department-of-agriculture
+  captured: '2025-02-08'

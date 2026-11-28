@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 52443, published 2000-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210408075554/https://www.federalregister.gov/documents/2000/08/29/00-21978/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2021-04-08'

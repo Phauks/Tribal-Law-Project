@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 29300, published 2016-05-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216111119/https://www.federalregister.gov/documents/2016/05/11/2016-11093/notice-of-inventory-completion-university-of-california-davis-davis-ca
+  captured: '2025-02-16'

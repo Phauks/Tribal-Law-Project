@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 18558, published 2023-03-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260106183849/https://www.federalregister.gov/documents/2023/03/29/2023-06455/addressing-dementia-in-indian-country-models-of-care
+  captured: '2026-01-06'

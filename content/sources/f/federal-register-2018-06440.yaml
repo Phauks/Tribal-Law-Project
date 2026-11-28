@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 13773, published 2018-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211072902/https://www.federalregister.gov/documents/2018/03/30/2018-06440/agency-information-collection-activities-law-and-order-on-indian-reservations-marriage-and
+  captured: '2025-02-11'

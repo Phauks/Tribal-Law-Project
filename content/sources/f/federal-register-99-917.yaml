@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 2657, published 1999-01-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205004056/https://www.federalregister.gov/documents/1999/01/15/99-917/notice-of-availability-of-a-final-environmental-impact-statement-for-the-proposed-southpoint-power
+  captured: '2025-02-05'

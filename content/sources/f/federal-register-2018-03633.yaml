@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 7763, published 2018-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202071124/https://www.federalregister.gov/documents/2018/02/22/2018-03633/notice-of-intent-to-repatriate-cultural-items-new-jersey-state-museum-trenton-nj
+  captured: '2025-02-02'

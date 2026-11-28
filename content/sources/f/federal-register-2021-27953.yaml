@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 73313, published 2021-12-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204074956/https://www.federalregister.gov/documents/2021/12/27/2021-27953/resumption-of-preparation-of-an-environmental-impact-statement-for-the-proposed-coquille-indian
+  captured: '2025-02-04'

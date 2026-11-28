@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 19873, published 2024-03-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524185326/https://www.federalregister.gov/documents/2024/03/20/2024-05861/notice-of-inventory-completion-office-of-the-state-archaeologist-bioarchaeology-program-university
+  captured: '2025-05-24'

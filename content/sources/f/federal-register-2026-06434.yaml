@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 16721, published 2026-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260722231919/https://www.federalregister.gov/documents/2026/04/02/2026-06434/reversal-of-land-acquisition-koi-nation-of-northern-california-shiloh-site-sonoma-county-california
+  captured: '2026-07-22'

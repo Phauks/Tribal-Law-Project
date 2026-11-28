@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 26911, published 2024-04-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250504114837/https://www.federalregister.gov/documents/2024/04/16/2024-08050/notice-of-inventory-completion-university-of-california-davis-davis-ca
+  captured: '2025-05-04'

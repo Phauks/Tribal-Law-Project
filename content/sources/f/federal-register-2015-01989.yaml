@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 5778, published 2015-02-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210402100707/https://www.federalregister.gov/documents/2015/02/03/2015-01989/pueblo-of-acoma-title-19-alcoholic-beverage-sales-law-of-the-pueblo-of-acoma
+  captured: '2021-04-02'

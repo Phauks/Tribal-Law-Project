@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 32592, published 2015-06-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202105418/https://www.federalregister.gov/documents/2015/06/09/2015-14112/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-glen-canyon
+  captured: '2025-02-02'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 10161, published 1999-03-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210195821/https://www.federalregister.gov/documents/1999/03/02/99-5096/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-arizona-state-museum-the
+  captured: '2025-02-10'

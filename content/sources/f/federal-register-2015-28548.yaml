@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 72492, published 2015-11-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261013095657/https://www.federalregister.gov/documents/2015/11/19/2015-28548/rights-of-way-on-indian-land
+  captured: '2026-10-13'

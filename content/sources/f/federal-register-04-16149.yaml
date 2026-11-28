@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 42775, published 2004-07-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208132810/https://www.federalregister.gov/documents/2004/07/16/04-16149/notice-of-inventory-completion-south-dakota-state-archaeological-research-center-rapid-city-sd-and
+  captured: '2025-02-08'

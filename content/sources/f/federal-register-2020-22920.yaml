@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 65869, published 2020-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206184824/https://www.federalregister.gov/documents/2020/10/16/2020-22920/notice-of-intent-to-repatriate-cultural-items-university-of-california-berkeley-berkeley-ca
+  captured: '2025-02-06'

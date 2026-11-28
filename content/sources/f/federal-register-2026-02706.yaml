@@ -80,3 +80,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 6253, published 2026-02-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260211134420/https://www.federalregister.gov/documents/2026/02/11/2026-02706/notice-of-inventory-completion-office-of-the-state-archaeologist-university-of-iowa-iowa-city-ia
+  captured: '2026-02-11'

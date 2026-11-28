@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 2124, published 2023-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414184612/https://www.federalregister.gov/documents/2023/01/12/2023-00470/notice-of-inventory-completion-saint-louis-science-center-st-louis-mo
+  captured: '2025-04-14'

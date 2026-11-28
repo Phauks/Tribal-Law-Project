@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 9250, published 2010-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210502070111/https://www.federalregister.gov/documents/2010/03/01/2010-4119/plan-for-the-use-and-distribution-of-the-confederated-tribes-of-the-warm-springs-reservation-of
+  captured: '2021-05-02'

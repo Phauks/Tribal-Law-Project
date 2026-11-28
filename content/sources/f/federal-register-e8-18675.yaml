@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 47224, published 2008-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202114206/https://www.federalregister.gov/documents/2008/08/13/E8-18675/notice-of-inventory-completion-alutiiq-museum-and-archaeological-repository-kodiak-ak
+  captured: '2025-02-02'

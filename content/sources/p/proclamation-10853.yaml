@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2024/11/05/2024-25808/national-native-american-heritage-month-2024'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807185322/https://www.federalregister.gov/documents/2024/11/05/2024-25808/national-native-american-heritage-month-2024
+  captured: '2026-08-07'

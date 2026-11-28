@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 10553, published 2012-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207014526/https://www.federalregister.gov/documents/2012/02/22/2012-4053/match-e-be-nash-she-wish-band-of-pottawatomi-indians-gun-lake-amendment-to-liquor-beverage-control
+  captured: '2025-02-07'

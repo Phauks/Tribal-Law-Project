@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12555, published 2025-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611193320/https://www.federalregister.gov/documents/2025/03/18/2025-04386/notice-of-intended-repatriation-san-bernardino-county-museum-redlands-ca
+  captured: '2025-06-11'

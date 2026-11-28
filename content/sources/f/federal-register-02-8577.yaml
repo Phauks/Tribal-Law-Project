@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 17463, published 2002-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208093222/https://www.federalregister.gov/documents/2002/04/10/02-8577/native-american-graves-protection-and-repatriation-review-committee-findings-and-recommendations
+  captured: '2025-02-08'

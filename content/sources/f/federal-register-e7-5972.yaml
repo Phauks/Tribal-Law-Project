@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 15724, published 2007-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208231450/https://www.federalregister.gov/documents/2007/04/02/E7-5972/notice-of-inventory-completion-university-of-colorado-museum-boulder-co
+  captured: '2025-02-08'

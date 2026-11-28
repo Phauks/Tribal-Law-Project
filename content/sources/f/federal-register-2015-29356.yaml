@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 71836, published 2015-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210413063759/https://www.federalregister.gov/documents/2015/11/17/2015-29356/notice-of-inventory-completion-neville-public-museum-of-brown-county-green-bay-wi
+  captured: '2021-04-13'

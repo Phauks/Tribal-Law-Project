@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 60262, published 2020-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251017124414/https://www.federalregister.gov/documents/2020/09/24/2020-21079/notice-of-inventory-completion-michigan-state-university-east-lansing-mi
+  captured: '2025-10-17'

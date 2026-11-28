@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 36109, published 2010-06-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205141615/https://www.federalregister.gov/documents/2010/06/24/2010-15287/notice-of-intent-to-repatriate-cultural-items-california-department-of-parks-and-recreation
+  captured: '2025-02-05'

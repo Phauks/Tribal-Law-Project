@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 64545, published 2007-11-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203183311/https://www.federalregister.gov/documents/2007/11/16/E7-22409/notice-of-extension-of-comment-period
+  captured: '2025-02-03'

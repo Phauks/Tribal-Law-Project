@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 80398, published 2011-12-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810200713/https://www.federalregister.gov/documents/2011/12/23/2011-32977/notice-of-inventory-completion-minnesota-indian-affairs-council-bemidji-mn
+  captured: '2026-08-10'

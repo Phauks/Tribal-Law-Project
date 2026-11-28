@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 34146, published 2005-06-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210411080851/https://www.federalregister.gov/documents/2005/06/13/05-11609/grand-traverse-band-of-ottawa-and-chippewa-indians-sale-and-consumption-of-alcoholic-beverages
+  captured: '2021-04-11'

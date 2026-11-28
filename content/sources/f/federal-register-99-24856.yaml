@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 51785, published 1999-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204162934/https://www.federalregister.gov/documents/1999/09/24/99-24856/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-childrens-museum-boston-ma
+  captured: '2025-02-04'

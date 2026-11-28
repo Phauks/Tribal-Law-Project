@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 63924, published 2007-11-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217083838/https://www.federalregister.gov/documents/2007/11/13/E7-22158/proclaiming-certain-lands-as-reservation-for-the-nottawaseppi-huron-band-of-potawatomi-indians-of
+  captured: '2025-02-17'

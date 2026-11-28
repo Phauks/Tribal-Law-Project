@@ -97,3 +97,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 30473, published 2021-06-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203060732/https://www.federalregister.gov/documents/2021/06/08/2021-11942/notice-of-inventory-completion-metropolitan-park-district-of-the-toledo-area-toledo-oh
+  captured: '2025-02-03'

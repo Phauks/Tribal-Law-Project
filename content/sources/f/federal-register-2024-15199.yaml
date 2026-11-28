@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 56901, published 2024-07-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250421075447/https://www.federalregister.gov/documents/2024/07/11/2024-15199/notice-of-intended-repatriation-us-department-of-the-interior-fish-and-wildlife-service-klamath
+  captured: '2025-04-21'

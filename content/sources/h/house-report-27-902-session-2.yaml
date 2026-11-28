@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: SERIALSET-00410_00_00-163-0902-0000'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260705135227/https://www.govinfo.gov/app/details/SERIALSET-00410_00_00-163-0902-0000
+  captured: '2026-07-05'

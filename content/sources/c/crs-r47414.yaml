@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: R47414, version 5'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260211145532/https://www.congress.gov/crs-product/R47414
+  captured: '2026-02-11'

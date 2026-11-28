@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 56567, published 2001-11-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206050017/https://www.federalregister.gov/documents/2001/11/08/01-28012/mashantucket-pequot-tribe-liquor-control-code
+  captured: '2025-02-06'

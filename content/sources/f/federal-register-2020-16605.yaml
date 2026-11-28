@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 46165, published 2020-07-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204010402/https://www.federalregister.gov/documents/2020/07/31/2020-16605/spirit-lake-tribe-liquor-control-ordinance
+  captured: '2025-02-04'

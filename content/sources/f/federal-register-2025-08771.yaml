@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 21065, published 2025-05-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250517144902/https://www.federalregister.gov/documents/2025/05/16/2025-08771/notice-of-inventory-completion-us-department-of-energy-idaho-operations-office-idaho-falls-id
+  captured: '2025-05-17'

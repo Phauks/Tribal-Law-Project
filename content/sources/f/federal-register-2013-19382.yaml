@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 48900, published 2013-08-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203215051/https://www.federalregister.gov/documents/2013/08/12/2013-19382/notice-of-inventory-completion-state-historical-society-of-wisconsin-madison-wi
+  captured: '2025-02-03'

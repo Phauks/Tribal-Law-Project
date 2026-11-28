@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 39724, published 2012-07-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218212154/https://www.federalregister.gov/documents/2012/07/05/2012-16412/land-acquisitions-19-pueblos
+  captured: '2025-02-18'

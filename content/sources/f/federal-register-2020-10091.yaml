@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 28035, published 2020-05-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204143154/https://www.federalregister.gov/documents/2020/05/12/2020-10091/agency-information-collection-activities-tribal-energy-development-capacity-program
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 34329, published 2017-07-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812111809/https://www.federalregister.gov/documents/2017/07/24/2017-15468/notice-of-intent-to-repatriate-cultural-items-cincinnati-art-museum-cincinnati-oh
+  captured: '2026-08-12'

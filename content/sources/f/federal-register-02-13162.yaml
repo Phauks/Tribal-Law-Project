@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 36646, published 2002-05-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202145709/https://www.federalregister.gov/documents/2002/05/24/02-13162/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-robert-s-peabody-museum-of
+  captured: '2025-02-02'

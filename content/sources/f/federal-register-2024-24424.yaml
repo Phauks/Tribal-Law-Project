@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 84395, published 2024-10-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524223817/https://www.federalregister.gov/documents/2024/10/22/2024-24424/notice-of-intended-repatriation-bryn-mawr-college-bryn-mawr-pa
+  captured: '2025-05-24'

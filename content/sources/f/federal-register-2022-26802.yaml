@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 75653, published 2022-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204050051/https://www.federalregister.gov/documents/2022/12/09/2022-26802/notice-of-inventory-completion-north-carolina-office-of-state-archaeology-raleigh-nc
+  captured: '2025-02-04'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 87063, published 2016-12-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202034109/https://www.federalregister.gov/documents/2016/12/02/2016-28944/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-02-02'

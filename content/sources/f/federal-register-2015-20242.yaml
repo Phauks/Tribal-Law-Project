@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 49946, published 2015-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204134000/https://www.federalregister.gov/documents/2015/08/18/2015-20242/grants-to-tribally-controlled-colleges-and-universities-and-din-college
+  captured: '2025-02-04'

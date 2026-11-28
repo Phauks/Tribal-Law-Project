@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 77789, published 2006-12-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213213809/https://www.federalregister.gov/documents/2006/12/27/E6-22175/notice-of-deadline-for-submitting-completed-applications-to-begin-participation-in-the-tribal
+  captured: '2025-02-13'

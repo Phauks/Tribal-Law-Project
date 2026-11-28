@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 46116, published 2012-08-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204033443/https://www.federalregister.gov/documents/2012/08/02/2012-18931/notice-of-inventory-completion-maxwell-museum-of-anthropology-university-of-new-mexico-albuquerque
+  captured: '2025-02-04'

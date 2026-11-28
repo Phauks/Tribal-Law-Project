@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 67957, published 2022-11-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20221110095133/https://www.federalregister.gov/documents/2022/11/10/2022-24559/notice-of-intent-to-repatriate-cultural-items-federal-bureau-of-investigation-art-theft-program
+  captured: '2022-11-10'

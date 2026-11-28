@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 52013, published 2010-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212054320/https://www.federalregister.gov/documents/2010/08/24/2010-20951/notice-of-intent-to-repatriate-cultural-items-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-12'

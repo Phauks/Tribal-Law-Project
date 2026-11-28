@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 52504, published 2009-10-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210413154151/https://www.federalregister.gov/documents/2009/10/13/E9-24593/notice-of-inventory-completion-riverside-metropolitan-museum-riverside-ca
+  captured: '2021-04-13'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 70519, published 2021-12-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250501123030/https://www.federalregister.gov/documents/2021/12/10/2021-26784/notice-of-intent-to-repatriate-cultural-items-the-field-museum-of-natural-history-chicago-il
+  captured: '2025-05-01'

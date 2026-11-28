@@ -61,3 +61,7 @@ review:
   - check: decided
     result: agree
     detail: index 1998-06-10; cover sheet 1998-06-10; decision 1998-06-10
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325004316/https://www.oha.doi.gov/IBIA/IbiaDecisions/32ibia/32ibia216.PDF
+  captured: '2026-03-25'

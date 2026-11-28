@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 48556, published 2020-08-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203052405/https://www.federalregister.gov/documents/2020/08/11/2020-17490/notice-of-inventory-completion-bruce-museum-inc-greenwich-ct
+  captured: '2025-02-03'

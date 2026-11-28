@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 19940, published 2019-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208091012/https://www.federalregister.gov/documents/2019/05/07/2019-09309/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-bureau-of-indian-affairs
+  captured: '2025-02-08'

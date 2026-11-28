@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 18447, published 1999-04-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208210846/https://www.federalregister.gov/documents/1999/04/14/99-9325/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-peabody-museum-of-archaeology
+  captured: '2025-02-08'

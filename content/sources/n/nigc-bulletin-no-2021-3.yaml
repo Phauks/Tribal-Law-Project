@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Commission''s table was read: https://www.nigc.gov/office-of-chief-of-staff/compliance/bulletins/'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260415125850/https://www.nigc.gov/wp-content/uploads/2024/12/Bulletin_No._2021-3_Submission_of_Agreements_for_Review__1.pdf
+  captured: '2026-04-15'

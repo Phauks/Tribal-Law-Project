@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 58035, published 2011-09-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203045102/https://www.federalregister.gov/documents/2011/09/19/2011-23964/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-reclamation-phoenix-area
+  captured: '2025-02-03'

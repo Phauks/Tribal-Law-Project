@@ -89,3 +89,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 35047, published 2016-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260328012939/https://www.federalregister.gov/documents/2016/06/01/2016-12747/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-wupatki-national
+  captured: '2026-03-28'

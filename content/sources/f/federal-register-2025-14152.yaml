@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35540, published 2025-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250827192318/https://www.federalregister.gov/documents/2025/07/28/2025-14152/notice-of-inventory-completion-columbia-university-department-of-anthropology-new-york-ny
+  captured: '2025-08-27'

@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 5852, published 2009-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210517150004/https://www.federalregister.gov/documents/2009/02/02/E9-2111/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2021-05-17'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 102950, published 2024-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202221243/https://www.federalregister.gov/documents/2024/12/18/2024-29939/notice-of-inventory-completion-fowler-museum-at-ucla-los-angeles-ca
+  captured: '2025-02-02'

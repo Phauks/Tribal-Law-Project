@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 30967, published 2008-05-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210508130543/https://www.federalregister.gov/documents/2008/05/29/E8-11989/notice-of-intent-to-repatriate-cultural-items-university-of-new-hampshire-durham-nh
+  captured: '2021-05-08'

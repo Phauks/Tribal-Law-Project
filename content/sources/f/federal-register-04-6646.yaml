@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 15379, published 2004-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260517124020/https://www.federalregister.gov/documents/2004/03/25/04-6646/notice-of-inventory-completion-university-of-california-riverside-riverside-ca
+  captured: '2026-05-17'

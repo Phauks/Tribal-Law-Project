@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 17477, published 2015-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502142414/https://www.federalregister.gov/documents/2015/04/01/2015-07394/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-montezuma-castle
+  captured: '2025-05-02'

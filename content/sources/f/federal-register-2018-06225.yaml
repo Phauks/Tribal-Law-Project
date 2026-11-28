@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 13298, published 2018-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206155335/https://www.federalregister.gov/documents/2018/03/28/2018-06225/hearth-act-approval-of-cheyenne-and-arapaho-tribes-business-site-leasing-regulations
+  captured: '2025-02-06'

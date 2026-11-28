@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 14499, published 2018-04-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260207001012/https://www.federalregister.gov/documents/2018/04/04/2018-06827/notice-of-inventory-completion-peabody-essex-museum-salem-ma
+  captured: '2026-02-07'

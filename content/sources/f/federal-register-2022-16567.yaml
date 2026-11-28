@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 47461, published 2022-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202095939/https://www.federalregister.gov/documents/2022/08/03/2022-16567/notice-of-intent-to-repatriate-cultural-items-valentine-museum-richmond-va
+  captured: '2025-02-02'

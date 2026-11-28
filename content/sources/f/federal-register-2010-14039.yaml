@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 33329, published 2010-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201150940/https://www.federalregister.gov/documents/2010/06/11/2010-14039/notice-of-inventory-completion-new-york-university-college-of-dentistry-new-york-ny
+  captured: '2025-02-01'

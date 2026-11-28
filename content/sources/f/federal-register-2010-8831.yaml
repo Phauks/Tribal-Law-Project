@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 20608, published 2010-04-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210191555/https://www.federalregister.gov/documents/2010/04/20/2010-8831/notice-of-re-designation-of-the-service-delivery-area-for-the-cowlitz-indian-tribe
+  captured: '2025-02-10'

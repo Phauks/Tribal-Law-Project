@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 9372, published 2006-02-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208213757/https://www.federalregister.gov/documents/2006/02/23/06-1628/notice-of-inventory-completion-david-phelps-archaeology-laboratory-of-east-carolina-university-east
+  captured: '2025-02-08'

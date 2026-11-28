@@ -88,3 +88,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 16379, published 2020-03-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204212855/https://www.federalregister.gov/documents/2020/03/23/2020-06038/notice-of-inventory-completion-illinois-state-museum-springfield-il
+  captured: '2025-02-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 27279, published 2017-06-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201150852/https://www.federalregister.gov/documents/2017/06/14/2017-12293/notice-of-inventory-completion-san-bernardino-county-sheriff-coroner-san-bernardino-ca
+  captured: '2025-02-01'

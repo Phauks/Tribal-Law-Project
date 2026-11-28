@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 59544, published 2009-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219081224/https://www.federalregister.gov/documents/2009/11/18/E9-27540/request-for-public-comment-60-day-proposed-information-collection-office-of-urban-indian-health
+  captured: '2025-02-19'

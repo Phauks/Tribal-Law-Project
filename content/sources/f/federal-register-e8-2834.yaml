@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 8897, published 2008-02-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204235658/https://www.federalregister.gov/documents/2008/02/15/E8-2834/draft-environmental-impact-statement-for-the-confederated-tribes-of-the-warm-springs-reservation-of
+  captured: '2025-02-04'

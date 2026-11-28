@@ -18,7 +18,10 @@ citation:
       - 26
 original_link: https://www.potawatomi.org/blog/2024/05/27/cpn-signs-compact-with-u-s-department-of-transportation/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127013445/https://www.potawatomi.org/blog/2024/05/27/cpn-signs-compact-with-u-s-department-of-transportation/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

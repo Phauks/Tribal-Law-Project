@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 28604, published 2023-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260509095724/https://www.federalregister.gov/documents/2023/05/04/2023-09469/notice-of-inventory-completion-university-of-wyoming-human-remains-repository-laramie-wy
+  captured: '2026-05-09'

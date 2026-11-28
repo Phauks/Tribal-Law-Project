@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 20402, published 2021-04-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204100715/https://www.federalregister.gov/documents/2021/04/19/2021-08014/agency-information-collection-activities-probate-of-indian-estates-except-for-members-of-the-osage
+  captured: '2025-02-04'

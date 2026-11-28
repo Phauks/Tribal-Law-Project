@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 46511, published 1997-09-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212122308/https://www.federalregister.gov/documents/1997/09/03/97-23366/notice-of-intent-to-repatriate-cultural-items-from-new-york-in-the-possession-of-the-springfield
+  captured: '2025-02-12'

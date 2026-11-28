@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 435, published 2010-01-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201213654/https://www.federalregister.gov/documents/2010/01/05/E9-31222/notice-of-inventory-completion-department-of-anthropology-university-of-massachusetts-amherst-ma
+  captured: '2025-02-01'

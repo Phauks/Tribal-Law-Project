@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 42359, published 2014-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210415181554/https://www.federalregister.gov/documents/2014/07/21/2014-17093/notice-of-inventory-completion-indiana-university-purdue-university-fort-wayne-archaeological-survey
+  captured: '2021-04-15'

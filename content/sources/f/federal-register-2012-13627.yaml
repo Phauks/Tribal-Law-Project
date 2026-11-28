@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 33470, published 2012-06-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210523233236/https://www.federalregister.gov/documents/2012/06/06/2012-13627/reimbursement-rates-for-calendar-year-2012
+  captured: '2021-05-23'

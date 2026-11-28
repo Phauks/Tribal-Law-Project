@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 46707, published 2020-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203060645/https://www.federalregister.gov/documents/2020/08/03/2020-16776/notice-of-inventory-completion-warren-anatomical-museum-harvard-university-boston-ma
+  captured: '2025-02-03'

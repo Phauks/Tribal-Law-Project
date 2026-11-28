@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 26753, published 2011-05-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205040842/https://www.federalregister.gov/documents/2011/05/09/2011-11196/grant-program-to-assess-evaluate-and-promote-development-of-tribal-energy-and-mineral-resources
+  captured: '2025-02-05'

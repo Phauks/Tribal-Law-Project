@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 5104, published 2010-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215061020/https://www.federalregister.gov/documents/2010/02/01/2010-2027/notice-of-inventory-completion-madison-county-historical-society-edwardsville-il
+  captured: '2025-02-15'

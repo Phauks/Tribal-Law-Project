@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 41883, published 2010-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204230844/https://www.federalregister.gov/documents/2010/07/19/2010-17483/notice-of-inventory-completion-museum-of-anthropology-washington-state-university-pullman-wa
+  captured: '2025-02-04'

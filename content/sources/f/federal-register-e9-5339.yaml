@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 10765, published 2009-03-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210515211824/https://www.federalregister.gov/documents/2009/03/12/E9-5339/notice-of-inventory-completion-oregon-state-university-department-of-anthropology-corvallis-or
+  captured: '2021-05-15'

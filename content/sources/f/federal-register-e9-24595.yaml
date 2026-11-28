@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 52501, published 2009-10-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204160400/https://www.federalregister.gov/documents/2009/10/13/E9-24595/notice-of-intent-to-repatriate-cultural-items-maryhill-museum-of-art-goldendale-wa
+  captured: '2025-02-04'

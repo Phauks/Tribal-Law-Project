@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 47225, published 2017-10-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202134917/https://www.federalregister.gov/documents/2017/10/11/2017-21798/preventing-alcohol-related-deaths-pard-through-social-detoxification-extension-of-due-dates
+  captured: '2025-02-02'

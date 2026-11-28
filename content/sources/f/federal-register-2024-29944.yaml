@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 102948, published 2024-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202205041/https://www.federalregister.gov/documents/2024/12/18/2024-29944/notice-of-inventory-completion-vanderbilt-university-nashville-tn
+  captured: '2025-02-02'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 8456, published 1997-02-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250221010959/https://www.federalregister.gov/documents/1997/02/25/97-4690/proposed-road-maintenance-funding-distribution-methodology
+  captured: '2025-02-21'

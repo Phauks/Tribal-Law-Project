@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 44450, published 2017-09-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212101634/https://www.federalregister.gov/documents/2017/09/22/2017-20299/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-reclamation-mid-pacific
+  captured: '2025-02-12'

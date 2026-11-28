@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 33091, published 2022-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260720105656/https://www.federalregister.gov/documents/2022/06/01/2022-11482/audit-standards
+  captured: '2026-07-20'

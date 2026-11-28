@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 1576, published 2001-01-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209005139/https://www.federalregister.gov/documents/2001/01/09/01-376/distribution-of-fiscal-year-2001-indian-reservation-roads-funds
+  captured: '2025-02-09'

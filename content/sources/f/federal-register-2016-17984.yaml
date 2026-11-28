@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 50006, published 2016-07-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210410232217/https://www.federalregister.gov/documents/2016/07/29/2016-17984/renewal-of-agency-information-collection-for-indian-self-determination-and-education-assistance-act
+  captured: '2021-04-10'

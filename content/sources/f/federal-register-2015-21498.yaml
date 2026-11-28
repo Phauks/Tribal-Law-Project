@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 52490, published 2015-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213233154/https://www.federalregister.gov/documents/2015/08/31/2015-21498/notice-of-inventory-completion-us-department-of-the-interior-fish-and-wildlife-service-alaska-region
+  captured: '2025-02-13'

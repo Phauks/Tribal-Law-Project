@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 62596, published 2023-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206190202/https://www.federalregister.gov/documents/2023/09/12/2023-19602/notice-of-inventory-completion-missouri-department-of-natural-resources-jefferson-city-mo
+  captured: '2025-02-06'

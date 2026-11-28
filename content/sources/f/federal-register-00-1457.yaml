@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 3472, published 2000-01-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203173655/https://www.federalregister.gov/documents/2000/01/21/00-1457/final-environmental-impact-statement-for-the-proposed-cabazon-section-6-general-plan-cabazon-indian
+  captured: '2025-02-03'

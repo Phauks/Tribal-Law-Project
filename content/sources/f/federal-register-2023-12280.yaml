@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 37576, published 2023-06-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204045025/https://www.federalregister.gov/documents/2023/06/08/2023-12280/notice-of-inventory-completion-kansas-city-museum-kansas-city-mo
+  captured: '2025-02-04'

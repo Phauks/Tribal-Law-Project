@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 37, published 2020-01-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250228002452/https://www.federalregister.gov/documents/2020/01/02/2019-27998/procedures-for-federal-acknowledgment-of-alaska-native-entities
+  captured: '2025-02-28'

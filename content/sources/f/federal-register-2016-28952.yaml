@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 87055, published 2016-12-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202061728/https://www.federalregister.gov/documents/2016/12/02/2016-28952/notice-of-intent-to-repatriate-cultural-items-peabody-museum-of-natural-history-yale-university-new
+  captured: '2025-02-02'

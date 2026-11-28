@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 28001, published 2015-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210422111744/https://www.federalregister.gov/documents/2015/05/15/2015-11298/draft-environmental-impact-statement-for-the-proposed-aiya-solar-project-clark-county-nevada
+  captured: '2021-04-22'

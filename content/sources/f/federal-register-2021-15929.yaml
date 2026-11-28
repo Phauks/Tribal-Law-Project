@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 40147, published 2021-07-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250827192658/https://www.federalregister.gov/documents/2021/07/27/2021-15929/tribal-energy-resource-agreements
+  captured: '2025-08-27'

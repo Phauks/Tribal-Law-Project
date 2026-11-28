@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 58619, published 2008-10-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210926151535/https://www.federalregister.gov/documents/2008/10/07/E8-23696/notice-of-intent-to-repatriate-cultural-items-peabody-museum-of-archaeology-and-ethnology-harvard
+  captured: '2021-09-26'

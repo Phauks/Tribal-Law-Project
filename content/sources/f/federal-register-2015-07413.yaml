@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 17480, published 2015-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251205042635/https://www.federalregister.gov/documents/2015/04/01/2015-07413/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-national-park-service
+  captured: '2025-12-05'

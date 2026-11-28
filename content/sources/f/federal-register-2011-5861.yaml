@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 14059, published 2011-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204172947/https://www.federalregister.gov/documents/2011/03/15/2011-5861/notice-of-inventory-completion-bureau-of-land-management-casper-field-office-casper-wy-and
+  captured: '2025-02-04'

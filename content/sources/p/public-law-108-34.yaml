@@ -23,7 +23,10 @@ citation:
       - 27
 original_link: https://www.govinfo.gov/app/details/STATUTE-117/STATUTE-117-Pg782
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807061443/https://www.govinfo.gov/app/details/STATUTE-117/STATUTE-117-Pg782
+  captured: '2026-08-07'
 file:
   storage_key: govinfo/STATUTE-117/STATUTE-117-Pg782.pdf
   checksum: 7e74071aa5cb9db1f5cc446727af446ec82c39f23dfb63dfc4824f561a4ee74b

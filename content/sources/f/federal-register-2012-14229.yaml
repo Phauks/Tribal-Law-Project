@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 34981, published 2012-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208205159/https://www.federalregister.gov/documents/2012/06/12/2012-14229/stillaguamish-tribe-of-indians-liquor-control-ordinance
+  captured: '2025-02-08'

@@ -86,3 +86,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 11673, published 2013-02-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202062853/https://www.federalregister.gov/documents/2013/02/19/2013-03629/notice-of-inventory-completion-university-of-washington-department-of-anthropology-seattle-wa
+  captured: '2025-02-02'

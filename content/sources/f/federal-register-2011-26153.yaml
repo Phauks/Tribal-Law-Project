@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 62833, published 2011-10-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209021115/https://www.federalregister.gov/documents/2011/10/11/2011-26153/notice-of-inventory-completion-university-of-colorado-museum-boulder-co
+  captured: '2025-02-09'

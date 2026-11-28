@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 64558, published 2006-11-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204221056/https://www.federalregister.gov/documents/2006/11/02/E6-18483/notice-of-inventory-completion-southwest-museum-of-the-american-indian-autry-national-center-los
+  captured: '2025-02-04'

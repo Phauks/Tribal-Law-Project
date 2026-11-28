@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 28265, published 2018-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208205802/https://www.federalregister.gov/documents/2018/06/18/2018-13028/notice-of-inventory-completion-history-museum-on-the-square-springfield-mo
+  captured: '2025-02-08'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 4966, published 1999-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209003708/https://www.federalregister.gov/documents/1999/02/02/99-2219/minimum-internal-control-standards
+  captured: '2025-02-09'

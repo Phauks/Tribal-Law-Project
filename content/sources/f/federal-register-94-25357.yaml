@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-10-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204040640/https://www.federalregister.gov/documents/1994/10/13/94-25357/protection-for-products-of-indian-art-and-craftsmanship
+  captured: '2025-02-04'

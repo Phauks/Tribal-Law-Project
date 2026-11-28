@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 33068, published 1995-06-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204161445/https://www.federalregister.gov/documents/1995/06/26/95-15529/the-twenty-nine-palms-band-of-mission-indians-liquor-control-ordinance
+  captured: '2025-02-04'

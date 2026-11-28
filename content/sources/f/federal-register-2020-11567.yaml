@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 32412, published 2020-05-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203224409/https://www.federalregister.gov/documents/2020/05/29/2020-11567/notice-of-inventory-completion-department-of-anthropology-southern-methodist-university-dallas-tx
+  captured: '2025-02-03'

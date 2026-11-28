@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 31608, published 1999-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208205552/https://www.federalregister.gov/documents/1999/06/11/99-14829/notice-of-inventory-completion-for-native-american-human-remains-from-hawaii-in-the-possession-of
+  captured: '2025-02-08'

@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/yuchi-tribal-organization'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260926182625/https://www.bia.gov/sites/default/files/media_document/121_fd.pdf
+  captured: '2026-09-26'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 1492, published 1998-01-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204105933/https://www.federalregister.gov/documents/1998/01/09/98-694/liquor-control-ordinance-of-the-prairie-band-of-potawatomi-reservation
+  captured: '2025-02-04'

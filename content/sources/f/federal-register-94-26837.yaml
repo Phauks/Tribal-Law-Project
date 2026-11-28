@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-10-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202030309/https://www.federalregister.gov/documents/1994/10/31/94-26837/indian-monies-proceeds-of-labor-impl
+  captured: '2025-02-02'

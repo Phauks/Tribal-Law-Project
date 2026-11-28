@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 65765, published 2026-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261016073151/https://www.federalregister.gov/documents/2026/10/16/2026-21116/notice-of-inventory-completion-university-of-texas-at-san-antonio-center-for-archaeological-research
+  captured: '2026-10-16'

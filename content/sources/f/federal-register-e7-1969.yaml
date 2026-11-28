@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 5742, published 2007-02-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216030237/https://www.federalregister.gov/documents/2007/02/07/E7-1969/notice-of-intent-to-repatriate-cultural-items-springfield-science-museum-springfield-ma
+  captured: '2025-02-16'

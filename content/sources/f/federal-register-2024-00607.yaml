@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 2639, published 2024-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524190805/https://www.federalregister.gov/documents/2024/01/16/2024-00607/notice-of-inventory-completion-amendment-university-of-california-riverside-riverside-ca
+  captured: '2025-05-24'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 78178, published 2016-11-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260716235913/https://www.federalregister.gov/documents/2016/11/07/2016-26858/proclaiming-certain-lands-as-reservation-for-the-confederated-tribes-of-the-chehalis-reservation
+  captured: '2026-07-16'

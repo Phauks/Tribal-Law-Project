@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 18444, published 1999-04-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210408165249/https://www.federalregister.gov/documents/1999/04/14/99-9328/notice-of-inventory-completion-for-native-american-human-remains-from-fresno-county-ca-in-the
+  captured: '2021-04-08'

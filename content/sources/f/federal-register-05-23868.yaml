@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 73262, published 2005-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206050601/https://www.federalregister.gov/documents/2005/12/09/05-23868/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-02-06'

@@ -20,7 +20,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/6466483/coughlin-v-lac-du-flambeau-band-of-lake-superior-chippewa-ind/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128175615/https://www.courtlistener.com/opinion/6466483/coughlin-v-lac-du-flambeau-band-of-lake-superior-chippewa-ind/
+  captured: '2026-11-28'
 history:
   status: live
   last_checked: '2026-11-26'

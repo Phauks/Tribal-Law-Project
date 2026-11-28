@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 40858, published 2023-06-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611194753/https://www.federalregister.gov/documents/2023/06/22/2023-13299/notice-of-inventory-completion-robbins-museum-of-archaeology-middleborough-ma
+  captured: '2025-06-11'

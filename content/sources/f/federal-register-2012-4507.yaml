@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 11568, published 2012-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812184005/https://www.federalregister.gov/documents/2012/02/27/2012-4507/notice-of-intent-to-repatriate-cultural-items-us-department-of-defense-army-corps-of-engineers-walla
+  captured: '2026-08-12'

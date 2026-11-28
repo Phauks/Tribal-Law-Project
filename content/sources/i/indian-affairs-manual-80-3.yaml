@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the manual page was read: https://www.bia.gov/policy-forms/manual'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261116165351/https://www.bia.gov/sites/default/files/dup/assets/public/raca/manual/pdf/80-iam-3_ops-and-maintenance_final_signed_8.19.25_508.pdf
+  captured: '2026-11-16'

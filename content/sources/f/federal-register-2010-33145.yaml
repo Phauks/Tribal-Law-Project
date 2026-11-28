@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 377, published 2011-01-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250519095133/https://www.federalregister.gov/documents/2011/01/04/2010-33145/land-acquisitions-cowlitz-indian-tribe-of-washington
+  captured: '2025-05-19'

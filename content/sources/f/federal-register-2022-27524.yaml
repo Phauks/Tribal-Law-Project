@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 77884, published 2022-12-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204033725/https://www.federalregister.gov/documents/2022/12/20/2022-27524/notice-of-inventory-completion-santa-barbara-museum-of-natural-history-santa-barbara-ca
+  captured: '2025-02-04'

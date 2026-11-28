@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 42217, published 2004-07-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216100647/https://www.federalregister.gov/documents/2004/07/14/04-15961/notice-of-intent-to-prepare-an-environmental-impact-statement-and-of-a-scoping-meeting-for-the
+  captured: '2025-02-16'

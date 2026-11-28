@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os3A.pdf#page=154
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251209001231/https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os3A.pdf
+  captured: '2025-12-09'
 history:
   status: live
   last_checked: '2026-11-26'

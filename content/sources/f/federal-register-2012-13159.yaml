@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 32132, published 2012-05-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209023754/https://www.federalregister.gov/documents/2012/05/31/2012-13159/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-fee-to-trust-transfer
+  captured: '2025-02-09'

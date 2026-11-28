@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 52491, published 2021-09-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204014009/https://www.federalregister.gov/documents/2021/09/21/2021-20346/agency-information-collection-activities-loan-guarantee-insurance-and-interest-subsidy-program
+  captured: '2025-02-04'

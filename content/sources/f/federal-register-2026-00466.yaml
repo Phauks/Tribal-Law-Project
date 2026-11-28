@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 1340, published 2026-01-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260507061859/https://www.federalregister.gov/documents/2026/01/13/2026-00466/notice-of-intended-repatriation-sonoma-state-university-rohnert-park-ca
+  captured: '2026-05-07'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 10613, published 2009-03-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213135657/https://www.federalregister.gov/documents/2009/03/11/E9-5315/notice-of-intent-to-repatriate-a-cultural-item-san-diego-museum-of-man-san-diego-ca
+  captured: '2025-02-13'

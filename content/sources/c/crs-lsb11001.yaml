@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: LSB11001, version 1'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260223163235/https://www.congress.gov/crs-product/LSB11001
+  captured: '2026-02-23'

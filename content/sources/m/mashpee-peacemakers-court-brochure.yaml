@@ -16,7 +16,10 @@ citation:
       - 21
 original_link: https://www.mashpeewampanoagtribe-nsn.gov/s/PM-Brochure-updated1.pdf
 retrieved: '2026-11-21'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127143013/https://static1.squarespace.com/static/59ca33c0f09ca4a9c58455a9/t/5a3c6a5a652deabe1f65ed93/1513908831432/PM-Brochure-updated%281%29.pdf
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-21'

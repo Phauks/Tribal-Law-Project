@@ -18,7 +18,10 @@ citation:
       - 27
 original_link: https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23J/Section9A
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260713163027/https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23J/Section9A/
+  captured: '2026-07-13'
 history:
   status: live
   last_checked: '2026-11-27'

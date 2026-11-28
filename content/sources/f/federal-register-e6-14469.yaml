@@ -88,3 +88,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 51633, published 2006-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218052720/https://www.federalregister.gov/documents/2006/08/30/E6-14469/notice-of-inventory-completion-colorado-historical-society-denver-co-correction
+  captured: '2025-02-18'

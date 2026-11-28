@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 51462, published 2007-09-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214191729/https://www.federalregister.gov/documents/2007/09/07/E7-17356/draft-environmental-impact-statement-for-the-proposed-desert-rock-energy-project-and-the-navajo-mine
+  captured: '2025-02-14'

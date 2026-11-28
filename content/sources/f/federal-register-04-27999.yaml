@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 76779, published 2004-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210330110750/https://www.federalregister.gov/documents/2004/12/22/04-27999/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-bureau-of-indian-affairs
+  captured: '2021-03-30'

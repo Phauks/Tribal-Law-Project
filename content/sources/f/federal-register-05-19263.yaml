@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 56482, published 2005-09-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210503091225/https://www.federalregister.gov/documents/2005/09/27/05-19263/notice-of-inventory-completion-alma-college-alma-mi
+  captured: '2021-05-03'

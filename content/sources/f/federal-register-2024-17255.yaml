@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 63978, published 2024-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525171923/https://www.federalregister.gov/documents/2024/08/06/2024-17255/notice-of-intended-repatriation-south-carolina-institute-of-archaeology-and-anthropology-university
+  captured: '2025-05-25'

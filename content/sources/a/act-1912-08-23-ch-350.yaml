@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-37/STATUTE-37-Pg360-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127072846/https://www.govinfo.gov/app/details/STATUTE-37/STATUTE-37-Pg360-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-37/STATUTE-37-Pg360-2.pdf
   checksum: a740ddda08bcf08d70c66aba7925f0a38ae4e322df7f060c9b0047fc0342d0c0

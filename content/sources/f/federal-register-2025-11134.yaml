@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 25625, published 2025-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250622170925/https://www.federalregister.gov/documents/2025/06/17/2025-11134/notice-of-inventory-completion-duke-university-durham-nc
+  captured: '2025-06-22'

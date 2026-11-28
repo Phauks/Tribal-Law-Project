@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 30970, published 2008-05-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261024050905/https://www.federalregister.gov/documents/2008/05/29/E8-12002/notice-of-inventory-completion-robert-s-peabody-museum-of-archaeology-phillips-academy-andover-ma
+  captured: '2026-10-24'

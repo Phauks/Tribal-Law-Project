@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title23/T23CH9/SECT23-903
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260211183025/https://legislature.idaho.gov/statutesrules/idstat/Title23/T23CH9/SECT23-903/
+  captured: '2026-02-11'
 history:
   status: live
   last_checked: '2026-11-27'

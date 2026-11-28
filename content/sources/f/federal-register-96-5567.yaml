@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 9483, published 1996-03-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209030059/https://www.federalregister.gov/documents/1996/03/08/96-5567/draft-environmental-impact-statement-deis-for-the-proposed-el-rancho-electric-substation-santa-fe
+  captured: '2025-02-09'

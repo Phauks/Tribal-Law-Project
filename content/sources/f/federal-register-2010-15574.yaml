@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 36676, published 2010-06-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203032724/https://www.federalregister.gov/documents/2010/06/28/2010-15574/notice-of-inventory-completion-missouri-department-of-natural-resources-jefferson-city-mo
+  captured: '2025-02-03'

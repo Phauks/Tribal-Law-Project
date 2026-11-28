@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 89139, published 2016-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206005638/https://www.federalregister.gov/documents/2016/12/09/2016-29536/notice-of-inventory-completion-wisconsin-historical-society-madison-wi-and-lawrence-university
+  captured: '2025-02-06'

@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 42741, published 2023-07-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207015115/https://www.federalregister.gov/documents/2023/07/03/2023-14075/notice-of-inventory-completion-santa-barbara-museum-of-natural-history-santa-barbara-ca
+  captured: '2025-02-07'

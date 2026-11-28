@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 6738, published 2005-02-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218233008/https://www.federalregister.gov/documents/2005/02/08/05-2431/fee-rates
+  captured: '2025-02-18'

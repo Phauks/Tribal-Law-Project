@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 35435, published 2020-06-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202115421/https://www.federalregister.gov/documents/2020/06/10/2020-12550/notice-of-inventory-completion-university-of-north-carolina-at-chapel-hill-research-laboratories-of
+  captured: '2025-02-02'

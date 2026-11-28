@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 23495, published 2003-05-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215211209/https://www.federalregister.gov/documents/2003/05/02/03-10911/notice-of-inventory-completion-university-of-california-riverside-riverside-ca
+  captured: '2025-02-15'

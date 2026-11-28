@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 47270, published 2009-09-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208225247/https://www.federalregister.gov/documents/2009/09/15/E9-22212/notice-of-intent-to-repatriate-cultural-items-department-of-natural-resources-des-moines-ia-and
+  captured: '2025-02-08'

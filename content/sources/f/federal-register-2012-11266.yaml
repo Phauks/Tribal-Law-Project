@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 27477, published 2012-05-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209003717/https://www.federalregister.gov/documents/2012/05/10/2012-11266/renewal-of-agency-information-collection-for-the-tribal-reassumption-of-jurisdiction-over-child
+  captured: '2025-02-09'

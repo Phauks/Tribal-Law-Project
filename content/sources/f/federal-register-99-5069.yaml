@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 10160, published 1999-03-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210502094419/https://www.federalregister.gov/documents/1999/03/02/99-5069/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2021-05-02'

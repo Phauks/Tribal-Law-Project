@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 14757, published 1999-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250515151219/https://www.federalregister.gov/documents/1999/03/26/99-7501/notice-of-intent-to-repatriate-cultural-items-from-webster-county-ne-in-the-possession-of-the
+  captured: '2025-05-15'

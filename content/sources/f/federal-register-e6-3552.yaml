@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 13162, published 2006-03-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211231044/https://www.federalregister.gov/documents/2006/03/14/E6-3552/notice-of-inventory-completion-gilcrease-museum-tulsa-ok
+  captured: '2025-02-11'

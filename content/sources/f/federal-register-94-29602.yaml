@@ -48,3 +48,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-12-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204081337/https://www.federalregister.gov/documents/1994/12/01/94-29602/notice-of-intent-to-prepare-an-environmental-impact-statement-for-nordic-power-plant-and-associated
+  captured: '2025-02-04'

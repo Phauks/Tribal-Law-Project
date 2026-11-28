@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 35915, published 2023-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209002840/https://www.federalregister.gov/documents/2023/06/01/2023-11693/notice-of-intent-to-repatriate-cultural-items-museum-of-us-san-diego-ca
+  captured: '2025-02-09'

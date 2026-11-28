@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 37575, published 2023-06-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230608081556/https://www.federalregister.gov/documents/2023/06/08/2023-12285/notice-of-intent-to-repatriate-cultural-items-fine-arts-museums-of-san-francisco-san-francisco-ca
+  captured: '2023-06-08'

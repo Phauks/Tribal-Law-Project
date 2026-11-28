@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 55894, published 2026-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261013102909/https://www.federalregister.gov/documents/2026/08/31/2026-17709/notice-of-inventory-completion-us-army-corps-of-engineers-norfolk-district-norfolk-va
+  captured: '2026-10-13'

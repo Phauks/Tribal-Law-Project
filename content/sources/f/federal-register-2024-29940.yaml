@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 102944, published 2024-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524184527/https://www.federalregister.gov/documents/2024/12/18/2024-29940/notice-of-intended-repatriation-peabody-museum-of-archaeology-and-ethnology-harvard-university
+  captured: '2025-05-24'

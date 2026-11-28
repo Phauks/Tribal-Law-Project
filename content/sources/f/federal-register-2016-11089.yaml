@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 29296, published 2016-05-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260328033134/https://www.federalregister.gov/documents/2016/05/11/2016-11089/notice-of-inventory-completion-university-of-oregon-museum-of-natural-and-cultural-history-eugene-or
+  captured: '2026-03-28'

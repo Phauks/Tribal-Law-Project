@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 51361, published 2024-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250403230531/https://www.federalregister.gov/documents/2024/06/17/2024-13246/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-04-03'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 53344, published 2021-09-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202000453/https://www.federalregister.gov/documents/2021/09/27/2021-20914/notice-of-intent-to-repatriate-cultural-items-california-state-university-sacramento-sacramento-ca
+  captured: '2025-02-02'

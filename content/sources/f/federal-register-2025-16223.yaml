@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 41403, published 2025-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825221550/https://www.federalregister.gov/documents/2025/08/25/2025-16223/agency-information-collection-activities-leases-and-permits
+  captured: '2025-08-25'

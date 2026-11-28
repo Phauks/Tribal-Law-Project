@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 16161, published 2006-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208182214/https://www.federalregister.gov/documents/2006/03/30/06-3057/proposed-information-collection-indian-health-service-chief-executive-officer-retention-survey
+  captured: '2025-02-08'

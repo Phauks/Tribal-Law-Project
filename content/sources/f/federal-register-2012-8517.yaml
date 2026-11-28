@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 21568, published 2012-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204220017/https://www.federalregister.gov/documents/2012/04/10/2012-8517/indian-health-professions-preparatory-indian-health-professions-pregraduate-and-indian-health
+  captured: '2025-02-04'

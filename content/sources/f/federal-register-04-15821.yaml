@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 42065, published 2004-07-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210415031932/https://www.federalregister.gov/documents/2004/07/13/04-15821/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-nottawaseppi-huron
+  captured: '2021-04-15'

@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://nebraskalegislature.gov/laws/statutes.php?statute=77-2603.01
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260718185155/https://nebraskalegislature.gov/laws/statutes.php?statute=77-2603.01
+  captured: '2026-07-18'
 history:
   status: live
   last_checked: '2026-11-27'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 35221, published 2011-06-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204013721/https://www.federalregister.gov/documents/2011/06/16/2011-14794/epidemiology-program-for-american-indianalaska-native-tribes-and-urban-indian-communities-correction
+  captured: '2025-02-04'

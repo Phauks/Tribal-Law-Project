@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-102/STATUTE-102-Pg2938
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205190818/https://www.govinfo.gov/app/details/STATUTE-102/STATUTE-102-Pg2938
+  captured: '2025-02-05'
 file:
   storage_key: govinfo/STATUTE-102/STATUTE-102-Pg2938.pdf
   checksum: 5f34b24cf08f475d46ba01c8d8221f3c370e698cf11d5e827ebfa9d0d8941ebb

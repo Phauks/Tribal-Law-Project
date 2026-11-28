@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 13490, published 2017-03-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208215220/https://www.federalregister.gov/documents/2017/03/13/2017-04855/notice-of-intent-to-repatriate-cultural-items-denver-museum-of-nature-and-science-denver-co
+  captured: '2025-02-08'

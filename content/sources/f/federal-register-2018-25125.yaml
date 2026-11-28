@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 58297, published 2018-11-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260416132716/https://www.federalregister.gov/documents/2018/11/19/2018-25125/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-utah-state
+  captured: '2026-04-16'

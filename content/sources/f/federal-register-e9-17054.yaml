@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 34775, published 2009-07-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206184055/https://www.federalregister.gov/documents/2009/07/17/E9-17054/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-tumacacori
+  captured: '2025-02-06'

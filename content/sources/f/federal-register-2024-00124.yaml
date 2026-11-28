@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 957, published 2024-01-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240610005825/https://www.federalregister.gov/documents/2024/01/08/2024-00124/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-yosemite-national
+  captured: '2024-06-10'

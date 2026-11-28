@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 2685, published 2013-01-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205061406/https://www.federalregister.gov/documents/2013/01/14/2013-00527/notice-of-intent-to-prepare-a-programmatic-environmental-impact-statement-eis-for-the-navajo-nation
+  captured: '2025-02-05'

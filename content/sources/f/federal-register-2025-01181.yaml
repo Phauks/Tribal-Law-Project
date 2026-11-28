@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 5994, published 2025-01-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203093800/https://www.federalregister.gov/documents/2025/01/17/2025-01181/notice-of-intended-repatriation-us-department-of-the-interior-national-park-service-great-smoky
+  captured: '2025-02-03'

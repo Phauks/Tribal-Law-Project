@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 25743, published 2012-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260813094230/https://www.federalregister.gov/documents/2012/05/01/2012-10497/notice-of-inventory-completion-fowler-museum-at-ucla-los-angeles-ca
+  captured: '2026-08-13'

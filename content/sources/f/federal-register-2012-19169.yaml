@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 47513, published 2012-08-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206183100/https://www.federalregister.gov/documents/2012/08/09/2012-19169/definition-of-enforcement-action
+  captured: '2025-02-06'

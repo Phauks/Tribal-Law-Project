@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 36572, published 2015-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210327013213/https://www.federalregister.gov/documents/2015/06/25/2015-15593/hearth-act-approval-of-ho-chunk-nation-regulations
+  captured: '2021-03-27'

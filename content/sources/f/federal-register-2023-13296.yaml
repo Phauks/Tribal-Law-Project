@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 40849, published 2023-06-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205012413/https://www.federalregister.gov/documents/2023/06/22/2023-13296/notice-of-inventory-completion-us-department-of-the-interior-fish-and-wildlife-service-stillwater
+  captured: '2025-02-05'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 23571, published 2015-04-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251205011042/https://www.federalregister.gov/documents/2015/04/28/2015-09912/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-12-05'

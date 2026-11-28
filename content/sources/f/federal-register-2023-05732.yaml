@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 17015, published 2023-03-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20231007140840/https://www.federalregister.gov/documents/2023/03/21/2023-05732/notice-of-intent-to-repatriate-cultural-items-the-filson-historical-society-louisville-ky
+  captured: '2023-10-07'

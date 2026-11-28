@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 38418, published 2006-07-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204031948/https://www.federalregister.gov/documents/2006/07/06/E6-10508/notice-of-intent-to-repatriate-cultural-items-horner-collection-oregon-state-university-corvallis-or
+  captured: '2025-02-04'

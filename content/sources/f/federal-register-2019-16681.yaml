@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 38054, published 2019-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203040537/https://www.federalregister.gov/documents/2019/08/05/2019-16681/notice-of-inventory-completion-nevada-state-museum-carson-city-nv
+  captured: '2025-02-03'

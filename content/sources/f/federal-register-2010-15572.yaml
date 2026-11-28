@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 36671, published 2010-06-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203040609/https://www.federalregister.gov/documents/2010/06/28/2010-15572/notice-of-inventory-completion-thomas-burke-memorial-washington-state-museum-university-of
+  captured: '2025-02-03'

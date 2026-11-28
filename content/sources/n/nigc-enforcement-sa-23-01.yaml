@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Commission''s table was read: https://www.nigc.gov/commission/commission-actions/enforcement-actions/'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260207010908/https://www.nigc.gov/wp-content/uploads/2025/01/230105_Settlement_Agreement_23-01_signed_by_Tribe.pdf
+  captured: '2026-02-07'

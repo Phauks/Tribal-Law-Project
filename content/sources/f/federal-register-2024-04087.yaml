@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 14713, published 2024-02-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202194323/https://www.federalregister.gov/documents/2024/02/28/2024-04087/notice-of-inventory-completion-california-department-of-water-resources-sacramento-ca-and-california
+  captured: '2025-02-02'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 41734, published 2019-08-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203110321/https://www.federalregister.gov/documents/2019/08/15/2019-17554/notice-of-inventory-completion-missouri-department-of-natural-resources-jefferson-city-mo-correction
+  captured: '2025-02-03'

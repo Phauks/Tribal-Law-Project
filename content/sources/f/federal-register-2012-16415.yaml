@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 39725, published 2012-07-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251206161419/https://www.federalregister.gov/documents/2012/07/05/2012-16415/land-acquisitions-pueblo-of-santo-domingo
+  captured: '2025-12-06'

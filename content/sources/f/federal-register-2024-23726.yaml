@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 83046, published 2024-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611194802/https://www.federalregister.gov/documents/2024/10/15/2024-23726/notice-of-intended-disposition-us-department-of-the-interior-national-park-service-hopewell-culture
+  captured: '2025-06-11'

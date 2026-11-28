@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 65372, published 2010-10-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203231904/https://www.federalregister.gov/documents/2010/10/22/2010-26222/final-environmental-impact-statement-for-the-proposed-fee-to-trust-conveyance-of-property-for-the
+  captured: '2025-02-03'

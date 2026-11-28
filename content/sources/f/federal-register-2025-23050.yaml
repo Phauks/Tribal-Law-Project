@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 58584, published 2025-12-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260713132117/https://www.federalregister.gov/documents/2025/12/17/2025-23050/notice-of-inventory-completion-california-state-university-long-beach-long-beach-ca
+  captured: '2026-07-13'

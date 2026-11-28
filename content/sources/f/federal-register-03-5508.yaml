@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 11135, published 2003-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250405151623/https://www.federalregister.gov/documents/2003/03/07/03-5508/notice-of-intent-to-repatriate-a-cultural-item-american-museum-of-natural-history-new-york-ny
+  captured: '2025-04-05'

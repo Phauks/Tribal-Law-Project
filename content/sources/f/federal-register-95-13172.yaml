@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 28426, published 1995-05-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204083655/https://www.federalregister.gov/documents/1995/05/31/95-13172/bureau-of-indian-affairsproposed-finding-for-federal-acknowledgment-of-huron-potawatomi-inc
+  captured: '2025-02-04'

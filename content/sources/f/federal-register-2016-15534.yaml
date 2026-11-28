@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 42478, published 2016-06-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250407165410/https://www.federalregister.gov/documents/2016/06/30/2016-15534/civil-penalties-inflation-adjustments
+  captured: '2025-04-07'

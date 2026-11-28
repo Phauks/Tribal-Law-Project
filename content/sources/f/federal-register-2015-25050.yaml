@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 59174, published 2015-10-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202061129/https://www.federalregister.gov/documents/2015/10/01/2015-25050/notice-of-inventory-completion-us-department-of-defense-army-corps-of-engineers-omaha-district-omaha
+  captured: '2025-02-02'

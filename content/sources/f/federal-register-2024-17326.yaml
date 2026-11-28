@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 63963, published 2024-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250528203226/https://www.federalregister.gov/documents/2024/08/06/2024-17326/annual-meeting-of-federal-partners-and-tribal-477-workgroup-under-indian-employment-training-and
+  captured: '2025-05-28'

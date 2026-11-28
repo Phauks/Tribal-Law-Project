@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12349, published 2025-03-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601033413/https://www.federalregister.gov/documents/2025/03/17/2025-04191/notice-of-intended-repatriation-illinois-state-museum-springfield-il
+  captured: '2025-06-01'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 27663, published 2022-05-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204223450/https://www.federalregister.gov/documents/2022/05/09/2022-09894/notice-of-intent-to-repatriate-cultural-items-history-fort-lauderdale-formerly-fort-lauderdale
+  captured: '2025-02-04'

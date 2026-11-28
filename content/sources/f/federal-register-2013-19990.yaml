@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 50097, published 2013-08-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204174537/https://www.federalregister.gov/documents/2013/08/16/2013-19990/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-casa-grande-ruins
+  captured: '2025-02-04'

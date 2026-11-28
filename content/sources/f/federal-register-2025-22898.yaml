@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 58291, published 2025-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260321080926/https://www.federalregister.gov/documents/2025/12/16/2025-22898/notice-of-intended-repatriation-county-of-los-angeles-department-of-parks-and-recreation-alhambra-ca
+  captured: '2026-03-21'

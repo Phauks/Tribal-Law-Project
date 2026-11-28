@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 50994, published 2008-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207182009/https://www.federalregister.gov/documents/2008/08/29/E8-20092/notice-of-inventory-completion-phoebe-a-hearst-museum-of-anthropology-university-of-california
+  captured: '2025-02-07'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 11608, published 2017-02-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250227015852/https://www.federalregister.gov/documents/2017/02/24/2017-03617/notice-of-inventory-completion-arkansas-archeological-survey-fayetteville-ar
+  captured: '2025-02-27'

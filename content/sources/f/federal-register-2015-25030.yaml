@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 59177, published 2015-10-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202062417/https://www.federalregister.gov/documents/2015/10/01/2015-25030/notice-of-inventory-completion-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-02'

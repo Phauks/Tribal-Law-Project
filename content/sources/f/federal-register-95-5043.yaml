@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 11109, published 1995-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516230702/https://www.federalregister.gov/documents/1995/03/01/95-5043/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-field-museum-of-natural
+  captured: '2017-05-16'

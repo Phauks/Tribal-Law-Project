@@ -78,3 +78,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 67203, published 2003-12-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250403041516/https://www.federalregister.gov/documents/2003/12/01/03-29768/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-04-03'

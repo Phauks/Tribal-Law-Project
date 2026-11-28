@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 49283, published 2013-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204145046/https://www.federalregister.gov/documents/2013/08/13/2013-19562/chicken-ranch-rancheria-chicken-ranch-liquor-licensing-ordinance-ordinance-no-12-10-03
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 13623, published 2012-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807195037/https://www.federalregister.gov/documents/2012/03/07/2012-5570/notice-of-intent-to-repatriate-cultural-items-us-fish-and-wildlife-service-office-of-law-enforcement
+  captured: '2026-08-07'

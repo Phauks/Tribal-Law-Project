@@ -14,7 +14,10 @@ citation:
     date-parts: [[2026, 11, 27]]
 original_link: https://www.loc.gov/item/2007627518/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250423002914/https://www.loc.gov/item/2007627518/
+  captured: '2025-04-23'
 history:
   status: live
   last_checked: '2026-11-27'

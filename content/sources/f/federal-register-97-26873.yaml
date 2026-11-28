@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 53022, published 1997-10-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218112310/https://www.federalregister.gov/documents/1997/10/10/97-26873/notice-of-inventory-completion-for-native-american-human-remains-from-oahu-county-hi-in-the-control
+  captured: '2025-02-18'

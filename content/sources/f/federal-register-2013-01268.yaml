@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 4431, published 2013-01-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204224246/https://www.federalregister.gov/documents/2013/01/22/2013-01268/santee-sioux-nation-title-xxi-alcohol-chapter-1-santee-sioux-nation-liquor-control-ordinance
+  captured: '2025-02-04'

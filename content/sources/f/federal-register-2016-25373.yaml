@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 72607, published 2016-10-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260712024856/https://www.federalregister.gov/documents/2016/10/20/2016-25373/hearth-act-approval-of-chemehuevi-indian-tribe-regulations
+  captured: '2026-07-12'

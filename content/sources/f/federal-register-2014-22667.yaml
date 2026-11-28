@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 57123, published 2014-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204054508/https://www.federalregister.gov/documents/2014/09/24/2014-22667/advisory-board-for-exceptional-children-meeting
+  captured: '2025-02-04'

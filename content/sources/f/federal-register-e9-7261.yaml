@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 14813, published 2009-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214174104/https://www.federalregister.gov/documents/2009/04/01/E9-7261/alcoholic-beverage-control-ordinance-salt-river-pima-maricopa-indian-community
+  captured: '2025-02-14'

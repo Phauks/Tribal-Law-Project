@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 46237, published 1998-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216094916/https://www.federalregister.gov/documents/1998/08/31/98-23296/revisionnotice-of-inventory-completion-for-native-american-human-remains-associated-funerary-objects
+  captured: '2025-02-16'

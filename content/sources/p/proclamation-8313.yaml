@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2008/11/03/E8-26351/national-american-indian-heritage-month-2008'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204211206/https://www.federalregister.gov/documents/2008/11/03/E8-26351/national-american-indian-heritage-month-2008
+  captured: '2025-02-04'

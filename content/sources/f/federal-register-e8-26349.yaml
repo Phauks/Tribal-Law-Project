@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 65875, published 2008-11-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210408101535/https://www.federalregister.gov/documents/2008/11/05/E8-26349/notice-of-intent-to-repatriate-a-cultural-item-us-department-of-defense-army-corps-of-engineers
+  captured: '2021-04-08'

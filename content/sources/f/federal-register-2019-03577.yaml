@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 7116, published 2019-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203012155/https://www.federalregister.gov/documents/2019/03/01/2019-03577/notice-of-intent-to-repatriate-cultural-items-thomas-burke-memorial-washington-state-museum-seattle
+  captured: '2025-02-03'

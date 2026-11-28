@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 15337, published 2011-03-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250420181938/https://www.federalregister.gov/documents/2011/03/21/2011-6470/final-determination-against-acknowledgment-of-the-juaneo-band-of-mission-indians-acjachemen-nation
+  captured: '2025-04-20'

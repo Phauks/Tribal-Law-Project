@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 56224, published 1999-10-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210515202051/https://www.federalregister.gov/documents/1999/10/18/99-27127/notice-of-intent-to-repatriate-cultural-items-from-the-willamette-valley-or-in-the-possession-of
+  captured: '2021-05-15'

@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 56900, published 2024-07-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208052629/https://www.federalregister.gov/documents/2024/07/11/2024-15200/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-southeast
+  captured: '2025-02-08'

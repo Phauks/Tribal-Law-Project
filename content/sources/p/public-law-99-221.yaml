@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-99/STATUTE-99-Pg1735
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206210349/https://www.govinfo.gov/app/details/STATUTE-99/STATUTE-99-Pg1735
+  captured: '2025-02-06'
 file:
   storage_key: govinfo/STATUTE-99/STATUTE-99-Pg1735.pdf
   checksum: 6f59826d69000768a94488cfc8b6eb49695e151dba22503d379360278545f609

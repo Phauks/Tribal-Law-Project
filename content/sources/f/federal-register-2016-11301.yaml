@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 29910, published 2016-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418102842/https://www.federalregister.gov/documents/2016/05/13/2016-11301/proposed-finding-against-acknowledgment-of-the-georgia-tribe-of-eastern-cherokee-inc
+  captured: '2026-04-18'

@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-105/STATUTE-105-Pg1908
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127085746/https://www.govinfo.gov/app/details/STATUTE-105/STATUTE-105-Pg1908
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-105/STATUTE-105-Pg1908.pdf
   checksum: 89a9c013ad07529d9f42d6a745995cfea23989fdc9d32d62e65e3851c4ff95f5

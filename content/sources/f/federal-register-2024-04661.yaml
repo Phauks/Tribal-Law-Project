@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 16021, published 2024-03-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524191307/https://www.federalregister.gov/documents/2024/03/06/2024-04661/notice-of-intended-disposition-us-army-corps-of-engineers-st-louis-district-st-louis-mo
+  captured: '2025-05-24'

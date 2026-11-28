@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 403, published 2024-01-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524192707/https://www.federalregister.gov/documents/2024/01/03/2023-28914/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-hopewell-culture
+  captured: '2025-05-24'

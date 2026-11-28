@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 1940, published 2024-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250301083324/https://www.federalregister.gov/documents/2024/01/11/2024-00436/notice-of-inventory-completion-indiana-university-bloomington-in
+  captured: '2025-03-01'

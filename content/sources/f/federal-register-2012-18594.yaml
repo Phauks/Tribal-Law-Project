@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 45816, published 2012-08-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260326185129/https://www.federalregister.gov/documents/2012/08/01/2012-18594/indian-child-welfare-act-designated-tribal-agents-for-service-of-notice
+  captured: '2026-03-26'

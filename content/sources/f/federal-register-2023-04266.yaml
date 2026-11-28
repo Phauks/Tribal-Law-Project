@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 13145, published 2023-03-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260207142028/https://www.federalregister.gov/documents/2023/03/02/2023-04266/agency-information-collection-activities-data-elements-for-bureau-funded-schools
+  captured: '2026-02-07'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 56972, published 2022-09-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202160225/https://www.federalregister.gov/documents/2022/09/16/2022-20091/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for
+  captured: '2025-02-02'

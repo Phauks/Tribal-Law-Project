@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 66585, published 2021-11-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414195645/https://www.federalregister.gov/documents/2021/11/23/2021-25522/notice-of-inventory-completion-florida-state-university-department-of-anthropology-tallahassee-fl
+  captured: '2025-04-14'

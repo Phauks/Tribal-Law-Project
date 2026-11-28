@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 15039, published 2013-03-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210505192843/https://www.federalregister.gov/documents/2013/03/08/2013-05398/extending-scoping-period-to-prepare-a-programmatic-environmental-impact-statement-eis-for-the-navajo
+  captured: '2021-05-05'

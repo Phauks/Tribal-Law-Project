@@ -81,3 +81,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 44652, published 2017-09-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209030352/https://www.federalregister.gov/documents/2017/09/25/2017-20382/notice-of-inventory-completion-university-of-michigan-ann-arbor-mi
+  captured: '2025-02-09'

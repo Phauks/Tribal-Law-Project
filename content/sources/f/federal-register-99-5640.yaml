@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 11490, published 1999-03-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217131925/https://www.federalregister.gov/documents/1999/03/09/99-5640/indian-child-welfare-act-receipt-of-designated-tribal-agents-for-service-of-notice
+  captured: '2025-02-17'

@@ -110,3 +110,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 71094, published 2020-11-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202135916/https://www.federalregister.gov/documents/2020/11/06/2020-24683/notice-of-inventory-completion-indiana-department-of-natural-resources-division-of-historic
+  captured: '2025-02-02'

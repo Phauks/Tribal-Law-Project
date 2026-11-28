@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 32541, published 2003-05-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213183349/https://www.federalregister.gov/documents/2003/05/30/03-13472/mohegan-tribe-of-indians-of-connecticut-liquor-control-code
+  captured: '2025-02-13'

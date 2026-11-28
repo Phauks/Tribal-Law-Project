@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 13497, published 2017-03-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208180638/https://www.federalregister.gov/documents/2017/03/13/2017-04849/notice-of-inventory-completion-us-department-of-agriculture-forest-service-ouachita-national-forest
+  captured: '2025-02-08'

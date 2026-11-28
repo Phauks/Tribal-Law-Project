@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 32315, published 2018-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250501080108/https://www.federalregister.gov/documents/2018/07/12/2018-14905/notice-of-inventory-completion-state-historic-preservation-office-lansing-mi
+  captured: '2025-05-01'

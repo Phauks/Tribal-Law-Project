@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 44353, published 2002-07-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250614094728/https://www.federalregister.gov/documents/2002/07/02/02-16635/law-and-order-on-indian-reservations
+  captured: '2025-06-14'

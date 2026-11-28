@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 58857, published 1999-11-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208072036/https://www.federalregister.gov/documents/1999/11/01/99-28290/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-state-historical-society-of
+  captured: '2025-02-08'

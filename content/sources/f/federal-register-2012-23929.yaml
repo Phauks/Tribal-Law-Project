@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 59659, published 2012-09-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810175619/https://www.federalregister.gov/documents/2012/09/28/2012-23929/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2026-08-10'

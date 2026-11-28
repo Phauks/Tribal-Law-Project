@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 27451, published 2021-05-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202162412/https://www.federalregister.gov/documents/2021/05/20/2021-10661/notice-of-purchasedreferred-care-delivery-area-redesignation-for-the-northwestern-band-of-the
+  captured: '2025-02-02'

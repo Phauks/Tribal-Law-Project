@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 19869, published 2024-03-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524180149/https://www.federalregister.gov/documents/2024/03/20/2024-05862/notice-of-inventory-completion-chicago-historical-society-chicago-il
+  captured: '2025-05-24'

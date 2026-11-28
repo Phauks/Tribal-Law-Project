@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 59565, published 2025-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251219232941/https://www.federalregister.gov/documents/2025/12/19/2025-23354/notice-of-intended-repatriation-buffalo-society-of-natural-sciences-buffalo-museum-of-science
+  captured: '2025-12-19'

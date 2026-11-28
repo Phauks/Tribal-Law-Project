@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 11680, published 2013-02-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202073007/https://www.federalregister.gov/documents/2013/02/19/2013-03655/notice-of-intent-to-repatriate-cultural-items-grand-rapids-public-museum-grand-rapids-mi
+  captured: '2025-02-02'

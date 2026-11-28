@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 42119, published 2010-07-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218125616/https://www.federalregister.gov/documents/2010/07/20/2010-17478/notice-of-intent-to-repatriate-cultural-items-high-desert-museum-bend-or
+  captured: '2025-02-18'

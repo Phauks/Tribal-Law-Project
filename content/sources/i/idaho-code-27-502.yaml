@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title27/T27CH5/SECT27-502
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251231163946/https://legislature.idaho.gov/statutesrules/idstat/Title27/T27CH5/SECT27-502/
+  captured: '2025-12-31'
 history:
   status: live
   last_checked: '2026-11-27'

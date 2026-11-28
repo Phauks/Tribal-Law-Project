@@ -99,3 +99,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 13629, published 2012-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260813182117/https://www.federalregister.gov/documents/2012/03/07/2012-5587/notice-of-inventory-completion-history-colorado-denver-co
+  captured: '2026-08-13'

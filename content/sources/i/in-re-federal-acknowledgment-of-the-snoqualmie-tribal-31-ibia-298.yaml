@@ -61,3 +61,7 @@ review:
   - check: decided
     result: agree
     detail: index 1997-11-28; cover sheet 1997-11-28; decision 1997-11-28
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418090026/https://www.oha.doi.gov/IBIA/IbiaDecisions/31ibia/31ibia298.PDF
+  captured: '2026-04-18'

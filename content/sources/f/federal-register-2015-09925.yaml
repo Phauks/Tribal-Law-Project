@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 23594, published 2015-04-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208084310/https://www.federalregister.gov/documents/2015/04/28/2015-09925/notice-of-intent-to-repatriate-cultural-items-brooklyn-museum-brooklyn-ny
+  captured: '2025-02-08'

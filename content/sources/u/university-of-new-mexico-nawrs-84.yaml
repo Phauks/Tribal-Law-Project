@@ -18,7 +18,10 @@ citation:
       - 8
 original_link: https://digitalrepository.unm.edu/nawrs/84
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127072517/https://digitalrepository.unm.edu/nawrs/84/
+  captured: '2026-11-27'
 rights:
   status: no-permission-needed
   basis: link-only

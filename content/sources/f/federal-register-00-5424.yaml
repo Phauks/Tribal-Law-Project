@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 12024, published 2000-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250222011958/https://www.federalregister.gov/documents/2000/03/07/00-5424/colorado-river-irrigation-project-irrigation-division-arizona-irrigation-rate-adjustment
+  captured: '2025-02-22'

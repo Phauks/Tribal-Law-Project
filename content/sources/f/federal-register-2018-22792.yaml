@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 53083, published 2018-10-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260719093200/https://www.federalregister.gov/documents/2018/10/19/2018-22792/notice-of-intent-to-repatriate-cultural-items-fowler-museum-at-the-university-of-california-los
+  captured: '2026-07-19'

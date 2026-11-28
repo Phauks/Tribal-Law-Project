@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 54674, published 2007-09-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206130513/https://www.federalregister.gov/documents/2007/09/26/E7-19103/model-tribal-probate-code-guidance-for-submission-of-tribal-probate-codes-under-25-usc-section-2205
+  captured: '2025-02-06'

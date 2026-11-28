@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://codes.ohio.gov/ohio-revised-code/section-149.3010
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260710225009/https://codes.ohio.gov/ohio-revised-code/section-149.3010
+  captured: '2026-07-10'
 history:
   status: live
   last_checked: '2026-11-27'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 59968, published 2013-09-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260711115955/https://www.federalregister.gov/documents/2013/09/30/2013-23819/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-bureau-of-indian-affairs
+  captured: '2026-07-11'

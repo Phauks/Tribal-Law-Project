@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 59756, published 2021-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260719221336/https://www.federalregister.gov/documents/2021/10/28/2021-23491/notice-of-inventory-completion-university-of-california-santa-barbara-santa-barbara-ca
+  captured: '2026-07-19'

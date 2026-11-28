@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 48559, published 2015-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217122722/https://www.federalregister.gov/documents/2015/08/13/2015-19973/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-tejon-indian-tribes-proposed
+  captured: '2025-02-17'

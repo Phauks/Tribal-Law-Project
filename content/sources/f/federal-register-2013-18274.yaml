@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 45957, published 2013-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214034211/https://www.federalregister.gov/documents/2013/07/30/2013-18274/notice-of-inventory-completion-columbia-university-department-of-anthropology-new-york-ny
+  captured: '2025-02-14'

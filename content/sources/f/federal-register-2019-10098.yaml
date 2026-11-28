@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 22133, published 2019-05-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202184140/https://www.federalregister.gov/documents/2019/05/16/2019-10098/american-indians-into-psychology
+  captured: '2025-02-02'

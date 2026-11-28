@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 21843, published 2026-04-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260811211725/https://www.federalregister.gov/documents/2026/04/23/2026-07965/notice-of-inventory-completion-university-of-nebraska-state-museum-lincoln-ne
+  captured: '2026-08-11'

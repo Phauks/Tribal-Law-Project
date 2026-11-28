@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 18240, published 2002-04-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204133635/https://www.federalregister.gov/documents/2002/04/15/02-9095/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-04'

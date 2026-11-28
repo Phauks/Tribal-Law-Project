@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 76305, published 2015-12-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207081257/https://www.federalregister.gov/documents/2015/12/08/2015-30904/notice-of-inventory-completion-minnesota-indian-affairs-council-bemidji-mn
+  captured: '2025-02-07'

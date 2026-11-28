@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 69649, published 1998-12-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204212656/https://www.federalregister.gov/documents/1998/12/17/98-33448/notice-of-inventory-completion-for-native-american-human-remains-from-near-oregon-city-or-in-the
+  captured: '2025-02-04'

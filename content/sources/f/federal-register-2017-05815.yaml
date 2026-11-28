@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 14910, published 2017-03-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205071048/https://www.federalregister.gov/documents/2017/03/23/2017-05815/cowlitz-indian-tribe-liquor-ordinance
+  captured: '2025-02-05'

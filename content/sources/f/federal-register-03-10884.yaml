@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 23468, published 2003-05-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260521164352/https://www.federalregister.gov/documents/2003/05/02/03-10884/mental-health-and-community-safety-initiative-for-american-indian-and-alaska-native-children-youth
+  captured: '2026-05-21'

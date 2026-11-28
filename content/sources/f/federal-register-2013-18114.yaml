@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 45556, published 2013-07-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214011314/https://www.federalregister.gov/documents/2013/07/29/2013-18114/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-lac-du-flambeau-band
+  captured: '2025-02-14'

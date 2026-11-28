@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 19772, published 2005-04-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208123746/https://www.federalregister.gov/documents/2005/04/14/05-7460/health-promotion-and-disease-prevention
+  captured: '2025-02-08'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 42509, published 2012-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203164158/https://www.federalregister.gov/documents/2012/07/19/2012-17625/notice-of-inventory-completion-the-university-of-montana-missoula-mt
+  captured: '2025-02-03'

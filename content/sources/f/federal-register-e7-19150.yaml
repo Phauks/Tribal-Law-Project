@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 55242, published 2007-09-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213222311/https://www.federalregister.gov/documents/2007/09/28/E7-19150/colorado-river-tribe-health-and-safety-code-article-2-liquor
+  captured: '2025-02-13'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 4601, published 2026-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260131122941/https://www.federalregister.gov/documents/2026/02/02/2026-02020/notice-of-intended-repatriation-pennsylvania-historical-and-museum-commission-state-museum-of
+  captured: '2026-01-31'

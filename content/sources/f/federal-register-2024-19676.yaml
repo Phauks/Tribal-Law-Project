@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 71393, published 2024-09-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524174613/https://www.federalregister.gov/documents/2024/09/03/2024-19676/notice-of-intended-disposition-us-army-corps-of-engineers-walla-walla-district-walla-walla-wa
+  captured: '2025-05-24'

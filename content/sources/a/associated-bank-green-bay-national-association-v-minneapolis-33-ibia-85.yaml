@@ -54,3 +54,7 @@ review:
   - check: decided
     result: differs
     detail: index 1998-120-08; cover sheet 1998-12-08; decision 1998-12-08
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325004326/https://www.oha.doi.gov/IBIA/IbiaDecisions/33ibia/33ibia085.PDF
+  captured: '2026-03-25'

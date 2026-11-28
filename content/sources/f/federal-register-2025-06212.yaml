@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 15473, published 2025-04-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601034558/https://www.federalregister.gov/documents/2025/04/11/2025-06212/notice-of-intended-disposition-us-department-of-agriculture-forest-service-angeles-national-forest
+  captured: '2025-06-01'

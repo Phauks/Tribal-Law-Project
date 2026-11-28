@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 1485, published 2019-02-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207021403/https://www.federalregister.gov/documents/2019/02/04/2019-00899/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-eagle-shadow-mountain-solar
+  captured: '2025-02-07'

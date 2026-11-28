@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 83047, published 2024-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205002416/https://www.federalregister.gov/documents/2024/10/15/2024-23719/notice-of-inventory-completion-willamette-university-salem-or
+  captured: '2025-02-05'

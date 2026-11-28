@@ -77,3 +77,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 12207, published 2008-03-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205003148/https://www.federalregister.gov/documents/2008/03/06/E8-4327/notice-of-intent-to-repatriate-cultural-items-university-of-colorado-museum-boulder-co
+  captured: '2025-02-05'

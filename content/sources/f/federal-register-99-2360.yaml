@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 5069, published 1999-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204123136/https://www.federalregister.gov/documents/1999/02/02/99-2360/status-of-red-lake-tribal-indian-lands-in-minnesota
+  captured: '2025-02-04'

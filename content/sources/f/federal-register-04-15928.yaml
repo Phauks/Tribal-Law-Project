@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 43090, published 2004-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217203215/https://www.federalregister.gov/documents/2004/07/19/04-15928/indian-reservation-roads-program
+  captured: '2025-02-17'

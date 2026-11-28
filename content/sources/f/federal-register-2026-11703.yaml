@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 35552, published 2026-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260614104715/https://www.federalregister.gov/documents/2026/06/11/2026-11703/notice-of-intended-repatriation-milwaukee-public-museum-milwaukee-wi
+  captured: '2026-06-14'

@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 76005, published 2004-12-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205094508/https://www.federalregister.gov/documents/2004/12/20/04-27786/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-effigy-mounds
+  captured: '2025-02-05'

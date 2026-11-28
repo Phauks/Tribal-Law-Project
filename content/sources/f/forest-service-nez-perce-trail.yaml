@@ -11,7 +11,10 @@ citation:
     date-parts: [[2026, 11, 27]]
 original_link: https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/R01_NezPerceNeeMePoo_NationalHistoricTrail_Centerline/FeatureServer/0
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127073154/https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/R01_NezPerceNeeMePoo_NationalHistoricTrail_Centerline/FeatureServer/0
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-27'

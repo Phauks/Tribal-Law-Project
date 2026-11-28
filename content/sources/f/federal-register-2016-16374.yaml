@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 45176, published 2016-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207163323/https://www.federalregister.gov/documents/2016/07/12/2016-16374/notice-of-inventory-completion-museum-of-the-american-indian-novato-ca
+  captured: '2025-02-07'

@@ -71,3 +71,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 11605, published 2017-02-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209004156/https://www.federalregister.gov/documents/2017/02/24/2017-03624/notice-of-intent-to-repatriate-cultural-items-state-historical-society-of-north-dakota-bismarck-nd
+  captured: '2025-02-09'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 30626, published 2021-06-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204024444/https://www.federalregister.gov/documents/2021/06/09/2021-12022/native-american-graves-protection-and-repatriation-review-committee-notice-of-nomination
+  captured: '2025-02-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 47763, published 1996-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217071839/https://www.federalregister.gov/documents/1996/09/10/96-23042/modoc-tribe-of-oklahoma-liquor-control-ordinance
+  captured: '2025-02-17'

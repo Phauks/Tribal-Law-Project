@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 67738, published 2005-11-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212132458/https://www.federalregister.gov/documents/2005/11/08/05-22173/notice-of-intent-to-prepare-a-supplemental-environmental-impact-statement-for-the-proposed-campo
+  captured: '2025-02-12'

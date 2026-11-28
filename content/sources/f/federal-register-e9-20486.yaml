@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 42920, published 2009-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201151110/https://www.federalregister.gov/documents/2009/08/25/E9-20486/notice-of-inventory-completion-detroit-institute-of-arts-detroit-mi
+  captured: '2025-02-01'

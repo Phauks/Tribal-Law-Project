@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 13056, published 2026-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260713223019/https://www.federalregister.gov/documents/2026/03/18/2026-05292/notice-of-inventory-completion-university-of-california-san-diego-san-diego-ca
+  captured: '2026-07-13'

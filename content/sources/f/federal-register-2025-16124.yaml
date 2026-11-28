@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 41121, published 2025-08-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250826002928/https://www.federalregister.gov/documents/2025/08/22/2025-16124/notice-of-intended-repatriation-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-08-26'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 35129, published 2019-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812214754/https://www.federalregister.gov/documents/2019/07/22/2019-15545/hearth-act-approval-of-jamul-indian-village-of-california-business-leasing-ordinance
+  captured: '2026-08-12'

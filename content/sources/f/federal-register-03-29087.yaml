@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 65467, published 2003-11-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207013729/https://www.federalregister.gov/documents/2003/11/20/03-29087/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-stockbridge-munsee
+  captured: '2025-02-07'

@@ -108,3 +108,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 43872, published 2020-07-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204094923/https://www.federalregister.gov/documents/2020/07/20/2020-15581/notice-of-inventory-completion-indiana-university-bloomington-in
+  captured: '2025-02-04'

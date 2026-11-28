@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2021/05/07/2021-09853/missing-and-murdered-indigenous-persons-awareness-day-2021'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250803045518/https://www.federalregister.gov/documents/2021/05/07/2021-09853/missing-and-murdered-indigenous-persons-awareness-day-2021
+  captured: '2025-08-03'

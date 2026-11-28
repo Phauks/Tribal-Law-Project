@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 34402, published 2017-07-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208175415/https://www.federalregister.gov/documents/2017/07/25/2017-15499/privacy-act-procedures-corrections
+  captured: '2025-02-08'

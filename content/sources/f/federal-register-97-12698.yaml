@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 26806, published 1997-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218191415/https://www.federalregister.gov/documents/1997/05/15/97-12698/reimbursement-rates-for-calendar-year-1997
+  captured: '2025-02-18'

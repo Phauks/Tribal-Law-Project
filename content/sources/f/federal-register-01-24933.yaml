@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 50675, published 2001-10-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218080734/https://www.federalregister.gov/documents/2001/10/04/01-24933/notice-of-inventory-completion-for-human-remains-and-associated-funerary-objects-in-the-possession
+  captured: '2025-02-18'

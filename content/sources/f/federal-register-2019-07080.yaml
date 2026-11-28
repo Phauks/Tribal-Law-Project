@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 14391, published 2019-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213064130/https://www.federalregister.gov/documents/2019/04/10/2019-07080/draft-environmental-impact-statement-for-the-proposed-redding-rancheria-fee-to-trust-and-casino
+  captured: '2025-02-13'

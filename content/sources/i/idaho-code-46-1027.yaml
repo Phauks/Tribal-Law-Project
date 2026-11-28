@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title46/T46CH10/SECT46-1027
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260601081803/https://legislature.idaho.gov/statutesrules/idstat/Title46/T46CH10/SECT46-1027/
+  captured: '2026-06-01'
 history:
   status: live
   last_checked: '2026-11-27'

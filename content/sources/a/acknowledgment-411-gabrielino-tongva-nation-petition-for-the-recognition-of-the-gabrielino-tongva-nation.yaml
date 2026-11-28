@@ -47,3 +47,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/petitions-in-process/gabrielinotongva-nation'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812212653/https://www.bia.gov/sites/default/files/media_document/25-1004_gtn_petition_redacted%29_redacted_508.pdf
+  captured: '2026-08-12'

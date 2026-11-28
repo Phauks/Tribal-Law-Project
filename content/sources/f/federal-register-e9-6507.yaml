@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 12896, published 2009-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216062846/https://www.federalregister.gov/documents/2009/03/25/E9-6507/notice-of-inventory-completion-georgia-department-of-natural-resources-atlanta-ga
+  captured: '2025-02-16'

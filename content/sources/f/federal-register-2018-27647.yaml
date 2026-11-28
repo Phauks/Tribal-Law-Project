@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 65735, published 2018-12-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260412035200/https://www.federalregister.gov/documents/2018/12/21/2018-27647/notice-of-inventory-completion-tennessee-valley-authority-knoxville-tn
+  captured: '2026-04-12'

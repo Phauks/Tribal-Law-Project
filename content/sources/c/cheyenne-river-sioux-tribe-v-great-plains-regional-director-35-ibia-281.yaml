@@ -59,3 +59,7 @@ review:
   - check: decided
     result: agree
     detail: index 2000-12-20; cover sheet 2000-12-20; decision 2000-12-20
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325011200/https://www.oha.doi.gov/IBIA/IbiaDecisions/35ibia/35ibia281.PDF
+  captured: '2026-03-25'

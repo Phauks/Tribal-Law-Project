@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 12826, published 2017-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204203156/https://www.federalregister.gov/documents/2017/03/07/2017-04402/notice-of-inventory-completion-st-joseph-museums-inc-st-joseph-mo
+  captured: '2025-02-04'

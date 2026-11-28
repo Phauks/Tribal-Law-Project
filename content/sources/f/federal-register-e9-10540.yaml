@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 21398, published 2009-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204095049/https://www.federalregister.gov/documents/2009/05/07/E9-10540/notice-of-inventory-completion-san-francisco-state-university-san-francisco-ca
+  captured: '2025-02-04'

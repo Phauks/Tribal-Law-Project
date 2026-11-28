@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 19788, published 2018-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250405183621/https://www.federalregister.gov/documents/2018/05/04/2018-09507/planning-cooperative-agreement-correction-of-due-date
+  captured: '2025-04-05'

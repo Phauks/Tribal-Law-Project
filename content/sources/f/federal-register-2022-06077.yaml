@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 16481, published 2022-03-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250819201609/https://www.federalregister.gov/documents/2022/03/23/2022-06077/indian-business-incubators-program-ibip-grants-under-the-native-american-business-incubator-act-of
+  captured: '2025-08-19'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 14017, published 2013-03-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209025846/https://www.federalregister.gov/documents/2013/03/04/2013-04824/courts-of-indian-offenses
+  captured: '2025-02-09'

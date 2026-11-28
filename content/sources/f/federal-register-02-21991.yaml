@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 55429, published 2002-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216053824/https://www.federalregister.gov/documents/2002/08/29/02-21991/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-16'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 27158, published 2019-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414142649/https://www.federalregister.gov/documents/2019/06/11/2019-12173/native-american-graves-protection-and-repatriation-review-committee-notice-of-nomination
+  captured: '2025-04-14'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 52442, published 2000-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217155339/https://www.federalregister.gov/documents/2000/08/29/00-21975/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-peabody-museum-of-archaeology
+  captured: '2025-02-17'

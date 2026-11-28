@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 32974, published 2021-06-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202003035/https://www.federalregister.gov/documents/2021/06/23/2021-13199/land-acquisitions-wilton-rancheria
+  captured: '2025-02-02'

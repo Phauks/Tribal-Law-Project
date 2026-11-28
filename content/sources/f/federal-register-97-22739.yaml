@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 45439, published 1997-08-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212203026/https://www.federalregister.gov/documents/1997/08/27/97-22739/notice-of-inventory-completion-for-associated-funerary-objects-of-queen-liliuokalani-in-the
+  captured: '2025-02-12'

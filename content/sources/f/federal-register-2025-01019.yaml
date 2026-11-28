@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 4786, published 2025-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250429025839/https://www.federalregister.gov/documents/2025/01/16/2025-01019/notice-of-intended-disposition-us-department-of-agriculture-forest-service-chugach-national-forest
+  captured: '2025-04-29'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 42096, published 2009-08-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212093457/https://www.federalregister.gov/documents/2009/08/20/E9-19982/notice-of-inventory-completion-state-of-alaska-alaska-state-office-of-history-and-archaeology
+  captured: '2025-02-12'

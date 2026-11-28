@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title56/T56CH11/SECT56-1101
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251222102155/https://legislature.idaho.gov/statutesrules/idstat/Title56/T56CH11/SECT56-1101/
+  captured: '2025-12-22'
 history:
   status: live
   last_checked: '2026-11-27'

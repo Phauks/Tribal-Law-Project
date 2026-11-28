@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 2787, published 2026-01-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260128094332/https://www.federalregister.gov/documents/2026/01/22/2026-01178/reimbursement-rates-for-calendar-year-2026
+  captured: '2026-01-28'

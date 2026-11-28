@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 50884, published 2022-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204094124/https://www.federalregister.gov/documents/2022/08/18/2022-17770/notice-of-inventory-completion-us-department-of-defense-defense-health-agency-national-museum-of
+  captured: '2025-02-04'

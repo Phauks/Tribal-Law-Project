@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 10486, published 2003-03-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207205620/https://www.federalregister.gov/documents/2003/03/05/03-5062/land-acquisitions-ponca-tribe-of-nebraska
+  captured: '2025-02-07'

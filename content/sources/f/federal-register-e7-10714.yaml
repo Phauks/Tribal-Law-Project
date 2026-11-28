@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 30825, published 2007-06-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208155215/https://www.federalregister.gov/documents/2007/06/04/E7-10714/notice-of-inventory-completion-california-department-of-transportation-oakland-ca-and
+  captured: '2025-02-08'

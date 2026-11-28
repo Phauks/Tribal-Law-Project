@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 13300, published 2018-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250403210851/https://www.federalregister.gov/documents/2018/03/28/2018-06230/land-acquisitions-the-shawnee-tribe
+  captured: '2025-04-03'

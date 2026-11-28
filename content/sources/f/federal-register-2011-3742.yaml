@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 9593, published 2011-02-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208035017/https://www.federalregister.gov/documents/2011/02/18/2011-3742/new-agency-information-collection-for-solicitation-of-nominations-for-the-advisory-board-for
+  captured: '2025-02-08'

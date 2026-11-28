@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 21383, published 2009-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210418004413/https://www.federalregister.gov/documents/2009/05/07/E9-10577/notice-of-intent-to-repatriate-a-cultural-item-us-department-of-agriculture-forest-service-tongass
+  captured: '2021-04-18'

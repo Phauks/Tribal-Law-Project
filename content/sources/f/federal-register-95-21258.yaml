@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 44704, published 1995-08-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210416082159/https://www.federalregister.gov/documents/1995/08/28/95-21258/office-of-trust-funds-management-national-tribal-consultation
+  captured: '2021-04-16'

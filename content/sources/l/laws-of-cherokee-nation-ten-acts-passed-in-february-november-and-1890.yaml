@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: Only the catalog record was read, not the volume
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250630160420/https://www.loc.gov/item/ltf96008340/
+  captured: '2025-06-30'

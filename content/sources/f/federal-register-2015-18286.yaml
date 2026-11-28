@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 44376, published 2015-07-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210326141313/https://www.federalregister.gov/documents/2015/07/27/2015-18286/pascua-yaqui-tribe-of-arizona-2015-liquor-control-ordinance
+  captured: '2021-03-26'

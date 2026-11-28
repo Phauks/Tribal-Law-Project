@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 106554, published 2024-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611191934/https://www.federalregister.gov/documents/2024/12/30/2024-31122/land-acquisitions-hopi-tribe-coconino-county-and-navajo-county-arizona
+  captured: '2025-06-11'

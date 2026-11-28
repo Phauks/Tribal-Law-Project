@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 2120, published 2015-01-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260119181430/https://www.federalregister.gov/documents/2015/01/15/2015-00550/intent-to-prepare-an-environmental-impact-statement-for-the-proposed-coquille-indian-tribe
+  captured: '2026-01-19'

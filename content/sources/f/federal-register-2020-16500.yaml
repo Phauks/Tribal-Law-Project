@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 45919, published 2020-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204095146/https://www.federalregister.gov/documents/2020/07/30/2020-16500/notice-of-inventory-completion-san-diego-museum-of-man-san-diego-ca
+  captured: '2025-02-04'

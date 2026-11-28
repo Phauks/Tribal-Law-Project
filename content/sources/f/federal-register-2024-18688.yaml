@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 67668, published 2024-08-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524211735/https://www.federalregister.gov/documents/2024/08/21/2024-18688/notice-of-intended-repatriation-culver-stockton-college-canton-mo
+  captured: '2025-05-24'

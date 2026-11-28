@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 35126, published 2019-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217031700/https://www.federalregister.gov/documents/2019/07/22/2019-15543/wilton-rancheria-liquor-control-act
+  captured: '2025-02-17'

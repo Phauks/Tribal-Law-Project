@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 18553, published 2021-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250819201714/https://www.federalregister.gov/documents/2021/04/09/2021-07319/hearth-act-approval-of-grand-traverse-band-of-ottawa-and-chippewa-indians-michigan-business-site
+  captured: '2025-08-19'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 2384, published 1997-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210510025611/https://www.federalregister.gov/documents/1997/01/16/97-1067/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-museum-of-the-south-dakota
+  captured: '2021-05-10'

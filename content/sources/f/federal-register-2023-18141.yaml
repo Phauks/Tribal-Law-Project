@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 57466, published 2023-08-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204091859/https://www.federalregister.gov/documents/2023/08/23/2023-18141/notice-of-intent-to-repatriate-cultural-items-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-04'

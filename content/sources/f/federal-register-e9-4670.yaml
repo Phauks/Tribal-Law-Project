@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 9624, published 2009-03-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210425100741/https://www.federalregister.gov/documents/2009/03/05/E9-4670/notice-of-intent-to-repatriate-a-cultural-item-us-department-of-energy-richland-operations-office
+  captured: '2021-04-25'

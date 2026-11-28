@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-28/STATUTE-28-Pg693-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127071834/https://www.govinfo.gov/app/details/STATUTE-28/STATUTE-28-Pg693-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-28/STATUTE-28-Pg693-2.pdf
   checksum: 636637ae3ca57e9de41eae9c477cfeed7e186b40129266c47caac550196bfcb4

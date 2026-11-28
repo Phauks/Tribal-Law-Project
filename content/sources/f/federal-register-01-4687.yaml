@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 12567, published 2001-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219094021/https://www.federalregister.gov/documents/2001/02/27/01-4687/fee-rates
+  captured: '2025-02-19'

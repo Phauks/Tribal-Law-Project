@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 2544, published 2007-01-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211183647/https://www.federalregister.gov/documents/2007/01/19/E7-743/notice-of-availability-of-draft-environmental-impact-statement-for-the-proposed-transfer-from
+  captured: '2025-02-11'

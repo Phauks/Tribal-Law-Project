@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 53658, published 1997-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217030108/https://www.federalregister.gov/documents/1997/10/15/97-27274/notice-of-public-hearing-and-call-for-public-comment
+  captured: '2025-02-17'

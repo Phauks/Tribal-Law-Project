@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 5562, published 2015-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206165902/https://www.federalregister.gov/documents/2015/02/02/2015-01958/loan-repayment-program-for-repayment-of-health-professions-educational-loans-announcement-type
+  captured: '2025-02-06'

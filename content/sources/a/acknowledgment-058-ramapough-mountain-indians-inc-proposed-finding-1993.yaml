@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/ramapough-mountain-indians-inc'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810102115/https://www.bia.gov/sites/default/files/media_document/058_pf.pdf
+  captured: '2026-08-10'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 55840, published 2022-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208035541/https://www.federalregister.gov/documents/2022/09/12/2022-19620/notice-of-inventory-completion-kodiak-historical-society-kodiak-ak
+  captured: '2025-02-08'

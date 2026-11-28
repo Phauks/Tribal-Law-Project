@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 48533, published 2012-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807180540/https://www.federalregister.gov/documents/2012/08/14/2012-19924/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-national-park-service
+  captured: '2026-08-07'

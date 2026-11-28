@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 16267, published 1998-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204170901/https://www.federalregister.gov/documents/1998/04/02/98-8566/statement-of-mission-organization-functions-and-delegation-of-authority
+  captured: '2025-02-04'

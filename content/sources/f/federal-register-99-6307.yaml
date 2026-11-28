@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 13035, published 1999-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210175527/https://www.federalregister.gov/documents/1999/03/16/99-6307/notice-of-inventory-completion-for-native-american-human-remains-associated-funerary-objects-and
+  captured: '2025-02-10'

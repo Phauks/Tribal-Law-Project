@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 16874, published 2008-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205204225/https://www.federalregister.gov/documents/2008/03/31/E8-6406/tribal-self-governance-program-planning-cooperative-agreement
+  captured: '2025-02-05'

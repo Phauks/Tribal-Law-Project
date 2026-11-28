@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 50880, published 2022-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203205634/https://www.federalregister.gov/documents/2022/08/18/2022-17763/notice-of-inventory-completion-eastern-washington-university-cheney-wa
+  captured: '2025-02-03'

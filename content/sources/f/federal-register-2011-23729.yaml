@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 57683, published 2011-09-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201225723/https://www.federalregister.gov/documents/2011/09/16/2011-23729/regulatory-review-schedule
+  captured: '2025-02-01'

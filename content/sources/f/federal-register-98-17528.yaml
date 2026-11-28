@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 35939, published 1998-07-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214201539/https://www.federalregister.gov/documents/1998/07/01/98-17528/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-white-river-amphitheatre
+  captured: '2025-02-14'

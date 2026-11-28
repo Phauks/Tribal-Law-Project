@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 5367, published 2006-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217211046/https://www.federalregister.gov/documents/2006/02/01/E6-1271/notice-of-inventory-completion-ucla-fowler-museum-of-cultural-history-university-of-california-los
+  captured: '2025-02-17'

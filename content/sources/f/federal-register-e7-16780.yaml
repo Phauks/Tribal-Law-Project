@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 48677, published 2007-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217144542/https://www.federalregister.gov/documents/2007/08/24/E7-16780/notice-of-intent-to-repatriate-cultural-items-peabody-museum-of-archaeology-and-ethnology-harvard
+  captured: '2025-02-17'

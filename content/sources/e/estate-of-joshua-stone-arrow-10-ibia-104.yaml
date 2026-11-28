@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 1982-09-28; cover sheet 1982-09-28; decision 1982-09-28
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010835/https://www.oha.doi.gov/IBIA/IbiaDecisions/10ibia/10ibia104.PDF
+  captured: '2026-03-25'

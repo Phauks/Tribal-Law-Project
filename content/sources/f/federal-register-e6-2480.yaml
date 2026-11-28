@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 9154, published 2006-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205071146/https://www.federalregister.gov/documents/2006/02/22/E6-2480/notice-of-intent-to-repatriate-a-cultural-item-the-trustees-of-reservations-beverly-ma
+  captured: '2025-02-05'

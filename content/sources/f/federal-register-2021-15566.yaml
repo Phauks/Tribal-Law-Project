@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 38754, published 2021-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203051426/https://www.federalregister.gov/documents/2021/07/22/2021-15566/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-alaska-state
+  captured: '2025-02-03'

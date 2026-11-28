@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 53747, published 2014-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208023319/https://www.federalregister.gov/documents/2014/09/10/2014-21517/notice-of-inventory-completion-us-department-of-defense-army-national-museum-of-health-and-medicine
+  captured: '2025-02-08'

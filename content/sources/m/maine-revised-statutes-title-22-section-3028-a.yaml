@@ -21,7 +21,10 @@ citation:
       - 27
 original_link: https://legislature.maine.gov/statutes/22/title22sec3028-A.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260606232300/https://legislature.maine.gov/statutes/22/title22sec3028-A.html
+  captured: '2026-06-06'
 history:
   status: live
   last_checked: '2026-11-27'

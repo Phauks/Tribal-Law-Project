@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 43036, published 2000-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212122332/https://www.federalregister.gov/documents/2000/07/12/00-17524/native-american-graves-protection-and-repatriation-review-committee-meetings
+  captured: '2025-02-12'

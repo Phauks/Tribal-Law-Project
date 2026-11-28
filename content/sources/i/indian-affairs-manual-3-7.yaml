@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the manual page was read: https://www.bia.gov/policy-forms/manual'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261117193040/https://www.bia.gov/sites/default/files/dup/assets/public/raca/manual/pdf/3_iam_7_delegation_of_dasped_authority_to_ofc_directors_final_signed_1.16.25_w.footers_508.pdf
+  captured: '2026-11-17'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 33352, published 2000-05-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203172040/https://www.federalregister.gov/documents/2000/05/23/00-12849/notice-of-inventory-completion-for-native-american-human-remains-from-mankato-mn-in-the-possession
+  captured: '2025-02-03'

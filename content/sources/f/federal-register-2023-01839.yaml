@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 5914, published 2023-01-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202200655/https://www.federalregister.gov/documents/2023/01/30/2023-01839/notice-of-inventory-completion-museum-of-us-san-diego-ca
+  captured: '2025-02-02'

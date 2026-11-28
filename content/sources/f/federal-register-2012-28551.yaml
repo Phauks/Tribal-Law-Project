@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 70460, published 2012-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260503041800/https://www.federalregister.gov/documents/2012/11/26/2012-28551/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-ho-chunk-nation
+  captured: '2026-05-03'

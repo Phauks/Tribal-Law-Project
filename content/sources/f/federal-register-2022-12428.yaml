@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 35244, published 2022-06-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250418035238/https://www.federalregister.gov/documents/2022/06/09/2022-12428/notice-of-inventory-completion-museum-of-indian-arts-and-culture-museum-of-new-mexico-santa-fe-nm
+  captured: '2025-04-18'

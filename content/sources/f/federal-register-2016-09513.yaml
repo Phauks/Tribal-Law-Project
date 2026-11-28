@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 24128, published 2016-04-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260327210616/https://www.federalregister.gov/documents/2016/04/25/2016-09513/notice-of-inventory-completion-utah-museum-of-natural-history-salt-lake-city-ut
+  captured: '2026-03-27'

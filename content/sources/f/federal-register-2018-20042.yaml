@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 46754, published 2018-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240712062902/https://www.federalregister.gov/documents/2018/09/14/2018-20042/adoption-and-recirculation-of-the-final-environmental-impact-statement-for-the-wilton-rancheria
+  captured: '2024-07-12'

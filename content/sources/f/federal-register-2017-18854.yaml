@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 42110, published 2017-09-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210323004939/https://www.federalregister.gov/documents/2017/09/06/2017-18854/proclaiming-certain-lands-as-reservation-for-the-lac-courte-oreilles-band-of-lake-superior-chippewa
+  captured: '2021-03-23'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 12612, published 2026-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260314094339/https://www.federalregister.gov/documents/2026/03/16/2026-05033/notice-of-intended-repatriation-sam-noble-oklahoma-museum-of-natural-history-university-of-oklahoma
+  captured: '2026-03-14'

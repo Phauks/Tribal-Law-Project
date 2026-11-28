@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 65761, published 2026-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261016073711/https://www.federalregister.gov/documents/2026/10/16/2026-21111/notice-of-intended-repatriation-sauk-county-historical-society-baraboo-wi
+  captured: '2026-10-16'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 68909, published 2014-11-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213095610/https://www.federalregister.gov/documents/2014/11/19/2014-27379/intent-to-prepare-an-environmental-impact-statement-for-the-snow-mountain-solar-project-on-the-las
+  captured: '2025-02-13'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 25660, published 2024-04-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524220611/https://www.federalregister.gov/documents/2024/04/11/2024-07712/notice-of-intended-repatriation-the-childrens-museum-of-indianapolis-indianapolis-in
+  captured: '2025-05-24'

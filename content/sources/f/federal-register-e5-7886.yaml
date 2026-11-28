@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 76864, published 2005-12-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205225330/https://www.federalregister.gov/documents/2005/12/28/E5-7886/notice-of-inventory-completion-sam-noble-oklahoma-museum-of-natural-history-university-of-oklahoma
+  captured: '2025-02-05'

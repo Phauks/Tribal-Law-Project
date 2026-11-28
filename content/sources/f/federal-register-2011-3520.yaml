@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 9049, published 2011-02-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260725071235/https://www.federalregister.gov/documents/2011/02/16/2011-3520/notice-of-intent-to-repatriate-cultural-items-university-of-pennsylvania-museum-of-archaeology-and
+  captured: '2026-07-25'

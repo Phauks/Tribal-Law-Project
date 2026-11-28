@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 39506, published 2012-07-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204105800/https://www.federalregister.gov/documents/2012/07/03/2012-16208/notice-of-inventory-completion-us-department-of-agriculture-forest-service-tongass-national-forest
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 67358, published 2023-09-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205125153/https://www.federalregister.gov/documents/2023/09/29/2023-21390/notice-of-inventory-completion-university-of-california-riverside-riverside-ca
+  captured: '2025-02-05'

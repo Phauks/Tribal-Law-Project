@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 27662, published 2025-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250709054732/https://www.federalregister.gov/documents/2025/06/27/2025-11933/notice-of-intended-repatriation-university-of-pennsylvania-museum-of-archaeology-and-anthropology
+  captured: '2025-07-09'

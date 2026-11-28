@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 45224, published 2020-07-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204093947/https://www.federalregister.gov/documents/2020/07/27/2020-16146/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for
+  captured: '2025-02-04'

@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 51066, published 2001-10-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205071825/https://www.federalregister.gov/documents/2001/10/05/01-24967/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-peabody-museum-of
+  captured: '2025-02-05'

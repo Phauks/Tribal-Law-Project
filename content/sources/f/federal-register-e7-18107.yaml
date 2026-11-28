@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 52387, published 2007-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217105948/https://www.federalregister.gov/documents/2007/09/13/E7-18107/notice-of-inventory-completion-alutiiq-museum-and-archaeological-repository-kodiak-ak
+  captured: '2025-02-17'

@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 51389, published 2025-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251203121544/https://www.federalregister.gov/documents/2025/11/17/2025-19954/notice-of-inventory-completion-tennessee-department-of-environment-and-conservation-division-of
+  captured: '2025-12-03'

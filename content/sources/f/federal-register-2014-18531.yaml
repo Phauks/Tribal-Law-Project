@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 45817, published 2014-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414214100/https://www.federalregister.gov/documents/2014/08/06/2014-18531/office-of-direct-service-and-contracting-tribes-national-indian-health-outreach-and-education-ii
+  captured: '2025-04-14'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 52494, published 2015-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213110124/https://www.federalregister.gov/documents/2015/08/31/2015-21496/notice-of-inventory-completion-department-of-anthropology-at-indiana-university-bloomington-in
+  captured: '2025-02-13'

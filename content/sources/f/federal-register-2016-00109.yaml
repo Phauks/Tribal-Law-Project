@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 966, published 2016-01-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202220856/https://www.federalregister.gov/documents/2016/01/08/2016-00109/notice-of-proposed-renewal-of-information-collection-omb-control-number-1035-0003-application-to
+  captured: '2025-02-02'

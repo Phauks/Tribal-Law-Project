@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 57097, published 2024-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260717213624/https://www.federalregister.gov/documents/2024/07/12/2024-15070/federal-acknowledgment-of-american-indian-tribes
+  captured: '2026-07-17'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 42983, published 2025-09-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250906003533/https://www.federalregister.gov/documents/2025/09/05/2025-17011/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-alaska-state
+  captured: '2025-09-06'

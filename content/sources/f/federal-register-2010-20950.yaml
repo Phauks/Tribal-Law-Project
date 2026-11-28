@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 52021, published 2010-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212163432/https://www.federalregister.gov/documents/2010/08/24/2010-20950/notice-of-inventory-completion-new-york-university-college-of-dentistry-new-york-ny
+  captured: '2025-02-12'

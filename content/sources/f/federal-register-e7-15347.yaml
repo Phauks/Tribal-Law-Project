@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 44181, published 2007-08-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204131120/https://www.federalregister.gov/documents/2007/08/07/E7-15347/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-04'

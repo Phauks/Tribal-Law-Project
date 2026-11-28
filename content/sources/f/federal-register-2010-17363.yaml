@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 41518, published 2010-07-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214111427/https://www.federalregister.gov/documents/2010/07/16/2010-17363/match-e-be-nash-she-wish-gun-lake-tribe-liquor-control-ordinance
+  captured: '2025-02-14'

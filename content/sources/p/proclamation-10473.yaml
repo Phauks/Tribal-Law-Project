@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2022/10/13/2022-22410/indigenous-peoples-day-2022'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213061806/https://www.federalregister.gov/documents/2022/10/13/2022-22410/indigenous-peoples-day-2022
+  captured: '2025-02-13'

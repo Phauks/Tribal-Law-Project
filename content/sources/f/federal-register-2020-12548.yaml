@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 35430, published 2020-06-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202115510/https://www.federalregister.gov/documents/2020/06/10/2020-12548/notice-of-intent-to-repatriate-cultural-items-federal-bureau-of-investigation-art-theft-program
+  captured: '2025-02-02'

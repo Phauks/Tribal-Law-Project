@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 25558, published 2019-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212064254/https://www.federalregister.gov/documents/2019/06/03/2019-11429/notice-of-intent-to-repatriate-cultural-items-eiteljorg-museum-of-american-indians-and-western-art
+  captured: '2025-02-12'

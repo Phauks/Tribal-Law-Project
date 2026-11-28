@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 20425, published 2019-05-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209022043/https://www.federalregister.gov/documents/2019/05/09/2019-09608/hearth-act-approval-of-pueblo-of-isleta-leasing-law
+  captured: '2025-02-09'

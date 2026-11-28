@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 14861, published 2025-04-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812091016/https://www.federalregister.gov/documents/2025/04/04/2025-05814/notice-of-intended-repatriation-middleton-place-foundation-charleston-sc
+  captured: '2026-08-12'

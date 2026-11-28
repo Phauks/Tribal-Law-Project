@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 6493, published 2011-02-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250804151227/https://www.federalregister.gov/documents/2011/02/04/2011-2554/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-k-roadmoapa-band-of
+  captured: '2025-08-04'

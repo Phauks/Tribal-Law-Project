@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 32181, published 2009-07-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205024716/https://www.federalregister.gov/documents/2009/07/07/E9-16014/notice-of-inventory-completion-new-york-university-college-of-dentistry-new-york-city-ny
+  captured: '2025-02-05'

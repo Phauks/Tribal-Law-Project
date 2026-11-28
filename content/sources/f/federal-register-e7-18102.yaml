@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 52392, published 2007-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214064050/https://www.federalregister.gov/documents/2007/09/13/E7-18102/notice-of-intent-to-repatriate-cultural-items-thomas-burke-memorial-washington-state-museum
+  captured: '2025-02-14'

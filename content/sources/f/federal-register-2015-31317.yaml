@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 77008, published 2015-12-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202221012/https://www.federalregister.gov/documents/2015/12/11/2015-31317/notice-of-inventory-completion-northwest-museum-whitman-college-walla-walla-wa-correction
+  captured: '2025-02-02'

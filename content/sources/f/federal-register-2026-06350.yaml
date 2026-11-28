@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 16722, published 2026-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260720001956/https://www.federalregister.gov/documents/2026/04/02/2026-06350/notice-to-rescind-a-notice-of-inventory-completion-metropolitan-park-district-of-the-toledo-area
+  captured: '2026-07-20'

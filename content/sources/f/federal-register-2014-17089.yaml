@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 42353, published 2014-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210406021336/https://www.federalregister.gov/documents/2014/07/21/2014-17089/notice-of-inventory-completion-hamilton-county-department-of-parks-and-recreation-hamilton-county-in
+  captured: '2021-04-06'

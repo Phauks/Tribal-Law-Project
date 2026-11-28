@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 52388, published 2007-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217095511/https://www.federalregister.gov/documents/2007/09/13/E7-18105/notice-of-intent-to-repatriate-cultural-items-cincinnati-museum-center-cincinnati-oh
+  captured: '2025-02-17'

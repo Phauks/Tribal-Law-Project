@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 1452, published 2006-01-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208230727/https://www.federalregister.gov/documents/2006/01/09/E6-75/tribal-self-governance-program-information-collection
+  captured: '2025-02-08'

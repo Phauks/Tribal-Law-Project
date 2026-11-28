@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://law.lis.virginia.gov/vacode/title22.1/chapter14/section22.1-254/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261009213631/https://law.lis.virginia.gov/vacode/title22.1/chapter14/section22.1-254/
+  captured: '2026-10-09'
 history:
   status: live
   last_checked: '2026-11-27'

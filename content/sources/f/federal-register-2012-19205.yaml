@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 47089, published 2012-08-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250506163124/https://www.federalregister.gov/documents/2012/08/07/2012-19205/land-acquisitions-united-keetoowah-band-of-cherokee-indians-of-oklahoma
+  captured: '2025-05-06'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 16013, published 2024-03-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524174711/https://www.federalregister.gov/documents/2024/03/06/2024-04659/notice-of-intended-repatriation-yager-museum-of-art-and-culture-hartwick-college-oneonta-ny
+  captured: '2025-05-24'

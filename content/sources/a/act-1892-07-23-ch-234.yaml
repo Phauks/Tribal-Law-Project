@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-27/STATUTE-27-Pg260
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127071611/https://www.govinfo.gov/app/details/STATUTE-27/STATUTE-27-Pg260
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-27/STATUTE-27-Pg260.pdf
   checksum: 46a4e559685b2392090b342da30f87f27f67fb30b9cf64525b3b2d0ead338576

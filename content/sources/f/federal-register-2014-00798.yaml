@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 2881, published 2014-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202061638/https://www.federalregister.gov/documents/2014/01/16/2014-00798/notice-of-intent-to-repatriate-cultural-items-the-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-02'

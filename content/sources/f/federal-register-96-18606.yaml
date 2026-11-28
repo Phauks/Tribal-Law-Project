@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 38470, published 1996-07-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204141043/https://www.federalregister.gov/documents/1996/07/24/96-18606/notice-of-inventory-completion-for-native-american-human-remains-from-northern-new-mexico-in-the
+  captured: '2025-02-04'

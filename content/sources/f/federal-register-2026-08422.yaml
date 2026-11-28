@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 23302, published 2026-04-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260721034637/https://www.federalregister.gov/documents/2026/04/30/2026-08422/prairie-island-indian-community-in-the-state-of-minnesota-alcohol-and-controlled-substance-ordinance
+  captured: '2026-07-21'

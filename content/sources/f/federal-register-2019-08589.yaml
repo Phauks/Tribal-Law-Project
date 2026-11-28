@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 18081, published 2019-04-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204200149/https://www.federalregister.gov/documents/2019/04/29/2019-08589/notice-of-inventory-completion-city-of-traverse-city-traverse-city-mi
+  captured: '2025-02-04'

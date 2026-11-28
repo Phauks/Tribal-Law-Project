@@ -80,3 +80,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 27929, published 2014-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207061315/https://www.federalregister.gov/documents/2014/05/15/2014-11243/notice-of-inventory-completion-beneski-museum-of-natural-history-amherst-college-amherst-ma
+  captured: '2025-02-07'

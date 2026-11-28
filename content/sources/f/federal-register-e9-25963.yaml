@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 55577, published 2009-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203025830/https://www.federalregister.gov/documents/2009/10/28/E9-25963/notice-of-inventory-completion-south-dakota-state-historical-society-archaeological-research-center
+  captured: '2025-02-03'

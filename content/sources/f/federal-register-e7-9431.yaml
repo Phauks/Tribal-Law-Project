@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 27589, published 2007-05-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210501143317/https://www.federalregister.gov/documents/2007/05/16/E7-9431/energy-policy-act-of-2005-section-1813-report-to-congress
+  captured: '2021-05-01'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 52250, published 1995-10-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250515120910/https://www.federalregister.gov/documents/1995/10/05/95-24480/general-forestry-regulations
+  captured: '2025-05-15'

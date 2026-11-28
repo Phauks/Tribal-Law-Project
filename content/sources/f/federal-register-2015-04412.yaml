@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 11467, published 2015-03-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204011758/https://www.federalregister.gov/documents/2015/03/03/2015-04412/2015-preliminary-fee-rate-and-fingerprint-fees
+  captured: '2025-02-04'

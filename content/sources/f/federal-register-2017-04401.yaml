@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 12836, published 2017-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261024212428/https://www.federalregister.gov/documents/2017/03/07/2017-04401/notice-of-inventory-completion-the-florida-department-of-statedivision-of-historical-resources
+  captured: '2026-10-24'

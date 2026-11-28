@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 58380, published 2014-09-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204074804/https://www.federalregister.gov/documents/2014/09/29/2014-23082/notice-of-intent-to-repatriate-a-cultural-item-us-department-of-the-interior-bureau-of-indian
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 47595, published 2024-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250526071529/https://www.federalregister.gov/documents/2024/06/03/2024-12071/notice-of-intended-repatriation-university-of-nebraska-state-museum-university-of-nebraska-lincoln
+  captured: '2025-05-26'

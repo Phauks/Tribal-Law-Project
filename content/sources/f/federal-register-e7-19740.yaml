@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 57057, published 2007-10-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208084432/https://www.federalregister.gov/documents/2007/10/05/E7-19740/pueblo-of-tesuque-liquor-control-ordinance
+  captured: '2025-02-08'

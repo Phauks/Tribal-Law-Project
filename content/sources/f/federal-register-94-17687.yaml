@@ -48,3 +48,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-07-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208184524/https://www.federalregister.gov/documents/1994/07/20/94-17687/final-determination-that-the-mohegan-tribe-of-indians-of-connecticut-does-exist-as-an-indian-tribe
+  captured: '2025-02-08'

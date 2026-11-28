@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 8128, published 1995-02-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216071607/https://www.federalregister.gov/documents/1995/02/10/95-3306/costanoan-ohlone-rumsen-mutsun-tribe-receipt-of-petition-for-federal-acknowledgment-of-existence-as
+  captured: '2025-02-16'

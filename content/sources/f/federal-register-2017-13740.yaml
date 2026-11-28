@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 29920, published 2017-06-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208202531/https://www.federalregister.gov/documents/2017/06/30/2017-13740/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-hubbell-trading
+  captured: '2025-02-08'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 18383, published 2022-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220331075542/https://www.federalregister.gov/documents/2022/03/30/2022-06675/hearth-act-approval-of-karuk-tribe-residential-agriculture-and-business-leasing-ordinance
+  captured: '2022-03-31'

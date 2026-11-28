@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 5108, published 2010-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212040418/https://www.federalregister.gov/documents/2010/02/01/2010-2016/notice-of-inventory-completion-university-of-nebraska-state-museum-university-of-nebraska-lincoln
+  captured: '2025-02-12'

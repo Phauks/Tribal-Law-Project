@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 10762, published 2009-03-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210507212813/https://www.federalregister.gov/documents/2009/03/12/E9-5328/notice-of-inventory-completion-bureau-of-indian-affairs-great-plains-regional-office-aberdeen-sd
+  captured: '2021-05-07'

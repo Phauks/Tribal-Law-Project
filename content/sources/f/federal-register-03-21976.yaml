@@ -78,3 +78,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 51803, published 2003-08-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250402233944/https://www.federalregister.gov/documents/2003/08/28/03-21976/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-04-02'

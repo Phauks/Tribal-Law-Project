@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.leg.state.nv.us/nrs/NRS-127C.html#NRS127CSec380
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260717181943/https://www.leg.state.nv.us/Nrs/NRS-127C.html
+  captured: '2026-07-17'
 history:
   status: live
   last_checked: '2026-11-27'

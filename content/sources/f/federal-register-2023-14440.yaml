@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 43482, published 2023-07-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204095615/https://www.federalregister.gov/documents/2023/07/10/2023-14440/mining-of-the-osage-mineral-estate-for-oil-and-gas
+  captured: '2025-02-04'

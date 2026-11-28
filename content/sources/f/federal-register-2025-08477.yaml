@@ -103,3 +103,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 20498, published 2025-05-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611191850/https://www.federalregister.gov/documents/2025/05/14/2025-08477/notice-of-inventory-completion-michigan-state-police-dimondale-mi
+  captured: '2025-06-11'

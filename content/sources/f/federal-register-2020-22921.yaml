@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 65871, published 2020-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207020037/https://www.federalregister.gov/documents/2020/10/16/2020-22921/notice-of-intent-to-repatriate-cultural-items-portland-art-museum-portland-or
+  captured: '2025-02-07'

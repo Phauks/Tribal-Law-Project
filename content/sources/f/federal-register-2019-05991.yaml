@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 11826, published 2019-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207214438/https://www.federalregister.gov/documents/2019/03/28/2019-05991/notice-of-inventory-completion-oregon-state-university-nagpra-office-corvallis-or
+  captured: '2025-02-07'

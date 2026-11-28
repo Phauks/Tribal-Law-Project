@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 438, published 2010-01-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214063919/https://www.federalregister.gov/documents/2010/01/05/E9-31219/notice-of-inventory-completion-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-14'

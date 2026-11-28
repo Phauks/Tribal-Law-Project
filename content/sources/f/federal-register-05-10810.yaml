@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 31523, published 2005-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202080708/https://www.federalregister.gov/documents/2005/06/01/05-10810/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-sequoia-and-kings
+  captured: '2025-02-02'

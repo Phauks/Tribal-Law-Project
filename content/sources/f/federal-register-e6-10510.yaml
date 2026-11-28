@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 38418, published 2006-07-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204020251/https://www.federalregister.gov/documents/2006/07/06/E6-10510/notice-of-intent-to-repatriate-a-cultural-item-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-04'

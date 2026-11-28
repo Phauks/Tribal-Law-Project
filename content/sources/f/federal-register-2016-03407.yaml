@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 8219, published 2016-02-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204145007/https://www.federalregister.gov/documents/2016/02/18/2016-03407/native-american-graves-protection-and-repatriation-review-committee-findings-and-recommendations
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 21062, published 2025-05-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250519174241/https://www.federalregister.gov/documents/2025/05/16/2025-08772/notice-of-intended-repatriation-oakland-museum-of-california-oakland-ca
+  captured: '2025-05-19'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 11584, published 2012-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807183720/https://www.federalregister.gov/documents/2012/02/27/2012-4533/notice-of-inventory-completion-us-department-of-agriculture-forest-service-gila-national-forest
+  captured: '2026-08-07'

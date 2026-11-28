@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 28608, published 2023-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202070813/https://www.federalregister.gov/documents/2023/05/04/2023-09475/notice-of-inventory-completion-us-army-corps-of-engineers-savannah-district-savannah-ga
+  captured: '2025-02-02'

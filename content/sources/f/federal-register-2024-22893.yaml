@@ -77,3 +77,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 80919, published 2024-10-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524172207/https://www.federalregister.gov/documents/2024/10/04/2024-22893/notice-of-inventory-completion-university-of-georgia-laboratory-of-archaeology-athens-ga
+  captured: '2025-05-24'

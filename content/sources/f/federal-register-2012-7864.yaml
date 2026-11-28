@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 19691, published 2012-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205013649/https://www.federalregister.gov/documents/2012/04/02/2012-7864/notice-of-inventory-completion-sam-noble-oklahoma-museum-of-natural-history-norman-ok
+  captured: '2025-02-05'

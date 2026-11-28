@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-137/STATUTE-137-Pg1109
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807140057/https://www.govinfo.gov/app/details/STATUTE-137/STATUTE-137-Pg1109
+  captured: '2026-08-07'
 file:
   storage_key: govinfo/STATUTE-137/STATUTE-137-Pg1109.pdf
   checksum: cf8b7dcdd7d9d782ede416e729834fb28e52e614732508eb40830155d416d650

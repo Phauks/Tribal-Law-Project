@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 41123, published 2025-08-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825231155/https://www.federalregister.gov/documents/2025/08/22/2025-16125/notice-of-intended-repatriation-kalamazoo-valley-museum-kalamazoo-mi
+  captured: '2025-08-25'

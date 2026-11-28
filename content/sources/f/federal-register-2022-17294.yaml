@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 49610, published 2022-08-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204082334/https://www.federalregister.gov/documents/2022/08/11/2022-17294/notice-to-rescind-a-notice-of-inventory-completion-minnesota-indian-affairs-council-bemidji-mn
+  captured: '2025-02-04'

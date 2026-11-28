@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 58283, published 2025-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251218052902/https://www.federalregister.gov/documents/2025/12/16/2025-22925/notice-of-inventory-completion-florida-department-of-state-tallahassee-fl
+  captured: '2025-12-18'

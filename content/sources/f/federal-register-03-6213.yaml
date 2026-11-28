@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 12376, published 2003-03-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208210758/https://www.federalregister.gov/documents/2003/03/14/03-6213/notice-of-inventory-completion-oregon-state-museum-of-anthropology-eugene-or
+  captured: '2025-02-08'

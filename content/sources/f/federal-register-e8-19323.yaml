@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 49482, published 2008-08-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212005657/https://www.federalregister.gov/documents/2008/08/21/E8-19323/notice-of-intent-to-repatriate-cultural-items-mcwane-science-center-birmingham-al
+  captured: '2025-02-12'

@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 53778, published 2014-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810205449/https://www.federalregister.gov/documents/2014/09/10/2014-21490/notice-of-intent-to-repatriate-cultural-items-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2026-08-10'

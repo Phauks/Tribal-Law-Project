@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 17013, published 2023-03-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204171840/https://www.federalregister.gov/documents/2023/03/21/2023-05734/notice-of-inventory-completion-san-francisco-state-university-nagpra-program-san-francisco-ca-and
+  captured: '2025-02-04'

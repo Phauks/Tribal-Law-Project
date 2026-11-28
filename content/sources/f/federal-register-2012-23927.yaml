@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 59660, published 2012-09-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260811145545/https://www.federalregister.gov/documents/2012/09/28/2012-23927/notice-of-inventory-completion-stanford-university-archaeology-center-stanford-ca
+  captured: '2026-08-11'

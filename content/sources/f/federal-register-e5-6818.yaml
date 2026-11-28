@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 72464, published 2005-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204042045/https://www.federalregister.gov/documents/2005/12/05/E5-6818/lac-vieux-desert-band-of-lake-superior-chippewa-indians-liquor-control-ordinance
+  captured: '2025-02-04'

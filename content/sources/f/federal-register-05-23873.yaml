@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 73261, published 2005-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206050334/https://www.federalregister.gov/documents/2005/12/09/05-23873/notice-of-inventory-completion-denver-museum-of-nature-and-science-denver-co-correction
+  captured: '2025-02-06'

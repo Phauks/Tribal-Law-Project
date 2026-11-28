@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 35202, published 2024-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525183334/https://www.federalregister.gov/documents/2024/05/01/2024-09408/notice-of-intended-repatriation-william-s-webb-museum-of-anthropology-university-of-kentucky
+  captured: '2025-05-25'

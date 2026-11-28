@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 56897, published 2024-07-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208051332/https://www.federalregister.gov/documents/2024/07/11/2024-15204/notice-of-intended-repatriation-the-henry-ford-dearborn-mi
+  captured: '2025-02-08'

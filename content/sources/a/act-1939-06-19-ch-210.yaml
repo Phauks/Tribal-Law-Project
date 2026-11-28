@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-53/STATUTE-53-Pg840-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128074933/https://www.govinfo.gov/app/details/STATUTE-53/STATUTE-53-Pg840-2
+  captured: '2026-11-28'
 file:
   storage_key: govinfo/STATUTE-53/STATUTE-53-Pg840-2.pdf
   checksum: 69f791776c118dfe15d9fd0826978c2c923bb0cc0126fa8b4053d622c5e0c728

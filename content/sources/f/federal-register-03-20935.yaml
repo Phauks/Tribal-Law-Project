@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 48934, published 2003-08-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210519185151/https://www.federalregister.gov/documents/2003/08/15/03-20935/land-acquisitions-little-traverse-bay-bands-of-odawa-indians-of-michigan
+  captured: '2021-05-19'

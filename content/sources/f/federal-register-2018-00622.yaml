@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 2175, published 2018-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203034941/https://www.federalregister.gov/documents/2018/01/16/2018-00622/the-chickasaw-nation-amendments-to-the-beverage-control-act-of-2007-and-the-chickasaw-nation-code
+  captured: '2025-02-03'

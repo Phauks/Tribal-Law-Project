@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 92711, published 2024-11-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250725005946/https://www.federalregister.gov/documents/2024/11/22/2024-27401/hearth-act-approval-of-bay-mills-indian-community-michigan-leasing-ordinance
+  captured: '2025-07-25'

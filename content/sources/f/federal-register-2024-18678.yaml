@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 67658, published 2024-08-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250417161628/https://www.federalregister.gov/documents/2024/08/21/2024-18678/notice-of-intended-repatriation-university-of-north-dakota-grand-forks-nd
+  captured: '2025-04-17'

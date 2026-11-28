@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.legis.iowa.gov/docs/code/99F.10.pdf
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260411144441/https://www.legis.iowa.gov/docs/code/99F.10.pdf
+  captured: '2026-04-11'
 history:
   status: live
   last_checked: '2026-11-27'

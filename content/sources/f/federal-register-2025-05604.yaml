@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 14458, published 2025-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601034323/https://www.federalregister.gov/documents/2025/04/02/2025-05604/notice-of-inventory-completion-new-york-state-office-of-parks-recreation-and-historic-preservation
+  captured: '2025-06-01'

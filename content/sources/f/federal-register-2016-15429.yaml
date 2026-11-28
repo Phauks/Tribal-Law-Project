@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 42372, published 2016-06-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208132919/https://www.federalregister.gov/documents/2016/06/29/2016-15429/final-environmental-impact-statement-for-the-proposed-seminole-tribe-of-florida-fee-to-trust-project
+  captured: '2025-02-08'

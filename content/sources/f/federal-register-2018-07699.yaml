@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 16121, published 2018-04-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205013023/https://www.federalregister.gov/documents/2018/04/13/2018-07699/notice-of-inventory-completion-mississippi-department-of-archives-and-history-jackson-ms
+  captured: '2025-02-05'

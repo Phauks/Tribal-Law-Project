@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 57610, published 2017-12-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250421161209/https://www.federalregister.gov/documents/2017/12/06/2017-26287/notice-of-inventory-completion-us-department-of-agriculture-forest-service-chugach-national-forest
+  captured: '2025-04-21'

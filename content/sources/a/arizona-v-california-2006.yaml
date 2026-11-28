@@ -24,6 +24,10 @@ caption:
   checked: '2026-11-26'
 original_link: https://www.supremecourt.gov/opinions/boundvolumes/547bv.pdf
 retrieved: '2026-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260709053644/https://www.supremecourt.gov/opinions/boundvolumes/547bv.pdf
+  captured: '2026-07-09'
 history:
   status: live
   last_checked: '2026-11-26'

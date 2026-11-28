@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 53379, published 2005-09-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260804174750/https://www.federalregister.gov/documents/2005/09/08/05-17824/indian-reservation-roads-program-coordinating-committee
+  captured: '2026-08-04'

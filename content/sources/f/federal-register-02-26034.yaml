@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 63445, published 2002-10-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202195305/https://www.federalregister.gov/documents/2002/10/11/02-26034/notice-of-availability-of-the-final-environmental-impact-statement-for-the-truckee-river-water
+  captured: '2025-02-02'

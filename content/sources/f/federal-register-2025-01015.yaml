@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 4788, published 2025-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250428214705/https://www.federalregister.gov/documents/2025/01/16/2025-01015/notice-of-intended-repatriation-longyear-museum-of-anthropology-colgate-university-hamilton-ny
+  captured: '2025-04-28'

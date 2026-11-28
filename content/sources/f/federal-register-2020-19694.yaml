@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 55489, published 2020-09-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208213441/https://www.federalregister.gov/documents/2020/09/08/2020-19694/notice-of-inventory-completion-tennessee-valley-authority-knoxville-tn
+  captured: '2025-02-08'

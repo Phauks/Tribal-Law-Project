@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 12709, published 2021-03-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202040421/https://www.federalregister.gov/documents/2021/03/04/2021-04496/agency-information-collection-activities-bureau-of-indian-education-adult-education-program
+  captured: '2025-02-02'

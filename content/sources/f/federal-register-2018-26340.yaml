@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 62601, published 2018-12-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208194145/https://www.federalregister.gov/documents/2018/12/04/2018-26340/hearth-act-approval-of-prairie-band-potawatomi-nation-regulations
+  captured: '2025-02-08'

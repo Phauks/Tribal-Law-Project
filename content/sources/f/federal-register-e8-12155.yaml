@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 31140, published 2008-05-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260927061554/https://www.federalregister.gov/documents/2008/05/30/E8-12155/amended-proposed-finding-against-acknowledgment-of-the-biloxi-chitimacha-confederation-of-muskogees
+  captured: '2026-09-27'

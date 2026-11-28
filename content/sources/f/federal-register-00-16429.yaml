@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 40112, published 2000-06-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204020804/https://www.federalregister.gov/documents/2000/06/29/00-16429/request-to-office-of-management-and-budget-for-reinstatement-of-agency-information-collection-for
+  captured: '2025-02-04'

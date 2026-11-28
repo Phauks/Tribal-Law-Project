@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 8103, published 2010-02-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218093907/https://www.federalregister.gov/documents/2010/02/23/2010-3486/proposed-renewal-of-agency-information-collection-for-indian-self-determination-and-education
+  captured: '2025-02-18'

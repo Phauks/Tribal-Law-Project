@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 86366, published 2024-10-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251219060346/https://www.federalregister.gov/documents/2024/10/30/2024-25186/notice-of-inventory-completion-museum-of-us-san-diego-ca
+  captured: '2025-12-19'

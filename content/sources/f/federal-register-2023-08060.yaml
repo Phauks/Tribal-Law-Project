@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 23459, published 2023-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201205455/https://www.federalregister.gov/documents/2023/04/17/2023-08060/notice-of-inventory-completion-amendment-new-york-state-museum-albany-ny
+  captured: '2025-02-01'

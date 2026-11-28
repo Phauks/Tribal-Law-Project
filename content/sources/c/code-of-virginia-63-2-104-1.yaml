@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://law.lis.virginia.gov/vacode/title63.2/chapter1/section63.2-104.1/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260517171918/https://law.lis.virginia.gov/vacode/title63.2/chapter1/section63.2-104.1/
+  captured: '2026-05-17'
 history:
   status: live
   last_checked: '2026-11-27'

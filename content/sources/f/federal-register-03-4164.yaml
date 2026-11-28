@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 8524, published 2003-02-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208045647/https://www.federalregister.gov/documents/2003/02/21/03-4164/notice-of-proposed-information-collection-comment-request
+  captured: '2025-02-08'

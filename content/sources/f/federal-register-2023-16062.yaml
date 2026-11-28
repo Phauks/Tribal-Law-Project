@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 48909, published 2023-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204101318/https://www.federalregister.gov/documents/2023/07/28/2023-16062/notice-of-inventory-completion-utah-field-house-of-natural-history-state-park-museum-vernal-ut
+  captured: '2025-02-04'

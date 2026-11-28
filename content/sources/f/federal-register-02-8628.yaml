@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 17463, published 2002-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208094024/https://www.federalregister.gov/documents/2002/04/10/02-8628/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-springfield-science-museum
+  captured: '2025-02-08'

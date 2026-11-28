@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 14060, published 2011-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204220830/https://www.federalregister.gov/documents/2011/03/15/2011-5860/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-02-04'

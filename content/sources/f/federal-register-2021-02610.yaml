@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 8799, published 2021-02-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204144730/https://www.federalregister.gov/documents/2021/02/09/2021-02610/notice-of-inventory-completion-boston-university-boston-ma
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 25664, published 2024-04-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524171050/https://www.federalregister.gov/documents/2024/04/11/2024-07711/notice-of-intended-repatriation-mount-holyoke-college-art-museum-south-hadley-ma
+  captured: '2025-05-24'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 19872, published 2024-03-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524195125/https://www.federalregister.gov/documents/2024/03/20/2024-05859/notice-of-inventory-completion-university-of-tennessee-department-of-anthropology-knoxville-tn
+  captured: '2025-05-24'

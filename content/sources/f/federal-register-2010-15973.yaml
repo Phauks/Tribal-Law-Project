@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 38112, published 2010-07-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204132915/https://www.federalregister.gov/documents/2010/07/01/2010-15973/organization-functions-and-delegations-of-authority-part-g-indian-health-service-proposed-functional
+  captured: '2025-02-04'

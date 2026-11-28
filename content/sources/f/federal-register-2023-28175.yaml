@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 88647, published 2023-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201223143/https://www.federalregister.gov/documents/2023/12/22/2023-28175/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-fort-matanzas
+  captured: '2025-02-01'

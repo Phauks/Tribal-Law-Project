@@ -81,3 +81,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 55851, published 2022-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208035948/https://www.federalregister.gov/documents/2022/09/12/2022-19616/notice-of-inventory-completion-history-colorado-formerly-colorado-historical-society-denver-co
+  captured: '2025-02-08'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 1183, published 2022-01-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207183424/https://www.federalregister.gov/documents/2022/01/10/2022-00229/notice-of-inventory-completion-state-university-at-buffalo-department-of-anthropology-buffalo-ny
+  captured: '2025-02-07'

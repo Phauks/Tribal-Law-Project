@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 61265, published 2004-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208194546/https://www.federalregister.gov/documents/2004/10/15/04-23177/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-08'

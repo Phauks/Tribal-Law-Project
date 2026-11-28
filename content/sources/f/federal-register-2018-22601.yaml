@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 52530, published 2018-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202041300/https://www.federalregister.gov/documents/2018/10/17/2018-22601/notice-of-inventory-completion-university-of-california-davis-davis-ca-and-us-bureau-of-reclamation
+  captured: '2025-02-02'

@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the manual page was read: https://www.bia.gov/policy-forms/manual'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261117193041/https://www.bia.gov/sites/default/files/dup/assets/public/raca/manual/pdf/13%20IAM%205%20-%20Contract%20File%20Location%2C%20Organization_FINAL_Signed_IssueDate_508.pdf
+  captured: '2026-11-17'

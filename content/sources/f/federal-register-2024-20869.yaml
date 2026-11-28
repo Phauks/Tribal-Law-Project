@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 74984, published 2024-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260716204234/https://www.federalregister.gov/documents/2024/09/13/2024-20869/notice-of-inventory-completion-western-washington-university-department-of-anthropology-bellingham
+  captured: '2026-07-16'

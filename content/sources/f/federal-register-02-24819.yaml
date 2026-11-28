@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 61760, published 2002-10-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211180905/https://www.federalregister.gov/documents/2002/10/01/02-24819/collection-of-water-delivery-and-electric-service-data-for-the-operation-of-irrigation-and-power
+  captured: '2025-02-11'

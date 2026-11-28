@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/red-clay-inter-tribal-lndian-band-secc; it gives no year'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127010011/https://www.bia.gov/sites/default/files/media_document/029_pf.pdf
+  captured: '2026-11-27'

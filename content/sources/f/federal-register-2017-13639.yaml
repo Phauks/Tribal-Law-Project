@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 29580, published 2017-06-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208185155/https://www.federalregister.gov/documents/2017/06/29/2017-13639/agency-information-collection-activities-omb-control-number-1076-0017-financial-assistance-and
+  captured: '2025-02-08'

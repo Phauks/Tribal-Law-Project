@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 46178, published 2023-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204102754/https://www.federalregister.gov/documents/2023/07/19/2023-15234/notice-of-intent-to-repatriate-cultural-items-johnson-humrickhouse-museum-coshocton-oh
+  captured: '2025-02-04'

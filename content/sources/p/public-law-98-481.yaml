@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-98/STATUTE-98-Pg2250
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204230303/https://www.govinfo.gov/app/details/STATUTE-98/STATUTE-98-Pg2250
+  captured: '2025-02-04'
 file:
   storage_key: govinfo/STATUTE-98/STATUTE-98-Pg2250.pdf
   checksum: b5ad91b4eb3379aca9f9ea55359dbcc2068a3f6a7a0fcdbe7fb030d1ebdad6d2

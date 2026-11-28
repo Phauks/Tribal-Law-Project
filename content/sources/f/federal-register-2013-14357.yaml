@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 36239, published 2013-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260716174156/https://www.federalregister.gov/documents/2013/06/17/2013-14357/notice-of-inventory-completion-wayne-state-university-gordon-l-grosscup-museum-of-anthropology
+  captured: '2026-07-16'

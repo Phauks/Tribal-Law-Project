@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 10406, published 1998-03-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218130048/https://www.federalregister.gov/documents/1998/03/03/98-5406/notice-of-intent-to-repatriate-cultural-items-from-arizona-in-the-possession-of-the-american-museum
+  captured: '2025-02-18'

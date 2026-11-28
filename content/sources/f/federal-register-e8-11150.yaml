@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 28840, published 2008-05-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208170233/https://www.federalregister.gov/documents/2008/05/19/E8-11150/notice-of-cancellation-of-the-environmental-impact-statement-for-the-lower-lake-rancheria
+  captured: '2025-02-08'

@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 9904, published 2023-02-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208020551/https://www.federalregister.gov/documents/2023/02/15/2023-03235/notice-of-inventory-completion-antonio-j-waring-jr-archaeological-laboratory-university-of-west
+  captured: '2025-02-08'

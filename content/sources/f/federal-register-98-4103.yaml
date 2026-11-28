@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 8470, published 1998-02-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209230928/https://www.federalregister.gov/documents/1998/02/19/98-4103/proclamation-of-certain-lands-as-part-of-the-reservation-of-the-pueblo-of-acoma-los-cerritos-tracts
+  captured: '2025-02-09'

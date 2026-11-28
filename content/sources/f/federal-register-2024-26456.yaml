@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 90040, published 2024-11-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250526003908/https://www.federalregister.gov/documents/2024/11/14/2024-26456/notice-of-intended-repatriation-the-san-diego-archaeological-center-san-diego-ca
+  captured: '2025-05-26'

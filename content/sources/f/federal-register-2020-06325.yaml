@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 17093, published 2020-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202053548/https://www.federalregister.gov/documents/2020/03/26/2020-06325/land-acquisitions-catawba-indian-nation-kings-mountain-parcel-north-carolina
+  captured: '2025-02-02'

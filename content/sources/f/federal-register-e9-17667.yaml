@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 36740, published 2009-07-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208104800/https://www.federalregister.gov/documents/2009/07/24/E9-17667/notice-of-intent-to-repatriate-cultural-items-us-department-of-defense-army-corps-of-engineers-walla
+  captured: '2025-02-08'

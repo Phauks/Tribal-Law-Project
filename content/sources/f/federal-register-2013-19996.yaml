@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 50108, published 2013-08-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210411171205/https://www.federalregister.gov/documents/2013/08/16/2013-19996/notice-of-intent-to-repatriate-cultural-item-rochester-museum-and-science-center-rochester-ny
+  captured: '2021-04-11'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 40799, published 2017-08-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204094457/https://www.federalregister.gov/documents/2017/08/28/2017-18188/notice-of-intent-to-repatriate-cultural-items-brooklyn-museum-brooklyn-ny
+  captured: '2025-02-04'

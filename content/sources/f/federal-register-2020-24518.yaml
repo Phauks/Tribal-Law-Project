@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 70649, published 2020-11-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202104513/https://www.federalregister.gov/documents/2020/11/05/2020-24518/hearth-act-approval-of-the-san-pasqual-band-of-diegueno-mission-indians-of-california-business-site
+  captured: '2025-02-02'

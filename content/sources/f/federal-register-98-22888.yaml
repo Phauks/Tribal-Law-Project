@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 45513, published 1998-08-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217230257/https://www.federalregister.gov/documents/1998/08/26/98-22888/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-17'

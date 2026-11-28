@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 28648, published 2010-05-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250220165630/https://www.federalregister.gov/documents/2010/05/21/2010-12275/notice-of-inventory-completion-peabody-museum-of-archaeology-and-ethnology-harvard-university
+  captured: '2025-02-20'

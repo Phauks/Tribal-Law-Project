@@ -69,3 +69,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 47272, published 2009-09-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208170949/https://www.federalregister.gov/documents/2009/09/15/E9-22217/notice-of-inventory-completion-texas-department-of-transportation-austin-tx
+  captured: '2025-02-08'

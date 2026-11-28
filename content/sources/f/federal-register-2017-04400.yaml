@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 12832, published 2017-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205063258/https://www.federalregister.gov/documents/2017/03/07/2017-04400/notice-of-inventory-completion-arkansas-state-highway-and-transportation-department-little-rock-ar
+  captured: '2025-02-05'

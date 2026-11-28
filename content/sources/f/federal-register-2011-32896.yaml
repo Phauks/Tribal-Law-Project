@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 80387, published 2011-12-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210415061903/https://www.federalregister.gov/documents/2011/12/23/2011-32896/renewal-of-agency-information-collection-for-law-and-order-on-indian-reservations-marriage-and
+  captured: '2021-04-15'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 61778, published 2012-10-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214102155/https://www.federalregister.gov/documents/2012/10/11/2012-25025/shakopee-mdewakanton-sioux-community-liquor-ordinance-to-allow-for-on-sale-liquor-transactions
+  captured: '2025-02-14'

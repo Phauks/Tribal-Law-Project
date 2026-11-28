@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 13146, published 2023-03-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204031725/https://www.federalregister.gov/documents/2023/03/02/2023-04262/notice-of-intent-to-repatriate-cultural-items-california-state-university-sacramento-sacramento-ca
+  captured: '2025-02-04'

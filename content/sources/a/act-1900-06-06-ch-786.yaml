@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-31/STATUTE-31-Pg321
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260110142510/https://www.govinfo.gov/app/details/STATUTE-31/STATUTE-31-Pg321
+  captured: '2026-01-10'
 file:
   storage_key: govinfo/STATUTE-31/STATUTE-31-Pg321.pdf
   checksum: a57951a5ca7345c42638e9bb9502953b8b2e9043190d9a6f9eb39823cf65da02

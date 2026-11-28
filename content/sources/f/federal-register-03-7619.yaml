@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 15481, published 2003-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208212716/https://www.federalregister.gov/documents/2003/03/31/03-7619/roll-submitted-by-the-little-traverse-bay-band-of-odawa-indians
+  captured: '2025-02-08'

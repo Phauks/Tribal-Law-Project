@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-45/STATUTE-45-Pg493
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127073959/https://www.govinfo.gov/app/details/STATUTE-45/STATUTE-45-Pg493
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-45/STATUTE-45-Pg493.pdf
   checksum: b43bb1a04e5a3c62171a559fa597fe229d5ac5cc6b28575524ed0399124c503b

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 44156, published 1995-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205062919/https://www.federalregister.gov/documents/1995/08/24/95-20509/proclaiming-certain-lands-as-reservation-for-the-pueblo-of-acoma-indian-tribe
+  captured: '2025-02-05'

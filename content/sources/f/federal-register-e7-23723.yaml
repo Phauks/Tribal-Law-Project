@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 69224, published 2007-12-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205033114/https://www.federalregister.gov/documents/2007/12/07/E7-23723/submission-of-paperwork-reduction-act-request-to-office-of-management-and-budget
+  captured: '2025-02-05'

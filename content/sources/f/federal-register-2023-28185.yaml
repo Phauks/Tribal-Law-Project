@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 88645, published 2023-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611191256/https://www.federalregister.gov/documents/2023/12/22/2023-28185/notice-of-inventory-completion-alabama-department-of-archives-and-history-montgomery-al
+  captured: '2025-06-11'

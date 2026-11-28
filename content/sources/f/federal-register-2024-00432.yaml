@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 1941, published 2024-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611184721/https://www.federalregister.gov/documents/2024/01/11/2024-00432/notice-of-inventory-completion-university-of-california-riverside-riverside-ca
+  captured: '2025-06-11'

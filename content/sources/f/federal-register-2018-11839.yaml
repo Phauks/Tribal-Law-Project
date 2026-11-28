@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 25479, published 2018-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205130803/https://www.federalregister.gov/documents/2018/06/01/2018-11839/shoalwater-bay-indian-tribe-of-the-shoalwater-bay-indian-reservation-liquor-ordinance-repeal-and
+  captured: '2025-02-05'

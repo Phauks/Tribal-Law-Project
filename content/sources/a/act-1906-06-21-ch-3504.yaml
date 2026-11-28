@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-34/STATUTE-34-Pg325-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127072514/https://www.govinfo.gov/app/details/STATUTE-34/STATUTE-34-Pg325-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-34/STATUTE-34-Pg325-2.pdf
   checksum: ab1b1336f8d3eb8294dcd8c386085c67ec6f1bb32bb0989a169a231f16a7ef0c

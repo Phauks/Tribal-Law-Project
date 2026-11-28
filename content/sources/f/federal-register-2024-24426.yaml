@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 84387, published 2024-10-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524175029/https://www.federalregister.gov/documents/2024/10/22/2024-24426/notice-of-inventory-completion-amendment-u-s-army-garrison-fort-leonard-wood-mo
+  captured: '2025-05-24'

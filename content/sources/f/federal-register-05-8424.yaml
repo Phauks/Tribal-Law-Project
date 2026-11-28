@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 23011, published 2005-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206094256/https://www.federalregister.gov/documents/2005/05/04/05-8424/minimum-internal-control-standards
+  captured: '2025-02-06'

@@ -40,6 +40,10 @@ opinions:
     page: 631
 original_link: https://www.loc.gov/item/usrep497547/
 retrieved: '2026-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250222193343/https://www.loc.gov/item/usrep497547/
+  captured: '2025-02-22'
 history:
   status: live
   last_checked: '2026-11-26'

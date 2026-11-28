@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 6778, published 2023-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204011747/https://www.federalregister.gov/documents/2023/02/01/2023-02058/notice-of-intent-to-repatriate-cultural-items-san-francisco-state-university-nagpra-program-san
+  captured: '2025-02-04'

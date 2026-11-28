@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 31518, published 2005-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202065405/https://www.federalregister.gov/documents/2005/06/01/05-10798/notice-of-intent-to-repatriate-cultural-items-california-department-of-parks-and-recreation
+  captured: '2025-02-02'

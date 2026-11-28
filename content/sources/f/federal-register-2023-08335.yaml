@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 24441, published 2023-04-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202221221/https://www.federalregister.gov/documents/2023/04/20/2023-08335/notice-of-inventory-completion-the-fort-ticonderoga-association-ticonderoga-ny
+  captured: '2025-02-02'

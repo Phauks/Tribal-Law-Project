@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 38761, published 2021-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203052530/https://www.federalregister.gov/documents/2021/07/22/2021-15567/notice-of-intent-to-repatriate-cultural-items-university-of-denver-museum-of-anthropology-denver-co
+  captured: '2025-02-03'

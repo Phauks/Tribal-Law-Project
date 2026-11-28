@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 24651, published 2025-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250622143253/https://www.federalregister.gov/documents/2025/06/11/2025-10588/notice-of-inventory-completion-milwaukee-public-museum-milwaukee-wi
+  captured: '2025-06-22'

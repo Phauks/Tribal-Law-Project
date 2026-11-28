@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 58433, published 2010-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206051313/https://www.federalregister.gov/documents/2010/09/24/2010-23901/notice-of-inventory-completion-brigham-young-university-museum-of-peoples-and-cultures-provo-ut
+  captured: '2025-02-06'

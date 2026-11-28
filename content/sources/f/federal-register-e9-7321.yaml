@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 14818, published 2009-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214162214/https://www.federalregister.gov/documents/2009/04/01/E9-7321/proclaiming-certain-lands-auburn-school-district-property-as-an-addition-to-the-muckleshoot
+  captured: '2025-02-14'

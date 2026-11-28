@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 76303, published 2015-12-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251205170521/https://www.federalregister.gov/documents/2015/12/08/2015-30903/notice-of-inventory-completion-ohio-history-connection-columbus-oh
+  captured: '2025-12-05'

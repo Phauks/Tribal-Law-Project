@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 13742, published 2024-02-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250518074426/https://www.federalregister.gov/documents/2024/02/23/2024-03649/notice-of-inventory-completion-arkansas-archeological-survey-fayetteville-ar
+  captured: '2025-05-18'

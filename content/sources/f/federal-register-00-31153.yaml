@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 76648, published 2000-12-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210507152314/https://www.federalregister.gov/documents/2000/12/07/00-31153/request-for-public-comment-60-day-proposed-collection-ihs-scholarship-program-application
+  captured: '2021-05-07'

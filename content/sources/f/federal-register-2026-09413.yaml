@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 25911, published 2026-05-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260512101152/https://www.federalregister.gov/documents/2026/05/12/2026-09413/notice-of-intended-repatriation-kalamazoo-valley-museum-kalamazoo-mi
+  captured: '2026-05-12'

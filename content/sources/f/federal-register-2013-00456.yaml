@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 2428, published 2013-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204112113/https://www.federalregister.gov/documents/2013/01/11/2013-00456/notice-of-intent-to-repatriate-cultural-items-northwest-museum-of-arts-and-culture-spokane-wa
+  captured: '2025-02-04'

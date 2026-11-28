@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 38115, published 2021-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260115160505/https://www.federalregister.gov/documents/2021/07/19/2021-15251/notice-of-inventory-completion-illinois-state-museum-springfield-il
+  captured: '2026-01-15'

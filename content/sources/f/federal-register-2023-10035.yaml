@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 30328, published 2023-05-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260430001415/https://www.federalregister.gov/documents/2023/05/11/2023-10035/cheyenne-river-sioux-tribe-alcoholic-beverages-control-law
+  captured: '2026-04-30'

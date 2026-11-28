@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 34264, published 1999-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210508010044/https://www.federalregister.gov/documents/1999/06/25/99-16258/final-environmental-impact-statement-for-the-proposed-high-mesa-environmental-facility-on-the-pueblo
+  captured: '2021-05-08'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 49506, published 1999-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208223938/https://www.federalregister.gov/documents/1999/09/13/99-23771/notice-of-inventory-completion-for-native-american-human-remains-in-the-possession-of-the-university
+  captured: '2025-02-08'

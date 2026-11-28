@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 87796, published 2023-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611191213/https://www.federalregister.gov/documents/2023/12/19/2023-27790/notice-of-intent-to-repatriate-cultural-items-the-university-of-kansas-lawrence-ks
+  captured: '2025-06-11'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 50098, published 2013-08-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260203035252/https://www.federalregister.gov/documents/2013/08/16/2013-20001/notice-of-inventory-completion-st-joseph-county-sheriffs-department-centreville-mi
+  captured: '2026-02-03'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 39731, published 2012-07-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502052613/https://www.federalregister.gov/documents/2012/07/05/2012-16382/swinomish-indian-tribal-community-title-15-chapter-4-liquor-legalization-regulation-and-license-code
+  captured: '2025-05-02'

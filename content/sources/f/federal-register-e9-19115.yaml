@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 40227, published 2009-08-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202003133/https://www.federalregister.gov/documents/2009/08/11/E9-19115/rate-adjustment-for-indian-irrigation-project
+  captured: '2025-02-02'

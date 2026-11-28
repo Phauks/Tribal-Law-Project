@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 42066, published 2004-07-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218081250/https://www.federalregister.gov/documents/2004/07/13/04-15820/proclaiming-certain-lands-as-reservation-for-the-lytton-rancheria-of-california
+  captured: '2025-02-18'

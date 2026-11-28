@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 39635, published 2024-05-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260716020121/https://www.federalregister.gov/documents/2024/05/09/2024-10073/hearth-act-approval-of-confederated-tribes-of-the-warm-springs-reservation-of-oregon-amended
+  captured: '2026-07-16'

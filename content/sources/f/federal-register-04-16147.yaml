@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 42773, published 2004-07-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208224049/https://www.federalregister.gov/documents/2004/07/16/04-16147/notice-of-intent-to-repatriate-a-cultural-item-new-york-state-museum-albany-ny
+  captured: '2025-02-08'

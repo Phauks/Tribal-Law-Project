@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 15078, published 2023-03-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20231007141150/https://www.federalregister.gov/documents/2023/03/10/2023-04892/notice-of-inventory-completion-amendment-us-department-of-the-interior-bureau-of-indian-affairs
+  captured: '2023-10-07'

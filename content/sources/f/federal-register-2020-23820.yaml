@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 68347, published 2020-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204162521/https://www.federalregister.gov/documents/2020/10/28/2020-23820/indian-health-professions-preparatory-indian-health-professions-pre-graduate-and-indian-health
+  captured: '2025-02-04'

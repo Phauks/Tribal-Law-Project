@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 51589, published 1998-09-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214030501/https://www.federalregister.gov/documents/1998/09/28/98-25807/notice-of-inventory-completion-for-native-american-human-remains-from-new-london-county-ct-in-the
+  captured: '2025-02-14'

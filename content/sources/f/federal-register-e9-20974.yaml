@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 44867, published 2009-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204014849/https://www.federalregister.gov/documents/2009/08/31/E9-20974/water-delivery-and-electric-service-data-for-the-operation-of-irrigation-and-power-projects-and
+  captured: '2025-02-04'

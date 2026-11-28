@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 68812, published 2012-11-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208063742/https://www.federalregister.gov/documents/2012/11/16/2012-27902/renewal-of-agency-information-collection-for-class-iii-gaming-tribal-revenue-allocation-plans-gaming
+  captured: '2025-02-08'

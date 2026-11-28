@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 13890, published 2013-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810165623/https://www.federalregister.gov/documents/2013/03/01/2013-04772/notice-of-intent-to-repatriate-cultural-items-san-francisco-state-university-nagpra-program-san
+  captured: '2026-08-10'

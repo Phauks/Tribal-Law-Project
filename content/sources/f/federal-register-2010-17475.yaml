@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 41885, published 2010-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208132617/https://www.federalregister.gov/documents/2010/07/19/2010-17475/notice-of-inventory-completion-wisconsin-historical-society-museum-division-madison-wi
+  captured: '2025-02-08'

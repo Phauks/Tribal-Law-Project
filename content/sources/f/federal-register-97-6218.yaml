@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 11324, published 1997-03-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250417151825/https://www.federalregister.gov/documents/1997/03/12/97-6218/special-education
+  captured: '2025-04-17'

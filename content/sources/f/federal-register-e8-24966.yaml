@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 62530, published 2008-10-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205230649/https://www.federalregister.gov/documents/2008/10/21/E8-24966/notice-of-inventory-completion-us-department-of-defense-army-corps-of-engineers-portland-district
+  captured: '2025-02-05'

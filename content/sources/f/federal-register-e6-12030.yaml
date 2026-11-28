@@ -87,3 +87,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 42667, published 2006-07-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202071507/https://www.federalregister.gov/documents/2006/07/27/E6-12030/notice-of-inventory-completion-horner-collection-oregon-state-university-corvallis-or
+  captured: '2025-02-02'

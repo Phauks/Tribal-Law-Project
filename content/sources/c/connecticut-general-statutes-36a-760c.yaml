@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.cga.ct.gov/current/pub/chap_669.htm#sec_36a-760c
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261001144230/https://www.cga.ct.gov/current/pub/chap_669.htm
+  captured: '2026-10-01'
 history:
   status: live
   last_checked: '2026-11-27'

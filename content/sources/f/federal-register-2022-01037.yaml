@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 3118, published 2022-01-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220401120458/https://www.federalregister.gov/documents/2022/01/20/2022-01037/notice-of-inventory-completion-san-bernardino-county-museum-redlands-ca-correction
+  captured: '2022-04-01'

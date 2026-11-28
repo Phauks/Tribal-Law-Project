@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 51460, published 2001-10-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202075155/https://www.federalregister.gov/documents/2001/10/09/01-25156/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-nebraska-state-historical
+  captured: '2025-02-02'

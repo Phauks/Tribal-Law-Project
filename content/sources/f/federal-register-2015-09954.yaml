@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 23815, published 2015-04-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251108161847/https://www.federalregister.gov/documents/2015/04/29/2015-09954/confederated-tribes-of-the-coos-lower-umpqua-and-siuslaw-indians-tribal-code-clusitc-liquor-control
+  captured: '2025-11-08'

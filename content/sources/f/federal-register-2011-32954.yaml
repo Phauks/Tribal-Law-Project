@@ -88,3 +88,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 80392, published 2011-12-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212020041/https://www.federalregister.gov/documents/2011/12/23/2011-32954/notice-of-inventory-completion-university-of-michigan-museum-of-anthropology-ann-arbor-mi
+  captured: '2025-02-12'

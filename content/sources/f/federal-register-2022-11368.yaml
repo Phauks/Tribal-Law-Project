@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 32048, published 2022-05-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206051846/https://www.federalregister.gov/documents/2022/05/26/2022-11368/land-acquisitions-ho-chunk-nation-of-wisconsin-keecak-site-city-of-beloit-rock-county-wisconsin
+  captured: '2025-02-06'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 51141, published 1999-09-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210504225824/https://www.federalregister.gov/documents/1999/09/21/99-24476/notice-of-inventory-completion-for-native-american-human-remains-from-gunnison-county-co-in-the
+  captured: '2021-05-04'

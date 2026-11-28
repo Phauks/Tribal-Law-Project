@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 7655, published 2001-01-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212104140/https://www.federalregister.gov/documents/2001/01/24/01-2131/rates-for-calendar-year-2001
+  captured: '2025-02-12'

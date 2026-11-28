@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 100527, published 2024-12-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611195440/https://www.federalregister.gov/documents/2024/12/12/2024-29264/notice-of-inventory-completion-georgia-department-of-natural-resources-atlanta-ga
+  captured: '2025-06-11'

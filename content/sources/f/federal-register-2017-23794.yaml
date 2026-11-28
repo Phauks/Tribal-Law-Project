@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 50667, published 2017-11-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206020440/https://www.federalregister.gov/documents/2017/11/01/2017-23794/notice-of-inventory-completion-sam-noble-oklahoma-museum-of-natural-history-norman-ok
+  captured: '2025-02-06'

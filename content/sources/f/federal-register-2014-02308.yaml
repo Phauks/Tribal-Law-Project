@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 6919, published 2014-02-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210416150239/https://www.federalregister.gov/documents/2014/02/05/2014-02308/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-lake-roosevelt
+  captured: '2021-04-16'

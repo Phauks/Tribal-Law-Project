@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 36950, published 2016-06-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210421212010/https://www.federalregister.gov/documents/2016/06/08/2016-13594/notice-of-inventory-completion-los-angeles-county-museum-of-natural-history-los-angeles-ca
+  captured: '2021-04-21'

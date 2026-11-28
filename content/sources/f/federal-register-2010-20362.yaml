@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 51083, published 2010-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219071046/https://www.federalregister.gov/documents/2010/08/18/2010-20362/office-of-clinical-and-preventive-services-maternal-and-child-health-program-project-choices-pilot
+  captured: '2025-02-19'

@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CRPT-119hrpt583'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260727161130/https://www.govinfo.gov/app/details/CRPT-119hrpt583/
+  captured: '2026-07-27'

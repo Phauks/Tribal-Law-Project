@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 46768, published 2012-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250804152037/https://www.federalregister.gov/documents/2012/08/06/2012-19078/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-moapa-solar-energy-center-on
+  captured: '2025-08-04'

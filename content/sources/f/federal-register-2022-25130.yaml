@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 69314, published 2022-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207041804/https://www.federalregister.gov/documents/2022/11/18/2022-25130/notice-of-inventory-completion-university-of-california-davis-davis-ca
+  captured: '2025-02-07'

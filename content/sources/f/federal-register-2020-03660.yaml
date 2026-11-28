@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 10704, published 2020-02-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20241219102913/https://www.federalregister.gov/documents/2020/02/25/2020-03660/request-for-public-comment-30-day-information-collection-indian-self-determination-and-education
+  captured: '2024-12-19'

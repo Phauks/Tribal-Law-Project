@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 13548, published 1995-03-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203021925/https://www.federalregister.gov/documents/1995/03/13/95-6137/preliminary-adjustments-to-specific-tribal-trust-fund-balances
+  captured: '2025-02-03'

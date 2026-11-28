@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 65760, published 2026-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261016072656/https://www.federalregister.gov/documents/2026/10/16/2026-21113/notice-of-inventory-completion-warren-anatomical-museum-collection-center-for-the-history-of
+  captured: '2026-10-16'

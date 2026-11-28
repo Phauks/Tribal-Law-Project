@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 18062, published 2014-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208144900/https://www.federalregister.gov/documents/2014/03/31/2014-07137/notice-of-intent-to-repatriate-cultural-items-us-department-of-defense-department-of-the-navy
+  captured: '2025-02-08'

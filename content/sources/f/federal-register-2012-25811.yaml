@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 64348, published 2012-10-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204033408/https://www.federalregister.gov/documents/2012/10/19/2012-25811/land-acquisitions-mississippi-band-of-choctaw-indians
+  captured: '2025-02-04'

@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 59958, published 2013-09-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260711181527/https://www.federalregister.gov/documents/2013/09/30/2013-23818/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-nevada-state
+  captured: '2026-07-11'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 52725, published 1997-10-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250227104957/https://www.federalregister.gov/documents/1997/10/09/97-26710/request-for-public-comment-60-day-proposed-collection-application-for-participation-in-the-ihs
+  captured: '2025-02-27'

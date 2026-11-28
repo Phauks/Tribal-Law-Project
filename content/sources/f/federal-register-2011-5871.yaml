@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 14055, published 2011-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205003129/https://www.federalregister.gov/documents/2011/03/15/2011-5871/notice-of-inventory-completion-california-state-department-of-transportation-caltrans-sacramento-ca
+  captured: '2025-02-05'

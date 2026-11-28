@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 58402, published 2024-07-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611183312/https://www.federalregister.gov/documents/2024/07/18/2024-15831/notice-of-intended-repatriation-university-of-tennessee-department-of-anthropology-knoxville-tn-and
+  captured: '2025-06-11'

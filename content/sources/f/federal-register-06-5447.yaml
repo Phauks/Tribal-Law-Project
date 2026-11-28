@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 34958, published 2006-06-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214111503/https://www.federalregister.gov/documents/2006/06/16/06-5447/liquor-control-ordinance-of-the-ottawa-tribe-of-oklahoma
+  captured: '2025-02-14'

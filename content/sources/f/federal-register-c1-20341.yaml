@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 46307, published 2001-09-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810053805/https://www.federalregister.gov/documents/2001/09/04/C1-20341/dominion-transmission-inc-notice-of-compliance-filing
+  captured: '2026-08-10'

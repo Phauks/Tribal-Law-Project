@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 21391, published 2009-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204161014/https://www.federalregister.gov/documents/2009/05/07/E9-10543/notice-of-inventory-completion-chelan-county-public-utility-district-wenatchee-wa-and-museum-of
+  captured: '2025-02-04'

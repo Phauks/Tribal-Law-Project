@@ -80,3 +80,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 14498, published 2018-04-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206141822/https://www.federalregister.gov/documents/2018/04/04/2018-06832/notice-of-inventory-completion-west-virginia-division-of-culture-and-history-charleston-wv
+  captured: '2025-02-06'

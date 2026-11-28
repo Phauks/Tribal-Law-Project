@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 65216, published 2004-11-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204233823/https://www.federalregister.gov/documents/2004/11/10/04-25046/plan-for-the-use-and-distribution-of-mescalero-apache-judgment-funds-in-docket-no-92-403l
+  captured: '2025-02-04'

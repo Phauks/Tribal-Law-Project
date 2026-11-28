@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 20020, published 1999-04-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202001127/https://www.federalregister.gov/documents/1999/04/23/99-10209/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-bandelier-national-monument
+  captured: '2025-02-02'

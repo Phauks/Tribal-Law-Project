@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 24674, published 1999-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208185433/https://www.federalregister.gov/documents/1999/05/07/99-11456/irrigation-operation-and-maintenance-rate-adjustment-for-san-carlos-irrigation-project-arizona
+  captured: '2025-02-08'

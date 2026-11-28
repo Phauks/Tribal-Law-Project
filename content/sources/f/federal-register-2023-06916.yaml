@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 19979, published 2023-04-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250612000103/https://www.federalregister.gov/documents/2023/04/04/2023-06916/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-06-12'

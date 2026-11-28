@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 21061, published 2025-05-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250517072335/https://www.federalregister.gov/documents/2025/05/16/2025-08770/notice-of-intended-repatriation-field-museum-chicago-il
+  captured: '2025-05-17'

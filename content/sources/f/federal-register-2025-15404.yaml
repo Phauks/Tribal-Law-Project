@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 39216, published 2025-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825220257/https://www.federalregister.gov/documents/2025/08/14/2025-15404/notice-of-intended-repatriation-california-academy-of-sciences-san-francisco-ca
+  captured: '2025-08-25'

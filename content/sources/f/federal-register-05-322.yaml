@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 1460, published 2005-01-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212140050/https://www.federalregister.gov/documents/2005/01/07/05-322/kickapoo-tribe-of-oklahoma-liquor-and-beer-ordinance
+  captured: '2025-02-12'

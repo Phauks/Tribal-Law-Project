@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 23500, published 2012-04-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218170515/https://www.federalregister.gov/documents/2012/04/19/2012-9437/notice-of-intent-to-repatriate-cultural-items-milwaukee-public-museum-milwaukee-wi
+  captured: '2025-02-18'

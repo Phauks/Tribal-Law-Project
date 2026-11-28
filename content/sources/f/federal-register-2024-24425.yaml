@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 84392, published 2024-10-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524190617/https://www.federalregister.gov/documents/2024/10/22/2024-24425/notice-of-inventory-completion-st-louis-county-office-of-the-medical-examiner-st-louis-mo
+  captured: '2025-05-24'

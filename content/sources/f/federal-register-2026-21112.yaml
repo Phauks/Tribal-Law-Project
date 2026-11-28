@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 65769, published 2026-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261016072701/https://www.federalregister.gov/documents/2026/10/16/2026-21112/notice-of-inventory-completion-university-of-new-mexico-maxwell-museum-of-anthropology-albuquerque
+  captured: '2026-10-16'

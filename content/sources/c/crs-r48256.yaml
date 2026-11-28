@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: R48256, version 5'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260903015359/https://www.congress.gov/crs-product/R48256
+  captured: '2026-09-03'

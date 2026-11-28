@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 24399, published 2001-05-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215145058/https://www.federalregister.gov/documents/2001/05/14/01-12018/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-15'

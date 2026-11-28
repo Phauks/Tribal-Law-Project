@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 73658, published 2011-11-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210424004523/https://www.federalregister.gov/documents/2011/11/29/2011-30618/notice-of-intent-to-repatriate-cultural-items-tennessee-valley-authority-and-the-university-of
+  captured: '2021-04-24'

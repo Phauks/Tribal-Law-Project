@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 11554, published 2010-03-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205003404/https://www.federalregister.gov/documents/2010/03/11/2010-5167/notice-of-intent-to-repatriate-cultural-items-museum-of-northern-arizona-flagstaff-az
+  captured: '2025-02-05'

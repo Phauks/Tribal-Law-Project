@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 65596, published 2002-10-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206191625/https://www.federalregister.gov/documents/2002/10/25/02-27249/notice-of-inventory-completion-williamson-museum-northwestern-state-university-natchitoches-la
+  captured: '2025-02-06'

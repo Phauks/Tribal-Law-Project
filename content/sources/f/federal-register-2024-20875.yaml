@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 74983, published 2024-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502063521/https://www.federalregister.gov/documents/2024/09/13/2024-20875/notice-of-intended-repatriation-university-of-california-berkeley-berkeley-ca
+  captured: '2025-05-02'

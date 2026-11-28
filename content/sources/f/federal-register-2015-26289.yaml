@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 62105, published 2015-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210511161918/https://www.federalregister.gov/documents/2015/10/15/2015-26289/notice-of-intent-to-repatriate-cultural-items-city-of-bellinghamwhatcom-museum-bellingham-wa
+  captured: '2021-05-11'

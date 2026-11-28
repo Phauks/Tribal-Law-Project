@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 84393, published 2024-10-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524205058/https://www.federalregister.gov/documents/2024/10/22/2024-24414/notice-of-inventory-completion-san-bernardino-county-museum-redlands-ca
+  captured: '2025-05-24'

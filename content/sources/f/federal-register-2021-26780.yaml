@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 70522, published 2021-12-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250505091444/https://www.federalregister.gov/documents/2021/12/10/2021-26780/notice-of-inventory-completion-arizona-museum-of-natural-history-mesa-az
+  captured: '2025-05-05'

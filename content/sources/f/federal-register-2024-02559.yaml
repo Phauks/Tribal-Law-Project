@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 8715, published 2024-02-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204094130/https://www.federalregister.gov/documents/2024/02/08/2024-02559/notice-of-inventory-completion-nassau-county-department-of-parks-recreation-and-museums-garvies
+  captured: '2025-02-04'

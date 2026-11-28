@@ -51,3 +51,7 @@ review:
   - check: listing
     result: missing
     detail: Only the Bureau of Indian Affairs' list was read, not the regulations themselves
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260930030407/https://www.bia.gov/sites/default/files/dup/assets/bia/ots/ots/pdf/2013.03.14_Pueblo_of_Sandia_Approved_Indian_Lands_Leasing_Regs_508.pdf
+  captured: '2026-09-30'

@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 43767, published 2014-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210327083232/https://www.federalregister.gov/documents/2014/07/28/2014-17732/notice-of-inventory-completion-university-of-pennsylvania-museum-of-archaeology-and-anthropology
+  captured: '2021-03-27'

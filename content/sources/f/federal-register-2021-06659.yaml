@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 17195, published 2021-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203021825/https://www.federalregister.gov/documents/2021/04/01/2021-06659/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny-correction
+  captured: '2025-02-03'

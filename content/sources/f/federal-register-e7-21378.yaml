@@ -157,3 +157,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 61670, published 2007-10-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206182356/https://www.federalregister.gov/documents/2007/10/31/E7-21378/notice-of-inventory-completion-oregon-state-university-department-of-anthropology-corvallis-or
+  captured: '2025-02-06'

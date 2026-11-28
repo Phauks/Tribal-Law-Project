@@ -18,7 +18,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-72/STATUTE-72-Pg290
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127175103/https://www.govinfo.gov/app/details/STATUTE-72/STATUTE-72-Pg290
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-72/STATUTE-72-Pg290.pdf
   checksum: 2206d2236fbd5d668cf7357fcd3f1016c18b863826b70c8b8a42b72fc408979f

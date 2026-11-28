@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 86360, published 2024-10-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207021221/https://www.federalregister.gov/documents/2024/10/30/2024-25178/notice-of-intended-repatriation-south-dakota-state-archaeological-research-center-rapid-city-sd-and
+  captured: '2025-02-07'

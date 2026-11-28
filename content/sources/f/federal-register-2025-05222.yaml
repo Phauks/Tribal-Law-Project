@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 13877, published 2025-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601035802/https://www.federalregister.gov/documents/2025/03/27/2025-05222/notice-of-intended-disposition-us-department-of-the-interior-national-park-service-klondike-gold
+  captured: '2025-06-01'

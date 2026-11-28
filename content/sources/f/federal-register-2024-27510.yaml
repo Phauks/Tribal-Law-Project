@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 92972, published 2024-11-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524192736/https://www.federalregister.gov/documents/2024/11/25/2024-27510/notice-of-inventory-completion-the-kikuchi-center-at-kauai-community-college-lhue-hi
+  captured: '2025-05-24'

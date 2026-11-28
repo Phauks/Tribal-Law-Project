@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 69570, published 2006-12-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218191957/https://www.federalregister.gov/documents/2006/12/01/06-9476/navajo-area-indian-health-service-gfj-organization-functions-and-delegations-of-authority
+  captured: '2025-02-18'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 77188, published 2024-09-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524175826/https://www.federalregister.gov/documents/2024/09/20/2024-21544/notice-of-intended-disposition-us-army-garrison-fort-leonard-wood-mo
+  captured: '2025-05-24'

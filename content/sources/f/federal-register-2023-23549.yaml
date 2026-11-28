@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 73360, published 2023-10-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250612065829/https://www.federalregister.gov/documents/2023/10/25/2023-23549/notice-of-inventory-completion-washington-state-university-museum-of-anthropology-pullman-wa
+  captured: '2025-06-12'

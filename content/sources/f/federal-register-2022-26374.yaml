@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 74444, published 2022-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250519211601/https://www.federalregister.gov/documents/2022/12/05/2022-26374/notice-of-intent-to-repatriate-cultural-items-american-numismatic-society-new-york-ny
+  captured: '2025-05-19'

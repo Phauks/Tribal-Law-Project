@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 58755, published 2024-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524183512/https://www.federalregister.gov/documents/2024/07/19/2024-15896/notice-of-inventory-completion-weber-state-university-ogden-ut
+  captured: '2025-05-24'

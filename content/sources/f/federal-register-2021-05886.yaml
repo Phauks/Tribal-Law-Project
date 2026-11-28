@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 15253, published 2021-03-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204123819/https://www.federalregister.gov/documents/2021/03/22/2021-05886/notice-of-intent-to-repatriate-cultural-items-fort-lewis-college-durango-co
+  captured: '2025-02-04'

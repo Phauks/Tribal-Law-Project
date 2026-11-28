@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 7409, published 2021-01-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207021600/https://www.federalregister.gov/documents/2021/01/28/2021-01901/notice-of-inventory-completion-indiana-university-bloomington-in-correction
+  captured: '2025-02-07'

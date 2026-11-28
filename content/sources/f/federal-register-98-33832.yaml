@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 70781, published 1998-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211223632/https://www.federalregister.gov/documents/1998/12/22/98-33832/list-of-recipients-of-indian-health-scholarship-under-the-indian-health-scholarship-program
+  captured: '2025-02-11'

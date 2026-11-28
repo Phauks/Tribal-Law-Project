@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 19304, published 2013-03-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210425034418/https://www.federalregister.gov/documents/2013/03/29/2013-07359/notice-of-intent-to-repatriate-cultural-items-the-colorado-college-colorado-springs-co
+  captured: '2021-04-25'

@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-95/STATUTE-95-Pg1391
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127091310/https://www.govinfo.gov/app/details/STATUTE-95/STATUTE-95-Pg1391
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-95/STATUTE-95-Pg1391.pdf
   checksum: 96e112978d28e861ecd0240a6ab0c74adc02b974ffd667db0d1bdde13904f272

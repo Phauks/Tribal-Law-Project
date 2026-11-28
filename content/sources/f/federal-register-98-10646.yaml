@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 19939, published 1998-04-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250221192713/https://www.federalregister.gov/documents/1998/04/22/98-10646/revision-notice-of-inventory-completion-for-native-american-human-remains-associated-funerary
+  captured: '2025-02-21'

@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-75/STATUTE-75-Pg45
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127090121/https://www.govinfo.gov/app/details/STATUTE-75/STATUTE-75-Pg45
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-75/STATUTE-75-Pg45.pdf
   checksum: 7386bb1809ac1c4d7aec256640b8ecb40f5e6a707df9e8bab2630fddd8591cfc

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 50630, published 1995-09-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214174929/https://www.federalregister.gov/documents/1995/09/29/95-24221/availability-of-funds-for-loan-repayment-program-for-repayment-of-health-professions-educational
+  captured: '2025-02-14'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 96678, published 2024-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611192020/https://www.federalregister.gov/documents/2024/12/05/2024-28496/notice-of-intended-repatriation-riley-county-historical-society-and-museum-manhattan-ks
+  captured: '2025-06-11'

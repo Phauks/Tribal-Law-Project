@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 52492, published 2015-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213113048/https://www.federalregister.gov/documents/2015/08/31/2015-21492/notice-of-inventory-completion-anthropology-research-collections-at-texas-aandm-university-college
+  captured: '2025-02-13'

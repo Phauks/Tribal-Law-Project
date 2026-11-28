@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 15010, published 2025-04-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525084014/https://www.federalregister.gov/documents/2025/04/07/2025-05931/request-for-nominations-for-bureau-of-indian-education-advisory-board-for-exceptional-children
+  captured: '2025-05-25'

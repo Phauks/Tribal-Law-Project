@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 7742, published 1997-02-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206144529/https://www.federalregister.gov/documents/1997/02/20/97-4077/tribal-revenue-allocation-plans
+  captured: '2025-02-06'

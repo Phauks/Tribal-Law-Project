@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 61134, published 2024-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211123424/https://www.federalregister.gov/documents/2024/07/30/2024-16702/notice-of-intended-repatriation-wesleyan-university-middletown-ct
+  captured: '2025-02-11'

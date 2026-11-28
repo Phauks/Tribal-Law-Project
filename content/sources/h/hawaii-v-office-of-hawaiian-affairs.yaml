@@ -33,6 +33,10 @@ original_link: https://www.supremecourt.gov/opinions/boundvolumes/556bv.pdf
 shares_link_with:
 - united-states-v-navajo-nation-2009
 retrieved: '2026-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261126010807/https://www.supremecourt.gov/opinions/boundvolumes/556bv.pdf
+  captured: '2026-11-26'
 history:
   status: live
   last_checked: '2026-11-26'

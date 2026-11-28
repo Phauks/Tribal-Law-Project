@@ -11,7 +11,10 @@ citation:
     date-parts: [[2026, 11, 26]]
 original_link: https://www2.census.gov/geo/tiger/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261028094552/https://www2.census.gov/geo/tiger/
+  captured: '2026-10-28'
 history:
   status: live
   last_checked: '2026-11-26'

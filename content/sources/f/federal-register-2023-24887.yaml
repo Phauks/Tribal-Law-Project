@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 77610, published 2023-11-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611203047/https://www.federalregister.gov/documents/2023/11/13/2023-24887/notice-of-intent-to-repatriate-cultural-items-saint-louis-science-center-st-louis-mo
+  captured: '2025-06-11'

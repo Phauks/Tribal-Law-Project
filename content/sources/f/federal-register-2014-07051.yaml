@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 18055, published 2014-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208151243/https://www.federalregister.gov/documents/2014/03/31/2014-07051/renewal-of-agency-information-collection-for-home-living-programs-and-school-closure-and
+  captured: '2025-02-08'

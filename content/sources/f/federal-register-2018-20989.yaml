@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 48831, published 2018-09-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204130822/https://www.federalregister.gov/documents/2018/09/27/2018-20989/request-for-public-comment-60-day-proposed-information-collection-addendum-to-declaration-for
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 78379, published 2013-12-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204162631/https://www.federalregister.gov/documents/2013/12/26/2013-30677/notice-of-inventory-completion-museum-of-anthropology-at-washington-state-university-pullman-wa
+  captured: '2025-02-04'

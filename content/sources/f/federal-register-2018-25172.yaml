@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 58278, published 2018-11-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219042526/https://www.federalregister.gov/documents/2018/11/19/2018-25172/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for
+  captured: '2025-02-19'

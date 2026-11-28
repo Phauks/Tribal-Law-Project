@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 73262, published 2005-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205230338/https://www.federalregister.gov/documents/2005/12/09/05-23863/notice-of-inventory-completion-fruitlands-museums-harvard-ma
+  captured: '2025-02-05'

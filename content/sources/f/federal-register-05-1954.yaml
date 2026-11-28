@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 5466, published 2005-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202073658/https://www.federalregister.gov/documents/2005/02/02/05-1954/notice-of-inventory-completion-phoebe-a-hearst-museum-of-anthropology-university-of-california
+  captured: '2025-02-02'

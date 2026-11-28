@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 11578, published 2012-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250227043335/https://www.federalregister.gov/documents/2012/02/27/2012-4510/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-02-27'

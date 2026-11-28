@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 19994, published 2015-04-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250404053816/https://www.federalregister.gov/documents/2015/04/14/2015-08605/injury-prevention-program-announcement-new-and-competing-continuation-cooperative-agreement
+  captured: '2025-04-04'

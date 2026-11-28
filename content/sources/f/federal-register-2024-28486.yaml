@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 96680, published 2024-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525191653/https://www.federalregister.gov/documents/2024/12/05/2024-28486/notice-of-inventory-completion-history-colorado-formerly-colorado-historical-society-denver-co
+  captured: '2025-05-25'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 55456, published 2004-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204031455/https://www.federalregister.gov/documents/2004/09/14/04-20653/notice-of-inventory-completion-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-04'

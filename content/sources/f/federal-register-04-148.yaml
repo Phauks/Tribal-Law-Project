@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 680, published 2004-01-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211205122/https://www.federalregister.gov/documents/2004/01/06/04-148/notice-of-inventory-completion-minnesota-indian-affairs-council-bemidji-mn-and-us-department-of-the
+  captured: '2025-02-11'

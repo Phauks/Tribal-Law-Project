@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 72419, published 2024-09-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250418203210/https://www.federalregister.gov/documents/2024/09/05/2024-19925/land-acquisitions-jamul-indian-village-of-california
+  captured: '2025-04-18'

@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.leg.state.nv.us/nrs/NRS-159A.html#NRS159ASec044
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260722235019/https://www.leg.state.nv.us/NRs/NRS-159A.html
+  captured: '2026-07-22'
 history:
   status: live
   last_checked: '2026-11-27'

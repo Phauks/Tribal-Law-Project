@@ -98,3 +98,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 50095, published 2013-08-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260203042322/https://www.federalregister.gov/documents/2013/08/16/2013-20062/notice-of-inventory-completion-history-colorado-formerly-colorado-historical-society-denver-co
+  captured: '2026-02-03'

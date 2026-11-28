@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 69580, published 1998-12-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204215748/https://www.federalregister.gov/documents/1998/12/17/98-33443/notice-of-intent-to-form-a-negotiated-rulemaking-committee-and-accept-applications-for-membership
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CPRT-94SPRT76598O'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260804182014/https://www.govinfo.gov/app/details/CPRT-94SPRT76598O/
+  captured: '2026-08-04'

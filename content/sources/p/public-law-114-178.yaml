@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-130/STATUTE-130-Pg432
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807132808/https://www.govinfo.gov/app/details/STATUTE-130/STATUTE-130-Pg432
+  captured: '2026-08-07'
 file:
   storage_key: govinfo/STATUTE-130/STATUTE-130-Pg432.pdf
   checksum: adb26ec12c7a3e0a09b47e19233d95f236237062c56b3d26207d268fe79dd8a4

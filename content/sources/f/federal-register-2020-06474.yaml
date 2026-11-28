@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 17597, published 2020-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203170950/https://www.federalregister.gov/documents/2020/03/30/2020-06474/agency-information-collection-activities-ideia-part-b-and-c-child-count
+  captured: '2025-02-03'

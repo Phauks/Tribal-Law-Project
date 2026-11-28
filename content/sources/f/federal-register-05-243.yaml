@@ -81,3 +81,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 1269, published 2005-01-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204154148/https://www.federalregister.gov/documents/2005/01/06/05-243/notice-of-intent-to-repatriate-cultural-items-peabody-museum-of-archaeology-and-ethnology-harvard
+  captured: '2025-02-04'

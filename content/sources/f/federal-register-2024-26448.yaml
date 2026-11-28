@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 90045, published 2024-11-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204032802/https://www.federalregister.gov/documents/2024/11/14/2024-26448/notice-of-inventory-completion-louisiana-state-university-museum-of-natural-science-baton-rouge-la
+  captured: '2025-02-04'

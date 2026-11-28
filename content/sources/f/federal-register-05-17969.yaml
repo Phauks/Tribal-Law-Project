@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 53809, published 2005-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210509191439/https://www.federalregister.gov/documents/2005/09/12/05-17969/proposed-agency-information-collection-indian-reservation-roads-program-comment-request
+  captured: '2021-05-09'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 2526, published 2008-01-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217061625/https://www.federalregister.gov/documents/2008/01/15/E8-560/notice-of-inventory-completion-slater-museum-of-natural-history-university-of-puget-sound-tacoma-wa
+  captured: '2025-02-17'

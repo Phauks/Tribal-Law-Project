@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 6118, published 2015-02-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810162726/https://www.federalregister.gov/documents/2015/02/04/2015-02227/notice-of-inventory-completion-california-state-university-sacramento-sacramento-ca
+  captured: '2026-08-10'

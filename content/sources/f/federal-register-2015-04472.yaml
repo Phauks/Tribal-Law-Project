@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 11684, published 2015-03-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204005626/https://www.federalregister.gov/documents/2015/03/04/2015-04472/johnson-omalley-program
+  captured: '2025-02-04'

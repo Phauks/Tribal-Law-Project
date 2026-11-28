@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 13363, published 2024-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260630125012/https://www.federalregister.gov/documents/2024/02/22/2024-03581/notice-of-inventory-completion-cleveland-state-university-cleveland-oh
+  captured: '2026-06-30'

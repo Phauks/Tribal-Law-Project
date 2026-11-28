@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 1638, published 2016-01-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207212308/https://www.federalregister.gov/documents/2016/01/13/2016-00518/hearth-act-approval-of-ohkay-owingeh-regulations
+  captured: '2025-02-07'

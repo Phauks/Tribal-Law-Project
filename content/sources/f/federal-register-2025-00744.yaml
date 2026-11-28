@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 3906, published 2025-01-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251223193311/https://www.federalregister.gov/documents/2025/01/15/2025-00744/land-acquisitions-scotts-valley-band-of-pomo-indians-vallejo-site-solano-county-california
+  captured: '2025-12-23'

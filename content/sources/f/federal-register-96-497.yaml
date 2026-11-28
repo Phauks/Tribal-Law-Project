@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 2038, published 1996-01-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201233626/https://www.federalregister.gov/documents/1996/01/24/96-497/indian-self-determination-and-education-assistance-act-amendments
+  captured: '2025-02-01'

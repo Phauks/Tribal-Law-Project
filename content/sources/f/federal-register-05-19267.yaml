@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 56483, published 2005-09-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250302155609/https://www.federalregister.gov/documents/2005/09/27/05-19267/notice-of-inventory-completion-us-army-department-of-defense-us-army-pohakuloa-training-area-us-army
+  captured: '2025-03-02'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 1813, published 2026-01-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260115094652/https://www.federalregister.gov/documents/2026/01/15/2026-00673/notice-of-inventory-completion-museum-of-the-cherokee-people-cherokee-nc
+  captured: '2026-01-15'

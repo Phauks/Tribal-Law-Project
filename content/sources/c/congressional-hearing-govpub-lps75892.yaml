@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: GOVPUB-Y4_AG8_1-PURL-LPS75892'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260726114635/https://www.govinfo.gov/app/details/GOVPUB-Y4_AG8_1-PURL-LPS75892/
+  captured: '2026-07-26'

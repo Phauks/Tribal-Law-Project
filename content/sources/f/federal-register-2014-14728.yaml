@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 35780, published 2014-06-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204134226/https://www.federalregister.gov/documents/2014/06/24/2014-14728/notice-of-inventory-completion-glenn-a-black-laboratory-of-archaeology-at-indiana-university
+  captured: '2025-02-04'

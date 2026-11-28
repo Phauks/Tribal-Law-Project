@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 62853, published 2010-10-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218031713/https://www.federalregister.gov/documents/2010/10/13/2010-25785/reno-sparks-indian-colony-liquor-control-ordinance
+  captured: '2025-02-18'

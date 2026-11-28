@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://ndlegis.gov/cencode/t12-1c41.pdf#nameddest=12p1-41-19
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261109181453/https://ndlegis.gov/cencode/t12-1c41.pdf
+  captured: '2026-11-09'
 history:
   status: live
   last_checked: '2026-11-27'

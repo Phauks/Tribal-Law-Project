@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 76563, published 2000-12-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209231212/https://www.federalregister.gov/documents/2000/12/07/00-31093/financial-assistance-and-social-services-programs-correction
+  captured: '2025-02-09'

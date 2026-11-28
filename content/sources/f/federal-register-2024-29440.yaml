@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 101036, published 2024-12-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250404081521/https://www.federalregister.gov/documents/2024/12/13/2024-29440/land-acquisitions-prairie-island-indian-community-elk-run-site-city-of-pine-island-olmstead-county
+  captured: '2025-04-04'

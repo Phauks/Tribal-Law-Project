@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 18382, published 2022-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208140906/https://www.federalregister.gov/documents/2022/03/30/2022-06674/hearth-act-approval-of-pechanga-band-of-indians-residential-leasing-ordinance
+  captured: '2025-02-08'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 23706, published 2025-06-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611191058/https://www.federalregister.gov/documents/2025/06/04/2025-10127/notice-of-inventory-completion-us-army-corps-of-engineers-omaha-district-omaha-ne-and-university-of
+  captured: '2025-06-11'

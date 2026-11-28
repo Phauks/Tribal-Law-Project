@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 45966, published 2018-09-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203184131/https://www.federalregister.gov/documents/2018/09/11/2018-19733/ponca-tribe-of-nebraska-liquor-control-ordinance
+  captured: '2025-02-03'

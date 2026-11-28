@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 65406, published 2019-11-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220327060636/https://www.federalregister.gov/documents/2019/11/27/2019-25729/notice-of-inventory-completion-los-angeles-pierce-college-woodland-hills-ca
+  captured: '2022-03-27'

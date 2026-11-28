@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2024/09/25/2024-22122/asian-american-and-native-american-pacific-islander--serving-institutions-week-2024'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207055918/https://www.federalregister.gov/documents/2024/09/25/2024-22122/asian-american-and-native-american-pacific-islander--serving-institutions-week-2024
+  captured: '2025-02-07'

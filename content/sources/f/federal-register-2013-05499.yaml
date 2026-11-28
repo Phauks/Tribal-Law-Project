@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 15037, published 2013-03-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205041933/https://www.federalregister.gov/documents/2013/03/08/2013-05499/bishop-paiute-tribe-liquor-control-ordinance-no-2012-07
+  captured: '2025-02-05'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 65595, published 2002-10-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260719084554/https://www.federalregister.gov/documents/2002/10/25/02-27248/notice-of-intent-to-repatriate-cultural-items-ucla-fowler-museum-of-cultural-history-university-of
+  captured: '2026-07-19'

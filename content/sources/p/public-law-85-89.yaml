@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-71/STATUTE-71-Pg282-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127085841/https://www.govinfo.gov/app/details/STATUTE-71/STATUTE-71-Pg282-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-71/STATUTE-71-Pg282-2.pdf
   checksum: b68fc32d38f002fa1595bd56ddc609535dc3e192e5a5bb0b9b838f1b8d44314c

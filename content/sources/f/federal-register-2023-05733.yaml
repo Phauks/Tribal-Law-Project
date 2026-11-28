@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 17008, published 2023-03-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205013558/https://www.federalregister.gov/documents/2023/03/21/2023-05733/notice-of-inventory-completion-ch-nash-memorial-museumchucalissa-archaeological-museum-university-of
+  captured: '2025-02-05'

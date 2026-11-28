@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 59546, published 2025-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251219232741/https://www.federalregister.gov/documents/2025/12/19/2025-23388/notice-of-inventory-completion-mississippi-department-of-archives-and-history-jackson-ms
+  captured: '2025-12-19'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 15367, published 2004-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204231443/https://www.federalregister.gov/documents/2004/03/25/04-6652/notice-of-inventory-completion-anthropological-studies-center-archaeological-collections-facility-at
+  captured: '2025-02-04'

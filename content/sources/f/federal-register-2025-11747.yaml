@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 27326, published 2025-06-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250709103233/https://www.federalregister.gov/documents/2025/06/26/2025-11747/notice-of-purchasedreferred-care-delivery-area-redesignation-for-the-shoshone-bannock-tribes-of-the
+  captured: '2025-07-09'

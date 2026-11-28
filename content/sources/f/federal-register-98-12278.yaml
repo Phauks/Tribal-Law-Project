@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 25516, published 1998-05-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210180522/https://www.federalregister.gov/documents/1998/05/08/98-12278/salt-river-pima-maricopa-indian-community-alcoholic-beverage-control-ordinance
+  captured: '2025-02-10'

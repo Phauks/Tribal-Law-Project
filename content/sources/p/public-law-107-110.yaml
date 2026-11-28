@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-115/STATUTE-115-Pg1425
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807184810/https://www.govinfo.gov/app/details/STATUTE-115/STATUTE-115-Pg1425
+  captured: '2026-08-07'
 rights:
   status: no-permission-needed
   basis: us-government-work

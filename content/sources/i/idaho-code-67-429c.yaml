@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title67/T67CH4/SECT67-429C
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260517121407/https://legislature.idaho.gov/statutesrules/idstat/title67/t67ch4/sect67-429c/
+  captured: '2026-05-17'
 history:
   status: live
   last_checked: '2026-11-27'

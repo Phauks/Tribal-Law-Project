@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 5840, published 2012-02-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207154451/https://www.federalregister.gov/documents/2012/02/06/2012-2522/notice-of-inventory-completion-kingman-museum-incorporated-battle-creek-mi-correction
+  captured: '2025-02-07'

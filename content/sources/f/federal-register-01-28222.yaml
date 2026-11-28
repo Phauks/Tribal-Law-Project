@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 56608, published 2001-11-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250301100514/https://www.federalregister.gov/documents/2001/11/09/01-28222/acquisition-of-title-to-land-in-trust
+  captured: '2025-03-01'

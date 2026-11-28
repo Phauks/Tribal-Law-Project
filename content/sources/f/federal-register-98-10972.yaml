@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 20496, published 1998-04-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260505070434/https://www.federalregister.gov/documents/1998/04/24/98-10972/the-secretary-of-the-interiors-standards-and-guidelines-for-federal-agency-historic-preservation
+  captured: '2026-05-05'

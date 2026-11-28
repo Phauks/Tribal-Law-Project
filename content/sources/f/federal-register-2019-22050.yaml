@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 54167, published 2019-10-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202141650/https://www.federalregister.gov/documents/2019/10/09/2019-22050/notice-of-intent-to-repatriate-cultural-items-brooklyn-museum-brooklyn-ny
+  captured: '2025-02-02'

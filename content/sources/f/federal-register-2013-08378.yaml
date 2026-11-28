@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 21404, published 2013-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205014523/https://www.federalregister.gov/documents/2013/04/10/2013-08378/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-grand-canyon
+  captured: '2025-02-05'

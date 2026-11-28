@@ -69,3 +69,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35731, published 2025-07-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260902011228/https://www.federalregister.gov/documents/2025/07/29/2025-14257/notice-of-inventory-completion-university-of-california-merced-merced-ca
+  captured: '2026-09-02'

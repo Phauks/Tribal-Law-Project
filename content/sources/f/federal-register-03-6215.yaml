@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 12372, published 2003-03-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208135853/https://www.federalregister.gov/documents/2003/03/14/03-6215/notice-of-intent-to-repatriate-cultural-items-denver-art-museum-denver-co
+  captured: '2025-02-08'

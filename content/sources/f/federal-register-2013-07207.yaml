@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 19005, published 2013-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250228172738/https://www.federalregister.gov/documents/2013/03/28/2013-07207/notice-of-service-area-designation
+  captured: '2025-02-28'

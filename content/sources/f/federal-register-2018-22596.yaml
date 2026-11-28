@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 52539, published 2018-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204085918/https://www.federalregister.gov/documents/2018/10/17/2018-22596/notice-of-inventory-completion-arizona-state-parks-and-trails-phoenix-az-and-arizona-state-museum
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 10407, published 1998-03-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218211833/https://www.federalregister.gov/documents/1998/03/03/98-5407/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-heard-museum-phoenix-az
+  captured: '2025-02-18'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 37163, published 2000-06-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201214225/https://www.federalregister.gov/documents/2000/06/13/00-14888/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-torres-martinez-calpine-power
+  captured: '2025-02-01'

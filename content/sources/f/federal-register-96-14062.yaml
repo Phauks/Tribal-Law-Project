@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 29040, published 1996-06-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204123220/https://www.federalregister.gov/documents/1996/06/07/96-14062/indian-electric-power-utilities
+  captured: '2025-02-04'

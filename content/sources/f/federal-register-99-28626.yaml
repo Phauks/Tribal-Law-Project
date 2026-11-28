@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 59199, published 1999-11-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202143714/https://www.federalregister.gov/documents/1999/11/02/99-28626/notice-of-inventory-completion-for-native-american-human-remains-and-an-associated-funerary-object
+  captured: '2025-02-02'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 11122, published 2014-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210514203913/https://www.federalregister.gov/documents/2014/02/27/2014-04267/land-acquisitions-mechoopda-indian-tribe-of-chico-rancheria-of-california
+  captured: '2021-05-14'

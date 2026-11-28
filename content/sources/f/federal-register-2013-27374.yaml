@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 68859, published 2013-11-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216162056/https://www.federalregister.gov/documents/2013/11/15/2013-27374/draft-environmental-impact-statement-for-the-proposed-fee-to-trust-transfer-of-property-and
+  captured: '2025-02-16'

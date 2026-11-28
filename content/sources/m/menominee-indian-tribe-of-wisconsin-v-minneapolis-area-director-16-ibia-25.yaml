@@ -59,3 +59,7 @@ review:
   - check: decided
     result: agree
     detail: index 1988-01-04; cover sheet 1988-01-04; decision 1988-01-04
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010411/https://www.oha.doi.gov/IBIA/IbiaDecisions/16ibia/16ibia025.PDF
+  captured: '2026-03-25'

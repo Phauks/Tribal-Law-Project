@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 58430, published 2010-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206052510/https://www.federalregister.gov/documents/2010/09/24/2010-23915/notice-of-inventory-completion-university-of-montana-missoula-mt
+  captured: '2025-02-06'

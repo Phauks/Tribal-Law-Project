@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 30669, published 2025-07-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250717071540/https://www.federalregister.gov/documents/2025/07/10/2025-12839/notice-of-intended-repatriation-california-state-university-northridge-northridge-ca
+  captured: '2025-07-17'

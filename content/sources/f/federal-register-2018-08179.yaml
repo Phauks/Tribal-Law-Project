@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 17443, published 2018-04-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260211134408/https://www.federalregister.gov/documents/2018/04/19/2018-08179/notice-of-inventory-completion-wisconsin-historical-society-madison-wi
+  captured: '2026-02-11'

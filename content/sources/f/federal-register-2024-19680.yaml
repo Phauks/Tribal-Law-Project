@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 71394, published 2024-09-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524195743/https://www.federalregister.gov/documents/2024/09/03/2024-19680/notice-of-inventory-completion-museum-of-texas-tech-university-lubbock-tx
+  captured: '2025-05-24'

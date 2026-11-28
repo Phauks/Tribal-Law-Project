@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 7582, published 2008-02-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204191541/https://www.federalregister.gov/documents/2008/02/08/E8-2361/proclaiming-certain-lands-mt-taylor-property-as-an-addition-to-the-pueblo-of-laguna-reservation-of
+  captured: '2025-02-04'

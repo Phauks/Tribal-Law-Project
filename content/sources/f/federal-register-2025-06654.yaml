@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 16550, published 2025-04-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601032830/https://www.federalregister.gov/documents/2025/04/18/2025-06654/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-delaware-water
+  captured: '2025-06-01'

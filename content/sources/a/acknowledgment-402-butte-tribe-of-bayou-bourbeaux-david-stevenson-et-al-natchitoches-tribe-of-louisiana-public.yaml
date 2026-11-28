@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/petitions-in-process/butte-tribe-bayou-bourbeaux'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812214120/https://www.bia.gov/sites/default/files/media_document/402_dpco_2023_stevenson_natchitoches_2023-08-02_0.pdf
+  captured: '2026-08-12'

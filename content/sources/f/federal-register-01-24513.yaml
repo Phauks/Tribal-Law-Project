@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 49967, published 2001-10-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418175048/https://www.federalregister.gov/documents/2001/10/01/01-24513/proposed-finding-against-federal-acknowledgment-of-the-nipmuc-nation
+  captured: '2026-04-18'

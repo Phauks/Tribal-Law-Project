@@ -11,7 +11,10 @@ citation:
     date-parts: [[2026, 11, 27]]
 original_link: https://services1.arcgis.com/fBc8EJBxQRMcHlei/ArcGIS/rest/services/Indian_Land_Areas_Judicially_Established_1978/FeatureServer/5
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127021213/https://services1.arcgis.com/fBc8EJBxQRMcHlei/ArcGIS/rest/services/Indian_Land_Areas_Judicially_Established_1978/FeatureServer/5
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-27'

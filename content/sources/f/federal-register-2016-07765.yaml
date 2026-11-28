@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 19628, published 2016-04-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260328043304/https://www.federalregister.gov/documents/2016/04/05/2016-07765/notice-of-inventory-completion-us-army-corps-of-engineers-mobile-district-mobile-al
+  captured: '2026-03-28'

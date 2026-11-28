@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 54527, published 2022-09-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202165600/https://www.federalregister.gov/documents/2022/09/06/2022-19172/notice-of-inventory-completion-penn-state-university-matson-museum-of-anthropology-university-park
+  captured: '2025-02-02'

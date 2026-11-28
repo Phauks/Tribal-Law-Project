@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 3733, published 2026-01-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260129033107/https://www.federalregister.gov/documents/2026/01/28/2026-01667/notice-of-intended-repatriation-western-washington-university-archaeological-repository-department
+  captured: '2026-01-29'

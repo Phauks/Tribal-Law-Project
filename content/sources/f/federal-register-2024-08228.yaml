@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 27785, published 2024-04-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524172056/https://www.federalregister.gov/documents/2024/04/18/2024-08228/notice-of-inventory-completion-university-of-nebraska-state-museum-university-of-nebraska-lincoln
+  captured: '2025-05-24'

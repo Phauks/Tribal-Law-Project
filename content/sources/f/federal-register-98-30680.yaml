@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 63945, published 1998-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516181529/https://www.federalregister.gov/documents/1998/11/17/98-30680/notice-of-inventory-completion-for-native-american-human-remains-from-nebraska-in-the-possession-of
+  captured: '2017-05-16'

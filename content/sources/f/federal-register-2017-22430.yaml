@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 48243, published 2017-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204084948/https://www.federalregister.gov/documents/2017/10/17/2017-22430/notice-of-inventory-completion-wisconsin-historical-society-madison-wi
+  captured: '2025-02-04'

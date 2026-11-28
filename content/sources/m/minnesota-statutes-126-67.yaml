@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.revisor.mn.gov/statutes/cite/126.67
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251223181422/https://www.revisor.mn.gov/statutes/cite/126.67
+  captured: '2025-12-23'
 history:
   status: live
   last_checked: '2026-11-27'

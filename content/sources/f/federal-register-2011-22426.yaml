@@ -71,3 +71,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 54485, published 2011-09-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203025815/https://www.federalregister.gov/documents/2011/09/01/2011-22426/notice-of-inventory-completion-phoebe-a-hearst-museum-of-anthropology-at-the-university-of
+  captured: '2025-02-03'

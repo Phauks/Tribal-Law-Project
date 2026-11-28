@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 57707, published 1998-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217052953/https://www.federalregister.gov/documents/1998/10/28/98-28810/notice-of-inventory-completion-for-native-american-human-remains-from-point-hope-ak-in-the
+  captured: '2025-02-17'

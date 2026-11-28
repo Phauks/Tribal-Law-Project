@@ -69,3 +69,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 24652, published 2025-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250622145622/https://www.federalregister.gov/documents/2025/06/11/2025-10598/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-wyoming-state
+  captured: '2025-06-22'

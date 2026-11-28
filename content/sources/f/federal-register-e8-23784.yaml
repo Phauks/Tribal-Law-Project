@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 60318, published 2008-10-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202035631/https://www.federalregister.gov/documents/2008/10/10/E8-23784/final-environmental-impact-statement-and-record-of-decision-for-the-proposed-absaloka-mine-crow
+  captured: '2025-02-02'

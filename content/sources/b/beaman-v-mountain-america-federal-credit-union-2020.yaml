@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/10217158/beaman-v-mountain-america-federal-credit-union/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127222747/https://www.courtlistener.com/opinion/10217158/beaman-v-mountain-america-federal-credit-union/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

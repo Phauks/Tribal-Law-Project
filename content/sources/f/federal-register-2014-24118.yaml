@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 61021, published 2014-10-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250417160617/https://www.federalregister.gov/documents/2014/10/09/2014-24118/secretarial-election-procedures
+  captured: '2025-04-17'

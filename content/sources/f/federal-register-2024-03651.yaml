@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 13740, published 2024-02-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250520052050/https://www.federalregister.gov/documents/2024/02/23/2024-03651/notice-of-intended-disposition-us-army-corps-of-engineers-nashville-district-nashville-tn
+  captured: '2025-05-20'

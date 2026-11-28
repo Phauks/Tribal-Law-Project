@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 63090, published 2000-10-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260327195307/https://www.federalregister.gov/documents/2000/10/20/00-27062/notice-of-intent-to-take-land-in-trust-for-the-little-traverse-bay-band-of-odawa-indians
+  captured: '2026-03-27'

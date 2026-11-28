@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 29066, published 1999-05-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210409021058/https://www.federalregister.gov/documents/1999/05/28/99-13596/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2021-04-09'

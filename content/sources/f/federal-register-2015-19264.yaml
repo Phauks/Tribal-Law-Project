@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 46601, published 2015-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204155151/https://www.federalregister.gov/documents/2015/08/05/2015-19264/notice-of-intent-to-repatriate-a-cultural-item-the-university-of-iowa-museum-of-natural-history-iowa
+  captured: '2025-02-04'

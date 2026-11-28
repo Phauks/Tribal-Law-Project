@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 73898, published 2014-12-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210430124720/https://www.federalregister.gov/documents/2014/12/12/2014-29208/revision-of-agency-information-collection-for-reporting-systems-for-public-law-102-477-demonstration
+  captured: '2021-04-30'

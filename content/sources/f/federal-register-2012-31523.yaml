@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 114, published 2013-01-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260103012925/https://www.federalregister.gov/documents/2013/01/02/2012-31523/land-acquisitions-enterprise-rancheria-of-maidu-indians-of-california
+  captured: '2026-01-03'

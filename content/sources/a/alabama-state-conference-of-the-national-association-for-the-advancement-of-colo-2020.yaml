@@ -20,7 +20,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/4723786/alabama-state-conference-of-the-national-association-for-the-advancement-of/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127191817/https://www.courtlistener.com/opinion/4723786/alabama-state-conference-of-the-national-association-for-the-advancement-of/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

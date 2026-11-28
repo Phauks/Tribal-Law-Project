@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 65216, published 1998-11-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204174843/https://www.federalregister.gov/documents/1998/11/25/98-31485/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-fowler-museum-of-cultural
+  captured: '2025-02-04'

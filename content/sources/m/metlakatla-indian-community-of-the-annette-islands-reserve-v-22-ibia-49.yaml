@@ -59,3 +59,7 @@ review:
   - check: decided
     result: agree
     detail: index 1992-05-04; cover sheet 1992-05-04; decision 1992-05-04
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325011246/https://www.oha.doi.gov/IBIA/IbiaDecisions/22ibia/22ibia049.PDF
+  captured: '2026-03-25'

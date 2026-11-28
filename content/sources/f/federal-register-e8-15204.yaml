@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 38466, published 2008-07-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208024501/https://www.federalregister.gov/documents/2008/07/07/E8-15204/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-cloverdale-rancheria
+  captured: '2025-02-08'

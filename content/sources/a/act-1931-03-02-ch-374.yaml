@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-46/STATUTE-46-Pg1471
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127074150/https://www.govinfo.gov/app/details/STATUTE-46/STATUTE-46-Pg1471
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-46/STATUTE-46-Pg1471.pdf
   checksum: abb9dc6565d3b08055c886eaf8c64aa1790ff183f5ee9b5a2901171f0cb41430

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 24504, published 2024-04-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524191723/https://www.federalregister.gov/documents/2024/04/08/2024-07357/notice-of-inventory-completion-florida-department-of-transportation-tallahassee-fl
+  captured: '2025-05-24'

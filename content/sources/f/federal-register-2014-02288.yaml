@@ -85,3 +85,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 6623, published 2014-02-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210508055249/https://www.federalregister.gov/documents/2014/02/04/2014-02288/notice-of-inventory-completion-state-historical-society-of-wisconsin-madison-wi
+  captured: '2021-05-08'

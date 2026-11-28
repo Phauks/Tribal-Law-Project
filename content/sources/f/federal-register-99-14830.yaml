@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 31607, published 1999-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208074420/https://www.federalregister.gov/documents/1999/06/11/99-14830/notice-of-intent-to-repatriate-cultural-items-from-oregon-in-the-possession-of-the-hastings-museum
+  captured: '2025-02-08'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 73799, published 2021-12-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203042901/https://www.federalregister.gov/documents/2021/12/28/2021-28113/agency-information-collection-activities-tribal-colleges-and-universities-cares-act-and-crrsa-act
+  captured: '2025-02-03'

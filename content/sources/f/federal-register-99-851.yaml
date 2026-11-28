@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 2499, published 1999-01-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202060311/https://www.federalregister.gov/documents/1999/01/14/99-851/proclaiming-certain-lands-as-reservation-for-the-squaxin-island-tribe-of-indians-in-washington
+  captured: '2025-02-02'

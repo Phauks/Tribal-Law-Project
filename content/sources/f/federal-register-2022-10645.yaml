@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 30261, published 2022-05-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216013555/https://www.federalregister.gov/documents/2022/05/18/2022-10645/notice-of-inventory-completion-indiana-state-museum-and-historic-site-corporation-state-of-indiana
+  captured: '2025-02-16'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 6622, published 2000-02-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201150722/https://www.federalregister.gov/documents/2000/02/10/00-3054/notice-of-inventory-completion-for-native-american-human-remains-from-rockbridge-county-va-in-the
+  captured: '2025-02-01'

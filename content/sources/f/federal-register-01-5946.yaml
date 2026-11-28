@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 14209, published 2001-03-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209231624/https://www.federalregister.gov/documents/2001/03/09/01-5946/notice-of-inventory-completion-for-an-associated-funerary-object-in-the-possession-of-the-us
+  captured: '2025-02-09'

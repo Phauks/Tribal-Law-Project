@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 50993, published 2008-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207161103/https://www.federalregister.gov/documents/2008/08/29/E8-20093/notice-of-inventory-completion-minnesota-indian-affairs-council-st-paul-and-bemidji-mn
+  captured: '2025-02-07'

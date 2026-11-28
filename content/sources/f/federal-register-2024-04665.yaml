@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 16012, published 2024-03-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611200622/https://www.federalregister.gov/documents/2024/03/06/2024-04665/notice-of-inventory-completion-new-york-state-office-of-parks-recreation-and-historic-preservation
+  captured: '2025-06-11'

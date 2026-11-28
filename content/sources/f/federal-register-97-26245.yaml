@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 51898, published 1997-10-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250408175207/https://www.federalregister.gov/documents/1997/10/03/97-26245/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-04-08'

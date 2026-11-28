@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 13985, published 2000-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210506220255/https://www.federalregister.gov/documents/2000/03/15/00-6288/burns-paiute-tribe-liquor-ordinance
+  captured: '2021-05-06'

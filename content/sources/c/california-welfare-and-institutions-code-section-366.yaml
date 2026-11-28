@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=366.
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260511094222/https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=366.&lawCode=WIC
+  captured: '2026-05-11'
 history:
   status: live
   last_checked: '2026-11-27'

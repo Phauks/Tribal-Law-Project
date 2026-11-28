@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 33230, published 2012-06-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210111946/https://www.federalregister.gov/documents/2012/06/05/2012-13557/notice-of-intent-to-prepare-an-environmental-impact-statement-for-proposed-strategies-for-lake-trout
+  captured: '2025-02-10'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 6772, published 2023-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230202152832/https://www.federalregister.gov/documents/2023/02/01/2023-02059/notice-of-inventory-completion-us-army-corps-of-engineers-omaha-district-omaha-ne-and-the-university
+  captured: '2023-02-02'

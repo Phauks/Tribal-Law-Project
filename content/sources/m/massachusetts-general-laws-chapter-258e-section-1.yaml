@@ -18,7 +18,10 @@ citation:
       - 27
 original_link: https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter258E/Section1
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260827220629/https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter258e/Section1
+  captured: '2026-08-27'
 history:
   status: live
   last_checked: '2026-11-27'

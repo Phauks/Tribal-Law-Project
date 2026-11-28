@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 55904, published 2026-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261013031225/https://www.federalregister.gov/documents/2026/08/31/2026-17702/notice-of-inventory-completion-california-state-university-fullerton-fullerton-ca
+  captured: '2026-10-13'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 96675, published 2024-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611180824/https://www.federalregister.gov/documents/2024/12/05/2024-28483/notice-of-intended-repatriation-the-quincy-museum-inc-quincy-il
+  captured: '2025-06-11'

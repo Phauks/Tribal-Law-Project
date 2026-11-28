@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: LSB10608, version 3'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260104121614/https://www.congress.gov/crs-product/LSB10608
+  captured: '2026-01-04'

@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://law.lis.virginia.gov/vacode/title29.1/chapter3/section29.1-301/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260201143158/https://law.lis.virginia.gov/vacode/title29.1/chapter3/section29.1-301/
+  captured: '2026-02-01'
 history:
   status: live
   last_checked: '2026-11-27'

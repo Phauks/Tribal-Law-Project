@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 25696, published 2023-04-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203120642/https://www.federalregister.gov/documents/2023/04/27/2023-08893/notice-of-inventory-completion-rochester-museum-and-science-center-rochester-ny
+  captured: '2025-02-03'

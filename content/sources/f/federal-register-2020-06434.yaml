@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 17358, published 2020-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202172941/https://www.federalregister.gov/documents/2020/03/27/2020-06434/notice-of-inventory-completion-connecticut-state-museum-of-natural-history-university-of-connecticut
+  captured: '2025-02-02'

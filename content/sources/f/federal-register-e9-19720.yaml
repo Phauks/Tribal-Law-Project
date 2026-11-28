@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 41328, published 2009-08-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216164247/https://www.federalregister.gov/documents/2009/08/17/E9-19720/job-placement-and-training
+  captured: '2025-02-16'

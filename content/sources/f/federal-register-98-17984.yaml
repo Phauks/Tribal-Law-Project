@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 36866, published 1998-07-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217044015/https://www.federalregister.gov/documents/1998/07/08/98-17984/preparation-of-rolls-of-indians
+  captured: '2025-02-17'

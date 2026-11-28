@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-43/STATUTE-43-Pg244
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127073527/https://www.govinfo.gov/app/details/STATUTE-43/STATUTE-43-Pg244
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-43/STATUTE-43-Pg244.pdf
   checksum: ee2a1c91d35b3e9a6bb63e525c99c77b14fff3c46e7f03eb2c5af9c18ecb748d

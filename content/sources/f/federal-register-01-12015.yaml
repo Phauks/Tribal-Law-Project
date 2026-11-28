@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 24396, published 2001-05-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212063447/https://www.federalregister.gov/documents/2001/05/14/01-12015/correction-native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-12'

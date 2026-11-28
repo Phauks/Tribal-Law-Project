@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.revisor.mn.gov/statutes/cite/116U.25
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260218003858/https://www.revisor.mn.gov/statutes/cite/116U.25
+  captured: '2026-02-18'
 history:
   status: live
   last_checked: '2026-11-27'

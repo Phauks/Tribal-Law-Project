@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 68173, published 2004-11-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214024106/https://www.federalregister.gov/documents/2004/11/23/04-25925/notice-of-inventory-completion-peabody-museum-of-archaeology-and-ethnology-harvard-university
+  captured: '2025-02-14'

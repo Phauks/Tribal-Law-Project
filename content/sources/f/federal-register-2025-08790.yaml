@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 21060, published 2025-05-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250517063422/https://www.federalregister.gov/documents/2025/05/16/2025-08790/hearth-act-approval-of-the-choctaw-nation-of-oklahoma-leasing-ordinance
+  captured: '2025-05-17'

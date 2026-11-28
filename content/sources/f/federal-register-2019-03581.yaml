@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 7112, published 2019-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202115635/https://www.federalregister.gov/documents/2019/03/01/2019-03581/notice-of-inventory-completion-the-filson-historical-society-louisville-ky
+  captured: '2025-02-02'

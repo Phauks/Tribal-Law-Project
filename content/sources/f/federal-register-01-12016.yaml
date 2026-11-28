@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 24400, published 2001-05-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211142713/https://www.federalregister.gov/documents/2001/05/14/01-12016/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-putnam-museum-of-history-and
+  captured: '2025-02-11'

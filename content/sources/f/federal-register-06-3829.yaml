@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 21033, published 2006-04-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213174403/https://www.federalregister.gov/documents/2006/04/24/06-3829/renewal-of-agency-information-collection-for-indian-self-determination-and-education-assistance
+  captured: '2025-02-13'

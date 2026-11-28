@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 19870, published 2024-03-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250417184844/https://www.federalregister.gov/documents/2024/03/20/2024-05857/notice-of-inventory-completion-new-jersey-state-museum-trenton-nj
+  captured: '2025-04-17'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 92712, published 2024-11-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205005631/https://www.federalregister.gov/documents/2024/11/22/2024-27409/final-environmental-impact-statement-for-the-coquille-indian-tribe-fee-to-trust-and-gaming-facility
+  captured: '2025-02-05'

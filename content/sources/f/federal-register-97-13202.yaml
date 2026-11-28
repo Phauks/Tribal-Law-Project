@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 27618, published 1997-05-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210408025508/https://www.federalregister.gov/documents/1997/05/20/97-13202/land-acquisitions-klamath-tribes-of-oregon
+  captured: '2021-04-08'

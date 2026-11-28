@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.akleg.gov/basis/statutes.asp#14.03.135
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261121102150/https://www.akleg.gov/basis/statutes.asp
+  captured: '2026-11-21'
 history:
   status: live
   last_checked: '2026-11-27'

@@ -21,7 +21,10 @@ citation:
       - 27
 original_link: https://legislature.maine.gov/statutes/22/title22sec3941.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260721135454/https://legislature.maine.gov/statutes/22/title22sec3941.html
+  captured: '2026-07-21'
 history:
   status: live
   last_checked: '2026-11-27'

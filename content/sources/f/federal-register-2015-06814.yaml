@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 15807, published 2015-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203185401/https://www.federalregister.gov/documents/2015/03/25/2015-06814/indian-education-study-group
+  captured: '2025-02-03'

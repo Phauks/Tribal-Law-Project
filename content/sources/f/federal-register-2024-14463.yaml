@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 54499, published 2024-07-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524214338/https://www.federalregister.gov/documents/2024/07/01/2024-14463/notice-of-inventory-completion-sam-noble-oklahoma-museum-of-natural-history-norman-ok
+  captured: '2025-05-24'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 77655, published 2015-12-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202222307/https://www.federalregister.gov/documents/2015/12/15/2015-31565/hearth-act-approval-of-gila-river-indian-community-regulations
+  captured: '2025-02-02'

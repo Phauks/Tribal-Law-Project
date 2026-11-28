@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 43389, published 2023-07-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611190633/https://www.federalregister.gov/documents/2023/07/07/2023-14381/notice-of-inventory-completion-hartwick-college-oneonta-ny
+  captured: '2025-06-11'

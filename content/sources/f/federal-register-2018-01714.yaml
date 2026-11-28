@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 4259, published 2018-01-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204044004/https://www.federalregister.gov/documents/2018/01/30/2018-01714/notice-of-intent-to-repatriate-cultural-items-grand-rapids-public-museum-grand-rapids-mi
+  captured: '2025-02-04'

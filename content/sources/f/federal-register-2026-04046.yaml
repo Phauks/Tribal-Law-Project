@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 10124, published 2026-03-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260228194953/https://www.federalregister.gov/documents/2026/03/02/2026-04046/notice-of-intended-repatriation-california-department-of-parks-and-recreation-sacramento-ca
+  captured: '2026-02-28'

@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 39775, published 2018-08-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208230548/https://www.federalregister.gov/documents/2018/08/10/2018-17218/notice-of-inventory-completion-riverside-metropolitan-museum-riverside-ca
+  captured: '2025-02-08'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 73435, published 2024-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524184424/https://www.federalregister.gov/documents/2024/09/10/2024-20293/notice-of-inventory-completion-university-of-texas-at-san-antonio-center-for-archaeological-research
+  captured: '2025-05-24'

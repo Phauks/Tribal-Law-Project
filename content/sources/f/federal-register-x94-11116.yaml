@@ -48,3 +48,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-11-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516230912/https://www.federalregister.gov/documents/1994/11/16/X94-11116/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-arizona-state-capitol-museum
+  captured: '2017-05-16'

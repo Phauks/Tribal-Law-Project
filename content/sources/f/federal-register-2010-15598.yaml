@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 36666, published 2010-06-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203020413/https://www.federalregister.gov/documents/2010/06/28/2010-15598/notice-of-intent-to-repatriate-a-cultural-item-university-of-hawaii-at-manoa-honolulu-hi
+  captured: '2025-02-03'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 12982, published 2023-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206004327/https://www.federalregister.gov/documents/2023/03/01/2023-04166/land-acquisitions-oneida-indian-nation-madison-and-oneida-counties-new-york
+  captured: '2025-02-06'

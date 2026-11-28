@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 44714, published 1997-08-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210420172102/https://www.federalregister.gov/documents/1997/08/22/97-22298/proposed-finding-against-federal-acknowledgment-of-the-chinook-indian-tribe
+  captured: '2021-04-20'

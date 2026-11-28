@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 33105, published 1997-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250224020132/https://www.federalregister.gov/documents/1997/06/18/97-15939/the-secretary-of-the-interiors-standards-and-guidelines-for-federal-agency-historic-preservation
+  captured: '2025-02-24'

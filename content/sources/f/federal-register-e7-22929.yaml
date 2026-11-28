@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 65981, published 2007-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210516180358/https://www.federalregister.gov/documents/2007/11/26/E7-22929/liquor-ordinance-of-the-karuk-tribe-of-california
+  captured: '2021-05-16'

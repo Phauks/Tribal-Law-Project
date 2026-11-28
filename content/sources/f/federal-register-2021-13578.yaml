@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 33728, published 2021-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205031655/https://www.federalregister.gov/documents/2021/06/25/2021-13578/environmental-impact-statement-for-the-yahthumb-solar-project-on-the-moapa-river-indian-reservation
+  captured: '2025-02-05'

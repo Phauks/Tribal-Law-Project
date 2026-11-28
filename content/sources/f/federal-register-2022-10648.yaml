@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 30259, published 2022-05-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215091732/https://www.federalregister.gov/documents/2022/05/18/2022-10648/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-little-bighorn
+  captured: '2025-02-15'

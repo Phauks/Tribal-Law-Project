@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 51367, published 1998-09-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204154045/https://www.federalregister.gov/documents/1998/09/25/98-25652/notice-of-public-comment-period-on-proposed-agreement-for-leasing-of-colorado-river-water-and
+  captured: '2025-02-04'

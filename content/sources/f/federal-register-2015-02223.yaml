@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 6131, published 2015-02-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204080948/https://www.federalregister.gov/documents/2015/02/04/2015-02223/notice-of-intent-to-repatriate-cultural-items-us-department-of-agriculture-forest-service-chugach
+  captured: '2025-02-04'

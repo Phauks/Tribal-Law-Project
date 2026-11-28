@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 32167, published 2015-06-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250828150914/https://www.federalregister.gov/documents/2015/06/05/2015-13774/notice-of-request-for-information
+  captured: '2025-08-28'

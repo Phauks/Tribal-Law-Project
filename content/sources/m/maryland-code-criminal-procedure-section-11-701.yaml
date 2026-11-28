@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcp&section=11-701&enactments=false
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260124183056/https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcp&section=11-701&enactments=false
+  captured: '2026-01-24'
 history:
   status: live
   last_checked: '2026-11-27'

@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 30153, published 2008-05-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204172959/https://www.federalregister.gov/documents/2008/05/23/E8-11568/notice-of-inventory-completion-oregon-state-university-department-of-anthropology-corvallis-or
+  captured: '2025-02-04'

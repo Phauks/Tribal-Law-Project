@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 8719, published 2024-02-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202212251/https://www.federalregister.gov/documents/2024/02/08/2024-02550/notice-of-inventory-completion-central-washington-university-ellensburg-wa
+  captured: '2025-02-02'

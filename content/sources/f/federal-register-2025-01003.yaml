@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 4787, published 2025-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260803160729/https://www.federalregister.gov/documents/2025/01/16/2025-01003/notice-of-inventory-completion-david-a-fredrickson-archaeological-collections-facility-at-sonoma
+  captured: '2026-08-03'

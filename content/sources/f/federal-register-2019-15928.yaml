@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 36040, published 2019-07-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204165959/https://www.federalregister.gov/documents/2019/07/26/2019-15928/tribal-transportation-program-inventory-of-proposed-roads
+  captured: '2025-02-04'

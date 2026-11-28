@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 45658, published 2010-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204070643/https://www.federalregister.gov/documents/2010/08/03/2010-19000/notice-of-inventory-completion-museum-of-cultural-and-natural-history-central-michigan-university-mt
+  captured: '2025-02-04'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 4023, published 2007-01-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210529005619/https://www.federalregister.gov/documents/2007/01/29/E7-1294/submission-of-information-collection-to-the-office-of-management-and-budget
+  captured: '2021-05-29'

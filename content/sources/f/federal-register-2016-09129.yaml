@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 23327, published 2016-04-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260327233318/https://www.federalregister.gov/documents/2016/04/20/2016-09129/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-puuhonua-o
+  captured: '2026-03-27'

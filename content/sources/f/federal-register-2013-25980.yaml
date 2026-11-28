@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 65375, published 2013-10-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204000739/https://www.federalregister.gov/documents/2013/10/31/2013-25980/notice-of-inventory-completion-university-of-michigan-ann-arbor-mi
+  captured: '2025-02-04'

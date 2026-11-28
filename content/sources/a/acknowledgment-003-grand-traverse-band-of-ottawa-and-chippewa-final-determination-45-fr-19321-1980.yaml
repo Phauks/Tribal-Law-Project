@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/grand-traverse-band-ottawa-and-chippewa-indians'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127005006/https://www.bia.gov/sites/default/files/media_document/45fr19321.pdf
+  captured: '2026-11-27'

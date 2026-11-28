@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 10757, published 2009-03-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214124321/https://www.federalregister.gov/documents/2009/03/12/E9-5334/notice-of-inventory-completion-museum-of-peoples-and-cultures-brigham-young-university-provo-ut
+  captured: '2025-02-14'

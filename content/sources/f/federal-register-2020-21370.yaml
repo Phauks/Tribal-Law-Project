@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 60828, published 2020-09-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204132538/https://www.federalregister.gov/documents/2020/09/28/2020-21370/hearth-act-approval-of-wilton-rancheria-california-business-site-leasing-act
+  captured: '2025-02-04'

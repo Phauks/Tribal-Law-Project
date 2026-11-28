@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 34927, published 2019-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204133237/https://www.federalregister.gov/documents/2019/07/19/2019-15438/notice-of-inventory-completion-state-university-of-new-york-at-oswego-oswego-ny
+  captured: '2025-02-04'

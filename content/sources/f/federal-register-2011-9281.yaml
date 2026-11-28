@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 21778, published 2011-04-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209025749/https://www.federalregister.gov/documents/2011/04/18/2011-9281/renewal-of-agency-information-collection-for-the-bureau-of-indian-affairs-housing-improvement
+  captured: '2025-02-09'

@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35537, published 2025-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260616123127/https://www.federalregister.gov/documents/2025/07/28/2025-14163/notice-of-inventory-completion-county-of-sacramento-sacramento-ca
+  captured: '2026-06-16'

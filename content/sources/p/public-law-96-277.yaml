@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-94/STATUTE-94-Pg544
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205161017/https://www.govinfo.gov/app/details/STATUTE-94/STATUTE-94-Pg544
+  captured: '2025-02-05'
 file:
   storage_key: govinfo/STATUTE-94/STATUTE-94-Pg544.pdf
   checksum: fcb59366206f00f0b8dae0ca5b32ead538b99f510981ab76f3184a6b7421269a

@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 41350, published 2022-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250401153845/https://www.federalregister.gov/documents/2022/07/12/2022-14780/notice-of-inventory-completion-peabody-museum-of-natural-history-yale-university-new-haven-ct
+  captured: '2025-04-01'

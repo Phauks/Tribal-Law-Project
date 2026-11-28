@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 53206, published 2014-09-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202224745/https://www.federalregister.gov/documents/2014/09/08/2014-21269/revision-of-agency-information-collection-for-indian-child-welfare-quarterly-and-annual-report
+  captured: '2025-02-02'

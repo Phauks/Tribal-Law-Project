@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 32316, published 2018-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207014720/https://www.federalregister.gov/documents/2018/07/12/2018-14901/notice-of-inventory-completion-st-joseph-museums-inc-st-joseph-mo
+  captured: '2025-02-07'

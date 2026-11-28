@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 38416, published 2006-07-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204123950/https://www.federalregister.gov/documents/2006/07/06/E6-10507/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-02-04'

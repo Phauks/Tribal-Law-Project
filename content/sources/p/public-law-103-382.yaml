@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-108/STATUTE-108-Pg3518
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260806214303/https://www.govinfo.gov/app/details/STATUTE-108/STATUTE-108-Pg3518
+  captured: '2026-08-06'
 rights:
   status: no-permission-needed
   basis: us-government-work

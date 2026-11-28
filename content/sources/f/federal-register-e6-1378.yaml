@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 5684, published 2006-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250227171651/https://www.federalregister.gov/documents/2006/02/02/E6-1378/notice-of-inventory-completion-renton-historical-society-and-museum-renton-wa
+  captured: '2025-02-27'

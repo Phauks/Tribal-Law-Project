@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 22857, published 2004-04-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210514165117/https://www.federalregister.gov/documents/2004/04/27/04-9473/tribal-management-grant-program-new-discretionary-funding-cycle-for-fiscal-year-2005
+  captured: '2021-05-14'

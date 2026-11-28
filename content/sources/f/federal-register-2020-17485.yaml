@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 48557, published 2020-08-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202135715/https://www.federalregister.gov/documents/2020/08/11/2020-17485/notice-of-inventory-completion-sandusky-library-sandusky-oh
+  captured: '2025-02-02'

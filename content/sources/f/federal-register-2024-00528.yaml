@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 2243, published 2024-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524190501/https://www.federalregister.gov/documents/2024/01/12/2024-00528/notice-of-inventory-completion-amendment-us-department-of-the-interior-bureau-of-land-management
+  captured: '2025-05-24'

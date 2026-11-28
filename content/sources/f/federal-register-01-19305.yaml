@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 40292, published 2001-08-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212103447/https://www.federalregister.gov/documents/2001/08/02/01-19305/proposed-agency-information-collection-to-identify-tribal-non-member-indian-artisan-certification
+  captured: '2025-02-12'

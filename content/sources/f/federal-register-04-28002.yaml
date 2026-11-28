@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 76776, published 2004-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250220094045/https://www.federalregister.gov/documents/2004/12/22/04-28002/notice-of-intent-to-repatriate-cultural-items-us-department-of-agriculture-forest-service-chugach
+  captured: '2025-02-20'

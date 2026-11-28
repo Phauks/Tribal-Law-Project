@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 35909, published 2023-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208213724/https://www.federalregister.gov/documents/2023/06/01/2023-11696/notice-of-inventory-completion-department-of-the-interior-national-park-service-fort-vancouver
+  captured: '2025-02-08'

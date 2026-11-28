@@ -130,3 +130,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 14873, published 2026-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260712085908/https://www.federalregister.gov/documents/2026/03/27/2026-05969/notice-to-rescind-a-notice-of-inventory-completion-oregon-health-and-sciences-university-portland-or
+  captured: '2026-07-12'

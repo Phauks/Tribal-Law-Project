@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 60192, published 2006-10-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202031816/https://www.federalregister.gov/documents/2006/10/12/E6-16920/notice-of-inventory-completion-saint-martins-waynick-museum-lacey-wa-correction
+  captured: '2025-02-02'

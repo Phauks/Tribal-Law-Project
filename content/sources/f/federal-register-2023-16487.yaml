@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 51350, published 2023-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203070910/https://www.federalregister.gov/documents/2023/08/03/2023-16487/notice-of-inventory-completion-university-of-rhode-island-south-kingstown-ri-and-connecticut-college
+  captured: '2025-02-03'

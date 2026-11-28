@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 96676, published 2024-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524173954/https://www.federalregister.gov/documents/2024/12/05/2024-28500/notice-of-proposed-transfer-or-reinterment-monterey-peninsula-college-monterey-ca
+  captured: '2025-05-24'

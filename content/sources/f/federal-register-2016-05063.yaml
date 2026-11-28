@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 12121, published 2016-03-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208205457/https://www.federalregister.gov/documents/2016/03/08/2016-05063/notice-of-inventory-completion-tennessee-valley-authority-knoxville-tn
+  captured: '2025-02-08'

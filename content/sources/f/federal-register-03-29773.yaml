@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 67205, published 2003-12-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202000025/https://www.federalregister.gov/documents/2003/12/01/03-29773/notice-of-inventory-completion-us-department-of-the-interior-us-fish-and-wildlife-service-region-7
+  captured: '2025-02-02'

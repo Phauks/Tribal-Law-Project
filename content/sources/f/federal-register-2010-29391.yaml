@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 71139, published 2010-11-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203163125/https://www.federalregister.gov/documents/2010/11/22/2010-29391/land-acquisitions-puyallup-tribe-of-washington
+  captured: '2025-02-03'

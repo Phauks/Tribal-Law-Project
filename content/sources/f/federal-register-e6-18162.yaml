@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 63345, published 2006-10-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213200921/https://www.federalregister.gov/documents/2006/10/30/E6-18162/request-for-comments-on-navajo-partitioned-lands-npl-grazing-regulations-information-collection
+  captured: '2025-02-13'

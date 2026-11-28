@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 58359, published 2014-09-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204081153/https://www.federalregister.gov/documents/2014/09/29/2014-23005/final-policy-on-conferring-with-urban-indian-organizations
+  captured: '2025-02-04'

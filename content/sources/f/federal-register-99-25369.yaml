@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 52523, published 1999-09-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208181348/https://www.federalregister.gov/documents/1999/09/29/99-25369/notice-of-inventory-completion-for-native-american-human-remains-in-the-possession-of-the-south
+  captured: '2025-02-08'

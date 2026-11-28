@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 49819, published 1999-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260508151642/https://www.federalregister.gov/documents/1999/09/14/99-23898/information-collection-for-part-13-tribal-reassumption-of-jurisdiction-over-child-custody
+  captured: '2026-05-08'

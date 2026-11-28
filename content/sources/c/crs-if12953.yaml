@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: IF12953, version 5'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261103142357/https://www.congress.gov/crs-product/IF12953
+  captured: '2026-11-03'

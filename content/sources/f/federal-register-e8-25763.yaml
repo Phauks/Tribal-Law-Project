@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 64367, published 2008-10-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204122118/https://www.federalregister.gov/documents/2008/10/29/E8-25763/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-02-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 39446, published 2017-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260716235054/https://www.federalregister.gov/documents/2017/08/18/2017-17534/pueblo-of-santa-clara-liquor-ordinance-amendments
+  captured: '2026-07-16'

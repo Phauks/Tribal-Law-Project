@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 13165, published 2006-03-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214095738/https://www.federalregister.gov/documents/2006/03/14/E6-3551/notice-of-intent-to-repatriate-a-cultural-item-minnesota-museum-of-american-art-st-paul-mn
+  captured: '2025-02-14'

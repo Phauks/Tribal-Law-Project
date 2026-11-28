@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 47807, published 2020-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203064841/https://www.federalregister.gov/documents/2020/08/06/2020-17173/notice-of-inventory-completion-virginia-living-museum-newport-news-va
+  captured: '2025-02-03'

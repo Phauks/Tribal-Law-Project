@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 27278, published 2017-06-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216095817/https://www.federalregister.gov/documents/2017/06/14/2017-12288/draft-programmatic-environmental-impact-statement-for-the-2015-integrated-resource-management-plan
+  captured: '2025-02-16'

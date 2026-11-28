@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 71095, published 2020-11-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202134803/https://www.federalregister.gov/documents/2020/11/06/2020-24685/notice-of-inventory-completion-michigan-state-university-east-lansing-mi
+  captured: '2025-02-02'

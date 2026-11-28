@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-101/STATUTE-101-Pg1329
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208023850/https://www.govinfo.gov/app/details/STATUTE-101/STATUTE-101-Pg1329
+  captured: '2025-02-08'
 rights:
   status: no-permission-needed
   basis: us-government-work

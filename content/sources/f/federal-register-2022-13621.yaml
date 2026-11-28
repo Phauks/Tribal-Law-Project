@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 38175, published 2022-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208235710/https://www.federalregister.gov/documents/2022/06/27/2022-13621/notice-of-inventory-completion-field-museum-of-natural-history-chicago-il-correction
+  captured: '2025-02-08'

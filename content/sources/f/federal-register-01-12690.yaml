@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 27994, published 2001-05-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260327170008/https://www.federalregister.gov/documents/2001/05/21/01-12690/hopland-band-of-pomo-indians-liquor-regulation-and-licensing-ordinance
+  captured: '2026-03-27'

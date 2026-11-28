@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 2146, published 2026-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260116232449/https://www.federalregister.gov/documents/2026/01/16/2026-00868/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca
+  captured: '2026-01-16'

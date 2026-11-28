@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 59557, published 2025-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251219232704/https://www.federalregister.gov/documents/2025/12/19/2025-23369/notice-of-intended-repatriation-the-childrens-museum-of-indianapolis-indianapolis-in
+  captured: '2025-12-19'

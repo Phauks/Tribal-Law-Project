@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 18647, published 1997-04-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210503033115/https://www.federalregister.gov/documents/1997/04/16/97-9837/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2021-05-03'

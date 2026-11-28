@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 36744, published 2009-07-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209031313/https://www.federalregister.gov/documents/2009/07/24/E9-17669/notice-of-inventory-completion-university-of-oregon-oregon-state-museum-of-anthropology-eugene-or
+  captured: '2025-02-09'

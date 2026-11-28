@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 22576, published 2022-04-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502145122/https://www.federalregister.gov/documents/2022/04/15/2022-08121/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-big-hole-national
+  captured: '2025-05-02'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 6003, published 2025-01-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209010706/https://www.federalregister.gov/documents/2025/01/17/2025-01171/notice-of-intended-disposition-arizona-army-national-guard-camp-navajo-bellemont-az
+  captured: '2025-02-09'

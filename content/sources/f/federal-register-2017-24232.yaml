@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 51862, published 2017-11-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250421094629/https://www.federalregister.gov/documents/2017/11/08/2017-24232/notice-of-intent-to-repatriate-cultural-items-museum-of-texas-tech-university-lubbock-tx
+  captured: '2025-04-21'

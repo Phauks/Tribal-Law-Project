@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 65146, published 2009-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203000006/https://www.federalregister.gov/documents/2009/12/09/E9-29297/notice-of-inventory-completion-southwest-museum-of-the-american-indian-at-the-autry-national-center
+  captured: '2025-02-03'

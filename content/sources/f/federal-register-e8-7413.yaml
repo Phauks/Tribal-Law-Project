@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 19240, published 2008-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202115719/https://www.federalregister.gov/documents/2008/04/09/E8-7413/proposed-information-collection-under-the-paperwork-reduction-act-comment-request
+  captured: '2025-02-02'

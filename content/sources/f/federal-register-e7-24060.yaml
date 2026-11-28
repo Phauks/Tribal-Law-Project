@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 70607, published 2007-12-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213161501/https://www.federalregister.gov/documents/2007/12/12/E7-24060/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-13'

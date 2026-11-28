@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 37573, published 2023-06-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204142636/https://www.federalregister.gov/documents/2023/06/08/2023-12283/notice-of-intent-to-repatriate-cultural-items-denver-museum-of-nature-and-science-denver-co
+  captured: '2025-02-04'

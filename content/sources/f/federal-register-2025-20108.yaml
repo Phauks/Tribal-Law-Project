@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 51786, published 2025-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251203114301/https://www.federalregister.gov/documents/2025/11/18/2025-20108/notice-of-inventory-completion-heard-museum-phoenix-az
+  captured: '2025-12-03'

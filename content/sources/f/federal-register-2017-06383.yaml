@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 16045, published 2017-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230807143146/https://www.federalregister.gov/documents/2017/03/31/2017-06383/notice-to-propose-the-re-designation-of-the-service-delivery-area-for-the-tolowa-dee-ni-nation-smith
+  captured: '2023-08-07'

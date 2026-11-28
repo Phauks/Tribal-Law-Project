@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 30335, published 1997-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250223003122/https://www.federalregister.gov/documents/1997/06/03/97-14341/proclaiming-certain-lands-as-reservation-for-the-cow-creek-band-of-umpqua-tribe-of-indians-in-oregon
+  captured: '2025-02-23'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 67932, published 1999-12-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209031900/https://www.federalregister.gov/documents/1999/12/03/99-31363/notice-of-intent-to-repatriate-cultural-items-from-warren-ri-in-the-possession-of-the-museum-of-the
+  captured: '2025-02-09'

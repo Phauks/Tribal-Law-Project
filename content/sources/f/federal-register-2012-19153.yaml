@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 47514, published 2012-08-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207034755/https://www.federalregister.gov/documents/2012/08/09/2012-19153/management-contracts-background-investigations
+  captured: '2025-02-07'

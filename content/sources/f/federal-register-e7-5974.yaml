@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 15725, published 2007-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208230610/https://www.federalregister.gov/documents/2007/04/02/E7-5974/notice-of-intent-to-repatriate-a-cultural-item-university-of-kansas-lawrence-ks
+  captured: '2025-02-08'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 45666, published 2018-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207015326/https://www.federalregister.gov/documents/2018/09/10/2018-19533/notice-of-inventory-completion-childrens-museum-of-oak-ridge-oak-ridge-tn
+  captured: '2025-02-07'

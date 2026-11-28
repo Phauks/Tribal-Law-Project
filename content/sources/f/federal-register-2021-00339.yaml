@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 2449, published 2021-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202211745/https://www.federalregister.gov/documents/2021/01/12/2021-00339/proclaiming-certain-lands-as-reservation-for-the-shakopee-mdewakanton-sioux-community-of-minnesota
+  captured: '2025-02-02'

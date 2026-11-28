@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 29226, published 2019-06-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206180514/https://www.federalregister.gov/documents/2019/06/21/2019-13264/confederated-tribes-of-the-chehalis-reservation-liquor-ordinance-repeal-and-replace
+  captured: '2025-02-06'

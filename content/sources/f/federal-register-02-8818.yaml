@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 17713, published 2002-04-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204002328/https://www.federalregister.gov/documents/2002/04/11/02-8818/cher-ae-heights-indian-community-of-the-trinidad-rancheria-liquor-control-ordinance
+  captured: '2025-02-04'

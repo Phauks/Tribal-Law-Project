@@ -42,3 +42,7 @@ review:
   - check: listing
     result: missing
     detail: Read by script only
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261104112006/https://www.epa.gov/tribal/tribes-approved-treatment-state-tas
+  captured: '2026-11-04'

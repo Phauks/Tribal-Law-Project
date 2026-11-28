@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 65628, published 2004-11-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214114820/https://www.federalregister.gov/documents/2004/11/15/04-25265/proposed-agency-information-collection-activities-comment-request
+  captured: '2025-02-14'

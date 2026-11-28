@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 73440, published 2024-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611195357/https://www.federalregister.gov/documents/2024/09/10/2024-20290/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-alaska-state
+  captured: '2025-06-11'

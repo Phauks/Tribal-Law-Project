@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 32600, published 2015-06-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202033600/https://www.federalregister.gov/documents/2015/06/09/2015-14098/notice-of-intent-to-repatriate-cultural-items-longyear-museum-of-anthropology-colgate-university
+  captured: '2025-02-02'

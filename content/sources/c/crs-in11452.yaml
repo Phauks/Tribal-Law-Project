@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: IN11452, version 2'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260103051554/https://www.congress.gov/crs-product/IN11452
+  captured: '2026-01-03'

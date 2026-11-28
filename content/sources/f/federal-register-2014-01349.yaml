@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 3860, published 2014-01-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260512135758/https://www.federalregister.gov/documents/2014/01/23/2014-01349/proposed-finding-for-federal-acknowledgment-of-the-pamunkey-indian-tribe
+  captured: '2026-05-12'

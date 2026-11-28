@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 13296, published 2002-03-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216122711/https://www.federalregister.gov/documents/2002/03/22/02-6806/definitions-electronic-or-electromechanical-facsimile-games-similar-to-bingo-electronic-computer-or
+  captured: '2025-02-16'

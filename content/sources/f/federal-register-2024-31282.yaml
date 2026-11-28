@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 106564, published 2024-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525152041/https://www.federalregister.gov/documents/2024/12/30/2024-31282/notice-of-inventory-completion-california-state-university-sacramento-sacramento-ca
+  captured: '2025-05-25'

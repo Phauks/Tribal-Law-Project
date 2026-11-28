@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 12191, published 2007-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210502210945/https://www.federalregister.gov/documents/2007/03/15/E7-4732/notice-of-inventory-completion-thomas-burke-memorial-washington-state-museum-university-of
+  captured: '2021-05-02'

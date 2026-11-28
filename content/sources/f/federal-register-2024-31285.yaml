@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 106571, published 2024-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524201518/https://www.federalregister.gov/documents/2024/12/30/2024-31285/notice-of-intended-repatriation-brooklyn-childrens-museum-brooklyn-ny
+  captured: '2025-05-24'

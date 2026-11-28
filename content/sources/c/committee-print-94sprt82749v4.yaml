@@ -48,3 +48,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CPRT-94SPRT82749v4'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260804190816/https://www.govinfo.gov/app/details/CPRT-94SPRT82749v4/
+  captured: '2026-08-04'

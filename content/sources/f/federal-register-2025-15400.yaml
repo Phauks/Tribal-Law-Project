@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 39209, published 2025-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250826112357/https://www.federalregister.gov/documents/2025/08/14/2025-15400/notice-of-inventory-completion-birmingham-museum-of-art-birmingham-al
+  captured: '2025-08-26'

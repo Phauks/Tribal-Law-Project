@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 47235, published 2008-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202114612/https://www.federalregister.gov/documents/2008/08/13/E8-18676/notice-of-inventory-completion-thomas-burke-memorial-washington-state-museum-university-of
+  captured: '2025-02-02'

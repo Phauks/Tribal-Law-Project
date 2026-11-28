@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 47210, published 2008-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202114725/https://www.federalregister.gov/documents/2008/08/13/E8-18771/metlakatla-indian-community-alcohol-possession-code
+  captured: '2025-02-02'

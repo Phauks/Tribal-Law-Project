@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 43211, published 1999-08-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250225135834/https://www.federalregister.gov/documents/1999/08/09/99-20369/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-25'

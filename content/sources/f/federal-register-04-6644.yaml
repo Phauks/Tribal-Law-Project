@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 15374, published 2004-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204211509/https://www.federalregister.gov/documents/2004/03/25/04-6644/notice-of-intent-to-repatriate-cultural-items-san-diego-archaeological-center-san-diego-ca
+  captured: '2025-02-04'

@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 25619, published 2017-06-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208195136/https://www.federalregister.gov/documents/2017/06/02/2017-11448/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-ocmulgee-national
+  captured: '2025-02-08'

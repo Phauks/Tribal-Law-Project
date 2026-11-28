@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 1191, published 2003-01-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212080628/https://www.federalregister.gov/documents/2003/01/09/03-428/notice-of-intent-to-prepare-an-environmental-impact-statement-for-a-proposed-tribal-light-industrial
+  captured: '2025-02-12'

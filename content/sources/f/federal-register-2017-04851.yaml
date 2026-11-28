@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 13490, published 2017-03-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209022146/https://www.federalregister.gov/documents/2017/03/13/2017-04851/notice-of-inventory-completion-department-of-anthropology-the-university-of-tulsa-tulsa-ok
+  captured: '2025-02-09'

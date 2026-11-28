@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 46598, published 2015-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204125158/https://www.federalregister.gov/documents/2015/08/05/2015-19266/notice-of-intent-to-repatriate-cultural-items-washington-state-parks-and-recreation-commission
+  captured: '2025-02-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 47456, published 2004-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170830031457/https://www.federalregister.gov/documents/2004/08/05/04-17856/seneca-nation-sale-and-consumption-of-alcoholic-beverages
+  captured: '2017-08-30'

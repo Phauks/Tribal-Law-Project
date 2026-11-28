@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 12968, published 2017-03-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204150818/https://www.federalregister.gov/documents/2017/03/08/2017-04522/notice-to-propose-the-re-designation-of-the-service-delivery-area-for-the-passamaquoddy-tribe-at
+  captured: '2025-02-04'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 17719, published 1996-04-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204131320/https://www.federalregister.gov/documents/1996/04/22/96-9785/notice-of-inventory-completion-for-native-american-human-remains-in-the-control-of-acadia-national
+  captured: '2025-02-04'

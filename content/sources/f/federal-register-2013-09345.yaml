@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 23782, published 2013-04-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204064709/https://www.federalregister.gov/documents/2013/04/22/2013-09345/renewal-of-agency-information-collection-for-appointed-counsel-in-involuntary-indian-child-custody
+  captured: '2025-02-04'

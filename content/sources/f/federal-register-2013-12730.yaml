@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 32272, published 2013-05-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208171359/https://www.federalregister.gov/documents/2013/05/29/2013-12730/renewal-of-agency-information-collection-for-indian-self-determination-and-education-assistance
+  captured: '2025-02-08'

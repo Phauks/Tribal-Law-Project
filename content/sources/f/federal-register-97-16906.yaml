@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 34775, published 1997-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207054122/https://www.federalregister.gov/documents/1997/06/27/97-16906/notice-of-inventory-completion-for-native-american-human-remains-associated-funerary-objects-and
+  captured: '2025-02-07'

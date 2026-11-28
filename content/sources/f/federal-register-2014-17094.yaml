@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 42357, published 2014-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208225833/https://www.federalregister.gov/documents/2014/07/21/2014-17094/notice-of-inventory-completion-bureau-of-land-management-green-river-district-vernal-field-office
+  captured: '2025-02-08'

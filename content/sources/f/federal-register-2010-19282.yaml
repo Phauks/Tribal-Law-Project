@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 47312, published 2010-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211224732/https://www.federalregister.gov/documents/2010/08/05/2010-19282/seminole-tribe-of-florida-alcohol-beverage-control-act-of-2009
+  captured: '2025-02-11'

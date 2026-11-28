@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 57926, published 2003-10-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219031043/https://www.federalregister.gov/documents/2003/10/07/03-25320/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-skull-valley-goshute
+  captured: '2025-02-19'

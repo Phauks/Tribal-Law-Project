@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 86002, published 2016-11-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502052138/https://www.federalregister.gov/documents/2016/11/29/2016-28749/pokagon-band-of-potawatomi-indians-michigan-and-indiana
+  captured: '2025-05-02'

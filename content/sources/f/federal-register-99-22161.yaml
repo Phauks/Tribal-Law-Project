@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 46719, published 1999-08-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204204505/https://www.federalregister.gov/documents/1999/08/26/99-22161/notice-of-intent-to-repatriate-cultural-items-from-shannon-county-sd-in-the-possession-of-the
+  captured: '2025-02-04'

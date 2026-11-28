@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 68377, published 2010-11-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516050023/https://www.federalregister.gov/documents/2010/11/05/2010-27920/notice-of-inventory-completion-anthropological-studies-center-archaeological-collections-facility
+  captured: '2017-05-16'

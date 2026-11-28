@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://law.lis.virginia.gov/vacode/title2.2/chapter22/section2.2-2339/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260109060719/https://law.lis.virginia.gov/vacode/title2.2/chapter22/section2.2-2339/
+  captured: '2026-01-09'
 history:
   status: live
   last_checked: '2026-11-27'

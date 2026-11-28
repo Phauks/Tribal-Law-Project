@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 3907, published 2025-01-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250404023823/https://www.federalregister.gov/documents/2025/01/15/2025-00761/land-acquisitions-coquille-indian-tribe-medford-site-city-of-medford-jackson-county-oregon
+  captured: '2025-04-04'

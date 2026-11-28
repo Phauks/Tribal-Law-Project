@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 34988, published 2012-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208230147/https://www.federalregister.gov/documents/2012/06/12/2012-14293/notice-of-inventory-completion-san-diego-state-university-san-diego-ca
+  captured: '2025-02-08'

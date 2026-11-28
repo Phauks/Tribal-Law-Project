@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 27510, published 2006-05-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210425231534/https://www.federalregister.gov/documents/2006/05/11/E6-7179/notice-of-inventory-completion-arizona-state-land-department-phoenix-az-and-arizona-state-museum
+  captured: '2021-04-25'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 18642, published 2016-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210324210152/https://www.federalregister.gov/documents/2016/03/31/2016-07187/renewal-of-agency-information-collection-for-water-delivery-and-electric-service-data-for-the
+  captured: '2021-03-24'

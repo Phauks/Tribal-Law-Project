@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 47801, published 2009-09-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211083315/https://www.federalregister.gov/documents/2009/09/17/E9-22271/request-for-public-comment-60-day-proposed-information-collection-indian-health-service-contract
+  captured: '2025-02-11'

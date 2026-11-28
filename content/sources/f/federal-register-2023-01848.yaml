@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 5910, published 2023-01-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230128113731/https://www.federalregister.gov/documents/2023/01/30/2023-01848/notice-of-inventory-completion-michigan-state-university-east-lansing-mi
+  captured: '2023-01-28'

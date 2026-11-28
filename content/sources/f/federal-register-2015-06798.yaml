@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 15809, published 2015-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204162726/https://www.federalregister.gov/documents/2015/03/25/2015-06798/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-04'

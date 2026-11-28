@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 14997, published 2009-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210503003353/https://www.federalregister.gov/documents/2009/04/02/E9-7404/notice-of-inventory-completion-new-york-state-museum-albany-ny
+  captured: '2021-05-03'

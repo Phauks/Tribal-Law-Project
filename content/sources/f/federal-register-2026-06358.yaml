@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 16734, published 2026-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260714033036/https://www.federalregister.gov/documents/2026/04/02/2026-06358/notice-of-inventory-completion-south-dakota-state-historical-society-archaeological-research-center
+  captured: '2026-07-14'

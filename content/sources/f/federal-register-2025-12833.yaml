@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 30676, published 2025-07-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250717072822/https://www.federalregister.gov/documents/2025/07/10/2025-12833/notice-of-intended-disposition-us-department-of-the-interior-bureau-of-land-management
+  captured: '2025-07-17'

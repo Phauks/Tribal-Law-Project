@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 5501, published 2022-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202120706/https://www.federalregister.gov/documents/2022/02/01/2022-02037/notice-of-inventory-completion-robert-s-peabody-institute-of-archaeology-phillips-academy-andover-ma
+  captured: '2025-02-02'

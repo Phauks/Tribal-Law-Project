@@ -69,3 +69,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 955, published 2024-01-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209003144/https://www.federalregister.gov/documents/2024/01/08/2024-00125/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-lake-mead
+  captured: '2025-02-09'

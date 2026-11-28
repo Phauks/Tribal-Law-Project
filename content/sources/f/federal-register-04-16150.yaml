@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 42772, published 2004-07-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208124307/https://www.federalregister.gov/documents/2004/07/16/04-16150/notice-of-inventory-completion-minneapolis-institute-of-arts-minneapolis-mn
+  captured: '2025-02-08'

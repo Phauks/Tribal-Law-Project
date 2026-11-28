@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 20500, published 2025-05-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260607230159/https://www.federalregister.gov/documents/2025/05/14/2025-08480/notice-of-inventory-completion-hood-museum-of-art-dartmouth-college-hanover-nh
+  captured: '2026-06-07'

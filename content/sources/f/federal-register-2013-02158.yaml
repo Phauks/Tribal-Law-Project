@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 7448, published 2013-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204102014/https://www.federalregister.gov/documents/2013/02/01/2013-02158/final-environmental-impact-statement-for-the-proposed-spokane-tribe-of-indians-west-plains-casino
+  captured: '2025-02-04'

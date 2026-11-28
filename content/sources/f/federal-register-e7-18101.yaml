@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 52388, published 2007-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213220351/https://www.federalregister.gov/documents/2007/09/13/E7-18101/notice-of-inventory-completion-fowler-museum-of-cultural-history-university-of-california-los
+  captured: '2025-02-13'

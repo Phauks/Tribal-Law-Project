@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 13732, published 2002-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217085456/https://www.federalregister.gov/documents/2002/03/26/02-7208/arrangement-with-states-territories-or-other-agencies-for-relief-of-distress-and-social-welfare-of
+  captured: '2025-02-17'

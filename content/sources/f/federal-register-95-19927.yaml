@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 41111, published 1995-08-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216154141/https://www.federalregister.gov/documents/1995/08/11/95-19927/notice-of-inventory-completion-for-native-american-human-remains-in-the-possession-of-knife-river
+  captured: '2025-02-16'

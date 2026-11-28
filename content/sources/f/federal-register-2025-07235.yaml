@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 17612, published 2025-04-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611192349/https://www.federalregister.gov/documents/2025/04/28/2025-07235/hearth-act-approval-of-squaxin-island-tribe-of-the-squaxin-island-reservation-amended-leasing
+  captured: '2025-06-11'

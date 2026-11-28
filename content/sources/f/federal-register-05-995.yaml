@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 3054, published 2005-01-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213014059/https://www.federalregister.gov/documents/2005/01/19/05-995/osage-tribe-sale-and-consumption-of-alcoholic-beverages
+  captured: '2025-02-13'

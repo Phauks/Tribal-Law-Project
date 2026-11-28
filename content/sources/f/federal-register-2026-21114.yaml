@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 65767, published 2026-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261016074540/https://www.federalregister.gov/documents/2026/10/16/2026-21114/notice-of-inventory-completion-fine-arts-museums-of-san-francisco-san-francisco-ca
+  captured: '2026-10-16'

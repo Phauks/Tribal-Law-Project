@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/10830250/mary-ames-et-al-v-trina-sexton-et-al/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127202145/https://www.courtlistener.com/opinion/10830250/mary-ames-et-al-v-trina-sexton-et-al/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

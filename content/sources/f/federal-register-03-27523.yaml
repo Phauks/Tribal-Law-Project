@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 62320, published 2003-11-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203045142/https://www.federalregister.gov/documents/2003/11/03/03-27523/notice-of-inventory-completion-phoebe-a-hearst-museum-of-anthropology-university-of-california
+  captured: '2025-02-03'

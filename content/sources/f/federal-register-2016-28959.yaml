@@ -94,3 +94,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 87067, published 2016-12-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260905020533/https://www.federalregister.gov/documents/2016/12/02/2016-28959/notice-of-inventory-completion-us-army-corps-of-engineers-huntington-district-huntington-wv
+  captured: '2026-09-05'

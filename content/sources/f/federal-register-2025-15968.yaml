@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 40842, published 2025-08-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825223942/https://www.federalregister.gov/documents/2025/08/21/2025-15968/notice-of-inventory-completion-kansas-state-historical-society-topeka-ks
+  captured: '2025-08-25'

@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the manual page was read: https://www.bia.gov/policy-forms/manual'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261116165346/https://www.bia.gov/sites/default/files/dup/assets/public/raca/manual/pdf/13_IAM_1_Authorities_and_Waivers_508_OIMT.pdf
+  captured: '2026-11-16'

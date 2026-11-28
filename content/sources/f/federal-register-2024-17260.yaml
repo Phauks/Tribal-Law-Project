@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 63979, published 2024-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208110137/https://www.federalregister.gov/documents/2024/08/06/2024-17260/notice-of-intended-disposition-us-department-of-agriculture-forest-service-boise-national-forest
+  captured: '2025-02-08'

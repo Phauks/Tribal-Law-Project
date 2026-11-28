@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-38/STATUTE-38-Pg77
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127072956/https://www.govinfo.gov/app/details/STATUTE-38/STATUTE-38-Pg77
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-38/STATUTE-38-Pg77.pdf
   checksum: 2b964245cd70dc9a6d41a2cab5d2f8d8180fac82cc4f0ea4862a4602e7db7137

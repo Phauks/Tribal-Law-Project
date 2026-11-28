@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 61147, published 2024-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611175932/https://www.federalregister.gov/documents/2024/07/30/2024-16712/notice-of-inventory-completion-mcclure-archives-and-university-museum-university-of-central-missouri
+  captured: '2025-06-11'

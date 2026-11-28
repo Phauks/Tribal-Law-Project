@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 2442, published 2001-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208054111/https://www.federalregister.gov/documents/2001/01/11/01-894/advisory-board-for-exceptional-children
+  captured: '2025-02-08'

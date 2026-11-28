@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/9901984/avalon-tribal-government-v-united-states-of-america/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127212647/https://www.courtlistener.com/opinion/9901984/avalon-tribal-government-v-united-states-of-america/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

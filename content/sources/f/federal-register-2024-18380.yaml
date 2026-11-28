@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 66735, published 2024-08-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202142832/https://www.federalregister.gov/documents/2024/08/16/2024-18380/tejon-indian-tribe-liquor-control-ordinance
+  captured: '2025-02-02'

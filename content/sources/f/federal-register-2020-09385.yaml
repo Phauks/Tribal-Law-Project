@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 26490, published 2020-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207101158/https://www.federalregister.gov/documents/2020/05/04/2020-09385/hearth-act-approval-of-shingle-springs-band-of-miwok-indians-shingle-springs-rancheria-verona-tract
+  captured: '2025-02-07'

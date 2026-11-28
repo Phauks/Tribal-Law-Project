@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 87501, published 2016-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205063538/https://www.federalregister.gov/documents/2016/12/05/2016-28751/probate-regulation-updates
+  captured: '2025-02-05'

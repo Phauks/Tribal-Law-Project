@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 15119, published 2005-03-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210325183628/https://www.federalregister.gov/documents/2005/03/24/05-5841/guidance-for-distributing-fiscal-year-2005-contract-support-funds-and-indian-self-determination
+  captured: '2021-03-25'

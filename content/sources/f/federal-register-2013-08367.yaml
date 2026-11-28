@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 21413, published 2013-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204224140/https://www.federalregister.gov/documents/2013/04/10/2013-08367/notice-of-intent-to-repatriate-cultural-items-the-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-04'

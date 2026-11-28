@@ -90,3 +90,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 46705, published 2020-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203020018/https://www.federalregister.gov/documents/2020/08/03/2020-16777/notice-of-inventory-completion-university-of-california-davis-davis-ca
+  captured: '2025-02-03'

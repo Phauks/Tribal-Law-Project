@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 18034, published 1998-04-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204012112/https://www.federalregister.gov/documents/1998/04/13/98-9661/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-04'

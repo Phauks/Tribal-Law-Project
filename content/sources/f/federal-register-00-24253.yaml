@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 57208, published 2000-09-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250220090331/https://www.federalregister.gov/documents/2000/09/21/00-24253/notice-of-intent-to-repatriate-cultural-items-from-grand-portage-mn-in-the-possession-of-the
+  captured: '2025-02-20'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 77182, published 2024-09-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202102324/https://www.federalregister.gov/documents/2024/09/20/2024-21538/notice-of-intended-repatriation-denver-museum-of-nature-and-science-denver-co
+  captured: '2025-02-02'

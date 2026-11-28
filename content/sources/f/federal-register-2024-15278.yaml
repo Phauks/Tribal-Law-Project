@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 57165, published 2024-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204040025/https://www.federalregister.gov/documents/2024/07/12/2024-15278/termination-of-preparation-of-the-environmental-impact-statement-for-the-farmington-mancos-gallup
+  captured: '2025-02-04'

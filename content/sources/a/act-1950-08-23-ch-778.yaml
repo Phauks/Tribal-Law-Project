@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-64/STATUTE-64-Pg470
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127080426/https://www.govinfo.gov/app/details/STATUTE-64/STATUTE-64-Pg470
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-64/STATUTE-64-Pg470.pdf
   checksum: 3a3b708419d7855c72143af5dc4ef44c0865da3ac571e36428cba5d9c75e3612

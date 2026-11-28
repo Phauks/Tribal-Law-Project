@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 18551, published 2021-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202022424/https://www.federalregister.gov/documents/2021/04/09/2021-07320/advisory-board-of-exceptional-children
+  captured: '2025-02-02'

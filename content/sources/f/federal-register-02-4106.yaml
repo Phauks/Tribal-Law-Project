@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 7985, published 2002-02-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206065641/https://www.federalregister.gov/documents/2002/02/21/02-4106/trust-management-reform-repeal-of-outdated-rules
+  captured: '2025-02-06'

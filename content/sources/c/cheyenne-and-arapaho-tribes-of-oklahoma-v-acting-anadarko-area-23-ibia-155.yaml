@@ -59,3 +59,7 @@ review:
   - check: decided
     result: agree
     detail: index 1993-01-13; decision 1993-01-13; cover sheet not found
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325011326/https://www.oha.doi.gov/IBIA/IbiaDecisions/23ibia/23ibia155.PDF
+  captured: '2026-03-25'

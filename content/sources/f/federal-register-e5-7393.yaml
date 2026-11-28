@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 74325, published 2005-12-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206003619/https://www.federalregister.gov/documents/2005/12/15/E5-7393/tribal-self-governance-program-negotiation-cooperative-agreement-new-funding-cycle-for-fiscal-year
+  captured: '2025-02-06'

@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 27799, published 2019-06-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217212346/https://www.federalregister.gov/documents/2019/06/14/2019-12590/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-effigy-mounds
+  captured: '2025-02-17'

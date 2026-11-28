@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 15263, published 2022-03-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250517063336/https://www.federalregister.gov/documents/2022/03/17/2022-05627/notice-of-inventory-completion-diablo-valley-college-pleasant-hill-ca
+  captured: '2025-05-17'

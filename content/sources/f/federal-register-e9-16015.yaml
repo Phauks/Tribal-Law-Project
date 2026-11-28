@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 32189, published 2009-07-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204223140/https://www.federalregister.gov/documents/2009/07/07/E9-16015/notice-of-inventory-completion-oregon-state-university-department-of-anthropology-corvallis-or
+  captured: '2025-02-04'

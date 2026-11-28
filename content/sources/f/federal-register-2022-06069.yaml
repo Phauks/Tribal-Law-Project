@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 16480, published 2022-03-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250517051308/https://www.federalregister.gov/documents/2022/03/23/2022-06069/receipt-of-documented-petition-for-federal-acknowledgment-as-an-american-indian-tribe
+  captured: '2025-05-17'

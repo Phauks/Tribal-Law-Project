@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 53022, published 1997-10-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219134729/https://www.federalregister.gov/documents/1997/10/10/97-26871/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-peabody-essex-museum-salem-ma
+  captured: '2025-02-19'

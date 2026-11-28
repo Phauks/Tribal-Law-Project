@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-08-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208060820/https://www.federalregister.gov/documents/1994/08/19/94-20378/notice-of-availability-of-a-final-environmental-impact-statement-for-renovation-of-crow-creek-dam-on
+  captured: '2025-02-08'

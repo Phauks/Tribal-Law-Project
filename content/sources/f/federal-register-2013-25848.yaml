@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 65589, published 2013-11-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204110931/https://www.federalregister.gov/documents/2013/11/01/2013-25848/leasing-of-osage-reservation-lands-for-oil-and-gas-mining
+  captured: '2025-02-04'

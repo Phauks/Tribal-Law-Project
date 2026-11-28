@@ -91,3 +91,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 19701, published 2022-04-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220405093507/https://www.federalregister.gov/documents/2022/04/05/2022-07171/notice-of-inventory-completion-nebraska-state-historical-society-dba-history-nebraska-lincoln-ne
+  captured: '2022-04-05'

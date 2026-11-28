@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 12895, published 2009-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210430222727/https://www.federalregister.gov/documents/2009/03/25/E9-6508/notice-of-inventory-completion-department-of-anthropology-university-of-massachusetts-amherst-ma
+  captured: '2021-04-30'

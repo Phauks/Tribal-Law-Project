@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 39117, published 2018-08-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208021907/https://www.federalregister.gov/documents/2018/08/08/2018-16922/notice-of-inventory-completion-binghamton-university-state-university-of-new-york-binghamton-ny
+  captured: '2025-02-08'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 7994, published 2006-02-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208231817/https://www.federalregister.gov/documents/2006/02/15/06-1437/notice-of-acceptance-of-retrocession-of-jurisdiction-for-the-santee-sioux-nation-ne
+  captured: '2025-02-08'

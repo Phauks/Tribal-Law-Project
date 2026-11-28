@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 1991-08-13; cover sheet 1991-08-13; decision 1991-08-13
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325011637/https://www.oha.doi.gov/IBIA/Ibiadecisions/20ibia/20ibia168.pdf
+  captured: '2026-03-25'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 14460, published 2025-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250725035111/https://www.federalregister.gov/documents/2025/04/02/2025-05598/notice-of-intended-repatriation-santa-barbara-museum-of-natural-history-santa-barbara-ca
+  captured: '2025-07-25'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 16482, published 2001-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209024704/https://www.federalregister.gov/documents/2001/03/26/01-7357/paskenta-band-of-nomlaki-indians-liquor-control-ordinance
+  captured: '2025-02-09'

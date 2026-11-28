@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 19518, published 2025-05-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611174822/https://www.federalregister.gov/documents/2025/05/08/2025-08033/notice-of-inventory-completion-california-state-university-sacramento-sacramento-ca-and-east-bay
+  captured: '2025-06-11'

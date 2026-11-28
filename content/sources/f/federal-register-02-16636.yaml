@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 44355, published 2002-07-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202061158/https://www.federalregister.gov/documents/2002/07/02/02-16636/distribution-of-fiscal-year-2002-indian-reservation-roads-funds
+  captured: '2025-02-02'

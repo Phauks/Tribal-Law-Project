@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://law.lis.virginia.gov/vacode/title38.2/chapter65/section38.2-6505/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260416012928/https://law.lis.virginia.gov/vacode/title38.2/chapter65/section38.2-6505/
+  captured: '2026-04-16'
 history:
   status: live
   last_checked: '2026-11-27'

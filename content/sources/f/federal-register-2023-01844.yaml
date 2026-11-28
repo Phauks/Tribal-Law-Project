@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 5913, published 2023-01-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202142941/https://www.federalregister.gov/documents/2023/01/30/2023-01844/notice-of-inventory-completion-vassar-college-poughkeepsie-ny
+  captured: '2025-02-02'

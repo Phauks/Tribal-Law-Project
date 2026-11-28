@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 53085, published 2004-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214132707/https://www.federalregister.gov/documents/2004/08/31/04-19800/notice-of-service-area-designation
+  captured: '2025-02-14'

@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 91195, published 2016-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204110023/https://www.federalregister.gov/documents/2016/12/16/2016-30339/notice-of-inventory-completion-office-of-the-state-archaeologist-university-of-iowa-iowa-city-ia
+  captured: '2025-02-04'

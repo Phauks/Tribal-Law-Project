@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 37785, published 2007-07-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210508100629/https://www.federalregister.gov/documents/2007/07/11/07-3359/office-of-urban-indian-health-programs-announcement-type-competitive-supplemental-grant-announcement
+  captured: '2021-05-08'

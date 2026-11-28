@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 810, published 2016-01-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210511205156/https://www.federalregister.gov/documents/2016/01/07/2016-00074/notice-of-inventory-completion-state-historical-society-of-north-dakota-bismarck-nd
+  captured: '2021-05-11'

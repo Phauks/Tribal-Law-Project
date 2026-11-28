@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 102946, published 2024-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524193755/https://www.federalregister.gov/documents/2024/12/18/2024-29942/notice-of-intended-repatriation-history-colorado-formerly-the-colorado-historical-society-denver-co
+  captured: '2025-05-24'

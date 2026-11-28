@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gsg&section=9-4111&enactments=false
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260521085432/https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gsg&section=9-4111&enactments=false
+  captured: '2026-05-21'
 history:
   status: live
   last_checked: '2026-11-27'

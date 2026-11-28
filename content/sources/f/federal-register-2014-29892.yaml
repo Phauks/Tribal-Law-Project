@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 76368, published 2014-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260813095335/https://www.federalregister.gov/documents/2014/12/22/2014-29892/notice-of-intent-to-repatriate-cultural-items-southern-oregon-historical-society-medford-or
+  captured: '2026-08-13'

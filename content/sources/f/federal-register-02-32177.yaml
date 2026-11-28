@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 78247, published 2002-12-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251222073723/https://www.federalregister.gov/documents/2002/12/23/02-32177/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-12-22'

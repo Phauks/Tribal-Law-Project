@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 63850, published 2012-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205124729/https://www.federalregister.gov/documents/2012/10/17/2012-25477/rate-adjustments-for-indian-irrigation-projects
+  captured: '2025-02-05'

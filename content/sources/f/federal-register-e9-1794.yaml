@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 4963, published 2009-01-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219055417/https://www.federalregister.gov/documents/2009/01/28/E9-1794/request-for-public-comment-60-day-proposed-information-collection-indian-health-service-directors
+  captured: '2025-02-19'

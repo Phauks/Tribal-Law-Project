@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 19873, published 2024-03-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260317121458/https://www.federalregister.gov/documents/2024/03/20/2024-05852/notice-of-intended-disposition-the-united-states-army-garrison-hawaii-phakuloa-training-area-hilo-hi
+  captured: '2026-03-17'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 48666, published 2007-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217165025/https://www.federalregister.gov/documents/2007/08/24/E7-16781/notice-of-inventory-completion-alaska-state-office-of-history-and-archaeology-anchorage-ak-and
+  captured: '2025-02-17'

@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35930, published 2025-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825232426/https://www.federalregister.gov/documents/2025/07/30/2025-14364/notice-of-intended-repatriation-autry-museum-of-the-american-west-los-angeles-ca
+  captured: '2025-08-25'

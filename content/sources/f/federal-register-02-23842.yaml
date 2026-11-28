@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 59074, published 2002-09-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215062319/https://www.federalregister.gov/documents/2002/09/19/02-23842/notice-of-intent-to-prepare-a-programmatic-environmental-impact-statement-for-the-coeur-dalene
+  captured: '2025-02-15'

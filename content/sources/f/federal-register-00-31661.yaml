@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 77909, published 2000-12-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203041259/https://www.federalregister.gov/documents/2000/12/13/00-31661/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-03'

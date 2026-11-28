@@ -86,3 +86,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 106566, published 2024-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524185614/https://www.federalregister.gov/documents/2024/12/30/2024-31287/notice-of-intended-disposition-us-department-of-agriculture-forest-service-carson-national-forest
+  captured: '2025-05-24'

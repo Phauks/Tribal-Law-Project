@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2018/11/06/2018-24363/national-native-american-heritage-month-2018'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202003738/https://www.federalregister.gov/documents/2018/11/06/2018-24363/national-native-american-heritage-month-2018
+  captured: '2025-02-02'

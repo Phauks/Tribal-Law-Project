@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 23572, published 2015-04-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208164427/https://www.federalregister.gov/documents/2015/04/28/2015-09899/notice-of-intent-to-repatriate-cultural-items-beneski-museum-of-natural-history-amherst-college
+  captured: '2025-02-08'

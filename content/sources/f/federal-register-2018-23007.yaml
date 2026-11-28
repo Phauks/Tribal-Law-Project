@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 53290, published 2018-10-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210506053939/https://www.federalregister.gov/documents/2018/10/22/2018-23007/agency-information-collection-activities-homeliving-programs-and-school-closure-and-consolidation
+  captured: '2021-05-06'

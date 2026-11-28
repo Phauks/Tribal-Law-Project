@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 3627, published 2025-01-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250622030243/https://www.federalregister.gov/documents/2025/01/15/2025-00709/federal-acknowledgment-of-american-indian-tribes
+  captured: '2025-06-22'

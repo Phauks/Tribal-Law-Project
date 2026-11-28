@@ -21,7 +21,10 @@ citation:
       - 27
 original_link: https://legislature.maine.gov/statutes/37-B/title37-Bsec747.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260423004111/https://legislature.maine.gov/statutes/37-B/title37-Bsec747.html
+  captured: '2026-04-23'
 history:
   status: live
   last_checked: '2026-11-27'

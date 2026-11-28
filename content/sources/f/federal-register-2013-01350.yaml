@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 5199, published 2013-01-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260813054957/https://www.federalregister.gov/documents/2013/01/24/2013-01350/notice-of-inventory-completion-arkansas-state-university-museum-jonesboro-ar
+  captured: '2026-08-13'

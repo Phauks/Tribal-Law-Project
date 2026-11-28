@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 58290, published 2025-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251225045634/https://www.federalregister.gov/documents/2025/12/16/2025-22923/notice-of-inventory-completion-university-of-alabama-museums-tuscaloosa-al
+  captured: '2025-12-25'

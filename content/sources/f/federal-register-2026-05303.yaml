@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 13062, published 2026-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260318083023/https://www.federalregister.gov/documents/2026/03/18/2026-05303/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-hawaii-volcanoes
+  captured: '2026-03-18'

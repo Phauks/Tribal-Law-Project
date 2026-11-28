@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 77886, published 2022-12-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204043717/https://www.federalregister.gov/documents/2022/12/20/2022-27526/notice-of-inventory-completion-amendment-museum-of-us-san-diego-ca
+  captured: '2025-02-04'

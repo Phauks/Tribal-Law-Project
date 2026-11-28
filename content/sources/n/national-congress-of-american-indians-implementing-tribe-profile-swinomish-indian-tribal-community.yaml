@@ -14,7 +14,10 @@ citation:
       - 21
 original_link: https://archive.ncai.org/tribal-vawa/sdvcj-today/swinomish-indian-tribal-community
 retrieved: '2026-11-21'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127174932/https://archive.ncai.org/tribal-vawa/sdvcj-today/swinomish-indian-tribal-community
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-21'

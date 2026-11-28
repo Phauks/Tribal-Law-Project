@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 60897, published 2021-11-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260712174906/https://www.federalregister.gov/documents/2021/11/04/2021-24092/hearth-act-approval-of-sycuan-band-of-the-kumeyaay-nation-business-leasing-regulations
+  captured: '2026-07-12'

@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-134/STATUTE-134-Pg760
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807035331/https://www.govinfo.gov/app/details/STATUTE-134/STATUTE-134-Pg760
+  captured: '2026-08-07'
 file:
   storage_key: govinfo/STATUTE-134/STATUTE-134-Pg760.pdf
   checksum: a0e1107ffc9f954186d8ebca90e0581e022c83840e37013e886c143b5b541d4e

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 5368, published 2006-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215233837/https://www.federalregister.gov/documents/2006/02/01/E6-1274/notice-of-inventory-completion-san-francisco-state-university-san-francisco-ca
+  captured: '2025-02-15'

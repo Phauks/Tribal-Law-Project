@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 18694, published 2025-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250501124304/https://www.federalregister.gov/documents/2025/05/01/2025-07503/notice-of-intended-repatriation-san-diego-state-university-san-diego-ca
+  captured: '2025-05-01'

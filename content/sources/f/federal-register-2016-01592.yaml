@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 4662, published 2016-01-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260826010234/https://www.federalregister.gov/documents/2016/01/27/2016-01592/notice-of-inventory-completion-fowler-museum-at-the-university-of-california-los-angeles-los-angeles
+  captured: '2026-08-26'

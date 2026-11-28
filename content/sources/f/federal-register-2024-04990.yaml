@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 16790, published 2024-03-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524192726/https://www.federalregister.gov/documents/2024/03/08/2024-04990/notice-of-inventory-completion-california-state-department-of-transportation-sacramento-ca
+  captured: '2025-05-24'

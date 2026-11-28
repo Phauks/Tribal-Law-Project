@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 35907, published 2023-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209033926/https://www.federalregister.gov/documents/2023/06/01/2023-11690/notice-of-intent-to-repatriate-cultural-items-american-museum-of-natural-history-new-york-ny
+  captured: '2025-02-09'

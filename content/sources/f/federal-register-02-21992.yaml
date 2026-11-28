@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 55422, published 2002-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215065926/https://www.federalregister.gov/documents/2002/08/29/02-21992/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-hood-museum-of-art-dartmouth
+  captured: '2025-02-15'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 13299, published 2018-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206013643/https://www.federalregister.gov/documents/2018/03/28/2018-06228/hearth-act-approval-of-coquille-indian-tribe-ordinance
+  captured: '2025-02-06'

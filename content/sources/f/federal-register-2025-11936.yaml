@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 27667, published 2025-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250709054749/https://www.federalregister.gov/documents/2025/06/27/2025-11936/notice-of-intended-repatriation-california-state-polytechnic-university-humboldt-arcata-ca
+  captured: '2025-07-09'

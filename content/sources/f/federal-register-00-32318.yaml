@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 79417, published 2000-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207191927/https://www.federalregister.gov/documents/2000/12/19/00-32318/liquor-ordinance-of-the-jamul-indian-village-jamul-california
+  captured: '2025-02-07'

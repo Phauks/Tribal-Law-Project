@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 71816, published 1999-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250419224207/https://www.federalregister.gov/documents/1999/12/22/99-33118/proposed-final-base-membership-roll-of-the-catawba-indian-nation-formerly-known-as-the-catawba-tribe
+  captured: '2025-04-19'

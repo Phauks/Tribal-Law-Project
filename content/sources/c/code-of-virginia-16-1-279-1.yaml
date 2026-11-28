@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://law.lis.virginia.gov/vacode/title16.1/chapter11/section16.1-279.1/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260519042430/https://law.lis.virginia.gov/vacode/title16.1/chapter11/section16.1-279.1/
+  captured: '2026-05-19'
 history:
   status: live
   last_checked: '2026-11-27'

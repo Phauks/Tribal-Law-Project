@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 19234, published 2004-04-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205013527/https://www.federalregister.gov/documents/2004/04/12/04-8172/notice-of-inventory-completion-us-department-of-agriculture-forest-service-cleveland-national-forest
+  captured: '2025-02-05'

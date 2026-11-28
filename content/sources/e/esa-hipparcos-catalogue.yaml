@@ -13,6 +13,10 @@ citation:
     date-parts: [[2026, 11, 27]]
 original_link: https://heasarc.gsfc.nasa.gov/FTP/heasarc/dbase/tdat_files/heasarc_hipparcos.tdat.gz
 retrieved: 2026-11-27
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260107075951/https://heasarc.gsfc.nasa.gov/FTP/heasarc/dbase/tdat_files/heasarc_hipparcos.tdat.gz
+  captured: '2026-01-07'
 history:
   status: live
   last_checked: 2026-11-27

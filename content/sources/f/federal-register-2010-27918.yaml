@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 68000, published 2010-11-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208195746/https://www.federalregister.gov/documents/2010/11/04/2010-27918/notice-of-inventory-completion-us-department-of-agriculture-forest-service-hiawatha-national-forest
+  captured: '2025-02-08'

@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-108/STATUTE-108-Pg1560
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260806215943/https://www.govinfo.gov/app/details/STATUTE-108/STATUTE-108-Pg1560
+  captured: '2026-08-06'
 file:
   storage_key: govinfo/STATUTE-108/STATUTE-108-Pg1560.pdf
   checksum: 0137901bd927b0fdcdfa853539244c4b48a2152db1fdc998a823956348241ff1

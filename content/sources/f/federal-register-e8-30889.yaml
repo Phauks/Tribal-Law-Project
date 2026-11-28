@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 79909, published 2008-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204202642/https://www.federalregister.gov/documents/2008/12/30/E8-30889/notice-of-inventory-completion-university-of-oregon-oregon-state-museum-of-anthropology-eugene-or
+  captured: '2025-02-04'

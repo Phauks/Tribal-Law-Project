@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 29939, published 2023-05-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204224950/https://www.federalregister.gov/documents/2023/05/09/2023-09766/notice-of-inventory-completion-maine-state-museum-augusta-me
+  captured: '2025-02-04'

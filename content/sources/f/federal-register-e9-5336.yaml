@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 10758, published 2009-03-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214172625/https://www.federalregister.gov/documents/2009/03/12/E9-5336/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-14'

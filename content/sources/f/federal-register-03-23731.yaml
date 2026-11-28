@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 54464, published 2003-09-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208220310/https://www.federalregister.gov/documents/2003/09/17/03-23731/reimbursement-rates-for-calendar-year-2003
+  captured: '2025-02-08'

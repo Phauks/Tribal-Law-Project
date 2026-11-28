@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 18649, published 1997-04-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250224055620/https://www.federalregister.gov/documents/1997/04/16/97-9835/notice-of-intent-to-repatriate-cultural-items-from-arizona-in-the-possession-of-the-laboratory-of
+  captured: '2025-02-24'

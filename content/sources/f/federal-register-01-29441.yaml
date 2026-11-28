@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 59259, published 2001-11-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204203816/https://www.federalregister.gov/documents/2001/11/27/01-29441/agency-information-collection-comment-request
+  captured: '2025-02-04'

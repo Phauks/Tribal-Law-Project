@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 27185, published 2015-05-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213161102/https://www.federalregister.gov/documents/2015/05/12/2015-11444/american-indian-education-study-group
+  captured: '2025-02-13'

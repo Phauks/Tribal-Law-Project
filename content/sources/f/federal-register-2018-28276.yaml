@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 67341, published 2018-12-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203164010/https://www.federalregister.gov/documents/2018/12/28/2018-28276/native-american-graves-protection-and-repatriation-review-committee-notice-of-public-meeting
+  captured: '2025-02-03'

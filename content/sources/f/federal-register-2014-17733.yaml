@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 43773, published 2014-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203225942/https://www.federalregister.gov/documents/2014/07/28/2014-17733/notice-of-inventory-completion-the-wistar-institute-philadelphia-pa-and-university-of-pennsylvania
+  captured: '2025-02-03'

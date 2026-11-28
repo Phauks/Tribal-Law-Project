@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 47597, published 2024-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524172905/https://www.federalregister.gov/documents/2024/06/03/2024-12069/notice-of-inventory-completion-auburn-university-auburn-al
+  captured: '2025-05-24'

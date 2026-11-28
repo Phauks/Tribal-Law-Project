@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 1999-05-18; cover sheet 1999-05-18; decision 1999-05-18
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260405182734/https://www.oha.doi.gov/IBIA/IbiaDecisions/33ibia/33ibia283.PDF
+  captured: '2026-04-05'

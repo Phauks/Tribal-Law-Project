@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 17486, published 2015-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251205001029/https://www.federalregister.gov/documents/2015/04/01/2015-07412/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-tuzigoot-national
+  captured: '2025-12-05'

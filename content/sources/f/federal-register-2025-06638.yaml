@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 16543, published 2025-04-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812172733/https://www.federalregister.gov/documents/2025/04/18/2025-06638/notice-of-intended-repatriation-turtle-bay-exploration-park-redding-ca
+  captured: '2026-08-12'

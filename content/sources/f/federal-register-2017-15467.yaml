@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 34331, published 2017-07-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250710124627/https://www.federalregister.gov/documents/2017/07/24/2017-15467/notice-of-intent-to-repatriate-cultural-items-the-museum-of-anthropology-at-washington-state
+  captured: '2025-07-10'

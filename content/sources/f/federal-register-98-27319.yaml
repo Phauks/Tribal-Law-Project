@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 54727, published 1998-10-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213113321/https://www.federalregister.gov/documents/1998/10/13/98-27319/notice-of-intent-to-repatriate-cultural-items-from-oregon-in-the-possession-of-the-museum-of-indian
+  captured: '2025-02-13'

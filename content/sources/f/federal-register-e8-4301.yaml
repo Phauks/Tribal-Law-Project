@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 12808, published 2008-03-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260514070925/https://www.federalregister.gov/documents/2008/03/10/E8-4301/tribal-energy-resource-agreements-under-the-indian-tribal-energy-development-and-self-determination
+  captured: '2026-05-14'

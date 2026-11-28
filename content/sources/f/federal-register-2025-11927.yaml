@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 27666, published 2025-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250709235843/https://www.federalregister.gov/documents/2025/06/27/2025-11927/notice-of-inventory-completion-university-of-illinois-urbana-champaign-champaign-il
+  captured: '2025-07-09'

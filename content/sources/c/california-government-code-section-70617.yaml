@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=70617.
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260507044241/https://www.leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=70617.&lawCode=GOV
+  captured: '2026-05-07'
 history:
   status: live
   last_checked: '2026-11-27'

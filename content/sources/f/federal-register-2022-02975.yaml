@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 8036, published 2022-02-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207162518/https://www.federalregister.gov/documents/2022/02/11/2022-02975/notice-of-inventory-completion-sam-noble-oklahoma-museum-of-natural-history-university-of-oklahoma
+  captured: '2025-02-07'

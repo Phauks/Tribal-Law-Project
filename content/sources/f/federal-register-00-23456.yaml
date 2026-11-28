@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 55471, published 2000-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209002735/https://www.federalregister.gov/documents/2000/09/14/00-23456/gaming-on-trust-lands-acquired-after-october-17-1988
+  captured: '2025-02-09'

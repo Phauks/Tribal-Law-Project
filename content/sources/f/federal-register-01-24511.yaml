@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 49966, published 2001-10-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205013747/https://www.federalregister.gov/documents/2001/10/01/01-24511/final-determination-against-federal-acknowledgment-of-the-duwamish-tribal-organization
+  captured: '2025-02-05'

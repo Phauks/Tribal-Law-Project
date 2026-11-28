@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 21881, published 2020-04-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201210218/https://www.federalregister.gov/documents/2020/04/20/2020-08320/notice-of-inventory-completion-robert-s-peabody-institute-of-archaeology-andover-ma
+  captured: '2025-02-01'

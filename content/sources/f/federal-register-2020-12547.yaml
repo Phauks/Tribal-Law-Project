@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 35439, published 2020-06-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202115420/https://www.federalregister.gov/documents/2020/06/10/2020-12547/notice-of-intent-to-repatriate-cultural-items-minnesota-museum-of-american-art-st-paul-mn
+  captured: '2025-02-02'

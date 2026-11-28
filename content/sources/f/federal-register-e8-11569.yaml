@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 30156, published 2008-05-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204172848/https://www.federalregister.gov/documents/2008/05/23/E8-11569/notice-of-inventory-completion-san-francisco-state-university-department-of-anthropology-san
+  captured: '2025-02-04'

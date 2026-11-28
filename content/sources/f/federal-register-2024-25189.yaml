@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 86356, published 2024-10-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611191850/https://www.federalregister.gov/documents/2024/10/30/2024-25189/notice-of-proposed-transfer-or-reinterment-wesleyan-university-archaeology-and-anthropology
+  captured: '2025-06-11'

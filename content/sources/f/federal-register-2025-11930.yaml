@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 27672, published 2025-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250709131156/https://www.federalregister.gov/documents/2025/06/27/2025-11930/notice-of-inventory-completion-university-of-colorado-denver-denver-co
+  captured: '2025-07-09'

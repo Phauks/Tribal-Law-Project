@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 73688, published 2022-12-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204124003/https://www.federalregister.gov/documents/2022/12/01/2022-25627/appeals-from-administrative-actions
+  captured: '2025-02-04'

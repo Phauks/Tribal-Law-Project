@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 10547, published 2012-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207021326/https://www.federalregister.gov/documents/2012/02/22/2012-4052/kickapoo-traditional-tribe-of-texas-first-amended-beer-and-liquor-tax-ordinance
+  captured: '2025-02-07'

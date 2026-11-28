@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 22419, published 2010-04-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208201638/https://www.federalregister.gov/documents/2010/04/28/2010-9802/liquor-control-ordinance-of-the-prairie-band-potawatomi-nation
+  captured: '2025-02-08'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 42106, published 2009-08-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212101244/https://www.federalregister.gov/documents/2009/08/20/E9-19975/notice-of-inventory-completion-new-york-university-college-of-dentistry-new-york-ny
+  captured: '2025-02-12'

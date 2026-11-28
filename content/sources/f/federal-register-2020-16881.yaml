@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 47235, published 2020-08-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202191030/https://www.federalregister.gov/documents/2020/08/04/2020-16881/rate-adjustments-for-indian-irrigation-projects
+  captured: '2025-02-02'

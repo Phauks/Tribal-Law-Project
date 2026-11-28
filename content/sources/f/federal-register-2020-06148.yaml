@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 17009, published 2020-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250614001328/https://www.federalregister.gov/documents/2020/03/26/2020-06148/standards-assessments-and-accountability-system
+  captured: '2025-06-14'

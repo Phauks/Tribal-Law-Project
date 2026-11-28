@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 45660, published 2010-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204152616/https://www.federalregister.gov/documents/2010/08/03/2010-18991/notice-of-inventory-completion-tennessee-department-of-environment-and-conservation-division-of
+  captured: '2025-02-04'

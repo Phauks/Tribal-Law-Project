@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 58406, published 2024-07-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204212706/https://www.federalregister.gov/documents/2024/07/18/2024-15836/notice-of-intended-repatriation-folsom-history-folsom-ca
+  captured: '2025-02-04'

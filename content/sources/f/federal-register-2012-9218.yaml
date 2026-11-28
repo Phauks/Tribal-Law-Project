@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 22799, published 2012-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210403045708/https://www.federalregister.gov/documents/2012/04/17/2012-9218/tribal-consultation-sessions-administrative-organizational-assessment-draft-report-organizational
+  captured: '2021-04-03'

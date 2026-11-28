@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH36/SECT39-3625
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260313144216/https://legislature.idaho.gov/statutesrules/idstat/title39/t39ch36/sect39-3625/
+  captured: '2026-03-13'
 history:
   status: live
   last_checked: '2026-11-27'

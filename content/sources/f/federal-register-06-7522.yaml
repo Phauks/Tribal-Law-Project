@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 53106, published 2006-09-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210413032840/https://www.federalregister.gov/documents/2006/09/08/06-7522/request-for-public-comment-30-day-proposed-information-collection-indian-health-service-medical
+  captured: '2021-04-13'

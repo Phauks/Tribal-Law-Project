@@ -98,3 +98,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 34124, published 2013-06-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260712220022/https://www.federalregister.gov/documents/2013/06/06/2013-13468/notice-of-inventory-completion-michigan-department-of-transportation-van-wagoner-building-lansing-mi
+  captured: '2026-07-12'

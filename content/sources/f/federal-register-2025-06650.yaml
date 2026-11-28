@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 16544, published 2025-04-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601033844/https://www.federalregister.gov/documents/2025/04/18/2025-06650/notice-of-intended-disposition-us-department-of-the-interior-fish-and-wildlife-service-stillwater
+  captured: '2025-06-01'

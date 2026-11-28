@@ -170,3 +170,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 9599, published 2011-02-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208130058/https://www.federalregister.gov/documents/2011/02/18/2011-3757/notice-of-inventory-completion-denver-museum-of-nature-and-science-denver-co
+  captured: '2025-02-08'

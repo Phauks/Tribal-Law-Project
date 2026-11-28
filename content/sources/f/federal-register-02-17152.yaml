@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 46134, published 2002-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250311193052/https://www.federalregister.gov/documents/2002/07/12/02-17152/classification-of-games
+  captured: '2025-03-11'

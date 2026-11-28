@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 1804, published 2026-01-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260115104450/https://www.federalregister.gov/documents/2026/01/15/2026-00664/notice-of-intended-repatriation-tennessee-department-of-environment-and-conservation-division-of
+  captured: '2026-01-15'

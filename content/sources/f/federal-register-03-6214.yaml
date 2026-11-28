@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 12373, published 2003-03-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208221145/https://www.federalregister.gov/documents/2003/03/14/03-6214/notice-of-inventory-completion-us-department-of-justice-united-states-marshals-service-western
+  captured: '2025-02-08'

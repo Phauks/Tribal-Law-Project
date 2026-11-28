@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 68953, published 2003-12-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206145439/https://www.federalregister.gov/documents/2003/12/10/03-30565/notice-of-intent-to-repatriate-cultural-items-washington-state-university-museum-of-anthropology
+  captured: '2025-02-06'

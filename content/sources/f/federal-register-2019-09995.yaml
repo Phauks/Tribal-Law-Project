@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 21806, published 2019-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206193233/https://www.federalregister.gov/documents/2019/05/15/2019-09995/notice-of-intent-to-repatriate-cultural-items-pueblo-grande-museum-phoenix-az
+  captured: '2025-02-06'

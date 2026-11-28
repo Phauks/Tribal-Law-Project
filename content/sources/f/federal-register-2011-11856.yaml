@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 28068, published 2011-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201231309/https://www.federalregister.gov/documents/2011/05/13/2011-11856/notice-of-intent-to-repatriate-cultural-items-museum-of-anthropology-university-of-michigan-ann
+  captured: '2025-02-01'

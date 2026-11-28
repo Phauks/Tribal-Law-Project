@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 103858, published 2024-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250529080935/https://www.federalregister.gov/documents/2024/12/19/2024-30252/fiscal-year-2024-list-of-programs-eligible-for-inclusion-in-funding-agreements-negotiated-with
+  captured: '2025-05-29'

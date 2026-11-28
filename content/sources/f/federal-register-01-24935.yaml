@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 50679, published 2001-10-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218090015/https://www.federalregister.gov/documents/2001/10/04/01-24935/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-williamson-museum
+  captured: '2025-02-18'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 40847, published 2025-08-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260722203818/https://www.federalregister.gov/documents/2025/08/21/2025-15969/notice-of-intended-repatriation-university-of-california-santa-barbara-repository-for-archaeological
+  captured: '2026-07-22'

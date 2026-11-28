@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 54234, published 2025-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251201163914/https://www.federalregister.gov/documents/2025/11/26/2025-21347/facility-license-notifications-withdrawal
+  captured: '2025-12-01'

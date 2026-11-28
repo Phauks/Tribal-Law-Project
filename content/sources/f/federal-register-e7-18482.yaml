@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 53601, published 2007-09-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218110441/https://www.federalregister.gov/documents/2007/09/19/E7-18482/notice-of-inventory-completion-slater-museum-of-natural-history-university-of-puget-sound-tacoma-wa
+  captured: '2025-02-18'

@@ -80,3 +80,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 49485, published 2008-08-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211233424/https://www.federalregister.gov/documents/2008/08/21/E8-19319/notice-of-inventory-completion-us-department-of-agriculture-san-juan-national-forest-durango-co-and
+  captured: '2025-02-11'

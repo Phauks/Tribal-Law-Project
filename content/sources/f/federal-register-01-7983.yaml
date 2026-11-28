@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 17573, published 2001-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210505054944/https://www.federalregister.gov/documents/2001/04/02/01-7983/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-university-of-pennsylvania
+  captured: '2021-05-05'

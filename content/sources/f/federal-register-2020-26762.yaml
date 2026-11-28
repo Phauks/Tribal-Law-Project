@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 78358, published 2020-12-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210323170126/https://www.federalregister.gov/documents/2020/12/04/2020-26762/notice-of-intent-to-repatriate-cultural-items-cleveland-museum-of-natural-history-cleveland-oh
+  captured: '2021-03-23'

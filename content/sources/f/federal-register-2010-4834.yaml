@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 10496, published 2010-03-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210331164531/https://www.federalregister.gov/documents/2010/03/08/2010-4834/tribal-self-governance-program-planning-cooperative-agreement-announcement-type-new-funding
+  captured: '2021-03-31'

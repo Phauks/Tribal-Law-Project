@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 75658, published 2022-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250413083722/https://www.federalregister.gov/documents/2022/12/09/2022-26795/notice-of-intent-to-repatriate-cultural-items-university-of-georgia-laboratory-of-archaeology-athens
+  captured: '2025-04-13'

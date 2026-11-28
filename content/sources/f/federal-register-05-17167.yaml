@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 51363, published 2005-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208135009/https://www.federalregister.gov/documents/2005/08/30/05-17167/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-confederated-tribes-of-the
+  captured: '2025-02-08'

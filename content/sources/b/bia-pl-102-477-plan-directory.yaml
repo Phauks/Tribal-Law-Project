@@ -14,7 +14,10 @@ citation:
       - 26
 original_link: https://biamaps.geoplatform.gov/server/rest/services/Hosted/PL102_477_Contracts/FeatureServer/0
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127003207/https://biamaps.geoplatform.gov/server/rest/services/Hosted/PL102_477_Contracts/FeatureServer/0
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

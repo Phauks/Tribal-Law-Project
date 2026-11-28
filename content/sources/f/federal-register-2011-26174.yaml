@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 62838, published 2011-10-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209032955/https://www.federalregister.gov/documents/2011/10/11/2011-26174/notice-of-inventory-completion-the-university-of-toledo-toledo-oh
+  captured: '2025-02-09'

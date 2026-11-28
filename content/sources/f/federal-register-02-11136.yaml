@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 30399, published 2002-05-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217170024/https://www.federalregister.gov/documents/2002/05/06/02-11136/native-american-graves-protection-and-repatriation-review-committee-nomination-solicitation
+  captured: '2025-02-17'

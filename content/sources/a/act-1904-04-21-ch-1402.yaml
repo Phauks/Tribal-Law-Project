@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-33/STATUTE-33-Pg189
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127072338/https://www.govinfo.gov/app/details/STATUTE-33/STATUTE-33-Pg189
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-33/STATUTE-33-Pg189.pdf
   checksum: 2efc1db250f9e27f25972c352f530aeae1c578e4b605008c923437b67c440c08

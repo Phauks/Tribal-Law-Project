@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 4278, published 2002-01-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204015758/https://www.federalregister.gov/documents/2002/01/29/02-1916/alternate-agency-mail-sites-for-submission-of-comments
+  captured: '2025-02-04'

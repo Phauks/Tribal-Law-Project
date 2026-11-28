@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 92973, published 2024-11-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525170039/https://www.federalregister.gov/documents/2024/11/25/2024-27516/notice-of-inventory-completion-autry-museum-of-the-american-west-los-angeles-ca
+  captured: '2025-05-25'

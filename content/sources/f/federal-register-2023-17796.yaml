@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 56659, published 2023-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611183525/https://www.federalregister.gov/documents/2023/08/18/2023-17796/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-fish-and-wildlife
+  captured: '2025-06-11'

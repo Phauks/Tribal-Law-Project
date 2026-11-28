@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 37651, published 2015-07-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251206215140/https://www.federalregister.gov/documents/2015/07/01/2015-16196/land-acquisition-ho-chunk-nation-of-wisconsin
+  captured: '2025-12-06'

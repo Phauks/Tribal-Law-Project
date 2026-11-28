@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 28074, published 2011-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203235307/https://www.federalregister.gov/documents/2011/05/13/2011-11827/notice-of-inventory-completion-utah-museum-of-natural-history-salt-lake-city-ut
+  captured: '2025-02-03'

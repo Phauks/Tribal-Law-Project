@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 1974-03-26; decision 1974-03-26; cover sheet not found
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325011024/https://www.oha.doi.gov/IBIA/IbiaDecisions/02ibia/02ibia214.PDF
+  captured: '2026-03-25'

@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH58/SECT19-5801
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260311074048/https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH58/SECT19-5801/
+  captured: '2026-03-11'
 history:
   status: live
   last_checked: '2026-11-27'

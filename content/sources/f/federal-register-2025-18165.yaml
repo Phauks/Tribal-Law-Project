@@ -113,3 +113,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 45244, published 2025-09-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250919110207/https://www.federalregister.gov/documents/2025/09/19/2025-18165/notice-of-inventory-completion-mercyhurst-university-erie-pa
+  captured: '2025-09-19'

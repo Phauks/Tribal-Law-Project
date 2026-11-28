@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 15122, published 2012-03-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209042343/https://www.federalregister.gov/documents/2012/03/14/2012-6129/te-moak-tribe-of-western-shoshone--ordinance-pursuant-to-united-states-code-legalizing-and
+  captured: '2025-02-09'

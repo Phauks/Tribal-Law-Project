@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 54607, published 2012-09-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208062433/https://www.federalregister.gov/documents/2012/09/05/2012-21825/proclaiming-certain-lands-dafter-parcel-as-an-addition-to-the-bay-mills-indian-reservation-for-the
+  captured: '2025-02-08'

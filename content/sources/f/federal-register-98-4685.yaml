@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 9255, published 1998-02-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209040101/https://www.federalregister.gov/documents/1998/02/24/98-4685/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-desert-caballeros-western
+  captured: '2025-02-09'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CPRT-87HPRT69719O'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260804213852/https://www.govinfo.gov/app/details/CPRT-87HPRT69719O/
+  captured: '2026-08-04'

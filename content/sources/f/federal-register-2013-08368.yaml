@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 21412, published 2013-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204223707/https://www.federalregister.gov/documents/2013/04/10/2013-08368/notice-of-intent-to-repatriate-a-cultural-item-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-04'

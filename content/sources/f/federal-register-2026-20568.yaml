@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 64393, published 2026-10-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261008103114/https://www.federalregister.gov/documents/2026/10/08/2026-20568/notice-of-intended-disposition-us-army-corps-of-engineers-omaha-district-pierre-sd
+  captured: '2026-10-08'

@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 15800, published 2012-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205040047/https://www.federalregister.gov/documents/2012/03/16/2012-6323/notice-of-inventory-completion-us-fish-and-wildlife-service-southwest-regional-office-albuquerque-nm
+  captured: '2025-02-05'

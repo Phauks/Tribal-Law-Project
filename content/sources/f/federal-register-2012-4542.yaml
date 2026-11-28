@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 11571, published 2012-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260715225758/https://www.federalregister.gov/documents/2012/02/27/2012-4542/notice-of-intent-to-repatriate-cultural-items-fowler-museum-at-ucla-los-angeles-ca
+  captured: '2026-07-15'

@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CPRT-115HPRT28122'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260805063244/https://www.govinfo.gov/app/details/CPRT-115HPRT28122/
+  captured: '2026-08-05'

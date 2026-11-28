@@ -92,3 +92,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 42770, published 2010-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217131306/https://www.federalregister.gov/documents/2010/07/22/2010-17874/notice-of-inventory-completion-denver-museum-of-nature-and-science-denver-co
+  captured: '2025-02-17'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 35070, published 2010-06-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203171653/https://www.federalregister.gov/documents/2010/06/21/2010-14880/american-indians-into-medicine-notice-of-competitive-grant-applications-for-american-indians-into
+  captured: '2025-02-03'

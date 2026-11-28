@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 96675, published 2024-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524162106/https://www.federalregister.gov/documents/2024/12/05/2024-28490/notice-of-intended-repatriation-amendment-new-york-state-museum-albany-ny
+  captured: '2025-05-24'

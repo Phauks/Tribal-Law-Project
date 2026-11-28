@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 13362, published 2024-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250516104846/https://www.federalregister.gov/documents/2024/02/22/2024-03573/notice-of-inventory-completion-us-department-of-the-interior-fish-and-wildlife-service-klamath-falls
+  captured: '2025-05-16'

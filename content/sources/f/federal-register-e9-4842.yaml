@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 10066, published 2009-03-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20190219124049/https://www.federalregister.gov/documents/2009/03/09/E9-4842/notice-of-intent-to-repatriate-cultural-items-american-museum-of-natural-history-new-york-ny
+  captured: '2019-02-19'

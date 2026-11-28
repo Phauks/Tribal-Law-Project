@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 72791, published 2023-10-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204105222/https://www.federalregister.gov/documents/2023/10/23/2023-23278/notice-of-inventory-completion-field-museum-chicago-il
+  captured: '2025-02-04'

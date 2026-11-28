@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 77369, published 2015-12-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202230626/https://www.federalregister.gov/documents/2015/12/14/2015-31313/enterprise-rancheria-of-maidu-indians-of-california-liquor-control-statute
+  captured: '2025-02-02'

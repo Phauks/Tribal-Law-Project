@@ -51,3 +51,7 @@ review:
   - check: listing
     result: missing
     detail: Only EPA's pages were read, not the standards themselves
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260216175603/https://www.epa.gov/system/files/documents/2022-04/southern-ute-wqs.pdf
+  captured: '2026-02-16'

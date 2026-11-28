@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 13364, published 2024-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250517060642/https://www.federalregister.gov/documents/2024/02/22/2024-03580/notice-of-intent-to-repatriate-cultural-items-santa-rosa-junior-college-multicultural-museum-santa
+  captured: '2025-05-17'

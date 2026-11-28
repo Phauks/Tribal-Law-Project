@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 76362, published 2014-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220227021038/https://www.federalregister.gov/documents/2014/12/22/2014-29896/notice-of-inventory-completion-university-of-massachusetts-amherst-department-of-anthropology
+  captured: '2022-02-27'

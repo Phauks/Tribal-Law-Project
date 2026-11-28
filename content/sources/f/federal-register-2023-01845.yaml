@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 5910, published 2023-01-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414173600/https://www.federalregister.gov/documents/2023/01/30/2023-01845/notice-of-inventory-completion-william-s-webb-museum-of-anthropology-university-of-kentucky
+  captured: '2025-04-14'

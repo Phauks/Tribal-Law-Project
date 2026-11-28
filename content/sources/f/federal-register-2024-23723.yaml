@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 83044, published 2024-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205001458/https://www.federalregister.gov/documents/2024/10/15/2024-23723/notice-of-intended-repatriation-american-museum-of-natural-history-new-york-ny
+  captured: '2025-02-05'

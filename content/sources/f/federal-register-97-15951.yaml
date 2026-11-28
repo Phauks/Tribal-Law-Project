@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 33101, published 1997-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250224020530/https://www.federalregister.gov/documents/1997/06/18/97-15951/land-acquisitions
+  captured: '2025-02-24'

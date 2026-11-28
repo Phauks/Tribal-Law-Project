@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 35541, published 2026-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260614073217/https://www.federalregister.gov/documents/2026/06/11/2026-11713/notice-of-intended-repatriation-santa-barbara-museum-of-natural-history-santa-barbara-ca
+  captured: '2026-06-14'

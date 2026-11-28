@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CRPT-118hrpt440'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260727170037/https://www.govinfo.gov/app/details/CRPT-118hrpt440/
+  captured: '2026-07-27'

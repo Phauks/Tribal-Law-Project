@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 69692, published 2015-11-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204211203/https://www.federalregister.gov/documents/2015/11/10/2015-28476/navajo-nation-trust-leasing-act-of-2000-approval-of-navajo-nation-regulations
+  captured: '2025-02-04'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 63966, published 2024-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524202815/https://www.federalregister.gov/documents/2024/08/06/2024-17267/notice-to-rescind-a-notice-of-inventory-completion-us-department-of-agriculture-forest-service
+  captured: '2025-05-24'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 66929, published 1999-11-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250220155510/https://www.federalregister.gov/documents/1999/11/30/99-31104/final-environmental-impact-statement-for-the-proposed-forest-management-plan-for-the-flathead-indian
+  captured: '2025-02-20'

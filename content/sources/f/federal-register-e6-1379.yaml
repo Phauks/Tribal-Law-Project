@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 5683, published 2006-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250506130436/https://www.federalregister.gov/documents/2006/02/02/E6-1379/notice-of-intent-to-repatriate-cultural-items-horner-collection-oregon-state-university-corvallis-or
+  captured: '2025-05-06'

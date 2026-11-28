@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 5363, published 2006-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210528185821/https://www.federalregister.gov/documents/2006/02/01/E6-1275/notice-of-intent-to-repatriate-a-cultural-item-denver-museum-of-nature-and-science-denver-co
+  captured: '2021-05-28'

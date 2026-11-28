@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 106565, published 2024-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525161126/https://www.federalregister.gov/documents/2024/12/30/2024-31304/notice-of-intended-repatriation-the-university-of-kansas-lawrence-ks
+  captured: '2025-05-25'

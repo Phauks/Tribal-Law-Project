@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 18057, published 2014-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209035316/https://www.federalregister.gov/documents/2014/03/31/2014-07135/notice-of-inventory-completion-tennessee-valley-authority-knoxville-tn
+  captured: '2025-02-09'

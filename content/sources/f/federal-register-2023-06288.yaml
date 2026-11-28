@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 20182, published 2023-04-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201205627/https://www.federalregister.gov/documents/2023/04/05/2023-06288/renewals-of-information-collections-under-the-paperwork-reduction-act
+  captured: '2025-02-01'

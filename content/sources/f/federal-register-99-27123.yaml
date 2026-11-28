@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 56223, published 1999-10-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210513002541/https://www.federalregister.gov/documents/1999/10/18/99-27123/notice-of-inventory-completion-for-native-american-human-remains-in-the-possession-of-willamette
+  captured: '2021-05-13'

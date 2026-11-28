@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 52496, published 2015-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251205091313/https://www.federalregister.gov/documents/2015/08/31/2015-21490/notice-of-inventory-completion-dallas-water-utilities-dallas-texas
+  captured: '2025-12-05'

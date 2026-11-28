@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 60264, published 2009-11-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210428070837/https://www.federalregister.gov/documents/2009/11/20/E9-27541/request-for-public-comment-30-day-notice-proposed-information-collection-indian-health-service-forms
+  captured: '2021-04-28'

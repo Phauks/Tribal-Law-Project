@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 65732, published 2003-11-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213152709/https://www.federalregister.gov/documents/2003/11/21/03-29088/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-elk-valley-rancheria
+  captured: '2025-02-13'

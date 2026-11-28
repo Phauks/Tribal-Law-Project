@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 25059, published 1999-05-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202121117/https://www.federalregister.gov/documents/1999/05/10/99-11594/pueblo-of-taos-liquor-ordinance
+  captured: '2025-02-02'

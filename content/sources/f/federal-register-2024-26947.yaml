@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 91421, published 2024-11-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524180728/https://www.federalregister.gov/documents/2024/11/19/2024-26947/notice-of-inventory-completion-david-a-fredrickson-archaeological-collections-facility-at-sonoma
+  captured: '2025-05-24'

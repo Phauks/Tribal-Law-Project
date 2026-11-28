@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 70752, published 2011-11-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212190230/https://www.federalregister.gov/documents/2011/11/15/2011-29390/deadline-for-submitting-completed-applications-to-begin-participation-in-the-tribal-self-governance
+  captured: '2025-02-12'

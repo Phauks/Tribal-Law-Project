@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 23458, published 2023-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201211354/https://www.federalregister.gov/documents/2023/04/17/2023-08059/notice-of-intent-to-repatriate-cultural-items-amendment-new-york-state-museum-albany-ny
+  captured: '2025-02-01'

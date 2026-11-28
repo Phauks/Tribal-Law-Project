@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 31093, published 2019-06-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208035255/https://www.federalregister.gov/documents/2019/06/28/2019-13839/notice-of-inventory-completion-department-of-folk-studies-and-anthropology-at-western-kentucky
+  captured: '2025-02-08'

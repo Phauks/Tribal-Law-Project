@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 59539, published 2025-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251219232757/https://www.federalregister.gov/documents/2025/12/19/2025-23370/notice-of-inventory-completion-missouri-historical-society-st-louis-mo
+  captured: '2025-12-19'

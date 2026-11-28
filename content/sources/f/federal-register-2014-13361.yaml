@@ -85,3 +85,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 32982, published 2014-06-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218151004/https://www.federalregister.gov/documents/2014/06/09/2014-13361/notice-of-inventory-completion-state-historical-society-of-wisconsin-madison-wi
+  captured: '2025-02-18'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 9800, published 2020-02-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210330160955/https://www.federalregister.gov/documents/2020/02/20/2020-03430/comanche-nation-amendment-to-liquor-control-ordinance
+  captured: '2021-03-30'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 17903, published 2006-04-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213204448/https://www.federalregister.gov/documents/2006/04/07/E6-5045/pueblo-of-santa-ana-liquor-ordinance
+  captured: '2025-02-13'

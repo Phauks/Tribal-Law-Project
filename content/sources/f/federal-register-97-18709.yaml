@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 38116, published 1997-07-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210506140922/https://www.federalregister.gov/documents/1997/07/16/97-18709/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2021-05-06'

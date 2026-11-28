@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 62893, published 2018-12-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260416091705/https://www.federalregister.gov/documents/2018/12/06/2018-26436/notice-of-inventory-completion-department-of-anthropology-southern-methodist-university-dallas-tx
+  captured: '2026-04-16'

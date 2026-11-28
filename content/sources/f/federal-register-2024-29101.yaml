@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 99884, published 2024-12-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250405003746/https://www.federalregister.gov/documents/2024/12/11/2024-29101/notice-of-proposed-purchasedreferred-care-delivery-area-redesignation-for-the-iowa-tribe-of-kansas
+  captured: '2025-04-05'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 45531, published 2016-07-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202140315/https://www.federalregister.gov/documents/2016/07/14/2016-16608/notice-of-inventory-completion-federal-bureau-of-investigation-indianapolis-field-office
+  captured: '2025-02-02'

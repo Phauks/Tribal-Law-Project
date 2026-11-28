@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 78508, published 2002-12-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218091102/https://www.federalregister.gov/documents/2002/12/24/02-32174/notice-of-intent-to-repatriate-cultural-items-california-department-of-parks-and-recreation
+  captured: '2025-02-18'

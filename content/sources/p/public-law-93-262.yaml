@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-88/STATUTE-88-Pg77
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206153959/https://www.govinfo.gov/app/details/STATUTE-88/STATUTE-88-Pg77
+  captured: '2025-02-06'
 file:
   storage_key: govinfo/STATUTE-88/STATUTE-88-Pg77.pdf
   checksum: d1785fe05454b836e3993407fcb1f2f5c59251c0eaaf014ccb4ddfd3b5e4f0fb

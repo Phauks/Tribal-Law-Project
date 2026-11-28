@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 21390, published 2009-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204092630/https://www.federalregister.gov/documents/2009/05/07/E9-10547/notice-of-inventory-completion-warren-anatomical-museum-harvard-university-boston-ma
+  captured: '2025-02-04'

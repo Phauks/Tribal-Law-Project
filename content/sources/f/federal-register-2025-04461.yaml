@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12770, published 2025-03-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601031834/https://www.federalregister.gov/documents/2025/03/19/2025-04461/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca
+  captured: '2025-06-01'

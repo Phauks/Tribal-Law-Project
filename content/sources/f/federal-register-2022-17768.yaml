@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 50881, published 2022-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204101346/https://www.federalregister.gov/documents/2022/08/18/2022-17768/notice-of-inventory-completion-bryn-mawr-college-bryn-mawr-pa
+  captured: '2025-02-04'

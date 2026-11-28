@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 62109, published 2015-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204200534/https://www.federalregister.gov/documents/2015/10/15/2015-26291/notice-of-inventory-completion-pejepscot-historical-society-brunswick-me
+  captured: '2025-02-04'

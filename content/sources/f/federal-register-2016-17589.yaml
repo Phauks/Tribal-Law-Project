@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 48841, published 2016-07-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204092820/https://www.federalregister.gov/documents/2016/07/26/2016-17589/update-to-notice-of-availability-of-a-final-supplemental-environmental-impact-statement-for-the
+  captured: '2025-02-04'

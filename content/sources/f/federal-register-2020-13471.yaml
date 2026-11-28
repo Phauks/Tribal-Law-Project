@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 37668, published 2020-06-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204145213/https://www.federalregister.gov/documents/2020/06/23/2020-13471/office-of-clinical-and-preventive-services-division-of-oral-health-dental-preventive-clinical
+  captured: '2025-02-04'

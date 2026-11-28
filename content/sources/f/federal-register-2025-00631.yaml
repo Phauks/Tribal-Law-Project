@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 3244, published 2025-01-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202234337/https://www.federalregister.gov/documents/2025/01/14/2025-00631/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for
+  captured: '2025-02-02'

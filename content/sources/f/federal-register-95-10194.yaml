@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 20250, published 1995-04-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208074213/https://www.federalregister.gov/documents/1995/04/25/95-10194/meeting-of-the-indian-self-determination-negotiated-rulemaking-committee
+  captured: '2025-02-08'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 31842, published 1997-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218030520/https://www.federalregister.gov/documents/1997/06/11/97-15227/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-milwaukee-public-museum
+  captured: '2025-02-18'

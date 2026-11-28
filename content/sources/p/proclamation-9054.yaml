@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2013/11/05/2013-26677/national-native-american-heritage-month-2013'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212001327/https://www.federalregister.gov/documents/2013/11/05/2013-26677/national-native-american-heritage-month-2013
+  captured: '2025-02-12'

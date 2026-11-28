@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 57842, published 2002-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215221259/https://www.federalregister.gov/documents/2002/09/12/02-23136/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-15'

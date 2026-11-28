@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 67956, published 2022-11-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215015145/https://www.federalregister.gov/documents/2022/11/10/2022-24560/notice-of-inventory-completion-ch-nash-memorial-museumchucalissa-archaeological-museum-university-of
+  captured: '2025-02-15'

@@ -21,7 +21,10 @@ citation:
       - 27
 original_link: https://legislature.maine.gov/statutes/3/title3sec603-2.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810023649/https://www.legislature.maine.gov/statutes/3/title3sec603-2.html
+  captured: '2026-08-10'
 history:
   status: live
   last_checked: '2026-11-27'

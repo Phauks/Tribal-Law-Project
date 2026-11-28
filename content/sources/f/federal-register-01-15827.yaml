@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 33654, published 2001-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250221195524/https://www.federalregister.gov/documents/2001/06/25/01-15827/certificate-of-degree-of-indian-or-alaska-native-blood
+  captured: '2025-02-21'

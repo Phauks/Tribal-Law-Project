@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 41465, published 2024-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208020720/https://www.federalregister.gov/documents/2024/05/13/2024-10332/notice-of-inventory-completion-longyear-museum-of-anthropology-colgate-university-hamilton-ny
+  captured: '2025-02-08'

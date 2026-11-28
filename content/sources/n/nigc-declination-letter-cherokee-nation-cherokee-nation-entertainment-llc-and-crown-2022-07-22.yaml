@@ -48,3 +48,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Commission''s table was read: https://www.nigc.gov/office-of-general-counsel/legal-opinions/declination-letters/'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260715193006/https://www.nigc.gov/wp-content/uploads/2025/01/CNE-_Crown_OK_-_Sportsbook_Agreement_Request_for_Confidential_Treatment_-_redact.pdf
+  captured: '2026-07-15'

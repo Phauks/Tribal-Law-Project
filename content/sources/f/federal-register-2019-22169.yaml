@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 54637, published 2019-10-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204041743/https://www.federalregister.gov/documents/2019/10/10/2019-22169/notice-of-inventory-completion-arkansas-archeological-survey-fayetteville-ar
+  captured: '2025-02-04'

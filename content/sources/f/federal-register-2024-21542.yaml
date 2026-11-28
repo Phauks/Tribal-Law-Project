@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 77179, published 2024-09-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525193237/https://www.federalregister.gov/documents/2024/09/20/2024-21542/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-reclamation-columbia-pacific
+  captured: '2025-05-25'

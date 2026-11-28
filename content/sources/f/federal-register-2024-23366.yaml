@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 81934, published 2024-10-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524191352/https://www.federalregister.gov/documents/2024/10/09/2024-23366/notice-of-inventory-completion-the-fort-ticonderoga-association-ticonderoga-ny
+  captured: '2025-05-24'

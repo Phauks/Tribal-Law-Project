@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 38113, published 1997-07-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418103747/https://www.federalregister.gov/documents/1997/07/16/97-18659/proposed-finding-for-federal-acknowledgment-of-the-match-e-be--nash-she-wish-band-of-pottawatomi
+  captured: '2026-04-18'

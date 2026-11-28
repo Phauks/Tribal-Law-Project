@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 22728, published 2003-04-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204173021/https://www.federalregister.gov/documents/2003/04/29/03-10427/law-and-order-on-indian-reservations
+  captured: '2025-02-04'

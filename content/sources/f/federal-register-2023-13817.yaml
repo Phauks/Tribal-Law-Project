@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 42099, published 2023-06-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203020454/https://www.federalregister.gov/documents/2023/06/29/2023-13817/notice-of-inventory-completion-california-state-university-chico-chico-ca
+  captured: '2025-02-03'

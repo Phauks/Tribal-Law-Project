@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 44536, published 1999-08-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210326124323/https://www.federalregister.gov/documents/1999/08/16/99-21069/notice-of-inventory-completion-for-native-american-human-remains-from-navajo-county-az-in-the
+  captured: '2021-03-26'

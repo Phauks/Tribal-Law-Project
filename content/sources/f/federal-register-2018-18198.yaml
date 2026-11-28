@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 42683, published 2018-08-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208132649/https://www.federalregister.gov/documents/2018/08/23/2018-18198/notice-of-inventory-completion-indiana-state-museum-and-historic-sites-corporation-state-of-indiana
+  captured: '2025-02-08'

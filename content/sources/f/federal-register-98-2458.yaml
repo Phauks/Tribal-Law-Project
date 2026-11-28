@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 5403, published 1998-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208185350/https://www.federalregister.gov/documents/1998/02/02/98-2458/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-mesa-southwest-museum-mesa-az
+  captured: '2025-02-08'

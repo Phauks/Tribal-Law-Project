@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 23331, published 2011-04-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208171922/https://www.federalregister.gov/documents/2011/04/26/2011-9672/native-american-business-development-institute-nabdi-funding-solicitations-and-reporting-comment
+  captured: '2025-02-08'

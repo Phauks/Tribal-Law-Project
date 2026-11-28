@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 12005, published 2005-03-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218190211/https://www.federalregister.gov/documents/2005/03/10/05-4688/amendments-to-notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-desert
+  captured: '2025-02-18'

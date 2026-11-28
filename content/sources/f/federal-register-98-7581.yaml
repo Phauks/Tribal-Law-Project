@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 14137, published 1998-03-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204230757/https://www.federalregister.gov/documents/1998/03/24/98-7581/notice-of-intent-to-repatriate-cultural-items-from-new-mexico-in-the-possession-of-the-arizona-state
+  captured: '2025-02-04'

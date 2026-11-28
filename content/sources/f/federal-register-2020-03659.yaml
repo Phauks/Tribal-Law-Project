@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 10705, published 2020-02-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202102134/https://www.federalregister.gov/documents/2020/02/25/2020-03659/request-for-public-comment-30-day-information-collection-indian-health-service-medical-staff
+  captured: '2025-02-02'

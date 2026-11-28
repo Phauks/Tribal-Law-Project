@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 33676, published 1997-06-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210517211447/https://www.federalregister.gov/documents/1997/06/20/97-16167/notice-of-inventory-completion-for-native-american-human-remains-from-washington-county-me-in-the
+  captured: '2021-05-17'

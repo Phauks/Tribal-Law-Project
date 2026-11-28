@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 12204, published 2008-03-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205034553/https://www.federalregister.gov/documents/2008/03/06/E8-4356/notice-of-cancellation-of-the-environmental-impact-statement-for-the-proposed-stockbridge-munsee
+  captured: '2025-02-05'

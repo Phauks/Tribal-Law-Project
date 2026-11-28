@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206024649/https://www.federalregister.gov/documents/1994/03/01/94-4601/review-of-existing-significant-regulations
+  captured: '2025-02-06'

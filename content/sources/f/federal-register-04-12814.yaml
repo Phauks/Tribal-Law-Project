@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 31835, published 2004-06-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202204527/https://www.federalregister.gov/documents/2004/06/07/04-12814/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-operations-and
+  captured: '2025-02-02'

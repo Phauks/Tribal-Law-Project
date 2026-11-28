@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 92965, published 2024-11-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260924052745/https://www.federalregister.gov/documents/2024/11/25/2024-27503/notice-of-intended-repatriation-autry-museum-of-the-american-west-los-angeles-ca-and-san-bernardino
+  captured: '2026-09-24'

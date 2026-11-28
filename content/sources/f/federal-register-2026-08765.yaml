@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 24279, published 2026-05-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260714123707/https://www.federalregister.gov/documents/2026/05/05/2026-08765/notice-of-intended-repatriation-peabody-museum-of-archaeology-and-ethnology-harvard-university
+  captured: '2026-07-14'

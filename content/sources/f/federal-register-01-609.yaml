@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 1690, published 2001-01-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261012090205/https://www.federalregister.gov/documents/2001/01/09/01-609/final-determination-to-acknowledge-the-chinook-indian-tribechinook-nation-formerly-chinook-indian
+  captured: '2026-10-12'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 35198, published 2024-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525200056/https://www.federalregister.gov/documents/2024/05/01/2024-09413/notice-of-inventory-completion-san-francisco-state-university-nagpra-program-san-francisco-ca
+  captured: '2025-05-25'

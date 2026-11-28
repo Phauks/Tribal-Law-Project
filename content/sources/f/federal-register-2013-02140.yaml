@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 7436, published 2013-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204103003/https://www.federalregister.gov/documents/2013/02/01/2013-02140/request-for-public-comment-30-day-proposed-information-collection-indian-health-service-contract
+  captured: '2025-02-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 39727, published 2012-07-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218181523/https://www.federalregister.gov/documents/2012/07/05/2012-16383/poarch-band-of-creek-indians-alcohol-beverage-control-ordinance
+  captured: '2025-02-18'

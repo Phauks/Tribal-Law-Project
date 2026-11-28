@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-36/STATUTE-36-Pg269-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127072649/https://www.govinfo.gov/app/details/STATUTE-36/STATUTE-36-Pg269-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-36/STATUTE-36-Pg269-2.pdf
   checksum: 19fbe4891148f541f133240fa01fb0444f19f4e3357ea245210f8083a960f587

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 47456, published 2004-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214061946/https://www.federalregister.gov/documents/2004/08/05/04-17841/notice-of-intent-to-prepare-a-supplemental-programmatic-environmental-impact-statement-for-the
+  captured: '2025-02-14'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 3223, published 2008-01-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218141907/https://www.federalregister.gov/documents/2008/01/17/E8-769/classification-standards-for-bingo-lotto-other-games-similar-to-bingo-pull-tabs-and-instant-bingo-as
+  captured: '2025-02-18'

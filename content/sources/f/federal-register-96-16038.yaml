@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 33876, published 1996-07-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210509210904/https://www.federalregister.gov/documents/1996/07/01/96-16038/social-welfare-arrangements-with-states-or-other-agencies
+  captured: '2021-05-09'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 24229, published 2013-04-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208142439/https://www.federalregister.gov/documents/2013/04/24/2013-09731/renewal-of-agency-information-collection-for-grazing-permits
+  captured: '2025-02-08'

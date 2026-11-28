@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2020/05/08/2020-10076/missing-and-murdered-american-indians-and-alaska-natives-awareness-day-2020'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250424010405/https://www.federalregister.gov/documents/2020/05/08/2020-10076/missing-and-murdered-american-indians-and-alaska-natives-awareness-day-2020
+  captured: '2025-04-24'

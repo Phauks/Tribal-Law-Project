@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 1154, published 2022-01-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207165402/https://www.federalregister.gov/documents/2022/01/10/2022-00171/urban-indian-education-and-research-program
+  captured: '2025-02-07'

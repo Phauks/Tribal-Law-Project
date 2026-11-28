@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 14869, published 2026-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260720003834/https://www.federalregister.gov/documents/2026/03/27/2026-05971/notice-of-inventory-completion-san-bernardino-county-museum-redlands-ca
+  captured: '2026-07-20'

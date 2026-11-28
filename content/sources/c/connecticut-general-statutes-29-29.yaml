@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.cga.ct.gov/2026/sup/chap_529.htm#sec_29-29
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260616162619/https://cga.ct.gov/2026/sup/chap_529.htm
+  captured: '2026-06-16'
 history:
   status: live
   last_checked: '2026-11-27'

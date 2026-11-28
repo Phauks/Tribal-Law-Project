@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 50436, published 2011-08-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214094242/https://www.federalregister.gov/documents/2011/08/15/2011-20721/class-ii-gaming-regulation-proposals-submitted-by-poarch-band-of-creek-indians-on-behalf-of-tribal
+  captured: '2025-02-14'

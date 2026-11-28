@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 48678, published 2007-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215021044/https://www.federalregister.gov/documents/2007/08/24/E7-16779/notice-of-intent-to-repatriate-cultural-items-science-museum-of-minnesota-st-paul-mn
+  captured: '2025-02-15'

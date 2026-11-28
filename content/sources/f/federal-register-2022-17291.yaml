@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 49607, published 2022-08-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202135653/https://www.federalregister.gov/documents/2022/08/11/2022-17291/notice-of-inventory-completion-federal-bureau-of-investigation-art-theft-program-washington-dc
+  captured: '2025-02-02'

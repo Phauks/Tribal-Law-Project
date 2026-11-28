@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 58708, published 2012-09-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250407160405/https://www.federalregister.gov/documents/2012/09/21/2012-23155/minimum-internal-control-standards
+  captured: '2025-04-07'

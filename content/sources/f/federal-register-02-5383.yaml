@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 10429, published 2002-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217123316/https://www.federalregister.gov/documents/2002/03/07/02-5383/office-of-the-secretary-tribal-consultation-of-indian-trust-asset-management
+  captured: '2025-02-17'

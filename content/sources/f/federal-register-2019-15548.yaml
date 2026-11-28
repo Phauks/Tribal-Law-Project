@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 35133, published 2019-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217084405/https://www.federalregister.gov/documents/2019/07/22/2019-15548/the-confederated-tribes-of-the-umatilla-indian-reservation-amendments-to-liquor-code
+  captured: '2025-02-17'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 31512, published 2005-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202031049/https://www.federalregister.gov/documents/2005/06/01/05-10818/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-02-02'

@@ -23,7 +23,10 @@ citation:
       - 27
 original_link: https://www.govinfo.gov/app/details/STATUTE-106/STATUTE-106-Pg4600
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207215558/https://www.govinfo.gov/app/details/STATUTE-106/STATUTE-106-Pg4600
+  captured: '2025-02-07'
 file:
   storage_key: govinfo/STATUTE-106/STATUTE-106-Pg4600.pdf
   checksum: 8d758461a6c84af3150c98c6c409e62e43352c9fcce04529e5ce0a178427aa32

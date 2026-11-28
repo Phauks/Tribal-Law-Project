@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 12272, published 2019-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207153203/https://www.federalregister.gov/documents/2019/04/01/2019-06295/hearth-act-approval-of-minnesota-chippewa-tribe-minnesota-fond-du-lac-band-leasing-ordinance
+  captured: '2025-02-07'

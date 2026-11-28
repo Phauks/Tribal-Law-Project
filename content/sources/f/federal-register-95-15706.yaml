@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 33318, published 1995-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170815060300/https://www.federalregister.gov/documents/1995/06/27/95-15706/confederated-salish-and-kootenai-tribes-montana-acceptance-of-retrocession-of-jurisdiction
+  captured: '2017-08-15'

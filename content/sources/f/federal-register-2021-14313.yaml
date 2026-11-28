@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 35529, published 2021-07-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208193946/https://www.federalregister.gov/documents/2021/07/06/2021-14313/notice-of-intent-to-repatriate-cultural-items-spurlock-museum-university-of-illinois-at
+  captured: '2025-02-08'

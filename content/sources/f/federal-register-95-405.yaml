@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 2480, published 1995-01-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204093854/https://www.federalregister.gov/documents/1995/01/09/95-405/plan-for-the-use-of-the-pueblo-of-nambe-indian-judgment-funds-in-docket-no-358-before-the-united
+  captured: '2025-02-04'

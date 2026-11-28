@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 55974, published 2024-07-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260710230251/https://www.federalregister.gov/documents/2024/07/08/2024-14781/land-acquisitions-redding-rancheria-california-strawberry-fields-site-shasta-county-california
+  captured: '2026-07-10'

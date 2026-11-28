@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 83045, published 2024-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524180039/https://www.federalregister.gov/documents/2024/10/15/2024-23718/notice-of-intended-repatriation-gilcrease-museum-tulsa-ok
+  captured: '2025-05-24'

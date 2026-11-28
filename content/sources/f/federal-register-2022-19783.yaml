@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 56085, published 2022-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208205805/https://www.federalregister.gov/documents/2022/09/13/2022-19783/notice-of-inventory-completion-huguenot-historical-society-new-paltz-ny
+  captured: '2025-02-08'

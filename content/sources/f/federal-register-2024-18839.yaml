@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 67959, published 2024-08-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206183551/https://www.federalregister.gov/documents/2024/08/22/2024-18839/proclaiming-certain-lands-as-reservation-for-the-bay-mills-indian-community-of-michigan
+  captured: '2025-02-06'

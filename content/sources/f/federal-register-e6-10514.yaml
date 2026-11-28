@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 38417, published 2006-07-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204160411/https://www.federalregister.gov/documents/2006/07/06/E6-10514/notice-of-inventory-completion-us-department-of-defense-army-corps-of-engineers-memphis-district
+  captured: '2025-02-04'

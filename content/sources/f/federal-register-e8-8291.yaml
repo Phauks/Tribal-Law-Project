@@ -80,3 +80,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 20939, published 2008-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214180602/https://www.federalregister.gov/documents/2008/04/17/E8-8291/notice-of-inventory-completion-denver-museum-of-nature-and-science-denver-co
+  captured: '2025-02-14'

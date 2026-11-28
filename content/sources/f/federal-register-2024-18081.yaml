@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 66120, published 2024-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250426155809/https://www.federalregister.gov/documents/2024/08/14/2024-18081/notice-of-purchasedreferred-care-delivery-area-redesignation-for-the-confederated-tribes-of-the
+  captured: '2025-04-26'

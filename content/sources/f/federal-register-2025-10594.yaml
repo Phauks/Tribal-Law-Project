@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 24661, published 2025-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250622154238/https://www.federalregister.gov/documents/2025/06/11/2025-10594/notice-of-intended-repatriation-county-of-sacramento-sacramento-ca
+  captured: '2025-06-22'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 50997, published 2008-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207185203/https://www.federalregister.gov/documents/2008/08/29/E8-20090/notice-of-inventory-completion-university-of-wyoming-anthropology-department-human-remains
+  captured: '2025-02-07'

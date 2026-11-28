@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 36190, published 1995-07-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204111714/https://www.federalregister.gov/documents/1995/07/13/95-17190/chemehuevi-indian-tribe-liquor-licensing-ordinance
+  captured: '2025-02-04'

@@ -79,3 +79,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 56439, published 2022-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208213034/https://www.federalregister.gov/documents/2022/09/14/2022-19829/notice-of-inventory-completion-federal-bureau-of-investigation-art-theft-program-washington-dc
+  captured: '2025-02-08'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: IG10082, version 2'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251219075323/https://www.congress.gov/crs-product/IG10082
+  captured: '2025-12-19'

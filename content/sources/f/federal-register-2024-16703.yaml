@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 61136, published 2024-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525163819/https://www.federalregister.gov/documents/2024/07/30/2024-16703/notice-of-intended-repatriation-the-metropolitan-museum-of-art-new-york-ny
+  captured: '2025-05-25'

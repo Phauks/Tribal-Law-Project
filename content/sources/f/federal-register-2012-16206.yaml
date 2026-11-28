@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 39507, published 2012-07-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240326195014/https://www.federalregister.gov/documents/2012/07/03/2012-16206/notice-of-inventory-completion-fowler-museum-at-ucla-los-angeles-ca
+  captured: '2024-03-26'

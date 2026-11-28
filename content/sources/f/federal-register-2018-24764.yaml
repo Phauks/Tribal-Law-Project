@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 56867, published 2018-11-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204233602/https://www.federalregister.gov/documents/2018/11/14/2018-24764/notice-of-inventory-completion-riverside-metropolitan-museum-riverside-ca
+  captured: '2025-02-04'

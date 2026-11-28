@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 33733, published 2021-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205021020/https://www.federalregister.gov/documents/2021/06/25/2021-13514/notice-of-inventory-completion-sierra-mono-museum-and-cultural-center-north-fork-ca
+  captured: '2025-02-05'

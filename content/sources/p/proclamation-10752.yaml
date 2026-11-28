@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2024/05/13/2024-10533/missing-or-murdered-indigenous-persons-awareness-day-2024'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240511091420/https://www.federalregister.gov/documents/2024/05/13/2024-10533/missing-or-murdered-indigenous-persons-awareness-day-2024
+  captured: '2024-05-11'

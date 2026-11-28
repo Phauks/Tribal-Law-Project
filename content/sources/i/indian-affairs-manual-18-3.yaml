@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the manual page was read: https://www.bia.gov/policy-forms/manual'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261117193041/https://www.bia.gov/sites/default/files/dup/assets/public/raca/manual/pdf/18_iam_3_pra_and_ic_final_asiasigned_12.26.24_w.footers_508.pdf
+  captured: '2026-11-17'

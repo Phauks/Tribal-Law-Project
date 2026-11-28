@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-124/STATUTE-124-Pg4133
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807191633/https://www.govinfo.gov/app/details/STATUTE-124/STATUTE-124-Pg4133
+  captured: '2026-08-07'
 file:
   storage_key: govinfo/STATUTE-124/STATUTE-124-Pg4133.pdf
   checksum: 2526a578b1d791665ce55e1a8d874ef1da94a59e1682b6a52b4790a5918bb9b3

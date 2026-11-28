@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 4476, published 1996-02-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418110507/https://www.federalregister.gov/documents/1996/02/06/96-1822/final-determination-against-federal-acknowledgment-of-the-ramapough-mountain-indians-inc
+  captured: '2026-04-18'

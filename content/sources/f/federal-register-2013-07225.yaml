@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 19099, published 2013-03-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208043416/https://www.federalregister.gov/documents/2013/03/29/2013-07225/residential-business-and-wind-and-solar-resource-leases-on-indian-land
+  captured: '2025-02-08'

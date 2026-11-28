@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 32440, published 2022-05-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204130808/https://www.federalregister.gov/documents/2022/05/31/2022-11638/notice-of-inventory-completion-walsh-gallery-seton-hall-university-south-orange-nj
+  captured: '2025-02-04'

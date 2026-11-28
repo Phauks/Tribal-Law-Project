@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 59201, published 2025-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251220114131/https://www.federalregister.gov/documents/2025/12/18/2025-23179/notice-of-inventory-completion-western-michigan-university-institute-for-intercultural-and
+  captured: '2025-12-20'

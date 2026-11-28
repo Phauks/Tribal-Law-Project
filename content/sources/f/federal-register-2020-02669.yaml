@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 7579, published 2020-02-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207023125/https://www.federalregister.gov/documents/2020/02/10/2020-02669/final-environmental-impact-statement-for-the-proposed-campo-wind-energy-project-san-diego-california
+  captured: '2025-02-07'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 46015, published 2021-08-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207021845/https://www.federalregister.gov/documents/2021/08/17/2021-17565/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-02-07'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 52672, published 2008-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204173850/https://www.federalregister.gov/documents/2008/09/10/E8-20951/metlakatla-indian-community-alcohol-possession-code-correction
+  captured: '2025-02-04'

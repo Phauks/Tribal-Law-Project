@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 51774, published 2025-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251203124832/https://www.federalregister.gov/documents/2025/11/18/2025-20112/notice-of-inventory-completion-san-diego-state-university-san-diego-ca
+  captured: '2025-12-03'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 40820, published 2002-06-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209023237/https://www.federalregister.gov/documents/2002/06/13/02-15033/trust-reform-task-force-report
+  captured: '2025-02-09'

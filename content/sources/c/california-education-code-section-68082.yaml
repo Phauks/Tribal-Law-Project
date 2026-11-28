@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=68082.
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260110143337/https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=68082.
+  captured: '2026-01-10'
 history:
   status: live
   last_checked: '2026-11-27'

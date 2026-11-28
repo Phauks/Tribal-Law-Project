@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 63971, published 2024-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209005208/https://www.federalregister.gov/documents/2024/08/06/2024-17257/notice-of-intended-repatriation-autry-museum-of-the-american-west-los-angeles-ca
+  captured: '2025-02-09'

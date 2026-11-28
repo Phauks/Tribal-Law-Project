@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 32682, published 1998-06-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210502132419/https://www.federalregister.gov/documents/1998/06/15/98-15821/notice-of-inventory-completion-for-native-american-human-remains-from-missouri-and-florida-in-the
+  captured: '2021-05-02'

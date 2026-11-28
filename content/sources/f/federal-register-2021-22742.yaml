@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 57851, published 2021-10-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214055503/https://www.federalregister.gov/documents/2021/10/19/2021-22742/notice-of-inventory-completion-american-university-department-of-anthropology-washington-dc
+  captured: '2025-02-14'

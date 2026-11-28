@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 21787, published 2000-04-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212015447/https://www.federalregister.gov/documents/2000/04/24/00-10055/notice-of-intent-to-repatriate-cultural-items-from-southeastern-utah-in-the-possession-of-the-utah
+  captured: '2025-02-12'

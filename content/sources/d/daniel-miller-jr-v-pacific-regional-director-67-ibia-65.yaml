@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 2020-04-10; cover sheet 2020-04-10; decision 2020-04-10
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260616214120/https://www.oha.doi.gov/IBIA/Ibiadecisions/67ibia/67ibia065.pdf
+  captured: '2026-06-16'

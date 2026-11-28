@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 35710, published 2008-06-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250221221706/https://www.federalregister.gov/documents/2008/06/24/E8-14227/notice-of-inventory-completion-university-of-hawaii-at-hilo-department-of-anthropology-hilo-hi
+  captured: '2025-02-21'

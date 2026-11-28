@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 11075, published 2000-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216162819/https://www.federalregister.gov/documents/2000/03/01/00-4829/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-denver-art-museum-denver-co
+  captured: '2025-02-16'

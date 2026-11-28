@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the manual page was read: https://www.bia.gov/policy-forms/manual'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261117193048/https://www.bia.gov/sites/default/files/dup/assets/public/raca/manual/pdf/90_iam_5_wildfire_prevention_final_10.31.24_signed_11.15.24_w.footer_508.pdf
+  captured: '2026-11-17'

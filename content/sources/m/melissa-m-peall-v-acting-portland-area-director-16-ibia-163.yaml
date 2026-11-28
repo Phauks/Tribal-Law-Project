@@ -54,3 +54,7 @@ review:
   - check: decided
     result: differs
     detail: index 1988-06-21; cover sheet 1988-06-21; decision 1998-06-21
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010412/https://www.oha.doi.gov/IBIA/IbiaDecisions/16ibia/16ibia163.PDF
+  captured: '2026-03-25'

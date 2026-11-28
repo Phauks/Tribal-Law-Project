@@ -97,3 +97,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 14095, published 2024-02-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218114317/https://www.federalregister.gov/documents/2024/02/26/2024-03804/notice-of-inventory-completion-ohio-history-connection-columbus-oh
+  captured: '2025-02-18'

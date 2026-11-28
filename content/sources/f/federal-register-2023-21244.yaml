@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 66889, published 2023-09-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611181804/https://www.federalregister.gov/documents/2023/09/28/2023-21244/notice-of-inventory-completion-detroit-institute-of-arts-detroit-mi
+  captured: '2025-06-11'

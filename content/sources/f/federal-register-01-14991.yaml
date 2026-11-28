@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 32373, published 2001-06-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250413081343/https://www.federalregister.gov/documents/2001/06/14/01-14991/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-cornell-university-ithaca-ny
+  captured: '2025-04-13'

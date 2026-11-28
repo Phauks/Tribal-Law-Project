@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 10060, published 2008-02-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202043952/https://www.federalregister.gov/documents/2008/02/25/E8-3446/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-southeast
+  captured: '2025-02-02'

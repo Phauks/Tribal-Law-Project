@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 73371, published 2023-10-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611201011/https://www.federalregister.gov/documents/2023/10/25/2023-23538/notice-of-inventory-completion-warren-anatomical-museum-harvard-university-boston-ma
+  captured: '2025-06-11'

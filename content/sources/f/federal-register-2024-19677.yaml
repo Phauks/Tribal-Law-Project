@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 71389, published 2024-09-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524201213/https://www.federalregister.gov/documents/2024/09/03/2024-19677/notice-of-intended-repatriation-indiana-university-bloomington-in
+  captured: '2025-05-24'

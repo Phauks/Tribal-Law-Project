@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 39907, published 2017-08-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209025257/https://www.federalregister.gov/documents/2017/08/22/2017-17650/notice-of-inventory-completion-peabody-museum-of-natural-history-yale-university-new-haven-ct
+  captured: '2025-02-09'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 45911, published 2023-07-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207014911/https://www.federalregister.gov/documents/2023/07/18/2023-15100/notice-of-inventory-completion-bridgewater-colleges-reuel-b-pritchett-museum-collection-bridgewater
+  captured: '2025-02-07'

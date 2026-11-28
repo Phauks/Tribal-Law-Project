@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 30152, published 2008-05-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210521051118/https://www.federalregister.gov/documents/2008/05/23/E8-11573/notice-of-inventory-completion-alaska-state-office-bureau-of-land-management-anchorage-ak-arizona
+  captured: '2021-05-21'

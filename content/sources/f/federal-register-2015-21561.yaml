@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 52787, published 2015-09-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204234734/https://www.federalregister.gov/documents/2015/09/01/2015-21561/renewal-of-agency-information-collection-for-the-bureau-of-indian-education-tribal-education
+  captured: '2025-02-04'

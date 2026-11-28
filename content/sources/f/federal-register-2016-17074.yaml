@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 47817, published 2016-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204142737/https://www.federalregister.gov/documents/2016/07/22/2016-17074/final-environmental-impact-statement-for-the-pokagon-band-of-potawatomi-indians-fee-to-trust
+  captured: '2025-02-04'

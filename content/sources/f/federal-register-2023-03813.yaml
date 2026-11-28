@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 11934, published 2023-02-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20231007141420/https://www.federalregister.gov/documents/2023/02/24/2023-03813/notice-of-inventory-completion-museum-of-science-boston-ma
+  captured: '2023-10-07'

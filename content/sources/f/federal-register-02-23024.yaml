@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 57621, published 2002-09-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260720093844/https://www.federalregister.gov/documents/2002/09/11/02-23024/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2026-07-20'

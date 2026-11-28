@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 57848, published 2015-09-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502043121/https://www.federalregister.gov/documents/2015/09/25/2015-24360/land-acquisitions-mashpee-wampanoag-tribe
+  captured: '2025-05-02'

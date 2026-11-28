@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/9634815/allscripts-healthcare-llc-v-andor-health-llc/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127195935/https://www.courtlistener.com/opinion/9634815/allscripts-healthcare-llc-v-andor-health-llc/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

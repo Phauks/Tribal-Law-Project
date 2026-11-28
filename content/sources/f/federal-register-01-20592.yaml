@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 43384, published 2001-08-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219235635/https://www.federalregister.gov/documents/2001/08/17/01-20592/urban-wildland-interface-communities-within-the-vicinity-of-federal-lands-that-are-at-high-risk-from
+  captured: '2025-02-19'

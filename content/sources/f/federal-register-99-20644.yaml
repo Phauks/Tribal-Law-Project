@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 43714, published 1999-08-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210329125725/https://www.federalregister.gov/documents/1999/08/11/99-20644/notice-of-inventory-completion-for-native-american-human-remains-in-the-possession-of-the-university
+  captured: '2021-03-29'

@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 56217, published 1999-10-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212085608/https://www.federalregister.gov/documents/1999/10/18/99-27124/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-12'

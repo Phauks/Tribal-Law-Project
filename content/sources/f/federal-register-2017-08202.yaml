@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 18770, published 2017-04-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212080745/https://www.federalregister.gov/documents/2017/04/21/2017-08202/rate-adjustments-for-indian-irrigation-projects
+  captured: '2025-02-12'

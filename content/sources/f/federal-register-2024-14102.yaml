@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 53639, published 2024-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525190231/https://www.federalregister.gov/documents/2024/06/27/2024-14102/notice-of-inventory-completion-new-york-university-college-of-dentistry-new-york-ny
+  captured: '2025-05-25'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 44705, published 2024-05-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611185231/https://www.federalregister.gov/documents/2024/05/21/2024-11095/notice-of-inventory-completion-historymiami-museum-miami-fl
+  captured: '2025-06-11'

@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 74508, published 2023-10-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204071227/https://www.federalregister.gov/documents/2023/10/31/2023-23975/notice-of-inventory-completion-university-of-california-berkeley-berkeley-ca
+  captured: '2025-02-04'

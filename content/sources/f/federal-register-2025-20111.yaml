@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 51780, published 2025-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251205064227/https://www.federalregister.gov/documents/2025/11/18/2025-20111/notice-of-inventory-completion-amendment-trinity-university-san-antonio-tx-university-of-texas-at
+  captured: '2025-12-05'

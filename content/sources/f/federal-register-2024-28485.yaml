@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 96667, published 2024-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611181721/https://www.federalregister.gov/documents/2024/12/05/2024-28485/notice-of-intended-disposition-us-department-of-the-interior-national-park-service-big-south-fork
+  captured: '2025-06-11'

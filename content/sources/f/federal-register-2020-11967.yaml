@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 34226, published 2020-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204223825/https://www.federalregister.gov/documents/2020/06/03/2020-11967/notice-of-inventory-completion-sam-noble-oklahoma-museum-of-natural-history-university-of-oklahoma
+  captured: '2025-02-04'

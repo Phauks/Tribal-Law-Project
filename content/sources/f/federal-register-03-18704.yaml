@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 43550, published 2003-07-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204034113/https://www.federalregister.gov/documents/2003/07/23/03-18704/notice-of-inventory-completion-springfield-science-museum-springfield-ma
+  captured: '2025-02-04'

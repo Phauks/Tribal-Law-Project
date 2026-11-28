@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 51394, published 2025-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251203121121/https://www.federalregister.gov/documents/2025/11/17/2025-19959/notice-of-inventory-completion-museum-of-us-san-diego-ca
+  captured: '2025-12-03'

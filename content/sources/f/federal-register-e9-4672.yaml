@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 9627, published 2009-03-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212223546/https://www.federalregister.gov/documents/2009/03/05/E9-4672/notice-of-inventory-completion-raymond-m-alf-museum-of-paleontology-claremont-ca
+  captured: '2025-02-12'

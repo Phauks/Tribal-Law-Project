@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 50099, published 2013-08-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260203172932/https://www.federalregister.gov/documents/2013/08/16/2013-20041/notice-of-inventory-completion-washington-state-parks-and-recreation-commission-olympia-wa
+  captured: '2026-02-03'

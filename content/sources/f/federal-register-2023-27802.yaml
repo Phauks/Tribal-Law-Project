@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 87803, published 2023-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250612072600/https://www.federalregister.gov/documents/2023/12/19/2023-27802/notice-of-inventory-completion-sam-noble-oklahoma-museum-of-natural-history-university-of-oklahoma
+  captured: '2025-06-12'

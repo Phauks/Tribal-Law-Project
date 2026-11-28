@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 53087, published 2018-10-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207003649/https://www.federalregister.gov/documents/2018/10/19/2018-22796/notice-of-inventory-completion-the-field-museum-chicago-il
+  captured: '2025-02-07'

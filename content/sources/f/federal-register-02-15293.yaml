@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 41446, published 2002-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250405165424/https://www.federalregister.gov/documents/2002/06/18/02-15293/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-04-05'

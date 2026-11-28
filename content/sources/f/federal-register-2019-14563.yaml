@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 32781, published 2019-07-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207003931/https://www.federalregister.gov/documents/2019/07/09/2019-14563/notice-of-inventory-completion-milwaukee-public-museum-milwaukee-wi
+  captured: '2025-02-07'

@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 34316, published 2008-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213224158/https://www.federalregister.gov/documents/2008/06/17/E8-13586/notice-of-inventory-completion-the-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-13'

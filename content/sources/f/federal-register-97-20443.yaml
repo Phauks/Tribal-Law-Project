@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 41979, published 1997-08-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219120110/https://www.federalregister.gov/documents/1997/08/04/97-20443/paperwork-reduction
+  captured: '2025-02-19'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 42723, published 2011-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211220455/https://www.federalregister.gov/documents/2011/07/19/2011-18072/land-acquisitions-osage-nation-of-oklahoma
+  captured: '2025-02-11'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 24976, published 2012-04-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206033325/https://www.federalregister.gov/documents/2012/04/26/2012-10095/draft-environmental-impact-statement-for-the-proposed-spokane-tribe-of-indians-west-plains-casino
+  captured: '2025-02-06'

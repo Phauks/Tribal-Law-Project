@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 25470, published 2013-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210504051252/https://www.federalregister.gov/documents/2013/05/01/2013-10221/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2021-05-04'

@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-26/STATUTE-26-Pg794
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127071443/https://www.govinfo.gov/app/details/STATUTE-26/STATUTE-26-Pg794
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-26/STATUTE-26-Pg794.pdf
   checksum: 414efe2ccb6917db7facafa747a4e36635f68f4f819741e5d924adb794a19440

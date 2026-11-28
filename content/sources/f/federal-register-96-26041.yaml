@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 53238, published 1996-10-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208154703/https://www.federalregister.gov/documents/1996/10/10/96-26041/notice-of-inventory-completion-for-native-american-human-remains-from-the-island-of-maui-hawaii-in
+  captured: '2025-02-08'

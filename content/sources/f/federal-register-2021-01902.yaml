@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 7406, published 2021-01-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206183702/https://www.federalregister.gov/documents/2021/01/28/2021-01902/notice-of-inventory-completion-us-department-of-interior-fish-and-wildlife-service-alaska-region
+  captured: '2025-02-06'

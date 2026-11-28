@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 38117, published 2021-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202191545/https://www.federalregister.gov/documents/2021/07/19/2021-15254/notice-of-inventory-completion-case-western-reserve-university-cleveland-oh
+  captured: '2025-02-02'

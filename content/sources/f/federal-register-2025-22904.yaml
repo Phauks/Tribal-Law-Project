@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 58288, published 2025-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251220022414/https://www.federalregister.gov/documents/2025/12/16/2025-22904/notice-of-intended-repatriation-indianapolis-museum-of-art-inc-dba-newfields-indianapolis-in
+  captured: '2025-12-20'

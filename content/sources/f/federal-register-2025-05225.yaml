@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 13876, published 2025-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601052838/https://www.federalregister.gov/documents/2025/03/27/2025-05225/notice-of-inventory-completion-oregon-historical-society-portland-or
+  captured: '2025-06-01'

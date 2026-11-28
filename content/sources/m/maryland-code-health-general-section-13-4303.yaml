@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=ghg&section=13-4303&enactments=false
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260420191039/https://www.mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=ghg&section=13-4303&enactments=false
+  captured: '2026-04-20'
 history:
   status: live
   last_checked: '2026-11-27'

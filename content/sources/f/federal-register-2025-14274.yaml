@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35729, published 2025-07-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825225327/https://www.federalregister.gov/documents/2025/07/29/2025-14274/notice-of-intended-repatriation-tennessee-department-of-environment-and-conservation-division-of
+  captured: '2025-08-25'

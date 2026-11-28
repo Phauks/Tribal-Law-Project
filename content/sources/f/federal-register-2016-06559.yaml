@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 15526, published 2016-03-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203060853/https://www.federalregister.gov/documents/2016/03/23/2016-06559/office-of-tribal-self-governance-planning-cooperative-agreement
+  captured: '2025-02-03'

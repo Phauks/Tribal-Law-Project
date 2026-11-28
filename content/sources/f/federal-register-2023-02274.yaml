@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 7460, published 2023-02-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206181607/https://www.federalregister.gov/documents/2023/02/03/2023-02274/notice-of-intent-to-repatriate-cultural-items-emory-university-michael-c-carlos-museum-atlanta-ga
+  captured: '2025-02-06'

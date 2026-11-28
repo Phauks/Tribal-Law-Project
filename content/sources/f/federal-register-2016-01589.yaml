@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 4662, published 2016-01-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251205221816/https://www.federalregister.gov/documents/2016/01/27/2016-01589/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-lake-mead
+  captured: '2025-12-05'

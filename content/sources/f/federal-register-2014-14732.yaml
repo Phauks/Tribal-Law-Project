@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 35776, published 2014-06-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204020642/https://www.federalregister.gov/documents/2014/06/24/2014-14732/notice-of-completion-of-inventory-of-native-american-human-remains-from-the-hawaiian-islands-in-the
+  captured: '2025-02-04'

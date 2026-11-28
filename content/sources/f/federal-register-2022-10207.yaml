@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 29175, published 2022-05-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209002251/https://www.federalregister.gov/documents/2022/05/12/2022-10207/cabazon-band-of-cahuilla-indians-amended-alcoholic-beverages-ordinance
+  captured: '2025-02-09'

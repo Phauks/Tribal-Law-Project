@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 1407, published 2010-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250401190622/https://www.federalregister.gov/documents/2010/01/11/2010-242/tribal-consultation-on-proposed-revisions-to-25-cfr-parts-81-and-82
+  captured: '2025-04-01'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 16502, published 2010-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208183808/https://www.federalregister.gov/documents/2010/04/01/2010-7252/notice-of-intent-to-repatriate-cultural-items-northwest-museum-whitman-college-walla-walla-wa
+  captured: '2025-02-08'

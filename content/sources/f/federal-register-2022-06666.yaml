@@ -82,3 +82,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 18393, published 2022-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209001042/https://www.federalregister.gov/documents/2022/03/30/2022-06666/notice-of-inventory-completion-michigan-state-historic-preservation-office-lansing-mi
+  captured: '2025-02-09'

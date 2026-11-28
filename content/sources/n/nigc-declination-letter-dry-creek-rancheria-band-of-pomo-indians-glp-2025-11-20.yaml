@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Commission''s table was read: https://www.nigc.gov/office-of-general-counsel/legal-opinions/declination-letters/'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260721005022/https://www.nigc.gov/wp-content/uploads/2026/03/2025.11.20-Dry-Creek-GLP.pdf
+  captured: '2026-07-21'

@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://law.lis.virginia.gov/vacode/title2.2/chapter16.1/section2.2-1604/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260411045759/https://law.lis.virginia.gov/vacode/title2.2/chapter16.1/section2.2-1604/
+  captured: '2026-04-11'
 history:
   status: live
   last_checked: '2026-11-27'

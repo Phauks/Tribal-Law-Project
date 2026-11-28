@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 5205, published 2013-01-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260811212113/https://www.federalregister.gov/documents/2013/01/24/2013-01314/native-american-graves-protection-and-repatriation-review-committee-findings-related-to-the-return
+  captured: '2026-08-11'

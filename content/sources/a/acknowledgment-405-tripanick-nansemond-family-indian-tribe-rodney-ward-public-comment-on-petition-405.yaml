@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/petitions-in-process/tripanick-nansemond-family-indian-tribe'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812212130/https://www.bia.gov/sites/default/files/media_document/405_dpco_2024_ward_2024-12-27_0.pdf
+  captured: '2026-08-12'

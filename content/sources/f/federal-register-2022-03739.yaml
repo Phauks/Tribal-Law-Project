@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 10236, published 2022-02-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203061439/https://www.federalregister.gov/documents/2022/02/23/2022-03739/notice-of-inventory-completion-indiana-university-bloomington-in
+  captured: '2025-02-03'

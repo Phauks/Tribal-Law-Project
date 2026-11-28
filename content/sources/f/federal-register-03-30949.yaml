@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 70048, published 2003-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209234815/https://www.federalregister.gov/documents/2003/12/16/03-30949/notice-of-approval-of-class-iii-tribal-gaming-ordinances
+  captured: '2025-02-09'

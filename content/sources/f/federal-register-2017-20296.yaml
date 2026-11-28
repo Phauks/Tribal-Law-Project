@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 44453, published 2017-09-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212121117/https://www.federalregister.gov/documents/2017/09/22/2017-20296/notice-of-inventory-completion-missouri-department-of-natural-resources-jefferson-city-mo-correction
+  captured: '2025-02-12'

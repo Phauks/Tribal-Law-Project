@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 5993, published 2004-02-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204101914/https://www.federalregister.gov/documents/2004/02/09/04-2642/proposed-information-collection-request-for-public-comment-60-day-notice
+  captured: '2025-02-04'

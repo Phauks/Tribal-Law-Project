@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 45607, published 2000-07-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208140237/https://www.federalregister.gov/documents/2000/07/24/00-18584/final-base-membership-roll-of-the-catawba-indian-nation-formerly-known-as-the-catawba-tribe-of-south
+  captured: '2025-02-08'

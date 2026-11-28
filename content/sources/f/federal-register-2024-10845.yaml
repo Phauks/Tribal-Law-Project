@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 43415, published 2024-05-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207013351/https://www.federalregister.gov/documents/2024/05/17/2024-10845/notice-of-proposed-purchasedreferred-care-delivery-area-re-designation-for-the-pokagon-band-of
+  captured: '2025-02-07'

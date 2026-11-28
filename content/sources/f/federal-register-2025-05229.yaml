@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 13876, published 2025-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601050120/https://www.federalregister.gov/documents/2025/03/27/2025-05229/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-06-01'

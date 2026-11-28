@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 29374, published 2022-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207161637/https://www.federalregister.gov/documents/2022/05/13/2022-10267/notice-of-inventory-completion-beloit-college-logan-museum-of-anthropology-beloit-wi
+  captured: '2025-02-07'

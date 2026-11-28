@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 13652, published 2002-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218065655/https://www.federalregister.gov/documents/2002/03/25/02-7004/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-peabody-museum-of
+  captured: '2025-02-18'

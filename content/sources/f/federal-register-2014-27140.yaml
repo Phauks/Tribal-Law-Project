@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 68465, published 2014-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206195047/https://www.federalregister.gov/documents/2014/11/17/2014-27140/notice-of-inventory-completion-illinois-state-museum-springfield-il
+  captured: '2025-02-06'

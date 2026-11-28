@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 25901, published 2026-05-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260516053315/https://www.federalregister.gov/documents/2026/05/12/2026-09419/notice-of-intended-repatriation-chicago-historical-society-chicago-il
+  captured: '2026-05-16'

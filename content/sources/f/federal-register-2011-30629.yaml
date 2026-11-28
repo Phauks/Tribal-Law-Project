@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 73660, published 2011-11-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213152743/https://www.federalregister.gov/documents/2011/11/29/2011-30629/notice-of-intent-to-repatriate-cultural-items-us-department-of-defense-army-corps-of-engineers-walla
+  captured: '2025-02-13'

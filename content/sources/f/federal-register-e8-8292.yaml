@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 20941, published 2008-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214053401/https://www.federalregister.gov/documents/2008/04/17/E8-8292/notice-of-inventory-completion-kingman-museum-incorporated-battle-creek-mi
+  captured: '2025-02-14'

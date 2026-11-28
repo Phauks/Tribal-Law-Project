@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 22613, published 2010-04-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210418001855/https://www.federalregister.gov/documents/2010/04/29/2010-9883/renewal-of-agency-information-collection-for-loan-guarantee-insurance-and-interest-subsidy-program
+  captured: '2021-04-18'

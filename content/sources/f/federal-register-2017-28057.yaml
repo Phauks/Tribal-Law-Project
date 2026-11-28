@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 61581, published 2017-12-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203162029/https://www.federalregister.gov/documents/2017/12/28/2017-28057/request-for-nominations-of-members-to-serve-on-the-bureau-of-indian-education-advisory-board-for
+  captured: '2025-02-03'

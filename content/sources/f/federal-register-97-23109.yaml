@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 45875, published 1997-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206102136/https://www.federalregister.gov/documents/1997/08/29/97-23109/notice-of-inventory-completion-for-native-american-human-remains-from-new-mexico-in-the-possession
+  captured: '2025-02-06'

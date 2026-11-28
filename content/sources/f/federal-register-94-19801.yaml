@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-08-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208071208/https://www.federalregister.gov/documents/1994/08/12/94-19801/notice-of-intent-to-prepare-an-environmental-impact-statement-for-a-proposed-lease-to-construct-and
+  captured: '2025-02-08'

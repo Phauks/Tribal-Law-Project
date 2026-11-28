@@ -21,7 +21,10 @@ citation:
       - 27
 original_link: https://legislature.maine.gov/statutes/35-A/title35-Asec3602.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260120033559/https://legislature.maine.gov/statutes/35-A/title35-Asec3602.html
+  captured: '2026-01-20'
 history:
   status: live
   last_checked: '2026-11-27'

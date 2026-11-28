@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12785, published 2025-03-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601032240/https://www.federalregister.gov/documents/2025/03/19/2025-04617/notice-of-inventory-completion-grand-rapids-public-museum-grand-rapids-mi
+  captured: '2025-06-01'

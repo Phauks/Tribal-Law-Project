@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 23502, published 2012-04-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812152354/https://www.federalregister.gov/documents/2012/04/19/2012-9461/notice-of-inventory-completion-university-of-denver-department-of-anthropology-and-museum-of
+  captured: '2026-08-12'

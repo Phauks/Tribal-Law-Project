@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 47598, published 2024-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611182914/https://www.federalregister.gov/documents/2024/06/03/2024-12070/notice-of-inventory-completion-university-of-southern-california-los-angeles-ca
+  captured: '2025-06-11'

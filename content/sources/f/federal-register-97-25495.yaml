@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 50866, published 1997-09-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206025259/https://www.federalregister.gov/documents/1997/09/29/97-25495/use-of-columbia-river-treaty-fishing-access-sites
+  captured: '2025-02-06'

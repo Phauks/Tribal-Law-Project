@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 29163, published 2023-05-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611195127/https://www.federalregister.gov/documents/2023/05/05/2023-09580/notice-of-inventory-completion-us-army-corps-of-engineers-mobile-district-mobile-al
+  captured: '2025-06-11'

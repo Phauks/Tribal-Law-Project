@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH1/SECT36-124
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260101133130/https://legislature.idaho.gov/statutesrules/idstat/Title36/T36CH1/SECT36-124/
+  captured: '2026-01-01'
 history:
   status: live
   last_checked: '2026-11-27'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 41465, published 2024-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250822190450/https://www.federalregister.gov/documents/2024/05/13/2024-10325/notice-of-inventory-completion-monterey-peninsula-college-monterey-ca
+  captured: '2025-08-22'

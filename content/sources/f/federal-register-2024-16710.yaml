@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 61142, published 2024-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211171636/https://www.federalregister.gov/documents/2024/07/30/2024-16710/notice-of-inventory-completion-us-army-corps-of-engineers-little-rock-district-little-rock-ar
+  captured: '2025-02-11'

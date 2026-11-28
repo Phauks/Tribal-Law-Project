@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 54347, published 2023-08-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611175228/https://www.federalregister.gov/documents/2023/08/10/2023-17134/notice-of-inventory-completion-indiana-state-museum-and-historic-sites-corporation-indianapolis-in
+  captured: '2025-06-11'

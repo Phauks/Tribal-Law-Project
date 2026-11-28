@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 14463, published 2025-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812213140/https://www.federalregister.gov/documents/2025/04/02/2025-05611/notice-of-proposed-transfer-or-reinterment-no-mans-land-historical-society-goodwell-ok
+  captured: '2026-08-12'

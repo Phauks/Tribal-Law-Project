@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 25560, published 2019-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215025020/https://www.federalregister.gov/documents/2019/06/03/2019-11428/notice-of-intent-to-repatriate-cultural-items-university-of-san-diego-san-diego-ca
+  captured: '2025-02-15'

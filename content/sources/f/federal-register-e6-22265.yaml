@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 78221, published 2006-12-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213184154/https://www.federalregister.gov/documents/2006/12/28/E6-22265/submission-of-information-collection-to-the-office-of-management-and-budget-omb-for-review-under-the
+  captured: '2025-02-13'

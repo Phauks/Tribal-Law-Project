@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 59809, published 2001-11-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202181140/https://www.federalregister.gov/documents/2001/11/30/01-29707/notice-of-availability-of-the-supplemental-draft-environmental-impact-statement-for-the-proposed
+  captured: '2025-02-02'

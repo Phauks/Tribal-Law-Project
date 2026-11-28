@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 534, published 2026-01-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260116171825/https://www.federalregister.gov/documents/2026/01/07/2026-00072/notice-of-intended-repatriation-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2026-01-16'

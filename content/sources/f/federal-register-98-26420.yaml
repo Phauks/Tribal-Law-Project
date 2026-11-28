@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 53097, published 1998-10-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260424045148/https://www.federalregister.gov/documents/1998/10/02/98-26420/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-peabody-museum-of-archaeology
+  captured: '2026-04-24'

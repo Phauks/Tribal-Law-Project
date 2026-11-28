@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 53516, published 2017-11-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205083609/https://www.federalregister.gov/documents/2017/11/16/2017-24879/agency-information-collection-activities-probate-of-indian-estates-except-for-members-of-the-osage
+  captured: '2025-02-05'

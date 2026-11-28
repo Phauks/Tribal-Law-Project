@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 62892, published 2018-12-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260118173235/https://www.federalregister.gov/documents/2018/12/06/2018-26445/notice-of-inventory-completion-university-of-california-davis-davis-ca
+  captured: '2026-01-18'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 70205, published 2019-12-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205125154/https://www.federalregister.gov/documents/2019/12/20/2019-27531/final-environmental-impact-statement-for-the-proposed-eagle-shadow-mountain-solar-project-clark
+  captured: '2025-02-05'

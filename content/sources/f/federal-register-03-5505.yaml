@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 11136, published 2003-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207154223/https://www.federalregister.gov/documents/2003/03/07/03-5505/notice-of-inventory-completion-horner-collection-oregon-state-university-corvallis-or
+  captured: '2025-02-07'

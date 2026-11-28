@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 30675, published 2025-07-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250717093800/https://www.federalregister.gov/documents/2025/07/10/2025-12820/notice-of-inventory-completion-indiana-university-bloomington-in
+  captured: '2025-07-17'

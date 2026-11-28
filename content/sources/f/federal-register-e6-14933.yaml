@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 53470, published 2006-09-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208170024/https://www.federalregister.gov/documents/2006/09/11/E6-14933/notice-of-inventory-completion-university-of-colorado-museum-boulder-co
+  captured: '2025-02-08'

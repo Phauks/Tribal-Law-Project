@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 38734, published 2026-06-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260626164823/https://www.federalregister.gov/documents/2026/06/26/2026-12969/hearth-act-approval-of-caddo-nation-of-oklahoma-leasing-ordinance
+  captured: '2026-06-26'

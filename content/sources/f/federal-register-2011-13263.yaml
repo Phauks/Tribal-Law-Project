@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 30961, published 2011-05-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202063227/https://www.federalregister.gov/documents/2011/05/27/2011-13263/renewal-of-agency-information-collection-for-verification-of-indian-preference-for-employment-with
+  captured: '2025-02-02'

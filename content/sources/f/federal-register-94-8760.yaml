@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-04-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218163558/https://www.federalregister.gov/documents/1994/04/12/94-8760/information-collection-submitted-to-the-office-of-management-and-budget-for-review-under-the
+  captured: '2025-02-18'

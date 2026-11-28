@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 60682, published 2000-10-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204025641/https://www.federalregister.gov/documents/2000/10/12/00-26146/notice-of-inventory-completion-of-human-remains-and-associated-funerary-objects-in-the-possession-of
+  captured: '2025-02-04'

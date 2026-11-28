@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 31513, published 2005-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202070738/https://www.federalregister.gov/documents/2005/06/01/05-10809/native-american-graves-protection-and-repatriation-review-committee-findings-and-recommendations
+  captured: '2025-02-02'

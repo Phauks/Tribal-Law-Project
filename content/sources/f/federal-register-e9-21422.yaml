@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 46436, published 2009-09-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502053639/https://www.federalregister.gov/documents/2009/09/09/E9-21422/privacy-act-of-1974-report-of-an-altered-system-of-records-medical-staff-credentials-and-privileges
+  captured: '2025-05-02'

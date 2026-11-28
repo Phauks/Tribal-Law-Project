@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 21034, published 2006-04-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210331225647/https://www.federalregister.gov/documents/2006/04/24/E6-6105/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-community-development
+  captured: '2021-03-31'

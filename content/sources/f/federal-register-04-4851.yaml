@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 10255, published 2004-03-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201231705/https://www.federalregister.gov/documents/2004/03/04/04-4851/submission-of-information-collection-for-probate-to-the-office-of-management-and-budget
+  captured: '2025-02-01'

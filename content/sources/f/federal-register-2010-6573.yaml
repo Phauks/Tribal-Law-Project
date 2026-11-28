@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 14459, published 2010-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202150336/https://www.federalregister.gov/documents/2010/03/25/2010-6573/notice-of-intent-to-repatriate-cultural-items-western-reserve-historical-society-cleveland-oh
+  captured: '2025-02-02'

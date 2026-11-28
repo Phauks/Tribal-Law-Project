@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 335, published 2020-01-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207161651/https://www.federalregister.gov/documents/2020/01/03/2019-28377/notice-of-intent-to-repatriate-cultural-items-abbe-museum-bar-harbor-me
+  captured: '2025-02-07'

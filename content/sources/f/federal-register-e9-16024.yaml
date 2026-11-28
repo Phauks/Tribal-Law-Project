@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 32186, published 2009-07-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210505121443/https://www.federalregister.gov/documents/2009/07/07/E9-16024/notice-of-inventory-completion-us-department-of-agriculture-forest-service-tongass-national-forest
+  captured: '2021-05-05'

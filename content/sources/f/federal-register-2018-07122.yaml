@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 15174, published 2018-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203064439/https://www.federalregister.gov/documents/2018/04/09/2018-07122/agency-information-collection-activities-data-elements-for-student-enrollment-in-bureau-funded
+  captured: '2025-02-03'

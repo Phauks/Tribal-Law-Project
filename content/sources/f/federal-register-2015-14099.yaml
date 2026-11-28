@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 32601, published 2015-06-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202033834/https://www.federalregister.gov/documents/2015/06/09/2015-14099/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-everglades
+  captured: '2025-02-02'

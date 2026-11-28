@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 46730, published 2000-07-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209013704/https://www.federalregister.gov/documents/2000/07/31/00-19275/st-croix-meadows-racing-park-draft-environmental-assessment-notice-of-availability
+  captured: '2025-02-09'

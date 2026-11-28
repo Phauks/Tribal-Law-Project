@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 75659, published 2022-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204042448/https://www.federalregister.gov/documents/2022/12/09/2022-26803/notice-of-inventory-completion-new-york-state-museum-albany-ny
+  captured: '2025-02-04'

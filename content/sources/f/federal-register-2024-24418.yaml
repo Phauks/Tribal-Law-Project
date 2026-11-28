@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 84388, published 2024-10-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524170443/https://www.federalregister.gov/documents/2024/10/22/2024-24418/notice-of-inventory-completion-los-rios-community-college-district-sacramento-ca
+  captured: '2025-05-24'

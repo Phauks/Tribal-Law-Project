@@ -85,3 +85,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 52488, published 2015-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251205161259/https://www.federalregister.gov/documents/2015/08/31/2015-21493/notice-of-inventory-completion-history-colorado-formerly-colorado-historical-society-denver-co
+  captured: '2025-12-05'

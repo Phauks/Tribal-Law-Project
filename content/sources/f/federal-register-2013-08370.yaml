@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 21399, published 2013-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204230113/https://www.federalregister.gov/documents/2013/04/10/2013-08370/notice-of-inventory-completion-center-for-archaeological-research-at-the-university-of-texas-at-san
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 47165, published 2023-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611200653/https://www.federalregister.gov/documents/2023/07/21/2023-15517/notice-of-inventory-completion-eastern-california-museum-independence-ca
+  captured: '2025-06-11'

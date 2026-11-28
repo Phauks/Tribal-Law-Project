@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 18990, published 2013-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210502093334/https://www.federalregister.gov/documents/2013/03/28/2013-07117/medical-professionals-recruitment-and-continuing-education-programs
+  captured: '2021-05-02'

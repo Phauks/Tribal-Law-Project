@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 6665, published 2021-01-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201205504/https://www.federalregister.gov/documents/2021/01/22/2021-01338/notice-of-intent-to-repatriate-cultural-items-museum-of-riverside-riverside-ca
+  captured: '2025-02-01'

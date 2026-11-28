@@ -79,3 +79,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 4792, published 2025-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250429002636/https://www.federalregister.gov/documents/2025/01/16/2025-01009/notice-of-inventory-completion-northwestern-university-evanston-il
+  captured: '2025-04-29'

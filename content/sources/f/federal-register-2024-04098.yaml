@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 14705, published 2024-02-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203073530/https://www.federalregister.gov/documents/2024/02/28/2024-04098/notice-of-intent-to-repatriate-cultural-items-california-state-university-sacramento-sacramento-ca
+  captured: '2025-02-03'

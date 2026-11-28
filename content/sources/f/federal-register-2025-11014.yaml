@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 25368, published 2025-06-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250622171230/https://www.federalregister.gov/documents/2025/06/16/2025-11014/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management
+  captured: '2025-06-22'

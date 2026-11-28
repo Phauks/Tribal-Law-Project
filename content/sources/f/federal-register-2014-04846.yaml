@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 12523, published 2014-03-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208151712/https://www.federalregister.gov/documents/2014/03/05/2014-04846/proclaiming-certain-lands-as-reservation-for-the-muckleshoot-indian-tribe-of-washington-state
+  captured: '2025-02-08'

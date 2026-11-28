@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 40850, published 2025-08-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825232533/https://www.federalregister.gov/documents/2025/08/21/2025-15974/notice-of-intended-repatriation-old-dartmouth-historical-society-dba-new-bedford-whaling-museum-new
+  captured: '2025-08-25'

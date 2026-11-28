@@ -31,6 +31,10 @@ opinions:
     page: 522
 original_link: https://www.loc.gov/item/usrep240522/
 retrieved: '2026-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211222930/https://www.loc.gov/item/usrep240522/
+  captured: '2025-02-11'
 history:
   status: live
   last_checked: '2026-11-26'

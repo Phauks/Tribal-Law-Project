@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 86358, published 2024-10-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204050450/https://www.federalregister.gov/documents/2024/10/30/2024-25188/notice-of-inventory-completion-the-san-diego-archaeological-center-san-diego-ca
+  captured: '2025-02-04'

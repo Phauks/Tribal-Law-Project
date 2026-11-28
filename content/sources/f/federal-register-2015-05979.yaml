@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 13604, published 2015-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205082412/https://www.federalregister.gov/documents/2015/03/16/2015-05979/notice-of-intent-to-repatriate-cultural-items-minnesota-historical-society-st-paul-mn
+  captured: '2025-02-05'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 68950, published 2003-12-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206134343/https://www.federalregister.gov/documents/2003/12/10/03-30567/notice-of-intent-to-repatriate-cultural-items-peabody-museum-of-archaeology-and-ethnology-harvard
+  captured: '2025-02-06'

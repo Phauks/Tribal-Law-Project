@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 48535, published 2012-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212235228/https://www.federalregister.gov/documents/2012/08/14/2012-19935/notice-of-inventory-completion-washington-state-parks-and-recreation-commission-olympia-wa
+  captured: '2025-02-12'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 45291, published 2011-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218200044/https://www.federalregister.gov/documents/2011/07/28/2011-19062/renewal-of-agency-information-collection-for-certificate-of-degree-of-indian-or-alaska-native-blood
+  captured: '2025-02-18'

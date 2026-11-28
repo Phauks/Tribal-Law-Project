@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 60661, published 2004-10-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208114109/https://www.federalregister.gov/documents/2004/10/12/04-22828/notice-of-inventory-completion-oregon-state-university-corvallis-or
+  captured: '2025-02-08'

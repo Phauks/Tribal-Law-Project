@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-104/STATUTE-104-Pg4662
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127085652/https://www.govinfo.gov/app/details/STATUTE-104/STATUTE-104-Pg4662
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-104/STATUTE-104-Pg4662.pdf
   checksum: 605e434ace57d4f22b9cf57530a2abdc1c65cccc5736f3a1cb544a845b001d7d

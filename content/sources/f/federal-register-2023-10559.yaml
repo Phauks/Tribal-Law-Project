@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 31819, published 2023-05-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202104014/https://www.federalregister.gov/documents/2023/05/18/2023-10559/notice-of-inventory-completion-museum-of-the-rockies-bozeman-mt
+  captured: '2025-02-02'

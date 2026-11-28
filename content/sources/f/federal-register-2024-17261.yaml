@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 63970, published 2024-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524195126/https://www.federalregister.gov/documents/2024/08/06/2024-17261/notice-of-inventory-completion-fort-leavenworth-fort-leavenworth-ks
+  captured: '2025-05-24'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 47895, published 2023-07-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250612133815/https://www.federalregister.gov/documents/2023/07/25/2023-15724/otoe-missouria-tribe-of-indians-liquor-control-ordinance-of-2022-repeal-and-replace
+  captured: '2025-06-12'

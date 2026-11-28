@@ -69,3 +69,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/huron-potawatomi-inc'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260808194054/https://www.bia.gov/sites/default/files/media_document/44_fr_116.pdf
+  captured: '2026-08-08'

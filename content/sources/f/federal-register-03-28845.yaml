@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 65314, published 2003-11-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250423213042/https://www.federalregister.gov/documents/2003/11/19/03-28845/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-04-23'

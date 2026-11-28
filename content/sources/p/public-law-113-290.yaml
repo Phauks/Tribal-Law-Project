@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-128/STATUTE-128-Pg3291
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807093303/https://www.govinfo.gov/app/details/STATUTE-128/STATUTE-128-Pg3291
+  captured: '2026-08-07'
 file:
   storage_key: govinfo/STATUTE-128/STATUTE-128-Pg3291.pdf
   checksum: 9d2e63e46c4b2c8869ab1f8b0302f996ab49b411da10760696e84e9a5d6913d1

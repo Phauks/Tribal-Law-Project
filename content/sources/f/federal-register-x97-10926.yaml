@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 50622, published 1997-09-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211090252/https://www.federalregister.gov/documents/1997/09/26/X97-10926/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-palm-springs-desert-museum
+  captured: '2025-02-11'

@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 1979-03-30; cover sheet 1979-03-30; decision 1979-03-30
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010706/https://www.oha.doi.gov/IBIA/IbiaDecisions/07ibia/07ibia128.PDF
+  captured: '2026-03-25'

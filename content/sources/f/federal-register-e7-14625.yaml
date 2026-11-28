@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 41524, published 2007-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210328222131/https://www.federalregister.gov/documents/2007/07/30/E7-14625/notice-of-inventory-completion-peabody-museum-of-archaeology-and-ethnology-harvard-university
+  captured: '2021-03-28'

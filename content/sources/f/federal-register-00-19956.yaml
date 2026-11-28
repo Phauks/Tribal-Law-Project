@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 48530, published 2000-08-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208200632/https://www.federalregister.gov/documents/2000/08/08/00-19956/notice-of-inventory-completion-for-native-american-human-remains-from-fresno-kings-and-madera
+  captured: '2025-02-08'

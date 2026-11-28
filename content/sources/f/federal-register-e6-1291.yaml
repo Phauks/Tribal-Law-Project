@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 5362, published 2006-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210526223257/https://www.federalregister.gov/documents/2006/02/01/E6-1291/notice-of-inventory-completion-university-of-pennsylvania-museum-of-archaeology-and-anthropology
+  captured: '2021-05-26'

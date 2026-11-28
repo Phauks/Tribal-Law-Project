@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 41983, published 2024-05-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611185951/https://www.federalregister.gov/documents/2024/05/14/2024-10525/santa-ana-pueblo-liquor-code-amendment
+  captured: '2025-06-11'

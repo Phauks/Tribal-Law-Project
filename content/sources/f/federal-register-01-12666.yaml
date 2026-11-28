@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 27915, published 2001-05-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260527180627/https://www.federalregister.gov/documents/2001/05/21/01-12666/protection-of-products-of-indian-art-and-craftsmanship
+  captured: '2026-05-27'

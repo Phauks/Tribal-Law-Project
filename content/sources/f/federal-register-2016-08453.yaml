@@ -77,3 +77,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 21899, published 2016-04-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260328010521/https://www.federalregister.gov/documents/2016/04/13/2016-08453/notice-of-inventory-completion-history-colorado-formerly-colorado-historical-society-denver-co
+  captured: '2026-03-28'

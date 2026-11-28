@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 76304, published 2015-12-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251205004928/https://www.federalregister.gov/documents/2015/12/08/2015-30902/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-12-05'

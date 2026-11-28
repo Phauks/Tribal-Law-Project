@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 17430, published 2018-04-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210504080441/https://www.federalregister.gov/documents/2018/04/19/2018-08218/hearth-act-approval-of-the-oneida-nation-of-wisconsins-regulation
+  captured: '2021-05-04'

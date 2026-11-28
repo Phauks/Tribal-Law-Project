@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 4795, published 2025-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250428211615/https://www.federalregister.gov/documents/2025/01/16/2025-01010/notice-of-inventory-completion-no-mans-land-museum-goodwell-ok
+  captured: '2025-04-28'

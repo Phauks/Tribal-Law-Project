@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 69307, published 2022-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207103936/https://www.federalregister.gov/documents/2022/11/18/2022-25135/notice-of-inventory-completion-louisiana-state-university-museum-of-natural-science-baton-rouge-la
+  captured: '2025-02-07'

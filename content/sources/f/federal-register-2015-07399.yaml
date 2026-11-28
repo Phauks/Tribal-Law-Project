@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 17481, published 2015-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202062358/https://www.federalregister.gov/documents/2015/04/01/2015-07399/notice-of-intent-to-repatriate-cultural-items-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-02'

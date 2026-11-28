@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-91/STATUTE-91-Pg272
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127091138/https://www.govinfo.gov/app/details/STATUTE-91/STATUTE-91-Pg272
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-91/STATUTE-91-Pg272.pdf
   checksum: 00bb76cd8e34118225669a2799565d4e44693b2fa9eb00a0f8196b8a00e6973f

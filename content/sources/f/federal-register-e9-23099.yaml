@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 48751, published 2009-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250303142112/https://www.federalregister.gov/documents/2009/09/24/E9-23099/fy-2010-special-diabetes-program-for-indians-community-directed-grant-program
+  captured: '2025-03-03'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 13889, published 2013-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216010212/https://www.federalregister.gov/documents/2013/03/01/2013-04770/notice-of-intent-to-repatriate-cultural-items-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-16'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 33641, published 2023-05-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250228165216/https://www.federalregister.gov/documents/2023/05/24/2023-11018/notice-of-inventory-completion-warren-county-cultural-and-heritage-affairs-shippen-manor-museum
+  captured: '2025-02-28'

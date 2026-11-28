@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 43715, published 2011-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210504120208/https://www.federalregister.gov/documents/2011/07/21/2011-18353/notice-of-inventory-completion-university-of-colorado-museum-boulder-co
+  captured: '2021-05-04'

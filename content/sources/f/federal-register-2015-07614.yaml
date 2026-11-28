@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 17779, published 2015-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204153932/https://www.federalregister.gov/documents/2015/04/02/2015-07614/little-traverse-bay-bands-of-odawa-indians-liquor-control-statute
+  captured: '2025-02-04'

@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 66584, published 2021-11-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414171854/https://www.federalregister.gov/documents/2021/11/23/2021-25524/notice-of-inventory-completion-us-department-of-the-interior-us-fish-and-wildlife-service-south
+  captured: '2025-04-14'

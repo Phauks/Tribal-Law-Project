@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 48190, published 1999-09-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204101730/https://www.federalregister.gov/documents/1999/09/02/99-22852/land-acquisitions-little-traverse-bay-bands-of-odawa-indians-of-michigan
+  captured: '2025-02-04'

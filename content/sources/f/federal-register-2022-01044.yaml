@@ -79,3 +79,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 3119, published 2022-01-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207015126/https://www.federalregister.gov/documents/2022/01/20/2022-01044/notice-of-inventory-completion-fort-lewis-college-durango-co
+  captured: '2025-02-07'

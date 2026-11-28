@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 68630, published 2023-10-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204111928/https://www.federalregister.gov/documents/2023/10/04/2023-22057/special-diabetes-program-for-indians
+  captured: '2025-02-04'

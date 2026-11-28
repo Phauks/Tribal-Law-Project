@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 27661, published 2025-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250709100753/https://www.federalregister.gov/documents/2025/06/27/2025-11940/notice-of-intended-repatriation-california-state-university-stanislaus-turlock-ca
+  captured: '2025-07-09'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 19904, published 2008-04-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204011852/https://www.federalregister.gov/documents/2008/04/11/E8-7766/notice-of-cancellation-of-the-environmental-impact-statement-for-the-proposed-big-sandy-casino-and
+  captured: '2025-02-04'

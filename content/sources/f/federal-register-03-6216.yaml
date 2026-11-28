@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 12374, published 2003-03-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208040158/https://www.federalregister.gov/documents/2003/03/14/03-6216/notice-of-inventory-completion-us-department-of-justice-federal-bureau-of-investigation-resident
+  captured: '2025-02-08'

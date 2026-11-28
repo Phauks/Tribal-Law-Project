@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 45456, published 2014-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208151118/https://www.federalregister.gov/documents/2014/08/05/2014-18480/proclaiming-certain-lands-as-reservation-for-the-stillaguamish-tribe-of-indians-of-washington
+  captured: '2025-02-08'

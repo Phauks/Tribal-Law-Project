@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 9773, published 2007-03-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211055007/https://www.federalregister.gov/documents/2007/03/05/E7-3715/land-acquisitions-cherokee-nation-of-oklahoma
+  captured: '2025-02-11'

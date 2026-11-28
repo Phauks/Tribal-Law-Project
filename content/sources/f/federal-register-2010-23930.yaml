@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 58426, published 2010-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206055601/https://www.federalregister.gov/documents/2010/09/24/2010-23930/notice-of-intent-to-repatriate-cultural-items-thomas-gilcrease-institute-of-american-history-and-art
+  captured: '2025-02-06'

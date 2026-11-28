@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-82/STATUTE-82-Pg4-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127090744/https://www.govinfo.gov/app/details/STATUTE-82/STATUTE-82-Pg4-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-82/STATUTE-82-Pg4-2.pdf
   checksum: 5d316d8313bcafc659f27c299117d72569057c2616c178fa29a053b36237eae5

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 42261, published 1997-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250509011616/https://www.federalregister.gov/documents/1997/08/06/97-20634/notice-of-inventory-completion-for-native-american-human-remains-from-prince-william-sound-ak-in-the
+  captured: '2025-05-09'

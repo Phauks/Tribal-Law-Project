@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 32426, published 2026-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260609054232/https://www.federalregister.gov/documents/2026/06/01/2026-10861/scotts-valley-band-of-pomo-indians-of-california-liquor-control-ordinance
+  captured: '2026-06-09'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 19686, published 2012-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807184052/https://www.federalregister.gov/documents/2012/04/02/2012-7881/notice-of-inventory-completion-us-department-of-defense-army-corps-of-engineers-walla-walla-district
+  captured: '2026-08-07'

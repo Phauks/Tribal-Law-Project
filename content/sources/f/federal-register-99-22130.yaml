@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 46705, published 1999-08-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205011516/https://www.federalregister.gov/documents/1999/08/26/99-22130/draft-programmatic-environmental-impact-statement-for-the-proposed-navajo-ten-year-forest-management
+  captured: '2025-02-05'

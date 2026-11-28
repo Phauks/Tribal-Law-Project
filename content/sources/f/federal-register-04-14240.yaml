@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 35058, published 2004-06-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210511225726/https://www.federalregister.gov/documents/2004/06/23/04-14240/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-menominee-nation
+  captured: '2021-05-11'

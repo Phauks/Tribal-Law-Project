@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 13611, published 2015-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204222420/https://www.federalregister.gov/documents/2015/03/16/2015-05997/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-reclamation-columbia-cascades
+  captured: '2025-02-04'

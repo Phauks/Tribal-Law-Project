@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 77362, published 2023-11-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250612021953/https://www.federalregister.gov/documents/2023/11/09/2023-24780/fee-rate-and-fingerprint-fees
+  captured: '2025-06-12'

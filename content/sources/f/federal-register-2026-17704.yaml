@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 55898, published 2026-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261013100057/https://www.federalregister.gov/documents/2026/08/31/2026-17704/notice-of-intended-repatriation-university-of-illinois-urbana-champaign-champaign-il
+  captured: '2026-10-13'

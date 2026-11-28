@@ -79,3 +79,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 32595, published 2015-06-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202101622/https://www.federalregister.gov/documents/2015/06/09/2015-14111/notice-of-inventory-completion-us-army-corps-of-engineers-st-louis-district-mark-twain-lake-mo
+  captured: '2025-02-02'

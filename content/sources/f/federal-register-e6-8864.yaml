@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 32999, published 2006-06-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209233308/https://www.federalregister.gov/documents/2006/06/07/E6-8864/announcement-of-fund-availability-competitive-grant-program
+  captured: '2025-02-09'

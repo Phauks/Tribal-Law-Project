@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 48676, published 2007-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213190239/https://www.federalregister.gov/documents/2007/08/24/E7-16801/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-intermountain
+  captured: '2025-02-13'

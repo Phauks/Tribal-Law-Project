@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 37862, published 2015-07-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260506194108/https://www.federalregister.gov/documents/2015/07/01/2015-16193/federal-acknowledgment-of-american-indian-tribes
+  captured: '2026-05-06'

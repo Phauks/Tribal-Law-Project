@@ -69,3 +69,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 12189, published 2007-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217181219/https://www.federalregister.gov/documents/2007/03/15/E7-4728/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-fort-union
+  captured: '2025-02-17'

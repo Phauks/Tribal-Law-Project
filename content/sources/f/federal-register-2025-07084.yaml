@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 17254, published 2025-04-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601040701/https://www.federalregister.gov/documents/2025/04/24/2025-07084/prairie-island-indian-community-amendments-to-liquor-control-ordinance
+  captured: '2025-06-01'

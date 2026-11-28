@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 42669, published 2006-07-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202071301/https://www.federalregister.gov/documents/2006/07/27/E6-12000/notice-of-intent-to-repatriate-a-cultural-item-institute-for-american-indian-studies-washington-ct
+  captured: '2025-02-02'

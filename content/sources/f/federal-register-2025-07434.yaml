@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 17952, published 2025-04-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812183749/https://www.federalregister.gov/documents/2025/04/30/2025-07434/notice-of-intended-repatriation-los-angeles-county-museum-of-natural-history-los-angeles-ca
+  captured: '2026-08-12'

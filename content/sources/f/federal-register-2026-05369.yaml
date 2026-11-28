@@ -78,3 +78,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 13327, published 2026-03-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260714003401/https://www.federalregister.gov/documents/2026/03/19/2026-05369/notice-of-inventory-completion-edge-of-the-cedars-state-park-museum-blanding-ut
+  captured: '2026-07-14'

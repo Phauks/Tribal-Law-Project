@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 58796, published 2021-10-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260608084147/https://www.federalregister.gov/documents/2021/10/25/2021-23063/indian-land-title-and-records-correction
+  captured: '2026-06-08'

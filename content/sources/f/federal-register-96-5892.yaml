@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 10351, published 1996-03-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203023626/https://www.federalregister.gov/documents/1996/03/13/96-5892/redesignation-of-contract-health-service-delivery-area-confederated-tribes-of-the-chehalis
+  captured: '2025-02-03'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 24503, published 2000-04-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218094025/https://www.federalregister.gov/documents/2000/04/26/00-10315/notice-of-inventory-completion-for-native-american-human-remains-associated-funerary-objects-and
+  captured: '2025-02-18'

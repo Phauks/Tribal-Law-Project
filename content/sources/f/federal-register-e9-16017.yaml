@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 32182, published 2009-07-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205013507/https://www.federalregister.gov/documents/2009/07/07/E9-16017/notice-of-inventory-completion-department-of-anthropology-museum-at-the-university-of-california
+  captured: '2025-02-05'

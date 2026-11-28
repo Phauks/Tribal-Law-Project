@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 35791, published 2014-06-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204154012/https://www.federalregister.gov/documents/2014/06/24/2014-14758/notice-of-intent-to-repatriate-cultural-items-county-of-titus-mount-pleasant-tx
+  captured: '2025-02-04'

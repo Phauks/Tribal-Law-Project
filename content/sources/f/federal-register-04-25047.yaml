@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 65216, published 2004-11-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204233851/https://www.federalregister.gov/documents/2004/11/10/04-25047/plan-for-the-use-and-distribution-of-assiniboine-and-sioux-tribes-of-the-fort-peck-reservation
+  captured: '2025-02-04'

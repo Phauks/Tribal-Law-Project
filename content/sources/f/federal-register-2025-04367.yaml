@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12554, published 2025-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250321192211/https://www.federalregister.gov/documents/2025/03/18/2025-04367/notice-of-intended-disposition-us-department-of-the-interior-national-park-service-katmai-national
+  captured: '2025-03-21'

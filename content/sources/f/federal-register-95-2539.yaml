@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 6552, published 1995-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516230800/https://www.federalregister.gov/documents/1995/02/02/95-2539/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-museum-of-new-mexico-santa
+  captured: '2017-05-16'

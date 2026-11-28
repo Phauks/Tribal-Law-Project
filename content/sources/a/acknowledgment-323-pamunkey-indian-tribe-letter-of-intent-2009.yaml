@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/pamunkey-indian-tribe'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418145129/https://www.bia.gov/sites/default/files/media_document/323_loi.pdf
+  captured: '2026-04-18'

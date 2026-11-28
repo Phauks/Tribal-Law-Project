@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 9626, published 2009-03-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250628142429/https://www.federalregister.gov/documents/2009/03/05/E9-4680/notice-of-inventory-completion-arizona-state-university-school-of-human-evolution-and-social-change
+  captured: '2025-06-28'

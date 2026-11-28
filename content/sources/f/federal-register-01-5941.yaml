@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 14201, published 2001-03-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210080342/https://www.federalregister.gov/documents/2001/03/09/01-5941/correction-notice-of-intent-to-repatriate-cultural-items-from-kawaihae-kohala-island-of-hawaii-hi-in
+  captured: '2025-02-10'

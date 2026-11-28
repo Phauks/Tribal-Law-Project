@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 44011, published 2010-07-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212081013/https://www.federalregister.gov/documents/2010/07/27/2010-18319/liquor-ordinance-of-the-wichita-and-affiliated-tribes
+  captured: '2025-02-12'

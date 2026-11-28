@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 8768, published 2001-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250418141419/https://www.federalregister.gov/documents/2001/02/02/01-2737/trust-management-reform-leasingpermitting-grazing-probate-and-funds-held-in-trust
+  captured: '2025-04-18'

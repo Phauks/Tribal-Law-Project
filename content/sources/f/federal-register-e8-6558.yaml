@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 16905, published 2008-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205203658/https://www.federalregister.gov/documents/2008/03/31/E8-6558/notice-of-inventory-completion-paul-h-karshner-memorial-museum-puyallup-wa-correction
+  captured: '2025-02-05'

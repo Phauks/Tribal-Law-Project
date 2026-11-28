@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 25363, published 2025-06-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250622180719/https://www.federalregister.gov/documents/2025/06/16/2025-11008/notice-of-intended-repatriation-california-department-of-parks-and-recreation-sacramento-ca
+  captured: '2025-06-22'

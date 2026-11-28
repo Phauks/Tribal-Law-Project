@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 20655, published 2019-05-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202200337/https://www.federalregister.gov/documents/2019/05/10/2019-09641/agency-information-collection-activities-payment-for-appointed-counsel-in-involuntary-indian-child
+  captured: '2025-02-02'

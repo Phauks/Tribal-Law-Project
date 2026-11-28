@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 47517, published 2006-08-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208193149/https://www.federalregister.gov/documents/2006/08/17/E6-13603/notice-of-inventory-completion-thomas-burke-memorial-washington-state-museum-university-of
+  captured: '2025-02-08'

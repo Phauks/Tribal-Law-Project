@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.revisor.mn.gov/statutes/cite/116J.8751
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260308182728/https://www.revisor.mn.gov/statutes/cite/116j.8751
+  captured: '2026-03-08'
 history:
   status: live
   last_checked: '2026-11-27'

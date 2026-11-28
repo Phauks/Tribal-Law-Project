@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 7910, published 2019-03-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202163023/https://www.federalregister.gov/documents/2019/03/05/2019-03884/notice-to-propose-the-re-designation-of-the-delivery-area-for-the-havasupai-tribe
+  captured: '2025-02-02'

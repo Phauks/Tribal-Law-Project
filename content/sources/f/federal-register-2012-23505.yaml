@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 58861, published 2012-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204033113/https://www.federalregister.gov/documents/2012/09/24/2012-23505/renewal-of-agency-information-collection-for-tribal-colleges-and-universities-annual-report-form
+  captured: '2025-02-04'

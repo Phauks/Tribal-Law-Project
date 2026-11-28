@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-52/STATUTE-52-Pg347-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127075247/https://www.govinfo.gov/app/details/STATUTE-52/STATUTE-52-Pg347-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-52/STATUTE-52-Pg347-2.pdf
   checksum: 676236d8f039f9e2ce8136104b92e18df92c075b74e78dfcccc5d4107b65fd6b

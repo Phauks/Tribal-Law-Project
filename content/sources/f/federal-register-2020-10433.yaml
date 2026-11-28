@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 29479, published 2020-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204032646/https://www.federalregister.gov/documents/2020/05/15/2020-10433/notice-of-inventory-completion-columbus-state-university-columbus-ga
+  captured: '2025-02-04'

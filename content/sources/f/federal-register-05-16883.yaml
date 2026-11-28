@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 49950, published 2005-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204215318/https://www.federalregister.gov/documents/2005/08/25/05-16883/notice-of-inventory-completion-university-of-oregon-museum-of-natural-history-eugene-or-and-us
+  captured: '2025-02-04'

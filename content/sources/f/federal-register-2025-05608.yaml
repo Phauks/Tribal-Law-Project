@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 14464, published 2025-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601033628/https://www.federalregister.gov/documents/2025/04/02/2025-05608/notice-of-inventory-completion-cleveland-museum-of-natural-history-cleveland-oh
+  captured: '2025-06-01'

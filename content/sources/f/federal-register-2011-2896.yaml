@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 7500, published 2011-02-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250516155430/https://www.federalregister.gov/documents/2011/02/10/2011-2896/indian-trust-management-reform-implementation-of-statutory-changes
+  captured: '2025-05-16'

@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 52440, published 2000-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210414121510/https://www.federalregister.gov/documents/2000/08/29/00-21973/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-museum-of-indian-arts-and
+  captured: '2021-04-14'

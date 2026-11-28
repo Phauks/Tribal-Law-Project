@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 61835, published 2005-10-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250403200033/https://www.federalregister.gov/documents/2005/10/26/05-21330/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-04-03'

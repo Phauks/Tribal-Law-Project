@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 27646, published 2025-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250709041337/https://www.federalregister.gov/documents/2025/06/27/2025-11868/notice-of-purchasedreferred-care-delivery-area-redesignation-for-the-sac-and-fox-nation-of-missouri
+  captured: '2025-07-09'

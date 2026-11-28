@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 58649, published 2009-11-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208100933/https://www.federalregister.gov/documents/2009/11/13/E9-27235/notice-of-intent-to-repatriate-a-cultural-item-the-oregon-historical-society-portland-or
+  captured: '2025-02-08'

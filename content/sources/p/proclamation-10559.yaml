@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2023/05/03/2023-09522/asian-american-native-hawaiian-and-pacific-islander-heritage-month-2023'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205133418/https://www.federalregister.gov/documents/2023/05/03/2023-09522/asian-american-native-hawaiian-and-pacific-islander-heritage-month-2023
+  captured: '2025-02-05'

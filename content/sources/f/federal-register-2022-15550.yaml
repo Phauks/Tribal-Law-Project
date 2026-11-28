@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 43551, published 2022-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208151354/https://www.federalregister.gov/documents/2022/07/21/2022-15550/notice-of-intent-to-repatriate-cultural-items-mattatuck-museum-waterbury-ct
+  captured: '2025-02-08'

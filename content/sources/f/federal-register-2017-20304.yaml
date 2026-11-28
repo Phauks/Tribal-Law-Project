@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 44462, published 2017-09-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212080100/https://www.federalregister.gov/documents/2017/09/22/2017-20304/notice-of-intent-to-repatriate-cultural-items-us-army-corps-of-engineers-omaha-district-omaha-ne
+  captured: '2025-02-12'

@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 42771, published 2004-07-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250403165429/https://www.federalregister.gov/documents/2004/07/16/04-16151/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-04-03'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 41172, published 1996-08-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208133952/https://www.federalregister.gov/documents/1996/08/07/96-19940/santa-ana-pueblo-liquor-code
+  captured: '2025-02-08'

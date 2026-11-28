@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 18318, published 2019-04-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213192312/https://www.federalregister.gov/documents/2019/04/30/2019-08741/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-13'

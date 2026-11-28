@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 65416, published 2019-11-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220327132636/https://www.federalregister.gov/documents/2019/11/27/2019-25733/notice-of-inventory-completion-the-wistar-institute-philadelphia-pa-and-the-university-of
+  captured: '2022-03-27'

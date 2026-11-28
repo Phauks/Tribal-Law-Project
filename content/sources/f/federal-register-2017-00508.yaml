@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 3802, published 2017-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205225638/https://www.federalregister.gov/documents/2017/01/12/2017-00508/notice-of-inventory-completion-international-boundary-and-water-commission-us-section-el-paso-tx-and
+  captured: '2025-02-05'

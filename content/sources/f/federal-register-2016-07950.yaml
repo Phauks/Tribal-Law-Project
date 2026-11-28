@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 20396, published 2016-04-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260421160009/https://www.federalregister.gov/documents/2016/04/07/2016-07950/office-of-direct-service-and-contracting-tribes-tribal-management-grant-program
+  captured: '2026-04-21'

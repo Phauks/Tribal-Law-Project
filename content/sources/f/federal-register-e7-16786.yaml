@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 48671, published 2007-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214014412/https://www.federalregister.gov/documents/2007/08/24/E7-16786/notice-of-intent-to-repatriate-a-cultural-item-denver-museum-of-nature-and-science-denver-co
+  captured: '2025-02-14'

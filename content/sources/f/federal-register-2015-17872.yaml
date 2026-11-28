@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 43100, published 2015-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204032356/https://www.federalregister.gov/documents/2015/07/21/2015-17872/request-for-public-comment-60-day-proposed-information-collection-addendum-to-declaration-for
+  captured: '2025-02-04'

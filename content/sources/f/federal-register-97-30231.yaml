@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 61526, published 1997-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210135623/https://www.federalregister.gov/documents/1997/11/18/97-30231/notice-of-inventory-completion-for-native-american-human-remains-and-an-associated-funerary-object
+  captured: '2025-02-10'

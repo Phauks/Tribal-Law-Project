@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 27064, published 1997-05-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215070854/https://www.federalregister.gov/documents/1997/05/16/97-12926/notice-of-schedule-of-regional-consultation-sessions-on-tribal-shares
+  captured: '2025-02-15'

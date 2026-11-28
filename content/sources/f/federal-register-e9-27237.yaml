@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 58650, published 2009-11-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208091821/https://www.federalregister.gov/documents/2009/11/13/E9-27237/notice-of-inventory-completion-riverside-metropolitan-museum-riverside-ca
+  captured: '2025-02-08'

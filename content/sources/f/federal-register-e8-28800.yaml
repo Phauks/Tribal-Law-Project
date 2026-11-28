@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 74187, published 2008-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204115237/https://www.federalregister.gov/documents/2008/12/05/E8-28800/shingle-springs-band-of-miwok-indians-liquor-ordinance
+  captured: '2025-02-04'

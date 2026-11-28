@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-09-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204022053/https://www.federalregister.gov/documents/1994/09/15/94-22796/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-renewal-of-rights-of-way
+  captured: '2025-02-04'

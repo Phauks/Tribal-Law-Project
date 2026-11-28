@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-116/STATUTE-116-Pg122
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260806203009/https://www.govinfo.gov/app/details/STATUTE-116/STATUTE-116-Pg122
+  captured: '2026-08-06'
 file:
   storage_key: govinfo/STATUTE-116/STATUTE-116-Pg122.pdf
   checksum: 24b13e2bcdda3dade5d409f7e83b9fbd726ad56f83de6be4c5266089a70bd83e

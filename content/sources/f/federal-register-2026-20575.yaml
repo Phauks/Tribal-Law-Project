@@ -111,3 +111,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 64390, published 2026-10-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261008103009/https://www.federalregister.gov/documents/2026/10/08/2026-20575/notice-of-inventory-completion-university-of-wisconsin-oshkosh-oshkosh-wi
+  captured: '2026-10-08'

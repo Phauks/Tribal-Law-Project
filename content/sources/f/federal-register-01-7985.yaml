@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 17572, published 2001-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210512044554/https://www.federalregister.gov/documents/2001/04/02/01-7985/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-peabody-essex-museum-salem-ma
+  captured: '2021-05-12'

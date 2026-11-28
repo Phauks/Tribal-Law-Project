@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-100/STATUTE-100-Pg1783
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251117111844/https://www.govinfo.gov/app/details/STATUTE-100/STATUTE-100-Pg1783
+  captured: '2025-11-17'
 file:
   storage_key: govinfo/STATUTE-100/STATUTE-100-Pg1783.pdf
   checksum: 163b99fbaf92928eaed9a76ca0871d47497de587c39bec0d39a7c3e9479f238b

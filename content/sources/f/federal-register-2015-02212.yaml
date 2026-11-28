@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 6538, published 2015-02-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807191742/https://www.federalregister.gov/documents/2015/02/05/2015-02212/notice-of-intent-to-repatriate-cultural-items-beneski-museum-of-natural-history-amherst-college
+  captured: '2026-08-07'

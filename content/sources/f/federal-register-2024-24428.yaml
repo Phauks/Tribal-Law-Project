@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 84390, published 2024-10-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525162402/https://www.federalregister.gov/documents/2024/10/22/2024-24428/notice-of-inventory-completion-eastern-california-museum-independence-ca
+  captured: '2025-05-25'

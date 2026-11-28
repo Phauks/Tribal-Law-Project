@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 90379, published 2016-12-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260712033742/https://www.federalregister.gov/documents/2016/12/14/2016-29991/final-environmental-impact-statement-and-a-revised-draft-conformity-determination-for-the-proposed
+  captured: '2026-07-12'

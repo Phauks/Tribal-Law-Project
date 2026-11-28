@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 1767, published 2006-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209012010/https://www.federalregister.gov/documents/2006/01/11/E6-140/corrections-to-the-notice-of-availability-of-the-draft-environmental-impact-statement-for-the
+  captured: '2025-02-09'

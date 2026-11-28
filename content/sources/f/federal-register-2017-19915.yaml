@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 43784, published 2017-09-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260714231050/https://www.federalregister.gov/documents/2017/09/19/2017-19915/proclaiming-certain-lands-as-reservation-for-the-jamestown-sklallam-tribe-of-washington
+  captured: '2026-07-14'

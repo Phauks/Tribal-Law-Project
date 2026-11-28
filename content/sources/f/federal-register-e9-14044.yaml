@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 28250, published 2009-06-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204083826/https://www.federalregister.gov/documents/2009/06/15/E9-14044/office-of-urban-indian-health-programs
+  captured: '2025-02-04'

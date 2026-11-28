@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 55046, published 2000-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250223220106/https://www.federalregister.gov/documents/2000/09/12/00-23382/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-23'

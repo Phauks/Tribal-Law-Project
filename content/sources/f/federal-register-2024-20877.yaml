@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 74990, published 2024-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524180333/https://www.federalregister.gov/documents/2024/09/13/2024-20877/notice-of-inventory-completion-cape-girardeau-county-sheriffs-office-jackson-mo
+  captured: '2025-05-24'

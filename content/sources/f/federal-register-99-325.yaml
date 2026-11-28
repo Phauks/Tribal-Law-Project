@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 1028, published 1999-01-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210414202031/https://www.federalregister.gov/documents/1999/01/07/99-325/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2021-04-14'

@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 13495, published 2017-03-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208225922/https://www.federalregister.gov/documents/2017/03/13/2017-04852/notice-of-inventory-completion-us-fish-and-wildlife-service-southeast-region-hardeeville-sc
+  captured: '2025-02-08'

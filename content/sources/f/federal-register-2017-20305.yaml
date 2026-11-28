@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 44445, published 2017-09-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212001804/https://www.federalregister.gov/documents/2017/09/22/2017-20305/notice-of-inventory-completion-new-jersey-state-museum-trenton-nj
+  captured: '2025-02-12'

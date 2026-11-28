@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 50900, published 2021-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212220803/https://www.federalregister.gov/documents/2021/09/13/2021-19692/notice-of-inventory-completion-illinois-state-museum-springfield-il
+  captured: '2025-02-12'

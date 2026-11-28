@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 89037, published 2024-11-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208115611/https://www.federalregister.gov/documents/2024/11/12/2024-26085/notice-of-intended-disposition-amendment-us-department-of-the-interior-bureau-of-land-management
+  captured: '2025-02-08'

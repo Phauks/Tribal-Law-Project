@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 43114, published 2015-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204033427/https://www.federalregister.gov/documents/2015/07/21/2015-17906/omaha-tribe-of-nebraska-amendment-to-alcoholic-beverage-control-ordinance
+  captured: '2025-02-04'

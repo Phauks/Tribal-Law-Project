@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 43431, published 2004-07-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215062440/https://www.federalregister.gov/documents/2004/07/20/04-16583/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-scotts-valley-band-of
+  captured: '2025-02-15'

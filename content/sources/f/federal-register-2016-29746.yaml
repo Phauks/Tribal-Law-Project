@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 89499, published 2016-12-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260716225347/https://www.federalregister.gov/documents/2016/12/12/2016-29746/land-acquisitions-pokagon-band-of-potawatomi-indians-michigan-and-indiana
+  captured: '2026-07-16'

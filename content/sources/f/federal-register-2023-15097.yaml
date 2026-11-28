@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 45915, published 2023-07-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207100651/https://www.federalregister.gov/documents/2023/07/18/2023-15097/notice-of-inventory-completion-mtter-museum-of-the-college-of-physicians-of-philadelphia
+  captured: '2025-02-07'

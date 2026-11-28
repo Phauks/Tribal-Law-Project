@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 68821, published 2012-11-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208202949/https://www.federalregister.gov/documents/2012/11/16/2012-27951/notice-of-inventory-completion-us-department-of-agriculture-forest-service-ozark-st-francis-national
+  captured: '2025-02-08'

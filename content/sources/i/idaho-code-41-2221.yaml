@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title41/T41CH22/SECT41-2221
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260605222928/https://legislature.idaho.gov/statutesrules/idstat/Title41/T41CH22/SECT41-2221/
+  captured: '2026-06-05'
 history:
   status: live
   last_checked: '2026-11-27'

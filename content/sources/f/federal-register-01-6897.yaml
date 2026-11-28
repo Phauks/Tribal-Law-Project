@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 15741, published 2001-03-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204123142/https://www.federalregister.gov/documents/2001/03/20/01-6897/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-arizona-state-museum-tucson
+  captured: '2025-02-04'

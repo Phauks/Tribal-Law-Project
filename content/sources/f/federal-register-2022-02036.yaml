@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 5499, published 2022-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204234024/https://www.federalregister.gov/documents/2022/02/01/2022-02036/native-american-graves-protection-and-repatriation-review-committee-finding-regarding-the-cultural
+  captured: '2025-02-04'

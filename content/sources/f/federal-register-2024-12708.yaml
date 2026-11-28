@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 49186, published 2024-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202171132/https://www.federalregister.gov/documents/2024/06/11/2024-12708/notice-of-intended-repatriation-university-of-michigan-ann-arbor-mi
+  captured: '2025-02-02'

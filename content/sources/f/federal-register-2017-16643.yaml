@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 37111, published 2017-08-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210407020708/https://www.federalregister.gov/documents/2017/08/08/2017-16643/native-american-graves-protection-and-repatriation-review-committee-postponement-of-meeting
+  captured: '2021-04-07'

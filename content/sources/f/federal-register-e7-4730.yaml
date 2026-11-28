@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 12189, published 2007-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210506014058/https://www.federalregister.gov/documents/2007/03/15/E7-4730/notice-of-inventory-completion-us-department-of-agriculture-forest-service-tongass-national-forest
+  captured: '2021-05-06'

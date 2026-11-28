@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 29926, published 2017-06-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208063320/https://www.federalregister.gov/documents/2017/06/30/2017-13738/notice-of-inventory-completion-us-department-of-agriculture-forest-service-deschutes-national-forest
+  captured: '2025-02-08'

@@ -21,7 +21,10 @@ citation:
   number: 15-55896
 original_link: https://static.case.law/f3d/849/html/1262-01.html
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127185800/https://static.case.law/f3d/849/html/1262-01.html
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

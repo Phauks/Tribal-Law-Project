@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 22251, published 2021-04-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204125929/https://www.federalregister.gov/documents/2021/04/27/2021-08771/notice-of-intent-to-repatriate-cultural-items-the-trustees-of-reservations-boston-ma
+  captured: '2025-02-04'

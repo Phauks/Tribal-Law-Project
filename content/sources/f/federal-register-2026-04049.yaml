@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 10113, published 2026-03-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260301083849/https://www.federalregister.gov/documents/2026/03/02/2026-04049/notice-of-intended-repatriation-american-museum-of-natural-history-new-york-ny
+  captured: '2026-03-01'

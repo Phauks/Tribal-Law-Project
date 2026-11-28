@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 28944, published 2009-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260109163753/https://www.federalregister.gov/documents/2009/06/18/E9-14296/notice-of-inventory-completion-us-department-of-defense-us-army-corps-of-engineers-sacramento
+  captured: '2026-01-09'

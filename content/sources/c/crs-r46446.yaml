@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: R46446, version 4'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260513235152/https://www.congress.gov/crs-product/R46446
+  captured: '2026-05-13'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 3614, published 2014-01-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210507074202/https://www.federalregister.gov/documents/2014/01/22/2014-01154/rate-adjustments-for-indian-irrigation-projects
+  captured: '2021-05-07'

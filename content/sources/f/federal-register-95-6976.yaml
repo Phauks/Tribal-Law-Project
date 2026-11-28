@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 15156, published 1995-03-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208060619/https://www.federalregister.gov/documents/1995/03/22/95-6976/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-usda-forest-service
+  captured: '2025-02-08'

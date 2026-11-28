@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 78828, published 2002-12-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217042715/https://www.federalregister.gov/documents/2002/12/26/02-32508/fee-rates
+  captured: '2025-02-17'

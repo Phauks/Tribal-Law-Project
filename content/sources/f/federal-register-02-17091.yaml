@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 45145, published 2002-07-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217140310/https://www.federalregister.gov/documents/2002/07/08/02-17091/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-connecticut-state-museum-of
+  captured: '2025-02-17'

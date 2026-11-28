@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 69313, published 2022-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207063551/https://www.federalregister.gov/documents/2022/11/18/2022-25132/notice-of-inventory-completion-texas-archeological-research-laboratory-the-university-of-texas-at
+  captured: '2025-02-07'

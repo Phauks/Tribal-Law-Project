@@ -77,3 +77,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 42107, published 2009-08-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212114226/https://www.federalregister.gov/documents/2009/08/20/E9-19973/notice-of-inventory-completion-department-of-anthropology-museum-at-the-university-of-california
+  captured: '2025-02-12'

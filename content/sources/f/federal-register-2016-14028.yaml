@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 38733, published 2016-06-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208131725/https://www.federalregister.gov/documents/2016/06/14/2016-14028/proclaiming-certain-lands-as-reservation-for-the-bay-mills-indian-community
+  captured: '2025-02-08'

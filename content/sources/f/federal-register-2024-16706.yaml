@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 61135, published 2024-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213050318/https://www.federalregister.gov/documents/2024/07/30/2024-16706/notice-of-intended-disposition-us-department-of-the-interior-bureau-of-reclamation-oklahoma-texas
+  captured: '2025-02-13'

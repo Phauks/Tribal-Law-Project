@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 13367, published 2024-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250516112855/https://www.federalregister.gov/documents/2024/02/22/2024-03571/notice-of-intent-to-repatriate-cultural-items-fine-arts-museums-of-san-francisco-san-francisco-ca
+  captured: '2025-05-16'

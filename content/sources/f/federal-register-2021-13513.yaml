@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 33734, published 2021-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205082756/https://www.federalregister.gov/documents/2021/06/25/2021-13513/notice-of-intent-to-repatriate-cultural-items-gilcrease-museum-tulsa-ok
+  captured: '2025-02-05'

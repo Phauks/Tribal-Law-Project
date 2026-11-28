@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 43397, published 2023-07-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611182923/https://www.federalregister.gov/documents/2023/07/07/2023-14385/notice-of-inventory-completion-eastern-washington-university-cheney-wa
+  captured: '2025-06-11'

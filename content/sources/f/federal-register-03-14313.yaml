@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 33964, published 2003-06-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502054936/https://www.federalregister.gov/documents/2003/06/06/03-14313/native-american-graves-protection-and-repatriation-review-committee-nomination-solicitation
+  captured: '2025-05-02'

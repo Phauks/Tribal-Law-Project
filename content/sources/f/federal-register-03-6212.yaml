@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 12375, published 2003-03-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208140442/https://www.federalregister.gov/documents/2003/03/14/03-6212/notice-of-inventory-completion-nevada-state-museum-reno-nv-and-us-department-of-interior-bureau-of
+  captured: '2025-02-08'

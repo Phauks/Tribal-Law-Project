@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 5696, published 2005-02-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209035453/https://www.federalregister.gov/documents/2005/02/03/05-2056/submission-of-agency-information-collection-to-the-office-of-management-and-budget-for-review-under
+  captured: '2025-02-09'

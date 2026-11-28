@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213002157/https://www.federalregister.gov/documents/1994/07/12/94-16815/sale-of-lumber-and-other-forest-products-produced-by-indian-enterprises-from-the-forests-on-indian
+  captured: '2025-02-13'

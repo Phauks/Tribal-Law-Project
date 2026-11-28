@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204005832/https://www.federalregister.gov/documents/1994/03/25/94-7059/fiscal-year-fy-1994-indian-child-welfare-act-icwa-grant-program-availability-of-title-ii-icwa-funds
+  captured: '2025-02-04'

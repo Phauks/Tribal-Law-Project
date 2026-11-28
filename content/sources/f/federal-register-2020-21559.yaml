@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 61767, published 2020-09-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202204015/https://www.federalregister.gov/documents/2020/09/30/2020-21559/agency-information-collection-activities-verification-of-indian-preference-for-employment-in-bia-and
+  captured: '2025-02-02'

@@ -69,3 +69,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 45667, published 2018-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260426063126/https://www.federalregister.gov/documents/2018/09/10/2018-19532/notice-of-inventory-completion-the-american-museum-of-natural-history-new-york-ny
+  captured: '2026-04-26'

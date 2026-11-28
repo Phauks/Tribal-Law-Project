@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 25627, published 2025-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250622165055/https://www.federalregister.gov/documents/2025/06/17/2025-11152/notice-of-inventory-completion-california-department-of-transportation-oakland-ca
+  captured: '2025-06-22'

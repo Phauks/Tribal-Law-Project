@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 18457, published 2011-04-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203041338/https://www.federalregister.gov/documents/2011/04/04/2011-7912/regulatory-review-schedule-tribal-consultation
+  captured: '2025-02-03'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 13622, published 2012-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810175500/https://www.federalregister.gov/documents/2012/03/07/2012-5581/notice-of-intent-to-repatriate-cultural-items-maxey-museum-whitman-college-walla-walla-wa
+  captured: '2026-08-10'

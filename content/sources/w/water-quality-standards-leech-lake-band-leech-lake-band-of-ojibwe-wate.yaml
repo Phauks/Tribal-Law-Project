@@ -46,3 +46,7 @@ review:
   - check: listing
     result: missing
     detail: Only EPA's pages were read, not the standards themselves
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260218143000/https://www.epa.gov/system/files/documents/2025-01/llbo_wqs_0001_102424.pdf
+  captured: '2026-02-18'

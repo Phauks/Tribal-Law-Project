@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 28078, published 2011-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204000139/https://www.federalregister.gov/documents/2011/05/13/2011-11850/notice-of-inventory-completion-western-michigan-university-anthropology-department-kalamazoo-mi
+  captured: '2025-02-04'

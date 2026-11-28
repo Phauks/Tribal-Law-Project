@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 29944, published 2023-05-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202180042/https://www.federalregister.gov/documents/2023/05/09/2023-09763/notice-of-inventory-completion-us-department-of-the-interior-fish-and-wildlife-service-bismarck
+  captured: '2025-02-02'

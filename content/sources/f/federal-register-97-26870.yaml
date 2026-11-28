@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 53021, published 1997-10-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219064320/https://www.federalregister.gov/documents/1997/10/10/97-26870/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-19'

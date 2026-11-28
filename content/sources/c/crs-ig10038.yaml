@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: IG10038, version 4'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260331071425/https://www.congress.gov/crs-product/IG10038
+  captured: '2026-03-31'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 31613, published 2015-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205022254/https://www.federalregister.gov/documents/2015/06/03/2015-12985/land-acquisitions-soboba-band-of-luiseno-indians-of-california
+  captured: '2025-02-05'

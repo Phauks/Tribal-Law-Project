@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 41989, published 2017-09-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208230335/https://www.federalregister.gov/documents/2017/09/05/2017-18686/notice-of-inventory-completion-us-fish-and-wildlife-service-alaska-region-anchorage-ak
+  captured: '2025-02-08'

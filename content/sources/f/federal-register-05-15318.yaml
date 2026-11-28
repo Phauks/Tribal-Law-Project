@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 44693, published 2005-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207155655/https://www.federalregister.gov/documents/2005/08/03/05-15318/notice-of-intent-to-repatriate-a-cultural-item-university-of-pennsylvania-museum-of-archaeology-and
+  captured: '2025-02-07'

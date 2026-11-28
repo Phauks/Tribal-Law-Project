@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 11678, published 2013-02-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812171509/https://www.federalregister.gov/documents/2013/02/19/2013-03632/notice-of-inventory-completion-grand-rapids-public-museum-grand-rapids-mi
+  captured: '2026-08-12'

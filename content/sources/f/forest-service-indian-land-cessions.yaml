@@ -11,7 +11,10 @@ citation:
     date-parts: [[2026, 11, 26]]
 original_link: https://apps.fs.usda.gov/arcx/rest/services/EDW/EDW_TribalCessionLands_01/MapServer
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260710023048/https://apps.fs.usda.gov/arcx/rest/services/EDW/EDW_TribalCessionLands_01/MapServer
+  captured: '2026-07-10'
 history:
   status: live
   last_checked: '2026-11-26'

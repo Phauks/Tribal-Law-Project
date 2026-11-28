@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 60412, published 2022-10-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202032333/https://www.federalregister.gov/documents/2022/10/05/2022-21532/native-american-graves-protection-and-repatriation-review-committee-notice-of-nomination
+  captured: '2025-02-02'

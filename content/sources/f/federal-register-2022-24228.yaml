@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 67057, published 2022-11-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211131724/https://www.federalregister.gov/documents/2022/11/07/2022-24228/notice-of-intent-to-repatriate-cultural-items-robert-s-peabody-institute-of-archaeology-andover-ma
+  captured: '2025-02-11'

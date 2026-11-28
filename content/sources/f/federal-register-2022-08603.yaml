@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 24196, published 2022-04-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502054253/https://www.federalregister.gov/documents/2022/04/22/2022-08603/notice-of-inventory-completion-western-washington-university-department-of-anthropology-bellingham
+  captured: '2025-05-02'

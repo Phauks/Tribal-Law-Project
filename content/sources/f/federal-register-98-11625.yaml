@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 24185, published 1998-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203161100/https://www.federalregister.gov/documents/1998/05/01/98-11625/request-for-public-comment-60-day-proposed-collection-indian-health-service-medical-staff
+  captured: '2025-02-03'

@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CHRG-93hhrg95300Op4'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260728182423/https://www.govinfo.gov/app/details/CHRG-93hhrg95300Op4/
+  captured: '2026-07-28'

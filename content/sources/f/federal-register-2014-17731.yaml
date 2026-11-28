@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 43778, published 2014-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203224351/https://www.federalregister.gov/documents/2014/07/28/2014-17731/notice-of-inventory-completion-bishop-museum-honolulu-hi
+  captured: '2025-02-03'

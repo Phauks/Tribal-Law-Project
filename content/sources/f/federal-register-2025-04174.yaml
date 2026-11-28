@@ -80,3 +80,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12360, published 2025-03-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601043825/https://www.federalregister.gov/documents/2025/03/17/2025-04174/notice-of-inventory-completion-illinois-state-museum-springfield-il
+  captured: '2025-06-01'

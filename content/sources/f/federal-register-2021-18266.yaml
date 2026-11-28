@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 47512, published 2021-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202104107/https://www.federalregister.gov/documents/2021/08/25/2021-18266/notice-of-inventory-completion-the-university-of-california-berkeley-berkeley-ca-and-the-united
+  captured: '2025-02-02'

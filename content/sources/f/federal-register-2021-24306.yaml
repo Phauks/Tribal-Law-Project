@@ -107,3 +107,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 61789, published 2021-11-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203005406/https://www.federalregister.gov/documents/2021/11/08/2021-24306/notice-of-inventory-completion-michigan-state-university-east-lansing-mi
+  captured: '2025-02-03'

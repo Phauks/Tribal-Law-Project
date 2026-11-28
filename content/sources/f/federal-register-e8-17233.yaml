@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 43778, published 2008-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210429020358/https://www.federalregister.gov/documents/2008/07/28/E8-17233/proclaiming-certain-lands-as-reservation-for-the-jicarilla-apache-nation-of-new-mexico
+  captured: '2021-04-29'

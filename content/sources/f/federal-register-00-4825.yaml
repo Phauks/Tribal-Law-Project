@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 11077, published 2000-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217141304/https://www.federalregister.gov/documents/2000/03/01/00-4825/notice-of-inventory-completion-for-native-american-human-remains-from-kansas-in-the-possession-of
+  captured: '2025-02-17'

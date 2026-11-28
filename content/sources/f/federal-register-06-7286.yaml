@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 51844, published 2006-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261017145056/https://www.federalregister.gov/documents/2006/08/31/06-7286/liquor-control-ordinance-of-the-pawnee-nation-of-oklahoma
+  captured: '2026-10-17'

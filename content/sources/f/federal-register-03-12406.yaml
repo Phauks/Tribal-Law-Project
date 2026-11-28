@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 27100, published 2003-05-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213222445/https://www.federalregister.gov/documents/2003/05/19/03-12406/rumsey-indian-rancheria-of-wintun-indians-of-california-ordinance-for-the-sale-and-consumption-of
+  captured: '2025-02-13'

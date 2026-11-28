@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 38918, published 2001-07-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250407230013/https://www.federalregister.gov/documents/2001/07/26/01-18475/encumbrances-of-tribal-land-contract-approvals
+  captured: '2025-04-07'

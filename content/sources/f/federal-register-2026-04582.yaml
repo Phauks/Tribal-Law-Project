@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 11335, published 2026-03-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260710074310/https://www.federalregister.gov/documents/2026/03/09/2026-04582/notice-of-deadline-for-submitting-completed-requests-to-begin-participation-in-the-tribal
+  captured: '2026-07-10'

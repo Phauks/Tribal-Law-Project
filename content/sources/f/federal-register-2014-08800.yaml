@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 21804, published 2014-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202203614/https://www.federalregister.gov/documents/2014/04/17/2014-08800/notice-of-inventory-completion-texas-aandm-university-college-station-tx
+  captured: '2025-02-02'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 58617, published 2008-10-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206200809/https://www.federalregister.gov/documents/2008/10/07/E8-23706/land-acquisitions-habematolel-pomo-of-upper-lake-ca
+  captured: '2025-02-06'

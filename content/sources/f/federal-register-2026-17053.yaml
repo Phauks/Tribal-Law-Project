@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 54368, published 2026-08-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261012185209/https://www.federalregister.gov/documents/2026/08/21/2026-17053/ysleta-del-sur-pueblo-sale-of-alcoholic-beverages-ordinance-amendment
+  captured: '2026-10-12'

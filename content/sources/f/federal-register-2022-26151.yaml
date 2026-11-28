@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 73775, published 2022-12-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204103826/https://www.federalregister.gov/documents/2022/12/01/2022-26151/final-programmatic-environmental-impact-statement-for-the-2015-integrated-resource-management-plan
+  captured: '2025-02-04'

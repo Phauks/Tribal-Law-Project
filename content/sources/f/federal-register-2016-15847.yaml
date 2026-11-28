@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 43636, published 2016-07-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203234151/https://www.federalregister.gov/documents/2016/07/05/2016-15847/notice-of-availability-of-a-final-supplemental-environmental-impact-statement-for-the-jamul-indian
+  captured: '2025-02-03'

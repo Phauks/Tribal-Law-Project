@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 28942, published 2009-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204151346/https://www.federalregister.gov/documents/2009/06/18/E9-14297/notice-of-intent-to-repatriate-cultural-items-horner-collection-oregon-state-university-corvallis-or
+  captured: '2025-02-04'

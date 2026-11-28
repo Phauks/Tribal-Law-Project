@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 79904, published 2008-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204200342/https://www.federalregister.gov/documents/2008/12/30/E8-30896/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-california
+  captured: '2025-02-04'

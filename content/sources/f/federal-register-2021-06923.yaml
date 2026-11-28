@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 17633, published 2021-04-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202225214/https://www.federalregister.gov/documents/2021/04/05/2021-06923/indian-school-equalization-program-isep-and-isep-student-transportation-funding-formulas
+  captured: '2025-02-02'

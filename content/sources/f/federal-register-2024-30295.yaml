@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 103865, published 2024-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250530043837/https://www.federalregister.gov/documents/2024/12/19/2024-30295/hearth-act-approval-of-kickapoo-tribe-of-oklahoma-residential-leasing-ordinance
+  captured: '2025-05-30'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 31975, published 2011-06-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205162304/https://www.federalregister.gov/documents/2011/06/02/2011-13618/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-wheatgrass-ridge-wind
+  captured: '2025-02-05'

@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 91193, published 2016-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210331080331/https://www.federalregister.gov/documents/2016/12/16/2016-30335/notice-of-inventory-completion-seminole-tribe-of-florida-clewiston-fl
+  captured: '2021-03-31'

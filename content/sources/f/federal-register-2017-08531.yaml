@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 19382, published 2017-04-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260714230327/https://www.federalregister.gov/documents/2017/04/27/2017-08531/early-revision-of-agency-information-collection-for-the-application-for-admission-to-haskell-indian
+  captured: '2026-07-14'

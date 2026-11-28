@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 23489, published 2008-04-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201235657/https://www.federalregister.gov/documents/2008/04/30/E8-9526/submission-of-paperwork-reduction-act-request-to-office-of-management-and-budget
+  captured: '2025-02-01'

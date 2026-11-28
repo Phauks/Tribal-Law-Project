@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 32682, published 1998-06-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218103033/https://www.federalregister.gov/documents/1998/06/15/98-15820/notice-of-intent-to-repatriate-cultural-items-from-arizona-in-the-possession-of-the-museum-of-indian
+  captured: '2025-02-18'

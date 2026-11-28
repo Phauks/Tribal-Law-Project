@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12560, published 2025-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250330021310/https://www.federalregister.gov/documents/2025/03/18/2025-04384/notice-of-intended-repatriation-university-of-california-davis-davis-ca
+  captured: '2025-03-30'

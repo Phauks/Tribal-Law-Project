@@ -98,3 +98,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 19622, published 2016-04-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260328011522/https://www.federalregister.gov/documents/2016/04/05/2016-07775/notice-of-inventory-completion-museum-of-ojibwa-culture-and-marquette-mission-park-city-of-st-ignace
+  captured: '2026-03-28'

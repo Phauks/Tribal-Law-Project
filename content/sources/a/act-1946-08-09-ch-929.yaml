@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-60/STATUTE-60-Pg962
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127080056/https://www.govinfo.gov/app/details/STATUTE-60/STATUTE-60-Pg962
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-60/STATUTE-60-Pg962.pdf
   checksum: 333c400ee153648c31833384cbf2f8c88df166e7c2a19eb1db35832bb2c0812f

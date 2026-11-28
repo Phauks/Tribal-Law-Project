@@ -94,3 +94,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 6129, published 2015-02-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204081111/https://www.federalregister.gov/documents/2015/02/04/2015-02215/notice-of-inventory-completion-history-colorado-formerly-colorado-historical-society-denver-co
+  captured: '2025-02-04'

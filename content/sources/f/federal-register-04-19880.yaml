@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 53453, published 2004-09-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216103128/https://www.federalregister.gov/documents/2004/09/01/04-19880/proposed-information-collection-request-for-public-comment-30-day-notice
+  captured: '2025-02-16'

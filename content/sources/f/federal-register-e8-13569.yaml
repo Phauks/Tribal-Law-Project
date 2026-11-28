@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 34318, published 2008-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212090928/https://www.federalregister.gov/documents/2008/06/17/E8-13569/notice-of-inventory-completion-raymond-m-alf-museum-of-paleontology-claremont-ca
+  captured: '2025-02-12'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 15075, published 2023-03-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206190207/https://www.federalregister.gov/documents/2023/03/10/2023-04893/notice-of-intent-to-repatriate-cultural-items-hudson-museum-university-of-maine-orono-me
+  captured: '2025-02-06'

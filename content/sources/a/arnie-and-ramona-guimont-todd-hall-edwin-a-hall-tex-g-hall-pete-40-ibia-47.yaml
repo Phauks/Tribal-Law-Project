@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 2004-07-08; cover sheet 2004-07-08; decision not found
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325005657/https://www.oha.doi.gov/IBIA/IbiaDecisions/40ibia/40ibia047.PDF
+  captured: '2026-03-25'

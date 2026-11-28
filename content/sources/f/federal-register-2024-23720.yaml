@@ -79,3 +79,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 83048, published 2024-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524185805/https://www.federalregister.gov/documents/2024/10/15/2024-23720/notice-of-intended-disposition-us-department-of-the-interior-bureau-of-land-management-colorado
+  captured: '2025-05-24'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 36199, published 2013-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210421125418/https://www.federalregister.gov/documents/2013/06/17/2013-14293/indian-self-determination-and-education-assistance-contracts-correction
+  captured: '2021-04-21'

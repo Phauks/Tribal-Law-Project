@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 64456, published 2023-09-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250501084750/https://www.federalregister.gov/documents/2023/09/19/2023-20189/notice-of-inventory-completion-university-of-california-davis-davis-ca-and-university-of-california
+  captured: '2025-05-01'

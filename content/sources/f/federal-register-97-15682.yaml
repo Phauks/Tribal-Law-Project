@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 32652, published 1997-06-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260818153620/https://www.federalregister.gov/documents/1997/06/16/97-15682/notice-of-intent-to-repatriate-a-cultural-item-from-arizona-in-the-control-of-the-tallahassee-museum
+  captured: '2026-08-18'

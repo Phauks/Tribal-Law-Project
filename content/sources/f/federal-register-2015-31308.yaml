@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 77003, published 2015-12-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203075732/https://www.federalregister.gov/documents/2015/12/11/2015-31308/notice-of-intent-to-repatriate-a-cultural-item-los-angeles-county-museum-of-natural-history-los
+  captured: '2025-02-03'

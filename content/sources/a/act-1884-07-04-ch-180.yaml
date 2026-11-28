@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-23/STATUTE-23-Pg76
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127071404/https://www.govinfo.gov/app/details/STATUTE-23/STATUTE-23-Pg76
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-23/STATUTE-23-Pg76.pdf
   checksum: 51e6d24532fe45d35e49ab1d080d2f5a3f90269be115f781aa51cd684b923b4c

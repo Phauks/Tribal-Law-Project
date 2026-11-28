@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 9051, published 2011-02-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208160008/https://www.federalregister.gov/documents/2011/02/16/2011-3522/notice-of-inventory-completion-washington-state-department-of-natural-resources-olympia-wa-and
+  captured: '2025-02-08'

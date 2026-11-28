@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 67788, published 2015-11-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202024550/https://www.federalregister.gov/documents/2015/11/03/2015-27988/notice-of-inventory-completion-texas-archeological-research-laboratory-the-university-of-texas-at
+  captured: '2025-02-02'

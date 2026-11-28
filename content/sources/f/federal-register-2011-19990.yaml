@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 48179, published 2011-08-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207102922/https://www.federalregister.gov/documents/2011/08/08/2011-19990/notice-of-inventory-completion-slater-museum-of-natural-history-university-of-puget-sound-tacoma-wa
+  captured: '2025-02-07'

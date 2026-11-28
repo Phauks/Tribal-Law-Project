@@ -89,3 +89,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 27917, published 2014-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204033031/https://www.federalregister.gov/documents/2014/05/15/2014-11227/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-wupatki-national
+  captured: '2025-02-04'

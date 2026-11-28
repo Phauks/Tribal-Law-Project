@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 59175, published 2015-10-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202064756/https://www.federalregister.gov/documents/2015/10/01/2015-25024/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-big-bend-national
+  captured: '2025-02-02'

@@ -106,3 +106,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 17196, published 2021-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203034118/https://www.federalregister.gov/documents/2021/04/01/2021-06655/notice-of-inventory-completion-princeton-university-princeton-nj
+  captured: '2025-02-03'

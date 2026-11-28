@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 18876, published 2016-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209030336/https://www.federalregister.gov/documents/2016/04/01/2016-07441/renewal-of-agency-information-collection-for-energy-resource-development-program-grants
+  captured: '2025-02-09'

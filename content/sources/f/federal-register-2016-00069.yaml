@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 808, published 2016-01-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201223945/https://www.federalregister.gov/documents/2016/01/07/2016-00069/notice-of-inventory-completion-shiloh-museum-of-ozark-history-springdale-ar
+  captured: '2025-02-01'

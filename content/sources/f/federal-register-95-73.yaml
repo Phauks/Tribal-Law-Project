@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 1874, published 1995-01-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202034957/https://www.federalregister.gov/documents/1995/01/05/95-73/proposed-finding-against-federal-acknowledgment-of-the-mowa-band-of-choctaw
+  captured: '2025-02-02'

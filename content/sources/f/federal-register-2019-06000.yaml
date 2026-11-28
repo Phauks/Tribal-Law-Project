@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 11823, published 2019-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240326234249/https://www.federalregister.gov/documents/2019/03/28/2019-06000/notice-of-inventory-completion-fowler-museum-at-university-of-california-los-angeles-los-angeles-ca
+  captured: '2024-03-26'

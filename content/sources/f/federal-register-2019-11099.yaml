@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 24801, published 2019-05-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201214017/https://www.federalregister.gov/documents/2019/05/29/2019-11099/office-of-direct-service-and-contracting-tribes-tribal-management-grant-program
+  captured: '2025-02-01'

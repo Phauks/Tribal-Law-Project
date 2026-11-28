@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 26628, published 2000-05-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203005557/https://www.federalregister.gov/documents/2000/05/08/00-11379/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-california-state-office
+  captured: '2025-02-03'

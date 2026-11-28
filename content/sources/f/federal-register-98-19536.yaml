@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 39293, published 1998-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217112007/https://www.federalregister.gov/documents/1998/07/22/98-19536/notice-of-inventory-completion-for-native-american-human-remains-in-the-control-of-the-gila-national
+  captured: '2025-02-17'

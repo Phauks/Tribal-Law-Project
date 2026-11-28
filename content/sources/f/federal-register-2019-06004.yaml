@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 11820, published 2019-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207155556/https://www.federalregister.gov/documents/2019/03/28/2019-06004/notice-of-inventory-completion-the-american-museum-of-natural-history-new-york-ny-correction
+  captured: '2025-02-07'

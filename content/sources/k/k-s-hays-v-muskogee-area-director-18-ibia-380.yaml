@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 1990-07-20; cover sheet 1990-07-20; decision 1990-07-20
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325011117/https://www.oha.doi.gov/IBIA/IbiaDecisions/18ibia/18ibia380.PDF
+  captured: '2026-03-25'

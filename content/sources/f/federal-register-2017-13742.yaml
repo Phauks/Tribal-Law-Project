@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 29927, published 2017-06-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208065021/https://www.federalregister.gov/documents/2017/06/30/2017-13742/notice-of-intent-to-repatriate-cultural-items-arkansas-archeological-survey-fayetteville-ar
+  captured: '2025-02-08'

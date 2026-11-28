@@ -78,3 +78,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 62094, published 2015-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204171556/https://www.federalregister.gov/documents/2015/10/15/2015-26332/notice-of-inventory-completion-university-of-michigan-ann-arbor-mi
+  captured: '2025-02-04'

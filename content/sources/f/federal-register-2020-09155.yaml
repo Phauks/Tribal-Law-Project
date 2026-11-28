@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 24004, published 2020-04-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250501141555/https://www.federalregister.gov/documents/2020/04/30/2020-09155/indian-child-welfare-act-designated-tribal-agents-for-service-of-notice
+  captured: '2025-05-01'

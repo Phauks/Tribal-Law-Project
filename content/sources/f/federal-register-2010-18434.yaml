@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 44280, published 2010-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219130946/https://www.federalregister.gov/documents/2010/07/28/2010-18434/notice-of-intent-to-repatriate-cultural-items-us-department-of-agriculture-forest-service-coconino
+  captured: '2025-02-19'

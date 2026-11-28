@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 38053, published 2019-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203041620/https://www.federalregister.gov/documents/2019/08/05/2019-16680/notice-of-inventory-completion-the-university-of-oregon-museum-of-natural-and-cultural-history
+  captured: '2025-02-03'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 5108, published 2010-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213162230/https://www.federalregister.gov/documents/2010/02/01/2010-2023/notice-of-inventory-completion-university-of-wyoming-anthropology-department-human-remains
+  captured: '2025-02-13'

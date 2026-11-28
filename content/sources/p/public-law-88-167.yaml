@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-77/STATUTE-77-Pg301
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127090317/https://www.govinfo.gov/app/details/STATUTE-77/STATUTE-77-Pg301
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-77/STATUTE-77-Pg301.pdf
   checksum: 29c3cf8279bf4c47a7adf2fcef0de227164b9c78c8c89a842a24037309b30bb5

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 26802, published 2013-05-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250507193203/https://www.federalregister.gov/documents/2013/05/08/2013-10924/land-acquisitions-cowlitz-indian-tribe
+  captured: '2025-05-07'

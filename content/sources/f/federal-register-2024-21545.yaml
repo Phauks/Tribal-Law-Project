@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 77186, published 2024-09-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524165240/https://www.federalregister.gov/documents/2024/09/20/2024-21545/notice-of-intended-disposition-us-department-of-the-interior-bureau-of-reclamation-missouri-basin
+  captured: '2025-05-24'

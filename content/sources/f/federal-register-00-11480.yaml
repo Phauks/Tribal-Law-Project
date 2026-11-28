@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 26841, published 2000-05-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203030852/https://www.federalregister.gov/documents/2000/05/09/00-11480/mental-health-and-community-safety-initiative-for-american-indianalaska-native-children-youth-and
+  captured: '2025-02-03'

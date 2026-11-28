@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 67895, published 2009-12-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205081052/https://www.federalregister.gov/documents/2009/12/21/E9-30320/proclaiming-certain-lands-known-as-the-pecos-pueblo-grant-as-an-addition-to-the-reservation-for-the
+  captured: '2025-02-05'

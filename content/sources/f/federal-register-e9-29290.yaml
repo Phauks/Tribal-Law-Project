@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 65141, published 2009-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207183142/https://www.federalregister.gov/documents/2009/12/09/E9-29290/notice-of-intent-to-repatriate-cultural-items-paul-h-karshner-memorial-museum-puyallup-wa
+  captured: '2025-02-07'

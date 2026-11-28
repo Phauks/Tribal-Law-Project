@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 18402, published 2004-04-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205003947/https://www.federalregister.gov/documents/2004/04/07/04-7935/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-timbisha-shoshone
+  captured: '2025-02-05'

@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 20497, published 2025-05-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611191333/https://www.federalregister.gov/documents/2025/05/14/2025-08476/notice-of-intended-disposition-space-launch-deta-45-united-states-space-force-patrick-space-force
+  captured: '2025-06-11'

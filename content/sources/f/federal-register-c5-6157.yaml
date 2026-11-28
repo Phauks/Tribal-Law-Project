@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 21279, published 2005-04-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204154946/https://www.federalregister.gov/documents/2005/04/25/C5-6157/proposed-renewal-of-information-collection-for-source-directory-publication-comment-request
+  captured: '2025-02-04'

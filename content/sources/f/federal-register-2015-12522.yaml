@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 29733, published 2015-05-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213071518/https://www.federalregister.gov/documents/2015/05/22/2015-12522/notice-of-inventory-completion-indiana-department-of-natural-resources-division-of-historic
+  captured: '2025-02-13'

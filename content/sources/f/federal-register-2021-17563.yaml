@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 46007, published 2021-08-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207020051/https://www.federalregister.gov/documents/2021/08/17/2021-17563/notice-of-inventory-completion-alabama-department-of-transportation-montgomery-al
+  captured: '2025-02-07'

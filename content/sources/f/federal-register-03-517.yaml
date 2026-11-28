@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 1475, published 2003-01-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218194127/https://www.federalregister.gov/documents/2003/01/10/03-517/draft-environmental-impact-statement-for-the-jamul-indian-village-101-acre-fee-to-trust-transfer-and
+  captured: '2025-02-18'

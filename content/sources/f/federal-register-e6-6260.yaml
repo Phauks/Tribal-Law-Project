@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 24755, published 2006-04-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207211431/https://www.federalregister.gov/documents/2006/04/26/E6-6260/notice-of-inventory-completion-us-department-of-defense-army-corps-of-engineers-walla-walla-district
+  captured: '2025-02-07'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 67884, published 2009-12-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204223846/https://www.federalregister.gov/documents/2009/12/21/E9-30213/notice-of-re-designation-of-the-service-delivery-area-for-the-cowlitz-indian-tribe
+  captured: '2025-02-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 35948, published 2020-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208144635/https://www.federalregister.gov/documents/2020/06/12/2020-12697/draft-environmental-impact-statement-and-draft-conformity-determination-for-the-tejon-indian-tribes
+  captured: '2025-02-08'

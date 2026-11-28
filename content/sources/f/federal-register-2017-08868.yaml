@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 20612, published 2017-05-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204080020/https://www.federalregister.gov/documents/2017/05/03/2017-08868/notice-of-inventory-completion-human-remains-repository-department-of-anthropology-university-of
+  captured: '2025-02-04'

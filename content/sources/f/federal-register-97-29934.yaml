@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 61141, published 1997-11-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203034518/https://www.federalregister.gov/documents/1997/11/14/97-29934/tribal-liquor-ordinance-for-the-kaibab-band-of-paiute-indians-of-the-kaibab-indian-reservation-of
+  captured: '2025-02-03'

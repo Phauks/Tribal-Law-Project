@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 44708, published 2025-09-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250919190904/https://www.federalregister.gov/documents/2025/09/16/2025-17883/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-arizona-state
+  captured: '2025-09-19'

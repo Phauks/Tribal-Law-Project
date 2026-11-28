@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 44456, published 2017-09-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212022315/https://www.federalregister.gov/documents/2017/09/22/2017-20302/notice-of-inventory-completion-alabama-department-of-transportation-montgomery-al
+  captured: '2025-02-12'

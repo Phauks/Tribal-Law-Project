@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 20999, published 2024-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204113029/https://www.federalregister.gov/documents/2024/03/26/2024-06279/notice-of-intended-repatriation-gilcrease-museum-tulsa-ok
+  captured: '2025-02-04'

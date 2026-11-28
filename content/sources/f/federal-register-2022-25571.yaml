@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 71674, published 2022-11-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202100047/https://www.federalregister.gov/documents/2022/11/23/2022-25571/notice-of-intent-to-repatriate-cultural-items-southern-ute-cultural-center-and-museum-ignacio-co
+  captured: '2025-02-02'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 6669, published 2021-01-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201222341/https://www.federalregister.gov/documents/2021/01/22/2021-01339/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-puukohol-heiau
+  captured: '2025-02-01'

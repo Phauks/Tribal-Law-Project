@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 6572, published 2020-02-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206184801/https://www.federalregister.gov/documents/2020/02/05/2020-02242/notice-of-intent-to-repatriate-cultural-items-university-of-louisville-louisville-ky
+  captured: '2025-02-06'

@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 74870, published 2012-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210524125941/https://www.federalregister.gov/documents/2012/12/18/2012-30438/notice-of-inventory-completion-us-department-of-defense-army-fort-sill-museum-fort-sill-ok-and
+  captured: '2021-05-24'

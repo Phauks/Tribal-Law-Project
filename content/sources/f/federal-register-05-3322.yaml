@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 8633, published 2005-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210420011036/https://www.federalregister.gov/documents/2005/02/22/05-3322/notice-of-inventory-completion-missouri-department-of-natural-resources
+  captured: '2021-04-20'

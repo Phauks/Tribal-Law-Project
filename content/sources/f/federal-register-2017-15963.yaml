@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 35227, published 2017-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206202035/https://www.federalregister.gov/documents/2017/07/28/2017-15963/notice-of-delivery-area-designation-for-the-pamunkey-indian-tribe
+  captured: '2025-02-06'

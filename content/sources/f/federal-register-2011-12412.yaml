@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 29263, published 2011-05-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202020746/https://www.federalregister.gov/documents/2011/05/20/2011-12412/draft-environmental-impact-statement-for-the-proposed-pueblo-of-jemez-70277-acre-fee-to-trust
+  captured: '2025-02-02'

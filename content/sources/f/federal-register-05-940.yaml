@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 2880, published 2005-01-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214110106/https://www.federalregister.gov/documents/2005/01/18/05-940/land-acquisitions-suquamish-tribe-of-washington
+  captured: '2025-02-14'

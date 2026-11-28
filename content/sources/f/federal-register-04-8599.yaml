@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 20027, published 2004-04-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213180501/https://www.federalregister.gov/documents/2004/04/15/04-8599/proposed-finding-against-federal-acknowledgment-of-the-burt-lake-band-of-ottawa-and-chippewa-indians
+  captured: '2025-02-13'

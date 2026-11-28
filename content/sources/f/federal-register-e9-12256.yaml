@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 24876, published 2009-05-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202115946/https://www.federalregister.gov/documents/2009/05/26/E9-12256/notice-of-inventory-completion-oregon-state-university-department-of-anthropology-corvallis-or
+  captured: '2025-02-02'

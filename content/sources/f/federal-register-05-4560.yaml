@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 11688, published 2005-03-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206192529/https://www.federalregister.gov/documents/2005/03/09/05-4560/bear-river-band-of-rohnerville-rancheria-sale-and-consumption-of-alcoholic-beverages
+  captured: '2025-02-06'

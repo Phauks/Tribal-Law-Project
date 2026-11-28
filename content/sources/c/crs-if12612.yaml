@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: IF12612, version 3'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260208075812/https://www.congress.gov/crs-product/IF12612
+  captured: '2026-02-08'

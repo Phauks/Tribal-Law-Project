@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 65665, published 2024-08-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206180347/https://www.federalregister.gov/documents/2024/08/12/2024-17874/notice-of-inventory-completion-wesleyan-university-middletown-ct
+  captured: '2025-02-06'

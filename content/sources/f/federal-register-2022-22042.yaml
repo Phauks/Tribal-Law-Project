@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 61361, published 2022-10-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204152946/https://www.federalregister.gov/documents/2022/10/11/2022-22042/notice-of-inventory-completion-william-and-mary-department-of-anthropology-williamsburg-va
+  captured: '2025-02-04'

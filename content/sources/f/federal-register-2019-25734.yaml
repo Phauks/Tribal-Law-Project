@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 65410, published 2019-11-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205074629/https://www.federalregister.gov/documents/2019/11/27/2019-25734/notice-of-inventory-completion-university-of-california-santa-cruz-santa-cruz-ca
+  captured: '2025-02-05'

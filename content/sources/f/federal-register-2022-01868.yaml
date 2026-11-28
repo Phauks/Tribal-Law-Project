@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 4909, published 2022-01-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250403040150/https://www.federalregister.gov/documents/2022/01/31/2022-01868/hearth-act-approval-of-eastern-shawnee-tribe-of-oklahoma-residential-leasing-act
+  captured: '2025-04-03'

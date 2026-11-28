@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 8994, published 2002-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260328081059/https://www.federalregister.gov/documents/2002/02/27/02-4581/notice-of-intent-to-repatriate-unassociated-funerary-objects-in-the-possession-of-the-us-department
+  captured: '2026-03-28'

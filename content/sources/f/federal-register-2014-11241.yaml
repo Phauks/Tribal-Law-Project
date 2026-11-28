@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 27932, published 2014-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204033650/https://www.federalregister.gov/documents/2014/05/15/2014-11241/notice-of-inventory-completion-ohio-historical-society-columbus-oh
+  captured: '2025-02-04'

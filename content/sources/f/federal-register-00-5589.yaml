@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 13170, published 2000-03-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210004136/https://www.federalregister.gov/documents/2000/03/10/00-5589/higher-education-workforce-project
+  captured: '2025-02-10'

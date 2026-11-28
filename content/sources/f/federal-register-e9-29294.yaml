@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 65148, published 2009-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207212712/https://www.federalregister.gov/documents/2009/12/09/E9-29294/notice-of-inventory-completion-metropolitan-park-district-of-the-toledo-area-toledo-oh
+  captured: '2025-02-07'

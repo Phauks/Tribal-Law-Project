@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 16703, published 2008-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20190218180318/https://www.federalregister.gov/documents/2008/03/28/E8-6346/final-environmental-impact-statement-for-the-scotts-valley-band-of-pomo-indians-proposed-2987-acre
+  captured: '2019-02-18'

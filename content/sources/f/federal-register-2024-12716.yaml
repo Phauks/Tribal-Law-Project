@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 49190, published 2024-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202224316/https://www.federalregister.gov/documents/2024/06/11/2024-12716/notice-of-intended-disposition-department-of-the-interior-bureau-of-reclamation-upper-colorado-basin
+  captured: '2025-02-02'

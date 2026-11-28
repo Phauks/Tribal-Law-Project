@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-24/STATUTE-24-Pg449
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127071414/https://www.govinfo.gov/app/details/STATUTE-24/STATUTE-24-Pg449
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-24/STATUTE-24-Pg449.pdf
   checksum: bf3c1e5491df55a4ac1d7902e64a13c51b6db96b9355c2967e73d442b1c9a86e

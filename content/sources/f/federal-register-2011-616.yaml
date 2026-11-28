@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 2409, published 2011-01-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250520215257/https://www.federalregister.gov/documents/2011/01/13/2011-616/proclaiming-certain-lands-golf-course-acquisition-as-an-addition-to-the-bay-mills-indian-reservation
+  captured: '2025-05-20'

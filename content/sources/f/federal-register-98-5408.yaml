@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 10407, published 1998-03-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219004619/https://www.federalregister.gov/documents/1998/03/03/98-5408/notice-of-inventory-completion-for-native-american-human-remains-from-fort-drane-florida-in-the
+  captured: '2025-02-19'

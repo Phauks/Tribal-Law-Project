@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 73120, published 2024-09-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250424213440/https://www.federalregister.gov/documents/2024/09/09/2024-20285/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca
+  captured: '2025-04-24'

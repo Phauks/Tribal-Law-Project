@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 59958, published 2013-09-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260205193601/https://www.federalregister.gov/documents/2013/09/30/2013-23820/notice-of-inventory-completion-the-michigan-state-university-museum-east-lansing-mi
+  captured: '2026-02-05'

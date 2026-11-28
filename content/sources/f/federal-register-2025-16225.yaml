@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 41410, published 2025-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825225219/https://www.federalregister.gov/documents/2025/08/25/2025-16225/yuhaaviatam-of-san-manuel-nation-liquor-act-amendment
+  captured: '2025-08-25'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 34932, published 2019-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204150302/https://www.federalregister.gov/documents/2019/07/19/2019-15436/notice-of-intent-to-repatriate-cultural-items-buffalo-bill-center-of-the-west-plains-indian-museum
+  captured: '2025-02-04'

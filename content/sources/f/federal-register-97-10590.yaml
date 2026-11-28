@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 19927, published 1997-04-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210421233812/https://www.federalregister.gov/documents/1997/04/24/97-10590/land-acquisitions
+  captured: '2021-04-21'

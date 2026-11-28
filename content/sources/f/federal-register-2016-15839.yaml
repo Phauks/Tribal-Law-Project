@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 43639, published 2016-07-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260328025703/https://www.federalregister.gov/documents/2016/07/05/2016-15839/notice-of-inventory-completion-stanford-university-heritage-services-palo-alto-ca
+  captured: '2026-03-28'

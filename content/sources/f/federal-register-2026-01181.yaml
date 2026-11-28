@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 2796, published 2026-01-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260710150353/https://www.federalregister.gov/documents/2026/01/22/2026-01181/agency-information-collection-activities-water-request
+  captured: '2026-07-10'

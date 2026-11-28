@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 6621, published 2000-02-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250523164104/https://www.federalregister.gov/documents/2000/02/10/00-3053/native-american-graves-protection-and-repatriation-review-committee-findings
+  captured: '2025-05-23'

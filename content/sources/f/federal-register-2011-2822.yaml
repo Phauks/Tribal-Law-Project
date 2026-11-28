@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 7230, published 2011-02-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208235959/https://www.federalregister.gov/documents/2011/02/09/2011-2822/environmental-impact-statement-for-the-proposed-mississippi-band-of-choctaw-casino-jackson-county-ms
+  captured: '2025-02-08'

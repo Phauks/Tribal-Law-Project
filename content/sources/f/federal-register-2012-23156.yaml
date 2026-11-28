@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 58769, published 2012-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502171223/https://www.federalregister.gov/documents/2012/09/24/2012-23156/facility-license-notifications-and-submissions
+  captured: '2025-05-02'

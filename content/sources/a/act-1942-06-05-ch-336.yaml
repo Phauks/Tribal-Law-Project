@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-56/STATUTE-56-Pg312
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127075800/https://www.govinfo.gov/app/details/STATUTE-56/STATUTE-56-Pg312
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-56/STATUTE-56-Pg312.pdf
   checksum: c22f5fc1b90c16eb13011b7cd1b806270d9c2c0783188d2b8ac3148e851fa9be

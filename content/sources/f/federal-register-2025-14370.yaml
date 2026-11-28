@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35922, published 2025-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825220129/https://www.federalregister.gov/documents/2025/07/30/2025-14370/notice-of-inventory-completion-heard-museum-phoenix-az
+  captured: '2025-08-25'

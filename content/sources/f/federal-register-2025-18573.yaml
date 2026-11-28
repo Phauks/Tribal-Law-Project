@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 46237, published 2025-09-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251204232803/https://www.federalregister.gov/documents/2025/09/25/2025-18573/notice-of-inventory-completion-sam-noble-oklahoma-museum-of-natural-history-university-of-oklahoma
+  captured: '2025-12-04'

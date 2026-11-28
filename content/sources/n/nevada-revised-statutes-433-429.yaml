@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.leg.state.nv.us/nrs/NRS-433.html#NRS433Sec429
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260714122908/https://www.leg.state.nv.us/Nrs/NRS-433.html
+  captured: '2026-07-14'
 history:
   status: live
   last_checked: '2026-11-27'

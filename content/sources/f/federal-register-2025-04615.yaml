@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12768, published 2025-03-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601051503/https://www.federalregister.gov/documents/2025/03/19/2025-04615/notice-of-inventory-completion-us-department-of-the-interior-fish-and-wildlife-service-alaska-region
+  captured: '2025-06-01'

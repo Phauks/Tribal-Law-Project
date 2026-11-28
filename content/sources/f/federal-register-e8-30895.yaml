@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 79907, published 2008-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204203643/https://www.federalregister.gov/documents/2008/12/30/E8-30895/notice-of-inventory-completion-san-diego-museum-of-man-san-diego-ca
+  captured: '2025-02-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 49053, published 2021-09-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250819201642/https://www.federalregister.gov/documents/2021/09/01/2021-18826/hearth-act-approval-of-table-mountain-rancheria-tribal-trust-lands-residential-lease-regulations
+  captured: '2025-08-19'

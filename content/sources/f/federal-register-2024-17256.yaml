@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 63979, published 2024-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525153330/https://www.federalregister.gov/documents/2024/08/06/2024-17256/notice-of-intended-disposition-us-department-of-the-interior-national-park-service-missouri-national
+  captured: '2025-05-25'

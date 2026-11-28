@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 23555, published 2025-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611190336/https://www.federalregister.gov/documents/2025/06/03/2025-10030/notice-of-intended-disposition-us-army-corps-of-engineers-omaha-district-pierre-sd
+  captured: '2025-06-11'

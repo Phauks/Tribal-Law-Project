@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 53084, published 2018-10-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207110620/https://www.federalregister.gov/documents/2018/10/19/2018-22795/notice-of-inventory-completion-department-of-anthropology-at-indiana-university-bloomington-in
+  captured: '2025-02-07'

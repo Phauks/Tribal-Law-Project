@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: R48888, version 3'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260331071906/https://www.congress.gov/crs-product/R48888
+  captured: '2026-03-31'

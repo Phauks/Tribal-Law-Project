@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 68189, published 2024-08-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611193423/https://www.federalregister.gov/documents/2024/08/23/2024-18959/notice-of-intended-repatriation-san-francisco-state-university-nagpra-program-san-francisco-ca
+  captured: '2025-06-11'

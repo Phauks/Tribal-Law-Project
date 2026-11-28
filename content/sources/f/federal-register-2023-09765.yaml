@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 29946, published 2023-05-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611181737/https://www.federalregister.gov/documents/2023/05/09/2023-09765/notice-of-inventory-completion-alabama-department-of-transportation-montgomery-al
+  captured: '2025-06-11'

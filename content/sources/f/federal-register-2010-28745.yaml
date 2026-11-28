@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 70026, published 2010-11-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208235756/https://www.federalregister.gov/documents/2010/11/16/2010-28745/notice-of-inventory-completion-wisconsin-historical-society-museum-division-madison-wi
+  captured: '2025-02-08'

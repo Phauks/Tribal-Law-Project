@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 31204, published 2006-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260117205509/https://www.federalregister.gov/documents/2006/06/01/E6-8447/notice-of-inventory-completion-department-of-anthropology-museum-at-the-university-of-california
+  captured: '2026-01-17'

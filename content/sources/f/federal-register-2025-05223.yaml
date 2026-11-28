@@ -78,3 +78,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 13868, published 2025-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601055816/https://www.federalregister.gov/documents/2025/03/27/2025-05223/notice-of-inventory-completion-yale-peabody-museum-yale-university-new-haven-ct
+  captured: '2025-06-01'

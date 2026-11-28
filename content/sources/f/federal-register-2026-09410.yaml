@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 25907, published 2026-05-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260516101752/https://www.federalregister.gov/documents/2026/05/12/2026-09410/notice-of-intended-disposition-us-department-of-the-air-force-francis-e-warren-air-force-base
+  captured: '2026-05-16'

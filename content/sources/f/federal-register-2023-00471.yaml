@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 2126, published 2023-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414190347/https://www.federalregister.gov/documents/2023/01/12/2023-00471/notice-of-intent-to-repatriate-cultural-items-university-of-nebraska-state-museum-lincoln-ne
+  captured: '2025-04-14'

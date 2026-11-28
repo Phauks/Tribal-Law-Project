@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legis.la.gov/Legis/Law.aspx?d=73057
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260420024457/https://www.legis.la.gov/Legis/Law.aspx?d=73057
+  captured: '2026-04-20'
 history:
   status: live
   last_checked: '2026-11-27'

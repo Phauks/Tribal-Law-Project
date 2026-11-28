@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 60896, published 2021-11-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260718063649/https://www.federalregister.gov/documents/2021/11/04/2021-24089/hearth-act-approval-of-cabazon-band-of-mission-indians-california-business-site-leasing-ordinance
+  captured: '2026-07-18'

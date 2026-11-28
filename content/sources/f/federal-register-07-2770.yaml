@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 30823, published 2007-06-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201151116/https://www.federalregister.gov/documents/2007/06/04/07-2770/notice-of-inventory-completion-anthropological-studies-center-archaeological-collections-facility
+  captured: '2025-02-01'

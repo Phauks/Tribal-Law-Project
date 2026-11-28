@@ -80,3 +80,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 25471, published 2013-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214144516/https://www.federalregister.gov/documents/2013/05/01/2013-10218/notice-of-inventory-completion-university-of-washington-department-of-anthropology-seattle-wa
+  captured: '2025-02-14'

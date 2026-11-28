@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 918, published 2009-01-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205075531/https://www.federalregister.gov/documents/2009/01/09/E9-183/land-acquisitions-muckleshoot-indian-tribe-washington
+  captured: '2025-02-05'

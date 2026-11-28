@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 73374, published 2023-10-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611191553/https://www.federalregister.gov/documents/2023/10/25/2023-23558/notice-of-intent-to-repatriate-cultural-items-peabody-museum-of-archaeology-and-ethnology-harvard
+  captured: '2025-06-11'

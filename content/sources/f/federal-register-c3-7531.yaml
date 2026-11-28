@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 25088, published 2003-05-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202235525/https://www.federalregister.gov/documents/2003/05/09/C3-7531/defense-federal-acquisition-regulation-supplement-foreign-acquisition
+  captured: '2025-02-02'

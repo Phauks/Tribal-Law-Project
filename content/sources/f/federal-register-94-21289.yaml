@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20201202132342/https://www.federalregister.gov/documents/1994/08/30/94-21289/availability-of-funds-for-loan-repayment-program-for-repayment-of-health-professions-educational
+  captured: '2020-12-02'

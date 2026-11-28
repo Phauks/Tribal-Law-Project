@@ -88,3 +88,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 28255, published 2018-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208190747/https://www.federalregister.gov/documents/2018/06/18/2018-13029/notice-of-inventory-completion-university-of-nevada-las-vegas-department-of-anthropology-las-vegas
+  captured: '2025-02-08'

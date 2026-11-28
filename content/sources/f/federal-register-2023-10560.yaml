@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 31818, published 2023-05-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260507053032/https://www.federalregister.gov/documents/2023/05/18/2023-10560/notice-of-intent-to-repatriate-cultural-items-yuba-county-water-agency-marysville-ca
+  captured: '2026-05-07'

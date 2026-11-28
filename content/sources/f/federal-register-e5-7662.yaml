@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 76066, published 2005-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202035137/https://www.federalregister.gov/documents/2005/12/22/E5-7662/draft-environmental-impact-statement-for-the-proposed-cordova-oil-spill-response-facility-cordova-al
+  captured: '2025-02-02'

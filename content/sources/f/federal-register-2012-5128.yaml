@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 12875, published 2012-03-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210407093254/https://www.federalregister.gov/documents/2012/03/02/2012-5128/proposed-information-collection-native-american-graves-protection-and-repatriation-regulations
+  captured: '2021-04-07'

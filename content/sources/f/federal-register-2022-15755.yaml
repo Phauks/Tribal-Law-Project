@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 43889, published 2022-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204163611/https://www.federalregister.gov/documents/2022/07/22/2022-15755/agency-information-collection-activities-request-for-comment-on-fiscal-year-2023-expirations-under
+  captured: '2025-02-04'

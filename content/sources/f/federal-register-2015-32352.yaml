@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 80370, published 2015-12-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204032633/https://www.federalregister.gov/documents/2015/12/24/2015-32352/indian-health-professions-preparatory-indian-health-professions-pre-graduate-and-indian-health
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 30427, published 2010-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210415012233/https://www.federalregister.gov/documents/2010/06/01/2010-13062/notice-of-intent-to-repatriate-cultural-items-university-of-idaho-alfred-w-bowers-laboratory-of
+  captured: '2021-04-15'

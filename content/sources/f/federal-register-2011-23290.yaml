@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 56468, published 2011-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202200545/https://www.federalregister.gov/documents/2011/09/13/2011-23290/notice-of-inventory-completion-maxwell-museum-of-anthropology-university-of-new-mexico-albuquerque
+  captured: '2025-02-02'

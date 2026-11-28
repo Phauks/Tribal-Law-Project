@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 52790, published 2007-09-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214140928/https://www.federalregister.gov/documents/2007/09/17/07-4585/contracts-under-the-self-determination-and-education-assistance-act-change-of-address-for-the-claims
+  captured: '2025-02-14'

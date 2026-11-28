@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 35793, published 2014-06-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204033910/https://www.federalregister.gov/documents/2014/06/24/2014-14746/notice-of-intent-to-repatriate-cultural-items-phoebe-a-hearst-museum-of-anthropology-university-of
+  captured: '2025-02-04'

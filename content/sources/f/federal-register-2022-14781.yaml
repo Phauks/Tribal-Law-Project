@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 41351, published 2022-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524112810/https://www.federalregister.gov/documents/2022/07/12/2022-14781/notice-of-inventory-completion-michigan-state-police-lansing-mi
+  captured: '2025-05-24'

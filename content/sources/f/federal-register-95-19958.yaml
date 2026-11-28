@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 41898, published 1995-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219065459/https://www.federalregister.gov/documents/1995/08/14/95-19958/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-19'

@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-06-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205011555/https://www.federalregister.gov/documents/1994/06/16/94-14596/draft-environmental-impact-statement-deis-for-livestock-grazing-and-prairie-dog-management-for-the
+  captured: '2025-02-05'

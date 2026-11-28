@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 90043, published 2024-11-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250612183011/https://www.federalregister.gov/documents/2024/11/14/2024-26461/notice-of-intended-disposition-us-army-corps-of-engineers-tulsa-district-tulsa-ok
+  captured: '2025-06-12'

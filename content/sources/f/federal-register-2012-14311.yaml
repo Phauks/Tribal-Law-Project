@@ -70,3 +70,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 34986, published 2012-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208222242/https://www.federalregister.gov/documents/2012/06/12/2012-14311/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-national-park-service
+  captured: '2025-02-08'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 41468, published 2024-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208020247/https://www.federalregister.gov/documents/2024/05/13/2024-10331/notice-of-inventory-completion-placer-county-museums-auburn-ca
+  captured: '2025-02-08'

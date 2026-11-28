@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 73433, published 2024-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204114848/https://www.federalregister.gov/documents/2024/09/10/2024-20296/notice-of-inventory-completion-california-state-university-sacramento-sacramento-ca
+  captured: '2025-02-04'

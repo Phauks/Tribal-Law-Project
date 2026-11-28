@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 24182, published 2004-05-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219141201/https://www.federalregister.gov/documents/2004/05/03/04-10007/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-st-croix-chippewa-indians-of
+  captured: '2025-02-19'

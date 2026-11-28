@@ -21,7 +21,10 @@ citation:
       - 27
 original_link: https://legislature.maine.gov/statutes/12/title12sec12260-A.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260511113126/https://www.legislature.maine.gov/statutes/12/title12sec12260-A.html
+  captured: '2026-05-11'
 history:
   status: live
   last_checked: '2026-11-27'

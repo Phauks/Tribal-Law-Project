@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 67895, published 2009-12-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418105624/https://www.federalregister.gov/documents/2009/12/21/E9-30209/proposed-finding-for-federal-acknowledgment-of-the-shinnecock-indian-nation
+  captured: '2026-04-18'

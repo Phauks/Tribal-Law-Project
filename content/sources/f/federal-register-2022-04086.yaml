@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 11084, published 2022-02-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202141512/https://www.federalregister.gov/documents/2022/02/28/2022-04086/resumption-of-preparation-of-an-environmental-impact-statement-for-the-proposed-coquille-indian
+  captured: '2025-02-02'

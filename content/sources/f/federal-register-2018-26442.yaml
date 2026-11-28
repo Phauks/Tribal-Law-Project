@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 62888, published 2018-12-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260416095537/https://www.federalregister.gov/documents/2018/12/06/2018-26442/notice-of-inventory-completion-wisconsin-historical-society-madison-wi
+  captured: '2026-04-16'

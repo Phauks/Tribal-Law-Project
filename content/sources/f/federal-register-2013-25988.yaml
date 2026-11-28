@@ -113,3 +113,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 65362, published 2013-10-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204092907/https://www.federalregister.gov/documents/2013/10/31/2013-25988/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-capitol-reef
+  captured: '2025-02-04'

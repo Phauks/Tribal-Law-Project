@@ -123,3 +123,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 35206, published 2024-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250526053127/https://www.federalregister.gov/documents/2024/05/01/2024-09399/notice-of-inventory-completion-university-of-wisconsin-oshkosh-oshkosh-wi
+  captured: '2025-05-26'

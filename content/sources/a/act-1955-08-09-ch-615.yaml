@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-69/STATUTE-69-Pg539-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127080742/https://www.govinfo.gov/app/details/STATUTE-69/STATUTE-69-Pg539-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-69/STATUTE-69-Pg539-2.pdf
   checksum: 2698ac8e21b0f6cf7e8a7bea7d603dc0b78a3649ffb0c0e5bd5e45b5e7599cae

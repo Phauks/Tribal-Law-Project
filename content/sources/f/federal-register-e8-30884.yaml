@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 79903, published 2008-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204171440/https://www.federalregister.gov/documents/2008/12/30/E8-30884/notice-of-inventory-completion-alaska-state-office-of-history-and-archaeology-anchorage-ak-and
+  captured: '2025-02-04'

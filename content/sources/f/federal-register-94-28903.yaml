@@ -48,3 +48,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-11-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516192058/https://www.federalregister.gov/documents/1994/11/23/94-28903/notice-of-inventory-completion-for-native-american-human-remains-from-the-island-of-molokai-hi-in
+  captured: '2017-05-16'

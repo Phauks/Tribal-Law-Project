@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 25302, published 2019-05-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202105017/https://www.federalregister.gov/documents/2019/05/31/2019-11382/final-environmental-impact-statement-for-the-ho-chunk-nation-fee-to-trust-and-casino-project-city-of
+  captured: '2025-02-02'

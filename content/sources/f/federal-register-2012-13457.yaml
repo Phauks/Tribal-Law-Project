@@ -82,3 +82,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 32990, published 2012-06-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208035214/https://www.federalregister.gov/documents/2012/06/04/2012-13457/notice-of-inventory-completion-university-of-maine-hudson-museum-orono-me
+  captured: '2025-02-08'

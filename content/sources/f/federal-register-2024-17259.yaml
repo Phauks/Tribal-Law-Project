@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 63970, published 2024-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524225830/https://www.federalregister.gov/documents/2024/08/06/2024-17259/notice-of-intended-repatriation-autry-museum-of-the-american-west-los-angeles-ca-and-pasadena-city
+  captured: '2025-05-24'

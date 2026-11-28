@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 1191, published 2003-01-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212005442/https://www.federalregister.gov/documents/2003/01/09/03-437/rate-adjustments-for-indian-irrigation-projects
+  captured: '2025-02-12'

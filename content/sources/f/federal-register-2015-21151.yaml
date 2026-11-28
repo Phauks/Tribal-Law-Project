@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 51835, published 2015-08-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208103236/https://www.federalregister.gov/documents/2015/08/26/2015-21151/hearth-act-approval-of-squaxin-island-tribe-regulations
+  captured: '2025-02-08'

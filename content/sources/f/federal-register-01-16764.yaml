@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 35467, published 2001-07-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204023759/https://www.federalregister.gov/documents/2001/07/05/01-16764/paperwork-reduction-act-information-collection-activities
+  captured: '2025-02-04'

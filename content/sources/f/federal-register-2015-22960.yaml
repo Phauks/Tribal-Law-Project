@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 55147, published 2015-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204172913/https://www.federalregister.gov/documents/2015/09/14/2015-22960/renewal-of-agency-information-collection-for-class-iii-gaming-tribal-revenue-allocation-plans-gaming
+  captured: '2025-02-04'

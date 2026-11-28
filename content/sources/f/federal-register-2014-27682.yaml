@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 69521, published 2014-11-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206191427/https://www.federalregister.gov/documents/2014/11/21/2014-27682/intent-to-prepare-a-programmatic-environmental-impact-statement-for-the-proposed-integrated-resource
+  captured: '2025-02-06'

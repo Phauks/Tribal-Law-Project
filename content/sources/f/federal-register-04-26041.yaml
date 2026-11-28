@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 69847, published 2004-12-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250220055546/https://www.federalregister.gov/documents/2004/12/01/04-26041/minimum-internal-control-standards
+  captured: '2025-02-20'

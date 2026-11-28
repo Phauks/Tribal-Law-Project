@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 5030, published 2020-01-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207091911/https://www.federalregister.gov/documents/2020/01/28/2020-01355/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-lake-meredith
+  captured: '2025-02-07'

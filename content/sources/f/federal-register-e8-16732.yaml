@@ -82,3 +82,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 42827, published 2008-07-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20201120234949/https://www.federalregister.gov/documents/2008/07/23/E8-16732/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-national-park-service
+  captured: '2020-11-20'

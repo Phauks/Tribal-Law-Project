@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 11086, published 2022-02-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250430152536/https://www.federalregister.gov/documents/2022/02/28/2022-04090/hearth-act-approval-of-kootenai-tribe-of-idaho-business-leasing-ordinance
+  captured: '2025-04-30'

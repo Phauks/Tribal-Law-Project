@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 15605, published 2024-03-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524222612/https://www.federalregister.gov/documents/2024/03/04/2024-04455/notice-of-inventory-completion-folsom-history-folsom-ca
+  captured: '2025-05-24'

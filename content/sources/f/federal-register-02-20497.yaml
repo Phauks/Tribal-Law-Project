@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 52828, published 2002-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250417085326/https://www.federalregister.gov/documents/2002/08/13/02-20497/indian-school-equalization-program
+  captured: '2025-04-17'

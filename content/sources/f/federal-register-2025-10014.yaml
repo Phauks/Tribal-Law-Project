@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 23549, published 2025-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611192224/https://www.federalregister.gov/documents/2025/06/03/2025-10014/notice-of-inventory-completion-tennessee-department-of-environment-and-conservation-division-of
+  captured: '2025-06-11'

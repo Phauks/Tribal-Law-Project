@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 65030, published 2010-10-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204000157/https://www.federalregister.gov/documents/2010/10/21/2010-26464/native-american-graves-protection-and-repatriation-review-committee-nomination-solicitation
+  captured: '2025-02-04'

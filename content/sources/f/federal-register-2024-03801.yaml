@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 14092, published 2024-02-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219121223/https://www.federalregister.gov/documents/2024/02/26/2024-03801/notice-of-intent-to-repatriate-cultural-items-us-department-of-agriculture-forest-service-allegheny
+  captured: '2025-02-19'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 45920, published 2023-07-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206185631/https://www.federalregister.gov/documents/2023/07/18/2023-15101/notice-of-inventory-completion-connecticut-office-of-state-archaeology-connecticut-state-museum-of
+  captured: '2025-02-06'

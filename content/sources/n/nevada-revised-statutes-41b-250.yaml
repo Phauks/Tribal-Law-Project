@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.leg.state.nv.us/nrs/NRS-041B.html#NRS041BSec250
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260720013632/https://www.leg.state.nv.us/nrs/nrs-041b.html
+  captured: '2026-07-20'
 history:
   status: live
   last_checked: '2026-11-27'

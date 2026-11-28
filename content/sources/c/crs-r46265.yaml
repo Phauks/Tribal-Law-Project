@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: R46265, version 3'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260115161428/https://www.congress.gov/crs-product/R46265
+  captured: '2026-01-15'

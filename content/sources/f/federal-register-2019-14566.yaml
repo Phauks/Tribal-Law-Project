@@ -78,3 +78,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 32779, published 2019-07-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230403173333/https://www.federalregister.gov/documents/2019/07/09/2019-14566/notice-of-inventory-completion-michigan-state-police-lansing-mi
+  captured: '2023-04-03'

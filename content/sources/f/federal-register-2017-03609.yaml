@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 11626, published 2017-02-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210407021032/https://www.federalregister.gov/documents/2017/02/24/2017-03609/notice-of-inventory-completion-ohio-history-connection-columbus-oh
+  captured: '2021-04-07'

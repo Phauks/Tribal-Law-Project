@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 10124, published 1998-03-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204063029/https://www.federalregister.gov/documents/1998/03/02/98-5300/housing-improvement-program
+  captured: '2025-02-04'

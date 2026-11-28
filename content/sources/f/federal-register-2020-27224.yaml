@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 80140, published 2020-12-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204100820/https://www.federalregister.gov/documents/2020/12/11/2020-27224/land-acquisitions-the-picayune-rancheria-of-chukchansi-indians-of-california
+  captured: '2025-02-04'

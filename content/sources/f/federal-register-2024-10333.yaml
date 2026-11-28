@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 41464, published 2024-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260515050326/https://www.federalregister.gov/documents/2024/05/13/2024-10333/notice-of-inventory-completion-peabody-museum-of-archaeology-and-ethnology-harvard-university
+  captured: '2026-05-15'

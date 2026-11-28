@@ -87,3 +87,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 68162, published 2004-11-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214041428/https://www.federalregister.gov/documents/2004/11/23/04-25918/notice-of-inventory-completion-colorado-historical-society-denver-co
+  captured: '2025-02-14'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 52536, published 2018-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207213420/https://www.federalregister.gov/documents/2018/10/17/2018-22586/notice-of-inventory-completion-us-department-of-defense-army-corps-of-engineers-nashville-district
+  captured: '2025-02-07'

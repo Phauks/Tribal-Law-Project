@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 8412, published 1995-02-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210524163925/https://www.federalregister.gov/documents/1995/02/14/95-3623/information-collection-submitted-to-the-office-of-management-and-budget-for-review-under-the
+  captured: '2021-05-24'

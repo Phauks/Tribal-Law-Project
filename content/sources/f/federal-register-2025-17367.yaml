@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 43623, published 2025-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250910101327/https://www.federalregister.gov/documents/2025/09/10/2025-17367/notice-of-inventory-completion-mississippi-department-of-archives-and-history-jackson-ms
+  captured: '2025-09-10'

@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH1/SECT55-103
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260511091442/https://legislature.idaho.gov/statutesrules/idstat/title55/t55ch1/sect55-103/
+  captured: '2026-05-11'
 history:
   status: live
   last_checked: '2026-11-27'

@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 52017, published 2010-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212061433/https://www.federalregister.gov/documents/2010/08/24/2010-20946/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-02-12'

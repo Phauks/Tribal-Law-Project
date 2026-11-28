@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 6668, published 2021-01-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201214858/https://www.federalregister.gov/documents/2021/01/22/2021-01337/notice-of-intent-to-repatriate-cultural-items-los-angeles-county-museum-of-art-los-angeles-ca
+  captured: '2025-02-01'

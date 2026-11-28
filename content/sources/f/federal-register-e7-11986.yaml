@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 34274, published 2007-06-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250403082806/https://www.federalregister.gov/documents/2007/06/21/E7-11986/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2025-04-03'

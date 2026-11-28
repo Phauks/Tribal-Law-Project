@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 10741, published 2001-02-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215184519/https://www.federalregister.gov/documents/2001/02/16/01-4009/correction-correction-notice-of-inventory-completion-for-native-american-human-remains-and
+  captured: '2025-02-15'

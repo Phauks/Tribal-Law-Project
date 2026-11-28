@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 74025, published 2012-12-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210410164459/https://www.federalregister.gov/documents/2012/12/12/2012-30003/federated-indians-of-graton-rancheria-liquor-control-statute
+  captured: '2021-04-10'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 43914, published 2013-07-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210328140955/https://www.federalregister.gov/documents/2013/07/22/2013-17546/renewal-of-agency-information-collection-for-acquisition-of-trust-land
+  captured: '2021-03-28'

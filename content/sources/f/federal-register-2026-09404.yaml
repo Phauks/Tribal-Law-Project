@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 25915, published 2026-05-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260512103322/https://www.federalregister.gov/documents/2026/05/12/2026-09404/notice-of-inventory-completion-university-of-texas-at-austin-texas-archeological-research-laboratory
+  captured: '2026-05-12'

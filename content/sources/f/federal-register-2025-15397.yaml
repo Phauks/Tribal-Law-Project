@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 39218, published 2025-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825221530/https://www.federalregister.gov/documents/2025/08/14/2025-15397/notice-of-intended-repatriation-us-department-of-the-interior-national-park-service-pipestone
+  captured: '2025-08-25'

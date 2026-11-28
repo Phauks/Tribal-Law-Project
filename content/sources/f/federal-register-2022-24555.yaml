@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 67958, published 2022-11-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20221110104722/https://www.federalregister.gov/documents/2022/11/10/2022-24555/notice-of-inventory-completion-university-of-california-riverside-riverside-ca
+  captured: '2022-11-10'

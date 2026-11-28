@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 67634, published 2006-11-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260115054541/https://www.federalregister.gov/documents/2006/11/22/E6-19788/notice-of-inventory-completion-carnegie-museum-of-natural-history-pittsburgh-pa
+  captured: '2026-01-15'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 6921, published 2014-02-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250310230617/https://www.federalregister.gov/documents/2014/02/05/2014-02305/notice-of-intent-to-repatriate-cultural-items-art-collection-and-galleries-sweet-briar-college-sweet
+  captured: '2025-03-10'

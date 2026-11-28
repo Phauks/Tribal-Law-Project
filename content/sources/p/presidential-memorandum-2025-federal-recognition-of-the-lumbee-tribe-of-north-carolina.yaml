@@ -53,3 +53,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2025/01/31/2025-02124/federal-recognition-of-the-lumbee-tribe-of-north-carolina'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261102042317/https://www.federalregister.gov/documents/2025/01/31/2025-02124/federal-recognition-of-the-lumbee-tribe-of-north-carolina
+  captured: '2026-11-02'

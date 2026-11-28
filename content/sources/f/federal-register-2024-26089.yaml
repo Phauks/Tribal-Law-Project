@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 89040, published 2024-11-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20241109094903/https://www.federalregister.gov/documents/2024/11/12/2024-26089/notice-of-inventory-completion-yale-peabody-museum-yale-university-new-haven-ct
+  captured: '2024-11-09'

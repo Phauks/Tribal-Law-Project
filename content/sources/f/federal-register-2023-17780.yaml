@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 56660, published 2023-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204213123/https://www.federalregister.gov/documents/2023/08/18/2023-17780/notice-of-inventory-completion-berkshire-museum-pittsfield-ma
+  captured: '2025-02-04'

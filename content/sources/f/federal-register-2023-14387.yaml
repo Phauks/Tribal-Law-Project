@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 43393, published 2023-07-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611185041/https://www.federalregister.gov/documents/2023/07/07/2023-14387/notice-of-intent-to-repatriate-cultural-items-new-york-state-museum-albany-ny
+  captured: '2025-06-11'

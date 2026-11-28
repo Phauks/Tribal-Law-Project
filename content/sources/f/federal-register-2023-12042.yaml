@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 37071, published 2023-06-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611175745/https://www.federalregister.gov/documents/2023/06/06/2023-12042/notice-of-purchasedreferred-care-delivery-area-redesignation-for-the-hoh-indian-tribe-in-the-state
+  captured: '2025-06-11'

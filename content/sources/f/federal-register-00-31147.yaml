@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 76663, published 2000-12-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210420194422/https://www.federalregister.gov/documents/2000/12/07/00-31147/receipt-of-petitions-for-federal-acknowledgment-of-existence-as-an-indian-tribe
+  captured: '2021-04-20'

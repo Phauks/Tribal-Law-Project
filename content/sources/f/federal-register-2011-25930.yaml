@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 63236, published 2011-10-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208174246/https://www.federalregister.gov/documents/2011/10/12/2011-25930/review-and-approval-of-existing-ordinances-or-resolutions
+  captured: '2025-02-08'

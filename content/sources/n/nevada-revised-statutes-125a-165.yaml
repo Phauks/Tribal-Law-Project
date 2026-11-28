@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.leg.state.nv.us/nrs/NRS-125A.html#NRS125ASec165
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260813093755/https://www.leg.state.nv.us/Nrs/NRS-125A.html
+  captured: '2026-08-13'
 history:
   status: live
   last_checked: '2026-11-27'

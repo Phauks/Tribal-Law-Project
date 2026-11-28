@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 5570, published 2004-02-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260502030747/https://www.federalregister.gov/documents/2004/02/05/04-2532/final-determination-to-acknowledge-the-schaghticoke-tribal-nation
+  captured: '2026-05-02'

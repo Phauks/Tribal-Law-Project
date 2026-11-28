@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 8139, published 2017-01-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251109025247/https://www.federalregister.gov/documents/2017/01/24/2017-00585/privacy-act-procedures
+  captured: '2025-11-09'

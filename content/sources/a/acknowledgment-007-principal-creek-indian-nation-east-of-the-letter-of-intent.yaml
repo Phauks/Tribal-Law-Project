@@ -47,3 +47,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/principal-creek-indian-nation-east-mississippi'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127173211/https://www.bia.gov/sites/default/files/media_document/007_loi.pdf
+  captured: '2026-11-27'

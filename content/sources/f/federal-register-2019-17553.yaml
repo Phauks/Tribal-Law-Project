@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 41733, published 2019-08-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203023047/https://www.federalregister.gov/documents/2019/08/15/2019-17553/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-natchez-trace
+  captured: '2025-02-03'

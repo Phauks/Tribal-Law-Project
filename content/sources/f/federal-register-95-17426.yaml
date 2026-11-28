@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 36564, published 1995-07-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250309185114/https://www.federalregister.gov/documents/1995/07/17/95-17426/confederated-tribes-of-the-chehalis-reservation-liquor-ordinance
+  captured: '2025-03-09'

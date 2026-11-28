@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 56159, published 1995-11-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219112618/https://www.federalregister.gov/documents/1995/11/07/95-27564/notice-of-redesignation-of-contract-health-service-delivery-area
+  captured: '2025-02-19'

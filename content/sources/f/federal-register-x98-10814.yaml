@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 43718, published 1998-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250403195824/https://www.federalregister.gov/documents/1998/08/14/X98-10814/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-arizona-state-museum
+  captured: '2025-04-03'

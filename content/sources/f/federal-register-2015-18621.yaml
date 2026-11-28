@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 45230, published 2015-07-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206052729/https://www.federalregister.gov/documents/2015/07/29/2015-18621/final-decision-on-remand-against-federal-acknowledgment-of-the-duwamish-tribal-organization
+  captured: '2025-02-06'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 27674, published 2025-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250710033251/https://www.federalregister.gov/documents/2025/06/27/2025-11938/notice-of-inventory-completion-university-of-pennsylvania-museum-of-archaeology-and-anthropology
+  captured: '2025-07-10'

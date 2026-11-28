@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 4904, published 2022-01-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250404184114/https://www.federalregister.gov/documents/2022/01/31/2022-01873/hearth-act-approval-of-ysleta-del-sur-pueblo-leasing-ordinance
+  captured: '2025-04-04'

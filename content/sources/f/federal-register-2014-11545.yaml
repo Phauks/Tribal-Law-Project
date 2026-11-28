@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 28768, published 2014-05-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202220321/https://www.federalregister.gov/documents/2014/05/19/2014-11545/renewal-of-agency-information-collection-for-the-bureau-of-indian-affairs-housing-improvement
+  captured: '2025-02-02'

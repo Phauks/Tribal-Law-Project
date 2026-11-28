@@ -86,3 +86,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 19299, published 2013-03-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208170229/https://www.federalregister.gov/documents/2013/03/29/2013-07370/notice-of-inventory-completion-slater-museum-of-natural-history-university-of-puget-sound-tacoma-wa
+  captured: '2025-02-08'

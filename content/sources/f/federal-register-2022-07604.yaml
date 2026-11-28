@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 20883, published 2022-04-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203064639/https://www.federalregister.gov/documents/2022/04/08/2022-07604/notice-of-intent-to-repatriate-cultural-items-presbyterian-historical-society-philadelphia-pa
+  captured: '2025-02-03'

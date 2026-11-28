@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the manual page was read: https://www.bia.gov/policy-forms/manual'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261116165348/https://www.bia.gov/sites/default/files/dup/assets/public/raca/manual/pdf/30%20IAM%2017%20Waiver%20Procedures%20for%20Homeliving%20Stds%20SIGNED_IssueDate%20508.pdf
+  captured: '2026-11-16'

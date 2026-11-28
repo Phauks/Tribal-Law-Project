@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 53305, published 2009-10-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202193610/https://www.federalregister.gov/documents/2009/10/16/E9-24932/proposed-information-collection-comment-request-application-for-relocation-benefits-under-the-navajo
+  captured: '2025-02-02'

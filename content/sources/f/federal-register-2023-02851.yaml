@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 8908, published 2023-02-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206190032/https://www.federalregister.gov/documents/2023/02/10/2023-02851/land-acquisitions-buena-vista-rancheria-of-me-wuk-indians-of-california
+  captured: '2025-02-06'

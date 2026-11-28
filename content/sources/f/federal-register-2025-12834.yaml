@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 30671, published 2025-07-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260902004623/https://www.federalregister.gov/documents/2025/07/10/2025-12834/notice-of-inventory-completion-university-of-alabama-at-birmingham-birmingham-al
+  captured: '2026-09-02'

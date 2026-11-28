@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 13518, published 2005-03-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216225611/https://www.federalregister.gov/documents/2005/03/21/05-5470/indian-child-welfare-act-receipt-of-designated-tribal-agents-for-service-of-notice
+  captured: '2025-02-16'

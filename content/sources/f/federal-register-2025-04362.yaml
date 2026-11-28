@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12550, published 2025-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250416150625/https://www.federalregister.gov/documents/2025/03/18/2025-04362/notice-of-intended-disposition-united-states-army-corps-of-engineers-detroit-district-detroit-mi
+  captured: '2025-04-16'

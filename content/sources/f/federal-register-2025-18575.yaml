@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 46247, published 2025-09-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251204223303/https://www.federalregister.gov/documents/2025/09/25/2025-18575/notice-of-inventory-completion-william-s-webb-museum-of-anthropology-university-of-kentucky
+  captured: '2025-12-04'

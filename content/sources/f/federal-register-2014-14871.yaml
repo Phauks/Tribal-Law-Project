@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 36092, published 2014-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212061259/https://www.federalregister.gov/documents/2014/06/25/2014-14871/renewal-of-agency-information-collection-for-federal-acknowledgment-of-indian-tribes
+  captured: '2025-02-12'

@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 21882, published 2020-04-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20241220235406/https://www.federalregister.gov/documents/2020/04/20/2020-08326/notice-of-inventory-completion-longyear-museum-of-anthropology-colgate-university-hamilton-ny
+  captured: '2024-12-20'

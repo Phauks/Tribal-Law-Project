@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 32373, published 2001-06-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210003810/https://www.federalregister.gov/documents/2001/06/14/01-14992/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-denver-art-museum-denver-co
+  captured: '2025-02-10'

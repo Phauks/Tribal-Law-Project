@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 19946, published 2019-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260813025457/https://www.federalregister.gov/documents/2019/05/07/2019-09304/notice-of-inventory-completion-fowler-museum-at-university-of-california-los-angeles-los-angeles-ca
+  captured: '2026-08-13'

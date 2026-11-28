@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 19514, published 1998-04-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205000922/https://www.federalregister.gov/documents/1998/04/20/98-10356/notice-of-inventory-completion-for-native-american-human-remains-from-chugachik-island-and-togiak-ak
+  captured: '2025-02-05'

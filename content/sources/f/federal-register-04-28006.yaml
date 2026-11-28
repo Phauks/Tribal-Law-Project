@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 76776, published 2004-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260110033004/https://www.federalregister.gov/documents/2004/12/22/04-28006/notice-of-inventory-completion-us-department-of-agriculture-forest-service-lassen-national-forest
+  captured: '2026-01-10'

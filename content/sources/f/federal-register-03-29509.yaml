@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 66484, published 2003-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208220906/https://www.federalregister.gov/documents/2003/11/26/03-29509/notice-of-inventory-completion-the-colorado-college-colorado-springs-co
+  captured: '2025-02-08'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 41818, published 2004-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212064405/https://www.federalregister.gov/documents/2004/07/12/04-15715/american-indians-into-psychology-notice-of-competitive-grant-applications-for-american-indians-into
+  captured: '2025-02-12'

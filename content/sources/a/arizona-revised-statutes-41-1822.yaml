@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.azleg.gov/ars/41/01822.htm
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260217095613/https://www.azleg.gov/ars/41/01822.htm
+  captured: '2026-02-17'
 history:
   status: live
   last_checked: '2026-11-27'

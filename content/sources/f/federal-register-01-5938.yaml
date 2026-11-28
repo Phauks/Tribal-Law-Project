@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 14210, published 2001-03-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212082834/https://www.federalregister.gov/documents/2001/03/09/01-5938/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-university-of-michigan
+  captured: '2025-02-12'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 44381, published 2009-08-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210414014933/https://www.federalregister.gov/documents/2009/08/28/E9-20791/proclaiming-certain-lands-as-a-reservation-for-the-match-e-be-nash-she-wish-band-of-pottawatomi
+  captured: '2021-04-14'

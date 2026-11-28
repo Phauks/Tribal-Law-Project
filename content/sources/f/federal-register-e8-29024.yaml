@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 74509, published 2008-12-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205062649/https://www.federalregister.gov/documents/2008/12/08/E8-29024/jena-band-of-choctaw-indians-liquor-control-ordinance
+  captured: '2025-02-05'

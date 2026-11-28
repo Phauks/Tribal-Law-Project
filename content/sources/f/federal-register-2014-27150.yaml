@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 68472, published 2014-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206192334/https://www.federalregister.gov/documents/2014/11/17/2014-27150/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-02-06'

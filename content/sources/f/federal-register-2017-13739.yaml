@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 29929, published 2017-06-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208203539/https://www.federalregister.gov/documents/2017/06/30/2017-13739/notice-of-inventory-completion-museum-of-natural-history-and-planetarium-roger-williams-park
+  captured: '2025-02-08'

@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-97/STATUTE-97-Pg301
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208110803/https://www.govinfo.gov/app/details/STATUTE-97/STATUTE-97-Pg301
+  captured: '2025-02-08'
 file:
   storage_key: govinfo/STATUTE-97/STATUTE-97-Pg301.pdf
   checksum: c4042276f265f92a5f209020f75388736a52ebb4a417f1bdf28db85a07f6db4a

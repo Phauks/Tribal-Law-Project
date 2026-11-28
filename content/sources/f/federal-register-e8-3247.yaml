@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 9823, published 2008-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203065545/https://www.federalregister.gov/documents/2008/02/22/E8-3247/notice-of-availability-of-final-environmental-impact-statement-for-the-proposed-transfer-from-fee-to
+  captured: '2025-02-03'

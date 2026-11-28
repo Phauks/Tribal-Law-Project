@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 34324, published 2008-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212074834/https://www.federalregister.gov/documents/2008/06/17/E8-13584/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-alaska-state
+  captured: '2025-02-12'

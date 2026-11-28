@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 15172, published 2018-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204050419/https://www.federalregister.gov/documents/2018/04/09/2018-07123/agency-information-collection-activities-bureau-of-indian-education-tribal-colleges-and-universities
+  captured: '2025-02-04'

@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: R44148, version 34'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260630233736/https://www.congress.gov/crs-product/R44148
+  captured: '2026-06-30'

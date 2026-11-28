@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 55865, published 2008-09-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204232058/https://www.federalregister.gov/documents/2008/09/26/E8-22707/jackson-band-of-miwuk-indians-of-the-jackson-rancheria-liquor-control-ordinance
+  captured: '2025-02-04'

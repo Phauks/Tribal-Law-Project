@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 13626, published 2012-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206150859/https://www.federalregister.gov/documents/2012/03/07/2012-5577/notice-of-inventory-completion-maxey-museum-whitman-college-walla-walla-wa
+  captured: '2025-02-06'

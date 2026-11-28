@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-49/STATUTE-49-Pg378
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127074558/https://www.govinfo.gov/app/details/STATUTE-49/STATUTE-49-Pg378
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-49/STATUTE-49-Pg378.pdf
   checksum: 0b2b976115c6237bbdddf97716bdea0dfb6666339dfa21ac4f72c0a815ec793d

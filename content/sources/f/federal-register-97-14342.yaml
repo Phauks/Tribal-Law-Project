@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 30335, published 1997-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250222133843/https://www.federalregister.gov/documents/1997/06/03/97-14342/proclaiming-certain-lands-as-reservation-for-the-klamath-indian-tribe-of-oregon
+  captured: '2025-02-22'

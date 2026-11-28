@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 51393, published 2025-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251116110619/https://www.federalregister.gov/documents/2025/11/17/2025-19969/notice-of-inventory-completion-temple-university-philadelphia-pa
+  captured: '2025-11-16'

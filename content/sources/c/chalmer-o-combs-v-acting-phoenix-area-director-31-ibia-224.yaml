@@ -54,3 +54,7 @@ review:
   - check: decided
     result: differs
     detail: index 1997-10-24; cover sheet 1997-10-24; decision 1997-10-23
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010613/https://www.oha.doi.gov/IBIA/IbiaDecisions/31ibia/31ibia224.PDF
+  captured: '2026-03-25'

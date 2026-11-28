@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 34318, published 2008-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210501230144/https://www.federalregister.gov/documents/2008/06/17/E8-13595/notice-of-inventory-completion-rochester-museum-and-science-center-rochester-ny
+  captured: '2021-05-01'

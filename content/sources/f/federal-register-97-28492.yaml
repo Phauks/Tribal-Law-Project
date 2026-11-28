@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 55825, published 1997-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210504110116/https://www.federalregister.gov/documents/1997/10/28/97-28492/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-cabazon-band-of-mission
+  captured: '2021-05-04'

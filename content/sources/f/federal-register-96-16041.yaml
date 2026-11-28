@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 34399, published 1996-07-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250418201733/https://www.federalregister.gov/documents/1996/07/02/96-16041/special-education
+  captured: '2025-04-18'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 5855, published 2009-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260722205408/https://www.federalregister.gov/documents/2009/02/02/E9-2117/notice-of-inventory-completion-us-department-of-defense-air-force-vandenberg-air-force-base-ca-and
+  captured: '2026-07-22'

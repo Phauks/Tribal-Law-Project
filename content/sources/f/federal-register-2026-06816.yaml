@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 17990, published 2026-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260409092234/https://www.federalregister.gov/documents/2026/04/09/2026-06816/notice-of-inventory-completion-university-of-vermont-burlington-vt
+  captured: '2026-04-09'

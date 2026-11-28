@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 16788, published 2024-03-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204081456/https://www.federalregister.gov/documents/2024/03/08/2024-04988/notice-of-intended-repatriation-field-museum-chicago-il
+  captured: '2025-02-04'

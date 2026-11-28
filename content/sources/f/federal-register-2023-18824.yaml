@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 60238, published 2023-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611194045/https://www.federalregister.gov/documents/2023/08/31/2023-18824/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-anchorage-ak
+  captured: '2025-06-11'

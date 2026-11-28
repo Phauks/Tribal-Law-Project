@@ -48,3 +48,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-04-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205004703/https://www.federalregister.gov/documents/1994/04/29/94-10323/intent-to-prepare-an-environmental-impact-statement-and-floodplain-and-wetlands-involvement-for-the
+  captured: '2025-02-05'

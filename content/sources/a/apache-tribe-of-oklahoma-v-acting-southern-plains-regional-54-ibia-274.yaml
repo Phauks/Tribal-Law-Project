@@ -59,3 +59,7 @@ review:
   - check: decided
     result: agree
     detail: index 2012-03-06; cover sheet 2012-03-06; decision 2012-03-06
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010726/https://www.oha.doi.gov/IBIA/Ibiadecisions/54ibia/54ibia274.pdf
+  captured: '2026-03-25'

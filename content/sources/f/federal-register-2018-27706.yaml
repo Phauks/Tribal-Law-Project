@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 65734, published 2018-12-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260416170612/https://www.federalregister.gov/documents/2018/12/21/2018-27706/notice-of-inventory-completion-indiana-state-museum-and-historic-sites-corporation-state-of-indiana
+  captured: '2026-04-16'

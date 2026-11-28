@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 49947, published 2005-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210331064913/https://www.federalregister.gov/documents/2005/08/25/05-16884/notice-of-inventory-completion-louisiana-state-university-museum-of-natural-science-baton-rouge-la
+  captured: '2021-03-31'

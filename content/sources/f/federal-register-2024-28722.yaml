@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 97062, published 2024-12-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208082738/https://www.federalregister.gov/documents/2024/12/06/2024-28722/public-meeting-of-the-advisory-board-of-exceptional-children
+  captured: '2025-02-08'

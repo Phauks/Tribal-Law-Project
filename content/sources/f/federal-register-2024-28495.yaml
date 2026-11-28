@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 96679, published 2024-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524192400/https://www.federalregister.gov/documents/2024/12/05/2024-28495/notice-of-inventory-completion-princeton-university-princeton-nj
+  captured: '2025-05-24'

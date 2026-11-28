@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 32238, published 1998-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215231256/https://www.federalregister.gov/documents/1998/06/12/98-15628/draft-environmental-impact-statement-deis-for-the-proposed-cabazon-resource-recovery-park-cabazon
+  captured: '2025-02-15'

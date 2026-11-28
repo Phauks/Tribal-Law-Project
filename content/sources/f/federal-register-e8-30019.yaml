@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 78242, published 2008-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204174655/https://www.federalregister.gov/documents/2008/12/22/E8-30019/amendments-to-various-national-indian-gaming-commission-regulations
+  captured: '2025-02-04'

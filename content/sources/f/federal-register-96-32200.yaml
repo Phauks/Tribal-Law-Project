@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 67058, published 1996-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212185507/https://www.federalregister.gov/documents/1996/12/19/96-32200/road-maintenance-funding-distribution-methodology
+  captured: '2025-02-12'

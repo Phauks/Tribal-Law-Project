@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 37796, published 2000-06-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203094259/https://www.federalregister.gov/documents/2000/06/16/00-15277/native-american-research-centers-for-health-intent-to-fund-competitive-grants
+  captured: '2025-02-03'

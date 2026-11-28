@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 34782, published 2008-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210503223012/https://www.federalregister.gov/documents/2008/06/18/E8-13725/guidiville-band-of-pomo-indians-of-the-guidiville-indian-rancheria-liquor-control-ordinance
+  captured: '2021-05-03'

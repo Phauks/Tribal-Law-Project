@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 28601, published 2023-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260429075916/https://www.federalregister.gov/documents/2023/05/04/2023-09471/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-reclamation-oklahoma-texas
+  captured: '2026-04-29'

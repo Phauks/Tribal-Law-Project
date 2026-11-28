@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 28063, published 1997-05-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204092544/https://www.federalregister.gov/documents/1997/05/22/97-13463/notice-of-inventory-completion-for-native-american-human-remains-from-lamoine-me-in-the-possession
+  captured: '2025-02-04'

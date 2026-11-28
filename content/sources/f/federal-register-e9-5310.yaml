@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 10757, published 2009-03-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214100932/https://www.federalregister.gov/documents/2009/03/12/E9-5310/notice-of-inventory-completion-us-department-of-agriculture-forest-service-coronado-national-forest
+  captured: '2025-02-14'

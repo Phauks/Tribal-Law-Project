@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 38420, published 2006-07-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204024318/https://www.federalregister.gov/documents/2006/07/06/E6-10506/notice-of-inventory-completion-university-of-nebraska-state-museum-university-of-nebraska-lincoln
+  captured: '2025-02-04'

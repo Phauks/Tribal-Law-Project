@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 22574, published 2022-04-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502055106/https://www.federalregister.gov/documents/2022/04/15/2022-08122/notice-of-intent-to-repatriate-cultural-items-karshner-museum-and-center-for-culture-and-arts
+  captured: '2025-05-02'

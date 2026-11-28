@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 15479, published 2025-04-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601025546/https://www.federalregister.gov/documents/2025/04/11/2025-06211/notice-of-inventory-completion-us-army-corps-of-engineers-omaha-district-omaha-ne
+  captured: '2025-06-01'

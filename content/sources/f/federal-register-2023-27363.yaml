@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 86370, published 2023-12-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611190847/https://www.federalregister.gov/documents/2023/12/13/2023-27363/notice-of-inventory-completion-us-department-of-agriculture-forest-service-sierra-national-forest
+  captured: '2025-06-11'

@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 7112, published 2019-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202115527/https://www.federalregister.gov/documents/2019/03/01/2019-03571/notice-of-inventory-completion-baylor-universitys-mayborn-museum-complex-formerly-baylor-universitys
+  captured: '2025-02-02'

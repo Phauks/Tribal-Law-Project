@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 29828, published 2001-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214062240/https://www.federalregister.gov/documents/2001/06/01/01-13823/proclaiming-certain-lands-as-reservation-for-the-pueblo-of-isleta-indians-in-new-mexico
+  captured: '2025-02-14'

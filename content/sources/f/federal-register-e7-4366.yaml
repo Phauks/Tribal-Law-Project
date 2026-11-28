@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 11049, published 2007-03-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210511152614/https://www.federalregister.gov/documents/2007/03/12/E7-4366/the-three-affiliated-tribes-of-the-fort-berthold-indian-reservation-amendment-to-their-liquor
+  captured: '2021-05-11'

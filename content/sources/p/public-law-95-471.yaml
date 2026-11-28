@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-92/STATUTE-92-Pg1325
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205082347/https://www.govinfo.gov/app/details/STATUTE-92/STATUTE-92-Pg1325
+  captured: '2025-02-05'
 file:
   storage_key: govinfo/STATUTE-92/STATUTE-92-Pg1325.pdf
   checksum: 4a7e58ca5f10860d1dc8a3f79a551bc0dfcc534638b83aba425485b3ccb59f15

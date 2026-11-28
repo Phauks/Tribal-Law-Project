@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 48554, published 2020-08-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203082314/https://www.federalregister.gov/documents/2020/08/11/2020-17486/notice-of-inventory-completion-denver-museum-of-nature-and-science-denver-co-and-us-department-of
+  captured: '2025-02-03'

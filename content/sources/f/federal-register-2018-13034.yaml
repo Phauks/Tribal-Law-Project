@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 28254, published 2018-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208212940/https://www.federalregister.gov/documents/2018/06/18/2018-13034/notice-of-inventory-completion-heard-museum-phoenix-az
+  captured: '2025-02-08'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 92964, published 2024-11-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524184642/https://www.federalregister.gov/documents/2024/11/25/2024-27496/notice-of-intended-repatriation-sonoma-state-university-rohnert-park-ca
+  captured: '2025-05-24'

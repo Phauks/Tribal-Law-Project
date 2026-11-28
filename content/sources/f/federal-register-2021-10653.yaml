@@ -91,3 +91,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 27470, published 2021-05-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202171957/https://www.federalregister.gov/documents/2021/05/20/2021-10653/notice-of-inventory-completion-department-of-anthropology-university-of-south-florida-tampa-fl
+  captured: '2025-02-02'

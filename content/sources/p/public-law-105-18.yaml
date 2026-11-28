@@ -23,7 +23,10 @@ citation:
       - 27
 original_link: https://www.govinfo.gov/app/details/STATUTE-111/STATUTE-111-Pg158
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807121014/https://www.govinfo.gov/app/details/STATUTE-111/STATUTE-111-Pg158
+  captured: '2026-08-07'
 file:
   storage_key: govinfo/STATUTE-111/STATUTE-111-Pg158.pdf
   checksum: 2d1cc0a5af46b0fa71a9951b0715c7447bd2eb6ffae7cd13d8bf0d4901fa3b4f

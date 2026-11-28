@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 16489, published 2001-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208052724/https://www.federalregister.gov/documents/2001/03/26/01-7382/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-08'

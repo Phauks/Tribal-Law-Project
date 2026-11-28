@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 34262, published 2007-06-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208181925/https://www.federalregister.gov/documents/2007/06/21/07-3045/geographic-composition-of-the-contract-health-service-delivery-areas-chsda-and-service-delivery
+  captured: '2025-02-08'

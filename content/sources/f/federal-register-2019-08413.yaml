@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 17851, published 2019-04-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217074748/https://www.federalregister.gov/documents/2019/04/26/2019-08413/office-of-urban-indian-health-programs-urban-indian-education-and-research-program
+  captured: '2025-02-17'

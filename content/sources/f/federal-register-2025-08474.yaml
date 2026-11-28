@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 20492, published 2025-05-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611191650/https://www.federalregister.gov/documents/2025/05/14/2025-08474/notice-of-inventory-completion-field-museum-chicago-il
+  captured: '2025-06-11'

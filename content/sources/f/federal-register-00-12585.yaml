@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 31594, published 2000-05-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203173215/https://www.federalregister.gov/documents/2000/05/18/00-12585/notice-of-final-agency-action-to-take-9094-acres-of-land-more-or-less-into-trust-for-the-lower-brule
+  captured: '2025-02-03'

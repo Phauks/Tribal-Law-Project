@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 61672, published 2007-10-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207011614/https://www.federalregister.gov/documents/2007/10/31/E7-21364/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-07'

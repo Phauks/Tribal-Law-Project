@@ -48,3 +48,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CPRT-95JPRT93440OvTWO'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260805023233/https://www.govinfo.gov/app/details/CPRT-95JPRT93440OvTWO/
+  captured: '2026-08-05'

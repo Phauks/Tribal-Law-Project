@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 915, published 2005-01-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202140737/https://www.federalregister.gov/documents/2005/01/05/05-190/notice-of-deadline-for-submitting-completed-applications-to-begin-participation-in-the-tribal
+  captured: '2025-02-02'

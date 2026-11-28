@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 4277, published 1998-01-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204034308/https://www.federalregister.gov/documents/1998/01/28/98-1993/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-04'

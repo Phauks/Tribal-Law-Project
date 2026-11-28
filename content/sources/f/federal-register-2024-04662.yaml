@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 16020, published 2024-03-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611201103/https://www.federalregister.gov/documents/2024/03/06/2024-04662/notice-of-intended-disposition-general-services-administration-pacific-rim-region-design-and
+  captured: '2025-06-11'

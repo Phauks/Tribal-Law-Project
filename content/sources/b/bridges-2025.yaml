@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/10754885/shelley-bridges-lisa-blakemore-and-teresa-lukaszewicz-individually-and/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128003121/https://www.courtlistener.com/opinion/10754885/shelley-bridges-lisa-blakemore-and-teresa-lukaszewicz-individually-and/
+  captured: '2026-11-28'
 history:
   status: live
   last_checked: '2026-11-26'

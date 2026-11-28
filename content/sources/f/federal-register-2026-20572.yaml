@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 64394, published 2026-10-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261008110726/https://www.federalregister.gov/documents/2026/10/08/2026-20572/notice-of-inventory-completion-university-of-california-davis-davis-ca
+  captured: '2026-10-08'

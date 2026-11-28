@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 58741, published 2005-10-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211095054/https://www.federalregister.gov/documents/2005/10/07/05-20201/consultation-on-regulations-regarding-the-disposition-of-unclaimed-native-american-cultural-items
+  captured: '2025-02-11'

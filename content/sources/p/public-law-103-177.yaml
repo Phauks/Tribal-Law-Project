@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-107/STATUTE-107-Pg2011
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260806213709/https://www.govinfo.gov/app/details/STATUTE-107/STATUTE-107-Pg2011
+  captured: '2026-08-06'
 file:
   storage_key: govinfo/STATUTE-107/STATUTE-107-Pg2011.pdf
   checksum: 00a67302edb4ffa1c7c0845164d7ed9cf807773d24d77b292d3f99a911dc90a4

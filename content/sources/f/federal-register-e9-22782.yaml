@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 48282, published 2009-09-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209003141/https://www.federalregister.gov/documents/2009/09/22/E9-22782/information-collection-for-energy-and-mineral-development-program-grants-comment-request
+  captured: '2025-02-09'

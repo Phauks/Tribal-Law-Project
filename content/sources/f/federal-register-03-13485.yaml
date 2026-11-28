@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 32004, published 2003-05-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203224041/https://www.federalregister.gov/documents/2003/05/29/03-13485/first-meeting-of-the-negotiated-rulemaking-committee-established-under-the-no-child-left-behind-act
+  captured: '2025-02-03'

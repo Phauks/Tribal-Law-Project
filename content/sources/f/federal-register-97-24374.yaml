@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 48304, published 1997-09-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213093123/https://www.federalregister.gov/documents/1997/09/15/97-24374/notice-of-intent-to-repatriate-cultural-items-from-rhode-island-in-the-possession-of-the-peabody
+  captured: '2025-02-13'

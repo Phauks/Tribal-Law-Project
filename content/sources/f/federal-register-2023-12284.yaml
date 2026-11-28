@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 37577, published 2023-06-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204044559/https://www.federalregister.gov/documents/2023/06/08/2023-12284/notice-of-intent-to-repatriate-cultural-items-university-of-california-davis-davis-ca-and-university
+  captured: '2025-02-04'

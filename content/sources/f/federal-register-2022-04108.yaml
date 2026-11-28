@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 11092, published 2022-02-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202185526/https://www.federalregister.gov/documents/2022/02/28/2022-04108/notice-of-intent-to-repatriate-cultural-items-bryn-mawr-college-bryn-mawr-pa
+  captured: '2025-02-02'

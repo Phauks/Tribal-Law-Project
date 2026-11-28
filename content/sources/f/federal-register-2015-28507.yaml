@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 69247, published 2015-11-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204150959/https://www.federalregister.gov/documents/2015/11/09/2015-28507/draft-environmental-impact-statement-for-management-of-osage-nation-oil-and-gas-resources-osage
+  captured: '2025-02-04'

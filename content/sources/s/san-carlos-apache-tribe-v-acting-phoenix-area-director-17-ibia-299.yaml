@@ -59,3 +59,7 @@ review:
   - check: decided
     result: agree
     detail: index 1989-09-21; cover sheet 1989-09-21; decision 1989-09-21
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260730114135/https://www.oha.doi.gov/IBIA/IbiaDecisions/17ibia/17ibia299.PDF
+  captured: '2026-07-30'

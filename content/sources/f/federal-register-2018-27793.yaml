@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 66284, published 2018-12-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250424001535/https://www.federalregister.gov/documents/2018/12/26/2018-27793/organization-functions-and-delegations-of-authority-part-g-indian-health-service
+  captured: '2025-04-24'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 51509, published 2008-09-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516211106/https://www.federalregister.gov/documents/2008/09/03/E8-20411/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-national-park-service
+  captured: '2017-05-16'

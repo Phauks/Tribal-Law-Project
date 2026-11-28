@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 12565, published 2010-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212231258/https://www.federalregister.gov/documents/2010/03/16/2010-5696/proclaiming-certain-lands-as-an-addition-to-the-confederated-tribes-of-the-chehalis-reservation
+  captured: '2025-02-12'

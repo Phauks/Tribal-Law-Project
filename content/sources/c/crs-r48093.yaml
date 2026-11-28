@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: R48093, version 4'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251203004742/https://www.congress.gov/crs-product/R48093
+  captured: '2025-12-03'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 15098, published 2019-04-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250407151116/https://www.federalregister.gov/documents/2019/04/15/2019-07469/civil-penalties-inflation-adjustments-annual-adjustments
+  captured: '2025-04-07'

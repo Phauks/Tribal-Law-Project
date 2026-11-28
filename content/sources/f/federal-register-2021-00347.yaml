@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 2446, published 2021-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203130339/https://www.federalregister.gov/documents/2021/01/12/2021-00347/chippewa-cree-indians-of-the-rocky-boys-reservation-amendment-to-liquor-control-ordinance
+  captured: '2025-02-03'

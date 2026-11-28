@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 2413, published 2013-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250421180144/https://www.federalregister.gov/documents/2013/01/11/2013-00472/office-of-urban-indian-health-programs-announcement-type-meeting-notice
+  captured: '2025-04-21'

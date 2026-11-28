@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 39726, published 2012-07-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210513054041/https://www.federalregister.gov/documents/2012/07/05/2012-16416/land-acquisitions-pueblo-of-santa-clara
+  captured: '2021-05-13'

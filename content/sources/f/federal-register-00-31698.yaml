@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 77905, published 2000-12-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202144201/https://www.federalregister.gov/documents/2000/12/13/00-31698/notice-of-acceptance-of-retrocession-of-jurisdiction-for-the-tulalip-tribes-washington-correction
+  captured: '2025-02-02'

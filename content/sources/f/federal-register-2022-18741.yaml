@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 52995, published 2022-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250225200805/https://www.federalregister.gov/documents/2022/08/30/2022-18741/notice-of-inventory-completion-university-of-alabama-museums-tuscaloosa-al
+  captured: '2025-02-25'

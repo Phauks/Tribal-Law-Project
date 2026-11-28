@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 56732, published 2013-09-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213213438/https://www.federalregister.gov/documents/2013/09/13/2013-22260/submission-of-information-collection-extensions-under-the-paperwork-reduction-act
+  captured: '2025-02-13'

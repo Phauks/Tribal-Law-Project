@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2021/11/03/2021-24121/national-native-american-heritage-month-2021'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260101124905/https://www.federalregister.gov/documents/2021/11/03/2021-24121/national-native-american-heritage-month-2021
+  captured: '2026-01-01'

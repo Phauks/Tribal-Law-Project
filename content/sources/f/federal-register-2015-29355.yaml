@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 71837, published 2015-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204013119/https://www.federalregister.gov/documents/2015/11/17/2015-29355/notice-of-intent-to-repatriate-cultural-items-carnegie-museum-of-natural-history-pittsburgh-pa
+  captured: '2025-02-04'

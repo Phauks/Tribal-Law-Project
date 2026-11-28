@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 39969, published 2010-07-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210508101526/https://www.federalregister.gov/documents/2010/07/13/2010-16999/liquor-control-ordinance-for-the-manchester-band-of-pomo-indians-of-the-manchester-point-arena
+  captured: '2021-05-08'

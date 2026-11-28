@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 26427, published 1999-05-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210427151322/https://www.federalregister.gov/documents/1999/05/14/99-12176/renewal-of-agency-information-collection-for-indian-self--determination-and-education-assistance
+  captured: '2021-04-27'

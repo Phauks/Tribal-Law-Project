@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 64917, published 2003-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213135203/https://www.federalregister.gov/documents/2003/11/17/03-28478/tribal-consultation-on-participation-by-the-office-of-the-special-trustee-for-american-indians-in
+  captured: '2025-02-13'

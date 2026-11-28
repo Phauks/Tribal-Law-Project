@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 26492, published 2020-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209003856/https://www.federalregister.gov/documents/2020/05/04/2020-09388/national-tribal-broadband-grant-extension-of-application-deadline
+  captured: '2025-02-09'

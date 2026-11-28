@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 12615, published 2026-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260314095105/https://www.federalregister.gov/documents/2026/03/16/2026-05034/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-san-juan-island
+  captured: '2026-03-14'

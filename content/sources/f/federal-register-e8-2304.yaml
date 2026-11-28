@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 7583, published 2008-02-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205010924/https://www.federalregister.gov/documents/2008/02/08/E8-2304/rate-adjustments-for-indian-irrigation-projects
+  captured: '2025-02-05'

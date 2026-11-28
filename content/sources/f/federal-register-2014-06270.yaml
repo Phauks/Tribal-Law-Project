@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 16040, published 2014-03-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260409190950/https://www.federalregister.gov/documents/2014/03/24/2014-06270/notice-of-intent-to-repatriate-cultural-items-us-department-of-agriculture-forest-service-coconino
+  captured: '2026-04-09'

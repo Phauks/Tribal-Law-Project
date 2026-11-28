@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 44234, published 2025-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250924174128/https://www.federalregister.gov/documents/2025/09/12/2025-17630/notice-of-proposed-transfer-or-reinterment-us-department-of-agriculture-forest-service-grey-towers
+  captured: '2025-09-24'

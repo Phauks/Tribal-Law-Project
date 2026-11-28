@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 1996-07-09; cover sheet 1996-07-09; decision 1996-07-09
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325011345/https://www.oha.doi.gov/IBIA/IbiaDecisions/29ibia/29ibia237.PDF
+  captured: '2026-03-25'

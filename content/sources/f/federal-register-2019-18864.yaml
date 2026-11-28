@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 46041, published 2019-09-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240728031954/https://www.federalregister.gov/documents/2019/09/03/2019-18864/notice-of-intent-to-repatriate-cultural-items-the-field-museum-chicago-il
+  captured: '2024-07-28'

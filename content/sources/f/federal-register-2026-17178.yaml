@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 54755, published 2026-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261011072908/https://www.federalregister.gov/documents/2026/08/24/2026-17178/notice-of-inventory-completion-field-museum-chicago-il
+  captured: '2026-10-11'

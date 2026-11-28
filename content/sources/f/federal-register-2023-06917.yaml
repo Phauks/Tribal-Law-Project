@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 19977, published 2023-04-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202213746/https://www.federalregister.gov/documents/2023/04/04/2023-06917/notice-of-inventory-completion-central-washington-university-ellensburg-wa
+  captured: '2025-02-02'

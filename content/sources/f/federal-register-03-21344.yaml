@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 50189, published 2003-08-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214044438/https://www.federalregister.gov/documents/2003/08/20/03-21344/notice-of-inventory-completion-university-of-pennsylvania-museum-of-archaeology-and-anthropology
+  captured: '2025-02-14'

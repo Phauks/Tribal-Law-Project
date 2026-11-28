@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 64210, published 2014-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210329193852/https://www.federalregister.gov/documents/2014/10/28/2014-25571/renewal-of-agency-information-collection-for-probate-of-indian-estates
+  captured: '2021-03-29'

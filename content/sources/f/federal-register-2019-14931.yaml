@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 33781, published 2019-07-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213022250/https://www.federalregister.gov/documents/2019/07/15/2019-14931/notice-of-inventory-completion-university-of-louisville-louisville-ky
+  captured: '2025-02-13'

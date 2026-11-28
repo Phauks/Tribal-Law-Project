@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/9918856/bolin-v-oklahoma-state-of/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127235822/https://www.courtlistener.com/opinion/9918856/bolin-v-oklahoma-state-of/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 22447, published 2022-04-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260808040209/https://www.federalregister.gov/documents/2022/04/15/2022-07471/curation-of-federally-owned-or-administered-archeological-collections
+  captured: '2026-08-08'

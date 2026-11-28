@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 11932, published 2023-02-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206185033/https://www.federalregister.gov/documents/2023/02/24/2023-03812/notice-of-inventory-completion-university-of-minnesota-twin-cities-minneapolis-mn-minnesota-indian
+  captured: '2025-02-06'

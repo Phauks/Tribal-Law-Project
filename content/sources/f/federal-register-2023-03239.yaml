@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 9907, published 2023-02-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207205914/https://www.federalregister.gov/documents/2023/02/15/2023-03239/notice-of-inventory-completion-seminole-tribe-of-florida-clewiston-fl
+  captured: '2025-02-07'

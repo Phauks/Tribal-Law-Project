@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 68071, published 2005-11-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210501073340/https://www.federalregister.gov/documents/2005/11/09/05-22357/gila-river-indian-community-sale-and-consumption-of-alcoholic-beverages
+  captured: '2021-05-01'

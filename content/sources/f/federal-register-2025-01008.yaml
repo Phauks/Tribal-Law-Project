@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 4793, published 2025-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611173958/https://www.federalregister.gov/documents/2025/01/16/2025-01008/notice-of-inventory-completion-university-of-florida-florida-museum-of-natural-history-gainesville
+  captured: '2025-06-11'

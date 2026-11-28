@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 94756, published 2024-11-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250528203812/https://www.federalregister.gov/documents/2024/11/29/2024-27998/proclaiming-certain-lands-as-reservation-for-cheyenne-and-arapaho-tribes-oklahoma
+  captured: '2025-05-28'

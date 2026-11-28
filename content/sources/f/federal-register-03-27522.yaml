@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 62319, published 2003-11-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203111033/https://www.federalregister.gov/documents/2003/11/03/03-27522/notice-of-intent-to-repatriate-cultural-items-from-molokai-hi-in-the-possession-of-the-bernice
+  captured: '2025-02-03'

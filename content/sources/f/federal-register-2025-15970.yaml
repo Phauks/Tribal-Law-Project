@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 40841, published 2025-08-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250826133608/https://www.federalregister.gov/documents/2025/08/21/2025-15970/notice-of-inventory-completion-the-john-spellman-library-at-grays-harbor-college-aberdeen-wa
+  captured: '2025-08-26'

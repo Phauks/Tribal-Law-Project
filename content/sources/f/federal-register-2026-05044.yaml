@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 12621, published 2026-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260314141824/https://www.federalregister.gov/documents/2026/03/16/2026-05044/notice-of-inventory-completion-university-of-michigan-ann-arbor-mi
+  captured: '2026-03-14'

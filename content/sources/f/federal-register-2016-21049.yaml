@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 60360, published 2016-09-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203172108/https://www.federalregister.gov/documents/2016/09/01/2016-21049/office-of-public-health-support-division-of-planning-evaluation-and-research-national-native-health
+  captured: '2025-02-03'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 8360, published 2008-02-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204174431/https://www.federalregister.gov/documents/2008/02/13/E8-2571/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-04'

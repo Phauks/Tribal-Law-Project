@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 16840, published 2005-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210512234115/https://www.federalregister.gov/documents/2005/04/01/05-6466/notice-of-intent-to-repatriate-cultural-items-robert-s-peabody-museum-of-archaeology-phillips
+  captured: '2021-05-12'

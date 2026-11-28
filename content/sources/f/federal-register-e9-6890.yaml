@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 13453, published 2009-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203092345/https://www.federalregister.gov/documents/2009/03/27/E9-6890/environmental-impact-statement-for-the-renewed-application-for-the-proposed-los-coyotes-band-of
+  captured: '2025-02-03'

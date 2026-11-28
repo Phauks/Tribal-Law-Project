@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 52998, published 2022-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220901154709/https://www.federalregister.gov/documents/2022/08/30/2022-18737/notice-of-inventory-completion-michigan-state-university-east-lansing-mi
+  captured: '2022-09-01'

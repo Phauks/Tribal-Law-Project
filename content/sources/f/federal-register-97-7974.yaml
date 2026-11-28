@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 15191, published 1997-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204115332/https://www.federalregister.gov/documents/1997/03/31/97-7974/proposed-collection-comment-request-evaluation-of-the-ihs--supported-alcohol-and-substance-abuse
+  captured: '2025-02-04'

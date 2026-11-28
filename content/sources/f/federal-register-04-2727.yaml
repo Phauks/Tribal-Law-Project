@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 6310, published 2004-02-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250312090359/https://www.federalregister.gov/documents/2004/02/10/04-2727/availability-of-funds-for-loan-repayment-program-for-repayment-of-health-professions-educational
+  captured: '2025-03-12'

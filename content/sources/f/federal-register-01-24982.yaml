@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 51056, published 2001-10-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204225520/https://www.federalregister.gov/documents/2001/10/05/01-24982/notice-of-availability-of-the-draft-environmental-impact-statementenvironmental-impact-report-for
+  captured: '2025-02-04'

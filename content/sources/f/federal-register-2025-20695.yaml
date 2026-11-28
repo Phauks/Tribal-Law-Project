@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 52994, published 2025-11-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260713222848/https://www.federalregister.gov/documents/2025/11/24/2025-20695/hearth-act-approval-of-shivwits-band-of-paiutes-leasing-ordinance
+  captured: '2026-07-13'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 47526, published 1996-09-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204144606/https://www.federalregister.gov/documents/1996/09/09/96-22852/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-04'

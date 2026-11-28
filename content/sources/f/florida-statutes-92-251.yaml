@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/Sections/0092.251.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260125065120/https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/Sections/0092.251.html
+  captured: '2026-01-25'
 history:
   status: live
   last_checked: '2026-11-27'

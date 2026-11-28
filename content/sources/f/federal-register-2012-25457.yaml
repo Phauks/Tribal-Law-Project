@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 63856, published 2012-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250504060604/https://www.federalregister.gov/documents/2012/10/17/2012-25457/record-of-decision-for-the-final-environmental-impact-statement-for-the-susquehanna-to-roseland
+  captured: '2025-05-04'

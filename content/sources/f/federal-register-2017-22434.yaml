@@ -71,3 +71,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 48249, published 2017-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210415200344/https://www.federalregister.gov/documents/2017/10/17/2017-22434/notice-of-inventory-completion-us-department-of-defense-defense-health-agency-national-museum-of
+  captured: '2021-04-15'

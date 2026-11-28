@@ -110,3 +110,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 19865, published 2024-03-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250526162917/https://www.federalregister.gov/documents/2024/03/20/2024-05849/notice-of-intended-repatriation-ohio-history-connection-columbus-oh
+  captured: '2025-05-26'

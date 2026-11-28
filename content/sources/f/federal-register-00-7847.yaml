@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 16961, published 2000-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218132215/https://www.federalregister.gov/documents/2000/03/30/00-7847/notice-of-intent-to-repatriate-cultural-items-from-the-kachemak-bay-region-ak-in-the-control-of-the
+  captured: '2025-02-18'

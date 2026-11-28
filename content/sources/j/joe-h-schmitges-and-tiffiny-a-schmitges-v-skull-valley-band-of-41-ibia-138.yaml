@@ -59,3 +59,7 @@ review:
   - check: decided
     result: agree
     detail: index 2005-07-21; cover sheet 2005-07-21; decision 2005-07-21
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325004358/https://www.oha.doi.gov/IBIA/IbiaDecisions/41ibia/41ibia138.pdf
+  captured: '2026-03-25'

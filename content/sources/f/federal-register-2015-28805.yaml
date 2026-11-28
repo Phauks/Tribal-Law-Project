@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 70250, published 2015-11-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250421000607/https://www.federalregister.gov/documents/2015/11/13/2015-28805/proclaiming-certain-lands-as-reservation-for-the-cowlitz-indian-tribe
+  captured: '2025-04-21'

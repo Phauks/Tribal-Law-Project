@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 62523, published 2012-10-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204045147/https://www.federalregister.gov/documents/2012/10/15/2012-25255/land-acquisitions-mandan-hidatsa-and-arikara-nation
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 12190, published 2007-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215152744/https://www.federalregister.gov/documents/2007/03/15/E7-4727/notice-of-inventory-completion-peabody-museum-of-archaeology-and-ethnology-harvard-university
+  captured: '2025-02-15'

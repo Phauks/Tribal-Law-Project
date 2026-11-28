@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 47462, published 2022-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202024817/https://www.federalregister.gov/documents/2022/08/03/2022-16569/notice-of-inventory-completion-state-university-of-new-york-at-new-paltz-department-of-anthropology
+  captured: '2025-02-02'

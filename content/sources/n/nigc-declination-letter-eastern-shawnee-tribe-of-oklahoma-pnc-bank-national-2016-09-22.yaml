@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Commission''s table was read: https://www.nigc.gov/office-of-general-counsel/legal-opinions/declination-letters/'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260721010825/https://www.nigc.gov/wp-content/uploads/2025/02/09222016Tribe-EasternShawneeTribeofOklahoma-Company-PNCBankNationalAssociation.pdf
+  captured: '2026-07-21'

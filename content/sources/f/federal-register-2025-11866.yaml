@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 27644, published 2025-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260331195501/https://www.federalregister.gov/documents/2025/06/27/2025-11866/notice-of-purchasedreferred-care-delivery-area-re-designation-for-the-chippewa-cree-tribe-of-the
+  captured: '2026-03-31'

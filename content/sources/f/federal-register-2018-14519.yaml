@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 31563, published 2018-07-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202110206/https://www.federalregister.gov/documents/2018/07/06/2018-14519/hearth-act-approval-of-the-confederated-tribes-of-the-warm-springs-reservation-of-oregons-tribal
+  captured: '2025-02-02'

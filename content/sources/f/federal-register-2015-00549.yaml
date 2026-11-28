@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 2121, published 2015-01-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218053358/https://www.federalregister.gov/documents/2015/01/15/2015-00549/advisory-board-for-exceptional-children-meeting
+  captured: '2025-02-18'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 5261, published 2024-01-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203001836/https://www.federalregister.gov/documents/2024/01/26/2024-01537/notice-of-intent-to-repatriate-cultural-items-central-washington-university-ellensburg-wa
+  captured: '2025-02-03'

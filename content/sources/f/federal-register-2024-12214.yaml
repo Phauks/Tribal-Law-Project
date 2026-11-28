@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 47982, published 2024-06-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260711182539/https://www.federalregister.gov/documents/2024/06/04/2024-12214/hearth-act-approval-of-tunica-biloxi-indian-tribe-residential-leasing-ordinance
+  captured: '2026-07-11'

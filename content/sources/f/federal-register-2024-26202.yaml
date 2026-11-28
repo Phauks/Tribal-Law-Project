@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 89655, published 2024-11-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250417152640/https://www.federalregister.gov/documents/2024/11/13/2024-26202/proclaiming-certain-lands-as-reservation-for-lower-elwha-tribal-community
+  captured: '2025-04-17'

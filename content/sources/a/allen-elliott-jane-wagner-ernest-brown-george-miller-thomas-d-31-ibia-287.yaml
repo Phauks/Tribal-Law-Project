@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 1997-11-25; cover sheet 1997-11-25; decision not found
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010620/https://www.oha.doi.gov/IBIA/IbiaDecisions/31ibia/31ibia287.PDF
+  captured: '2026-03-25'

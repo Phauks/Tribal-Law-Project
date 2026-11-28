@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 3119, published 2022-01-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206183223/https://www.federalregister.gov/documents/2022/01/20/2022-01046/notice-of-intent-to-repatriate-cultural-item-the-buffalo-history-museum-buffalo-ny
+  captured: '2025-02-06'

@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 34984, published 2012-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208221253/https://www.federalregister.gov/documents/2012/06/12/2012-14299/notice-of-intent-to-repatriate-a-cultural-item-san-diego-museum-of-man-san-diego-ca
+  captured: '2025-02-08'

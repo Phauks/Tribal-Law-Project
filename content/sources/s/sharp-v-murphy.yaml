@@ -31,6 +31,10 @@ opinions:
     page: 978
 original_link: https://www.supremecourt.gov/opinions/preliminaryprint/591US2PP_web.pdf
 retrieved: '2026-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260709031753/https://www.supremecourt.gov/opinions/preliminaryprint/591US2PP_web.pdf
+  captured: '2026-07-09'
 history:
   status: live
   last_checked: '2026-11-26'

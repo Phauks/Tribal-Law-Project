@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 16724, published 2026-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260713085335/https://www.federalregister.gov/documents/2026/04/02/2026-06364/notice-of-inventory-completion-florida-department-of-state-tallahassee-fl
+  captured: '2026-07-13'

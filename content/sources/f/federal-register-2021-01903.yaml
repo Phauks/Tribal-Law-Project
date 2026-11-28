@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 7410, published 2021-01-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210710141712/https://www.federalregister.gov/documents/2021/01/28/2021-01903/notice-of-intent-to-repatriate-cultural-items-tennessee-valley-authority-knoxville-tn
+  captured: '2021-07-10'

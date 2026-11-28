@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 50222, published 2009-09-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250420011425/https://www.federalregister.gov/documents/2009/09/30/E9-23569/privacy-act-of-1974-report-of-modified-or-altered-system-indian-health-service-scholarship-and-loan
+  captured: '2025-04-20'

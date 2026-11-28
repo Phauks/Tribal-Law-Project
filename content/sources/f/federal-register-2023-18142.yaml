@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 57472, published 2023-08-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611193632/https://www.federalregister.gov/documents/2023/08/23/2023-18142/notice-of-intent-to-repatriate-cultural-items-augusta-museum-of-history-augusta-ga
+  captured: '2025-06-11'

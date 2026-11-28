@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 73655, published 2011-11-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215060728/https://www.federalregister.gov/documents/2011/11/29/2011-30646/renewal-of-agency-information-collection-for-tribal-probate-codes
+  captured: '2025-02-15'

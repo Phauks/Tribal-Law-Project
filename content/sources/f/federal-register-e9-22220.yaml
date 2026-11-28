@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 47270, published 2009-09-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210518115502/https://www.federalregister.gov/documents/2009/09/15/E9-22220/notice-of-inventory-completion-new-york-university-college-of-dentistry-new-york-ny
+  captured: '2021-05-18'

@@ -92,3 +92,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 2433, published 2013-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807192109/https://www.federalregister.gov/documents/2013/01/11/2013-00451/notice-of-inventory-completion-fort-collins-museum-of-discovery-fort-collins-co
+  captured: '2026-08-07'

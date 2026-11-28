@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 9925, published 2010-03-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204010631/https://www.federalregister.gov/documents/2010/03/04/2010-4291/notice-of-intent-to-repatriate-a-cultural-item-the-cleveland-museum-of-natural-history-cleveland-oh
+  captured: '2025-02-04'

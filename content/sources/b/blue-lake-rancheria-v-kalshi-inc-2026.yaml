@@ -18,7 +18,10 @@ citation:
   number: 25-7504
 original_link: https://www.courtlistener.com/opinion/10974714/blue-lake-rancheria-v-kalshi-inc/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127235009/https://www.courtlistener.com/opinion/10974714/blue-lake-rancheria-v-kalshi-inc/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

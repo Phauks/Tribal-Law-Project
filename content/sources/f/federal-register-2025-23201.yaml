@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 59192, published 2025-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251221020620/https://www.federalregister.gov/documents/2025/12/18/2025-23201/notice-of-intended-repatriation-museum-of-science-boston-boston-ma
+  captured: '2025-12-21'

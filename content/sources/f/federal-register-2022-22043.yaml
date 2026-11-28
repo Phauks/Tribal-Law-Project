@@ -82,3 +82,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 61362, published 2022-10-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204085317/https://www.federalregister.gov/documents/2022/10/11/2022-22043/notice-of-inventory-completion-maxwell-museum-of-anthropology-university-of-new-mexico-albuquerque
+  captured: '2025-02-04'

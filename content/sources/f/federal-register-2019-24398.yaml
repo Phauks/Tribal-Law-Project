@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 60448, published 2019-11-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220327051024/https://www.federalregister.gov/documents/2019/11/08/2019-24398/notice-of-inventory-completion-arkansas-archeological-survey-fayetteville-ar-correction
+  captured: '2022-03-27'

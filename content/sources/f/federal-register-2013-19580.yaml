@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 49282, published 2013-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204111207/https://www.federalregister.gov/documents/2013/08/13/2013-19580/renewal-of-agency-information-collection-for-reporting-systems-for-public-law-102-477-demonstration
+  captured: '2025-02-04'

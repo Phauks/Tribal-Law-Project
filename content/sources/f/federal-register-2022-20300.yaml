@@ -71,3 +71,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 57513, published 2022-09-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208180317/https://www.federalregister.gov/documents/2022/09/20/2022-20300/notice-of-inventory-completion-gordon-l-grosscup-museum-of-anthropology-wayne-state-university
+  captured: '2025-02-08'

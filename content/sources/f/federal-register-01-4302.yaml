@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 11045, published 2001-02-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250220185816/https://www.federalregister.gov/documents/2001/02/21/01-4302/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-20'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 30764, published 2005-05-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210502081451/https://www.federalregister.gov/documents/2005/05/27/05-10650/reimbursement-rates-for-calendar-year-2005
+  captured: '2021-05-02'

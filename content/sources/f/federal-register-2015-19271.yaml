@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 46600, published 2015-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204045954/https://www.federalregister.gov/documents/2015/08/05/2015-19271/notice-of-inventory-completion-museum-of-anthropology-at-washington-state-university-pullman-wa
+  captured: '2025-02-04'

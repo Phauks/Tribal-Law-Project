@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/9664695/aupuni-o-hawaii-v-trump/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127212553/https://www.courtlistener.com/opinion/9664695/aupuni-o-hawaii-v-trump/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

@@ -94,3 +94,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 54528, published 2022-09-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220903081344/https://www.federalregister.gov/documents/2022/09/06/2022-19165/notice-of-inventory-completion-office-of-the-state-archaeologist-university-of-iowa-iowa-city-ia
+  captured: '2022-09-03'

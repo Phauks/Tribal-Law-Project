@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/websterdudley-band-chaubunagungamaug-nipmuck-indians'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418100309/https://www.bia.gov/sites/default/files/media_document/069b_pf.pdf
+  captured: '2026-04-18'

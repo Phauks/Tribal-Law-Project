@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 73954, published 2008-12-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202065328/https://www.federalregister.gov/documents/2008/12/04/E8-28697/notice-of-inventory-completion-michigan-department-of-natural-resources-mackinac-state-historic
+  captured: '2025-02-02'

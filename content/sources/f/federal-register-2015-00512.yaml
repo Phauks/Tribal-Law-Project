@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 1935, published 2015-01-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210509070556/https://www.federalregister.gov/documents/2015/01/14/2015-00512/request-for-nominations-of-members-to-serve-on-the-bureau-of-indian-education-advisory-board-for
+  captured: '2021-05-09'

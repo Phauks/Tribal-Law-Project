@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 55498, published 2019-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204132425/https://www.federalregister.gov/documents/2019/10/17/2019-22682/tribal-transportation-program-delay-of-compliance-date
+  captured: '2025-02-04'

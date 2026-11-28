@@ -54,3 +54,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 25056, published 1999-05-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202175428/https://www.federalregister.gov/documents/1999/05/10/99-11593/elk-valley-rancheria-liquor-licensing-ordinance
+  captured: '2025-02-02'

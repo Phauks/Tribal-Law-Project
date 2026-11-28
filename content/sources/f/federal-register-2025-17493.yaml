@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 44097, published 2025-09-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250918062543/https://www.federalregister.gov/documents/2025/09/11/2025-17493/notice-of-inventory-completion-abbe-museum-bar-harbor-me
+  captured: '2025-09-18'

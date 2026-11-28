@@ -84,3 +84,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 33153, published 2017-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214073752/https://www.federalregister.gov/documents/2017/07/19/2017-15107/notice-of-inventory-completion-history-colorado-formerly-colorado-historical-society-denver-co
+  captured: '2025-02-14'

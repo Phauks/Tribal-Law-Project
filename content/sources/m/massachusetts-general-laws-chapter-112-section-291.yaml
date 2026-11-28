@@ -18,7 +18,10 @@ citation:
       - 27
 original_link: https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter112/Section291
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260606110709/https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter112/Section291
+  captured: '2026-06-06'
 history:
   status: live
   last_checked: '2026-11-27'

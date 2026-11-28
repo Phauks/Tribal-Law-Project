@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 46179, published 2023-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260613145824/https://www.federalregister.gov/documents/2023/07/19/2023-15233/notice-of-intent-to-repatriate-cultural-items-boston-childrens-museum-boston-ma
+  captured: '2026-06-13'

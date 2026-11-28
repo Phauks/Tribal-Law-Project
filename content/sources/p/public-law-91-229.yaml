@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-84/STATUTE-84-Pg120
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260519233342/https://www.govinfo.gov/app/details/STATUTE-84/STATUTE-84-Pg120
+  captured: '2026-05-19'
 file:
   storage_key: govinfo/STATUTE-84/STATUTE-84-Pg120.pdf
   checksum: 6332d00fc70f6fffa005c44244e5f52c1533026b02c77d7ad994c62da2342f44

@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 681, published 2004-01-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213054547/https://www.federalregister.gov/documents/2004/01/06/04-145/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-13'

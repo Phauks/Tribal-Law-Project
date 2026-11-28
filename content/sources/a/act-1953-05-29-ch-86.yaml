@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-67/STATUTE-67-Pg40-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127080700/https://www.govinfo.gov/app/details/STATUTE-67/STATUTE-67-Pg40-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-67/STATUTE-67-Pg40-2.pdf
   checksum: dc3c97bf934f2d85517a3ff4a4cd28e113025bb3954443ec1fa17889d202eb38

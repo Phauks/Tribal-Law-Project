@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 74443, published 2022-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202032339/https://www.federalregister.gov/documents/2022/12/05/2022-26373/notice-of-intent-to-repatriate-cultural-items-beloit-college-logan-museum-of-anthropology-beloit-wi
+  captured: '2025-02-02'

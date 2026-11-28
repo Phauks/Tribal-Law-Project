@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 26629, published 2000-05-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203005017/https://www.federalregister.gov/documents/2000/05/08/00-11378/notice-of-intent-to-repatriate-cultural-items-from-the-nevada-test-site-nv-in-the-possession-of-the
+  captured: '2025-02-03'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 2450, published 2021-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260608081652/https://www.federalregister.gov/documents/2021/01/12/2021-00338/hearth-act-approval-of-the-cahuilla-band-of-indians-california-leasing-ordinance
+  captured: '2026-06-08'

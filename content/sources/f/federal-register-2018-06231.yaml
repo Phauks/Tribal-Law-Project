@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 13294, published 2018-03-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206013336/https://www.federalregister.gov/documents/2018/03/28/2018-06231/hearth-act-approval-of-business-leasing-regulations
+  captured: '2025-02-06'

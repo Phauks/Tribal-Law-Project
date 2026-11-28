@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 44701, published 2025-09-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250919204049/https://www.federalregister.gov/documents/2025/09/16/2025-17876/notice-of-intended-repatriation-sonoma-state-university-rohnert-park-ca
+  captured: '2025-09-19'

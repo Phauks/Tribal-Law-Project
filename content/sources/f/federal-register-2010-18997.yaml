@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 45654, published 2010-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204063600/https://www.federalregister.gov/documents/2010/08/03/2010-18997/notice-of-intent-to-repatriate-a-cultural-item-taylor-museum-of-the-colorado-springs-fine-arts
+  captured: '2025-02-04'

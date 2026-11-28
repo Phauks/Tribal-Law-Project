@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://law.lis.virginia.gov/vacode/title10.1/chapter6/section10.1-603.25/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260122175044/https://law.lis.virginia.gov/vacode/title10.1/chapter6/section10.1-603.25/
+  captured: '2026-01-22'
 history:
   status: live
   last_checked: '2026-11-27'

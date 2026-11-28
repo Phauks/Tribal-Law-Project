@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 38889, published 2023-06-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203171302/https://www.federalregister.gov/documents/2023/06/14/2023-12680/forthcoming-fy-2024-native-act-tribal-tourism-cooperative-agreement
+  captured: '2025-02-03'

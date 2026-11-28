@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 72789, published 2023-10-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202040347/https://www.federalregister.gov/documents/2023/10/23/2023-23274/notice-of-intent-to-repatriate-cultural-items-hastings-museum-hastings-ne
+  captured: '2025-02-02'

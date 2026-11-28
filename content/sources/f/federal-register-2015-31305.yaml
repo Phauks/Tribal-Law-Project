@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 77005, published 2015-12-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210326211035/https://www.federalregister.gov/documents/2015/12/11/2015-31305/notice-of-intent-to-repatriate-cultural-items-san-francisco-state-university-san-francisco-ca
+  captured: '2021-03-26'

@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 39551, published 2022-07-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217080746/https://www.federalregister.gov/documents/2022/07/01/2022-14093/notice-of-inventory-completion-university-of-new-hampshire-durham-nh
+  captured: '2025-02-17'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 63144, published 2000-10-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250502034253/https://www.federalregister.gov/documents/2000/10/20/00-26703/financial-assistance-and-social-services-programs
+  captured: '2025-05-02'

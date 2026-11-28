@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 20936, published 2008-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250404220934/https://www.federalregister.gov/documents/2008/04/17/E8-8295/notice-of-intent-to-repatriate-cultural-items-american-museum-of-natural-history-new-york-ny
+  captured: '2025-04-04'

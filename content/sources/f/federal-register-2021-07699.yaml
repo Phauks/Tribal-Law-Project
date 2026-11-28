@@ -101,3 +101,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 19898, published 2021-04-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202173733/https://www.federalregister.gov/documents/2021/04/15/2021-07699/notice-of-inventory-completion-colorado-bureau-of-investigation-arvada-co
+  captured: '2025-02-02'

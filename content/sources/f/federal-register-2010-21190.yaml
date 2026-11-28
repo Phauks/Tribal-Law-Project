@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 52368, published 2010-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217150300/https://www.federalregister.gov/documents/2010/08/25/2010-21190/notice-of-inventory-completion-homer-society-of-natural-history-pratt-museum-homer-ak
+  captured: '2025-02-17'

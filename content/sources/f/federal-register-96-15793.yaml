@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 32482, published 1996-06-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260801030655/https://www.federalregister.gov/documents/1996/06/24/96-15793/indian-self-determination-and-education-assistance-act-amendments
+  captured: '2026-08-01'

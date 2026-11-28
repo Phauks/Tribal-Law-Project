@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 44706, published 2024-05-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525172320/https://www.federalregister.gov/documents/2024/05/21/2024-11089/notice-of-inventory-completion-arizona-state-museum-university-of-arizona-tucson-az-and-arizona
+  captured: '2025-05-25'

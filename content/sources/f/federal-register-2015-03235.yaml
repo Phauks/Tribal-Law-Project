@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 8666, published 2015-02-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250405100234/https://www.federalregister.gov/documents/2015/02/18/2015-03235/office-of-tribal-self-governance-negotiation-cooperative-agreement
+  captured: '2025-04-05'

@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 55909, published 2026-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261016192531/https://www.federalregister.gov/documents/2026/08/31/2026-17695/notice-of-inventory-completion-arizona-state-university-school-of-human-evolution-and-social-change
+  captured: '2026-10-16'

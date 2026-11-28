@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 40897, published 2012-07-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250505152058/https://www.federalregister.gov/documents/2012/07/11/2012-16928/notice-of-intent-to-repatriate-cultural-items-gregg-county-historical-museum-longview-tx
+  captured: '2025-05-05'

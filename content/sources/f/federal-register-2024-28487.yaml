@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 96674, published 2024-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208141134/https://www.federalregister.gov/documents/2024/12/05/2024-28487/notice-of-intended-disposition-us-department-of-the-interior-national-park-service-agate-fossil-beds
+  captured: '2025-02-08'

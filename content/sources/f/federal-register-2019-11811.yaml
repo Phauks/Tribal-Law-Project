@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 26438, published 2019-06-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260327172512/https://www.federalregister.gov/documents/2019/06/06/2019-11811/request-for-nominations-of-members-to-serve-on-the-bureau-of-indian-education-advisory-board-for
+  captured: '2026-03-27'

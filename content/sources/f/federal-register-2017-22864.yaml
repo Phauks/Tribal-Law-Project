@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 49035, published 2017-10-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202185712/https://www.federalregister.gov/documents/2017/10/23/2017-22864/division-of-behavioral-health-youth-regional-treatment-center-aftercare-pilot-project-correction-of
+  captured: '2025-02-02'

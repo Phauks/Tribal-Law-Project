@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 53754, published 2014-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204101812/https://www.federalregister.gov/documents/2014/09/10/2014-21494/notice-of-inventory-completion-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-04'

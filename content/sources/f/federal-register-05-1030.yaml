@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 3046, published 2005-01-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212130933/https://www.federalregister.gov/documents/2005/01/19/05-1030/health-professions-preparatory-health-professions-pregraduate-and-indian-health-professions
+  captured: '2025-02-12'

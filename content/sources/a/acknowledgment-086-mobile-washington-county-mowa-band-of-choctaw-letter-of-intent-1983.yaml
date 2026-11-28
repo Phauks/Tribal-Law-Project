@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/mobile-washington-county-mowa-band-choctaw-indians-south-alabama'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127174211/https://www.bia.gov/sites/default/files/media_document/086_loi.pdf
+  captured: '2026-11-27'

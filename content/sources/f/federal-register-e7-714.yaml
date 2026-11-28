@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 2545, published 2007-01-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216134215/https://www.federalregister.gov/documents/2007/01/19/E7-714/the-pokagon-band-of-potawatomi-indians-of-michigan-liquor-control-ordinance
+  captured: '2025-02-16'

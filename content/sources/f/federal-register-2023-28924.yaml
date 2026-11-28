@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 400, published 2024-01-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207014102/https://www.federalregister.gov/documents/2024/01/03/2023-28924/notice-of-inventory-completion-san-jose-state-university-san-jose-ca
+  captured: '2025-02-07'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 42672, published 2006-07-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201232213/https://www.federalregister.gov/documents/2006/07/27/E6-12009/notice-of-inventory-completion-university-of-nebraska-state-museum-university-of-nebraska-lincoln
+  captured: '2025-02-01'

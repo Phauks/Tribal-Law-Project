@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 14862, published 2025-04-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601042426/https://www.federalregister.gov/documents/2025/04/04/2025-05817/notice-of-intended-repatriation-ralph-t-coe-center-for-the-arts-santa-fe-nm
+  captured: '2025-06-01'

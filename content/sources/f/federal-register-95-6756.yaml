@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 14876, published 1995-03-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170816004359/https://www.federalregister.gov/documents/1995/03/20/95-6756/notice-of-availability-of-final-environmental-impact-statement-for-livestock-grazing-and-prairie-dog
+  captured: '2017-08-16'

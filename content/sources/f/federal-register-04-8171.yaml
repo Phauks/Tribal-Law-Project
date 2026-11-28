@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 19236, published 2004-04-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204173253/https://www.federalregister.gov/documents/2004/04/12/04-8171/notice-of-intent-to-repatriate-a-cultural-item-kennedy-museum-of-art-ohio-university-athens-oh
+  captured: '2025-02-04'

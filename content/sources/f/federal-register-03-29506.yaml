@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 66485, published 2003-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208192014/https://www.federalregister.gov/documents/2003/11/26/03-29506/notice-of-inventory-completion-denver-art-museum-denver-co
+  captured: '2025-02-08'

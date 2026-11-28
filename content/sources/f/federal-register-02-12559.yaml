@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 35579, published 2002-05-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215040441/https://www.federalregister.gov/documents/2002/05/20/02-12559/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-15'

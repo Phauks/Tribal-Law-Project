@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 339, published 2020-01-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202115613/https://www.federalregister.gov/documents/2020/01/03/2019-28378/notice-of-intent-to-repatriate-cultural-items-san-diego-museum-of-man-san-diego-ca
+  captured: '2025-02-02'

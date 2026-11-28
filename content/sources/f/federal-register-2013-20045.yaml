@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 50104, published 2013-08-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204221244/https://www.federalregister.gov/documents/2013/08/16/2013-20045/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-san-juan-island
+  captured: '2025-02-04'

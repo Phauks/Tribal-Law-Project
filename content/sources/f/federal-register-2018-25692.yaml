@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 60444, published 2018-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220810184829/https://www.federalregister.gov/documents/2018/11/26/2018-25692/notice-to-acquire-land-into-trust-for-the-confederated-tribes-of-the-grand-ronde-community-of-oregon
+  captured: '2022-08-10'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 58264, published 2025-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260321070245/https://www.federalregister.gov/documents/2025/12/16/2025-22897/notice-of-inventory-completion-the-new-york-public-library-new-york-ny
+  captured: '2026-03-21'

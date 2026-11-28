@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 72717, published 2011-11-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210515090803/https://www.federalregister.gov/documents/2011/11/25/2011-30311/draft-environmental-impact-statement-for-the-proposed-kroad-moapa-solar-generation-facility-clark
+  captured: '2021-05-15'

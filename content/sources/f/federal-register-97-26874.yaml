@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 53021, published 1997-10-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219022614/https://www.federalregister.gov/documents/1997/10/10/97-26874/notice-of-intent-to-repatriate-cultural-items-from-the-island-of-hawaii-in-the-possession-of-the
+  captured: '2025-02-19'

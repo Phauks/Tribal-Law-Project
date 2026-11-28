@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 49455, published 2012-08-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205060036/https://www.federalregister.gov/documents/2012/08/16/2012-20145/proclaiming-certain-lands-as-an-addition-to-and-becoming-a-part-of-the-laguna-reservation-for-the
+  captured: '2025-02-05'

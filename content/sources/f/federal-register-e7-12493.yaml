@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 35508, published 2007-06-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208162626/https://www.federalregister.gov/documents/2007/06/28/E7-12493/advisory-board-for-exceptional-children
+  captured: '2025-02-08'

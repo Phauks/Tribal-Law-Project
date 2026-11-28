@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 18494, published 2001-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204103608/https://www.federalregister.gov/documents/2001/04/09/01-8627/blue-lake-rancheria-of-california
+  captured: '2025-02-04'

@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-73/STATUTE-73-Pg602
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127090018/https://www.govinfo.gov/app/details/STATUTE-73/STATUTE-73-Pg602
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-73/STATUTE-73-Pg602.pdf
   checksum: b8dba87fc50447c6903c304ab6f00c8b2483cfe9797b72dd52984da2cd28b873

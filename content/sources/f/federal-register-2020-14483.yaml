@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 40670, published 2020-07-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204110312/https://www.federalregister.gov/documents/2020/07/07/2020-14483/proclaiming-certain-lands-as-reservation-for-the-shakopee-mdewakanton-sioux-community-of-minnesota
+  captured: '2025-02-04'

@@ -87,3 +87,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 56869, published 2018-11-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204222153/https://www.federalregister.gov/documents/2018/11/14/2018-24765/notice-of-inventory-completion-us-army-corps-of-engineers-albuquerque-district-trinidad-lake-co
+  captured: '2025-02-04'

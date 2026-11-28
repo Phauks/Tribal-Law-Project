@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49499
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260415234830/https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49499
+  captured: '2026-04-15'
 history:
   status: live
   last_checked: '2026-11-27'

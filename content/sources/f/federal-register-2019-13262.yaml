@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 29230, published 2019-06-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207004553/https://www.federalregister.gov/documents/2019/06/21/2019-13262/land-acquisitions-the-delaware-tribe-of-indians
+  captured: '2025-02-07'

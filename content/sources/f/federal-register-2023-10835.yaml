@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 33151, published 2023-05-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230703094207/https://www.federalregister.gov/documents/2023/05/23/2023-10835/privacy-act-of-1974-system-of-records
+  captured: '2023-07-03'

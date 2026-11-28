@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 32439, published 2022-05-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20220528123637/https://www.federalregister.gov/documents/2022/05/31/2022-11635/nps-waso-nagpra-nps0033969-ppwocradn0-pcu00rp14r50000
+  captured: '2022-05-28'

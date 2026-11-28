@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 16815, published 2007-04-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208154839/https://www.federalregister.gov/documents/2007/04/05/E7-6389/proclaiming-certain-lands-gomez-ranch-as-an-addition-to-the-reservation-for-the-jicarilla-apache
+  captured: '2025-02-08'

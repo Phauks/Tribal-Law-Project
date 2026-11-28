@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 47820, published 1997-09-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208123544/https://www.federalregister.gov/documents/1997/09/11/97-24118/proposed-information-collection-indian-health-service-community-health-representative-activity
+  captured: '2025-02-08'

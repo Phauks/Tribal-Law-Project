@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/9919277/burchett-v-rogers/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128011600/https://www.courtlistener.com/opinion/9919277/burchett-v-rogers/
+  captured: '2026-11-28'
 history:
   status: live
   last_checked: '2026-11-26'

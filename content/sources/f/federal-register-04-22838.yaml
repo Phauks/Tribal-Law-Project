@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 60663, published 2004-10-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208113327/https://www.federalregister.gov/documents/2004/10/12/04-22838/notice-of-inventory-completion-phoebe-a-hearst-museum-of-anthropology-university-of-california
+  captured: '2025-02-08'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 41014, published 2003-07-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218211852/https://www.federalregister.gov/documents/2003/07/09/03-17268/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-18'

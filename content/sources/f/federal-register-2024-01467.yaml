@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 4984, published 2024-01-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250405122346/https://www.federalregister.gov/documents/2024/01/25/2024-01467/land-acquisitions-pascua-yaqui-tribe-eleven-parcels-pima-county-arizona
+  captured: '2025-04-05'

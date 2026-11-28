@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 51716, published 1996-10-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204110958/https://www.federalregister.gov/documents/1996/10/03/96-25349/notice-of-inventory-completion-for-native-american-human-remains-from-unalakleet-ak-in-the-control
+  captured: '2025-02-04'

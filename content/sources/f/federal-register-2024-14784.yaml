@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 55973, published 2024-07-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260710235726/https://www.federalregister.gov/documents/2024/07/08/2024-14784/land-acquisitions-timbisha-shoshone-tribe-county-land-parcel-kern-county-california
+  captured: '2026-07-10'

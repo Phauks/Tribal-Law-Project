@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.revisor.mn.gov/statutes/cite/122A.63
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261026063225/https://www.revisor.mn.gov/statutes/cite/122A.63
+  captured: '2026-10-26'
 history:
   status: live
   last_checked: '2026-11-27'

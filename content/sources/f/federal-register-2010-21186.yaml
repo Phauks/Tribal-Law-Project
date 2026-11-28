@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 52367, published 2010-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210523093713/https://www.federalregister.gov/documents/2010/08/25/2010-21186/notice-of-inventory-completion-memphis-pink-palace-museum-memphis-tn
+  captured: '2021-05-23'

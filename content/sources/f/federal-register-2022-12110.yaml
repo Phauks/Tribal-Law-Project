@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 34290, published 2022-06-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212042949/https://www.federalregister.gov/documents/2022/06/06/2022-12110/notice-of-intent-to-repatriate-cultural-items-tennessee-valley-authority-knoxville-tn
+  captured: '2025-02-12'

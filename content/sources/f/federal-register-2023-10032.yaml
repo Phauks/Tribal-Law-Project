@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 30340, published 2023-05-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204062827/https://www.federalregister.gov/documents/2023/05/11/2023-10032/notice-of-inventory-completion-university-of-tennessee-department-of-anthropology-knoxville-tn
+  captured: '2025-02-04'

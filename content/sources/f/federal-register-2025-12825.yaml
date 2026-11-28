@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 30678, published 2025-07-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250717093755/https://www.federalregister.gov/documents/2025/07/10/2025-12825/notice-of-inventory-completion-merced-college-merced-ca
+  captured: '2025-07-17'

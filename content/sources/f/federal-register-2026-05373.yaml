@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 13329, published 2026-03-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260715074015/https://www.federalregister.gov/documents/2026/03/19/2026-05373/notice-of-intended-disposition-us-department-of-agriculture-forest-service-beaverhead-deerlodge
+  captured: '2026-07-15'

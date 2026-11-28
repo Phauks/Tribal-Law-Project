@@ -48,3 +48,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-07-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516230948/https://www.federalregister.gov/documents/1994/07/07/94-16457/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-anchorage-museum-of-history
+  captured: '2017-05-16'

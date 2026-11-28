@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 71655, published 2021-12-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260714133753/https://www.federalregister.gov/documents/2021/12/17/2021-27358/notice-of-inventory-completion-fowler-museum-at-the-university-of-california-los-angeles-los-angeles
+  captured: '2026-07-14'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 6935, published 2003-02-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210416015925/https://www.federalregister.gov/documents/2003/02/11/03-3385/jicarilla-apache-liquor-control-ordinance
+  captured: '2021-04-16'

@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 1995-01-23; cover sheet 1995-01-23; decision 1995-01-23
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010815/https://www.oha.doi.gov/IBIA/IbiaDecisions/27ibia/27ibia134.PDF
+  captured: '2026-03-25'

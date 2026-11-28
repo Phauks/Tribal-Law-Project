@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 10055, published 2006-02-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20201108015002/https://www.federalregister.gov/documents/2006/02/28/E6-2755/draft-environmental-impact-statement-for-the-scotts-valley-band-of-pomo-indians-proposed-2987-acre
+  captured: '2020-11-08'

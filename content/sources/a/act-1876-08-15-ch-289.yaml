@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-19/STATUTE-19-Pg176
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127071001/https://www.govinfo.gov/app/details/STATUTE-19/STATUTE-19-Pg176
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-19/STATUTE-19-Pg176.pdf
   checksum: beacd0f2edabde672ff386cccd54f606271c6c801a5c32c219d03a45074dee12

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 24879, published 2009-05-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204082953/https://www.federalregister.gov/documents/2009/05/26/E9-12291/notice-of-inventory-completion-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-04'

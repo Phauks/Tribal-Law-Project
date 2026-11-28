@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PROB&sectionNum=1821.
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260826182338/https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1821.&lawCode=PROB
+  captured: '2026-08-26'
 history:
   status: live
   last_checked: '2026-11-27'

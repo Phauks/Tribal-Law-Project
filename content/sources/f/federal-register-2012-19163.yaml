@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 47517, published 2012-08-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250407183203/https://www.federalregister.gov/documents/2012/08/09/2012-19163/enforcement-actions
+  captured: '2025-04-07'

@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-41/STATUTE-41-Pg3
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127073057/https://www.govinfo.gov/app/details/STATUTE-41/STATUTE-41-Pg3
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-41/STATUTE-41-Pg3.pdf
   checksum: 63c6c854e41fda504678c4d9c73fb266eba01403644f307572048f29c4283c79

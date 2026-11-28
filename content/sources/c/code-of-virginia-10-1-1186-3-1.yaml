@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://law.lis.virginia.gov/vacode/title10.1/chapter11.1/section10.1-1186.3:1/
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260117063208/https://law.lis.virginia.gov/vacode/title10.1/chapter11.1/section10.1-1186.3:1/
+  captured: '2026-01-17'
 history:
   status: live
   last_checked: '2026-11-27'

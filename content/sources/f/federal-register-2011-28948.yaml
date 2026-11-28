@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 69282, published 2011-11-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210422005126/https://www.federalregister.gov/documents/2011/11/08/2011-28948/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2021-04-22'

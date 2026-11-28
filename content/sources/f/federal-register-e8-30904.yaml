@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 118, published 2009-01-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215191340/https://www.federalregister.gov/documents/2009/01/02/E8-30904/notice-of-inventory-completion-bishop-museum-honolulu-hi-correction
+  captured: '2025-02-15'

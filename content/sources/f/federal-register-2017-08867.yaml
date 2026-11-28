@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 20627, published 2017-05-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203203530/https://www.federalregister.gov/documents/2017/05/03/2017-08867/notice-of-inventory-completion-kansas-state-historical-society-topeka-ks
+  captured: '2025-02-03'

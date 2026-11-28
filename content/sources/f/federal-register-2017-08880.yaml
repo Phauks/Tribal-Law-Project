@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 20630, published 2017-05-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204155709/https://www.federalregister.gov/documents/2017/05/03/2017-08880/notice-of-intent-to-repatriate-cultural-items-us-fish-and-wildlife-service-alaska-region-anchorage
+  captured: '2025-02-04'

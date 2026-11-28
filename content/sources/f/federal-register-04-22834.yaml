@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 60664, published 2004-10-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208031504/https://www.federalregister.gov/documents/2004/10/12/04-22834/notice-of-inventory-completion-university-of-hawaii-at-hilo-hilo-hi
+  captured: '2025-02-08'

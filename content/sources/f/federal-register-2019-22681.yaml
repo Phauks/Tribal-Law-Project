@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 55582, published 2019-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204132027/https://www.federalregister.gov/documents/2019/10/17/2019-22681/hearth-act-approval-of-menominee-indian-tribe-of-wisconsin-regulations
+  captured: '2025-02-04'

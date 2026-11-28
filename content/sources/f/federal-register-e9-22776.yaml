@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 48291, published 2009-09-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240710152844/https://www.federalregister.gov/documents/2009/09/22/E9-22776/notice-of-inventory-completion-warren-anatomical-museum-harvard-university-boston-ma
+  captured: '2024-07-10'

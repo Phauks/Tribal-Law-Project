@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the manual page was read: https://www.bia.gov/policy-forms/manual'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261020201232/https://www.bia.gov/sites/default/files/media_document/27-iam-3_invoice-and-payment-process-under-ppa_final_signed_10.15.26_508.pdf
+  captured: '2026-10-20'

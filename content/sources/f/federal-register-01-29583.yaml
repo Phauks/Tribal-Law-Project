@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 59259, published 2001-11-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204204822/https://www.federalregister.gov/documents/2001/11/27/01-29583/tribal-consultation-on-indian-trust-asset-management
+  captured: '2025-02-04'

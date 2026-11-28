@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 2797, published 2026-01-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260716145741/https://www.federalregister.gov/documents/2026/01/22/2026-01179/agency-information-collection-activities-education-contracts-under-the-johnson-omalley-act
+  captured: '2026-07-16'

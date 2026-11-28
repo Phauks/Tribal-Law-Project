@@ -71,3 +71,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 42207, published 2022-07-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216100015/https://www.federalregister.gov/documents/2022/07/14/2022-15043/notice-of-inventory-completion-us-department-of-agriculture-forest-service-pacific-southwest
+  captured: '2025-02-16'

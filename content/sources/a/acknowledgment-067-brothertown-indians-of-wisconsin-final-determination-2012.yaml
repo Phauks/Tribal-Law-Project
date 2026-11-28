@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/brothertown-indians-wisconsin'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418175551/https://www.bia.gov/sites/default/files/media_document/067_fd.pdf
+  captured: '2026-04-18'

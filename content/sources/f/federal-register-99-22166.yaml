@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 46717, published 1999-08-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210511003708/https://www.federalregister.gov/documents/1999/08/26/99-22166/notice-of-inventory-completion-for-native-american-human-remains-from-new-mexico-in-the-possession
+  captured: '2021-05-11'

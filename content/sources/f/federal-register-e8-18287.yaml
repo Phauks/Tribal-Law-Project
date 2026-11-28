@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 46325, published 2008-08-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202142449/https://www.federalregister.gov/documents/2008/08/08/E8-18287/jicarilla-apache-nation-liquor-ordinance
+  captured: '2025-02-02'

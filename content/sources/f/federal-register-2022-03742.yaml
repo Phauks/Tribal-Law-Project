@@ -92,3 +92,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 10234, published 2022-02-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202140458/https://www.federalregister.gov/documents/2022/02/23/2022-03742/notice-of-inventory-completion-university-of-california-davis-davis-ca
+  captured: '2025-02-02'

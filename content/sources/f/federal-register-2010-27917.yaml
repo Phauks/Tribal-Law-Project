@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 67998, published 2010-11-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210429203524/https://www.federalregister.gov/documents/2010/11/04/2010-27917/notice-of-inventory-completion-us-department-of-agriculture-forest-service-chattahoochee-oconee
+  captured: '2021-04-29'

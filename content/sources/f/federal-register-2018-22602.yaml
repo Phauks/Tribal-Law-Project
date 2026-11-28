@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 52535, published 2018-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204084552/https://www.federalregister.gov/documents/2018/10/17/2018-22602/notice-of-inventory-completion-princeton-university-princeton-nj
+  captured: '2025-02-04'

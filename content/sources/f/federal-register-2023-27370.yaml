@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 86362, published 2023-12-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611190347/https://www.federalregister.gov/documents/2023/12/13/2023-27370/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-reclamation-missouri-basin
+  captured: '2025-06-11'

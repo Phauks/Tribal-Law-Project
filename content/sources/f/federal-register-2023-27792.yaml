@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 87795, published 2023-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611194259/https://www.federalregister.gov/documents/2023/12/19/2023-27792/notice-of-intent-to-repatriate-cultural-items-south-carolina-institute-of-archaeology-and
+  captured: '2025-06-11'

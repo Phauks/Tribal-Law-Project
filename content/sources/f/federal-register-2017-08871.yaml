@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 20617, published 2017-05-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250421074404/https://www.federalregister.gov/documents/2017/05/03/2017-08871/notice-of-inventory-completion-office-of-the-state-archaeologist-university-of-iowa-iowa-city-ia
+  captured: '2025-04-21'

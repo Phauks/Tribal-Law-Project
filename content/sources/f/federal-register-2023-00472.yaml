@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 2122, published 2023-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211075747/https://www.federalregister.gov/documents/2023/01/12/2023-00472/notice-of-inventory-completion-university-of-california-san-diego-san-diego-ca
+  captured: '2025-02-11'

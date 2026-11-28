@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 40609, published 2008-07-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210425043921/https://www.federalregister.gov/documents/2008/07/15/E8-16105/privacy-act-of-1974-as-amended-addition-of-a-new-system-of-records
+  captured: '2021-04-25'

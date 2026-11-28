@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 57706, published 2003-10-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207183144/https://www.federalregister.gov/documents/2003/10/06/03-25229/notice-of-fund-availability-nofa
+  captured: '2025-02-07'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 2383, published 2022-01-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250418200306/https://www.federalregister.gov/documents/2022/01/14/2022-00630/fees-correction
+  captured: '2025-04-18'

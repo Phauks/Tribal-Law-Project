@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 61365, published 2009-11-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208163233/https://www.federalregister.gov/documents/2009/11/24/E9-28157/proclaiming-certain-lands-as-a-reservation-for-the-nottawaseppi-huron-and-of-potawatomi-indians-of
+  captured: '2025-02-08'

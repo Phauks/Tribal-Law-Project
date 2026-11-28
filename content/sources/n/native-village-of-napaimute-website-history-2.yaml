@@ -13,6 +13,10 @@ citation:
       - 23
 original_link: https://napaimute.org/history-2/
 retrieved: '2026-11-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261126112912/https://napaimute.org/history-2/
+  captured: '2026-11-26'
 history:
   status: live
   last_checked: '2026-11-23'

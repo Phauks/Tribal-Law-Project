@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/10973895/federated-indians-of-graton-rancheria-v-united-states-department-of-the/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128012010/https://www.courtlistener.com/opinion/10973895/federated-indians-of-graton-rancheria-v-united-states-department-of-the/
+  captured: '2026-11-28'
 history:
   status: live
   last_checked: '2026-11-26'

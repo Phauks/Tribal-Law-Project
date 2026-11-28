@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 7493, published 2022-02-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202055734/https://www.federalregister.gov/documents/2022/02/09/2022-02696/san-pasqual-band-of-mission-indians-amended-tribal-liquor-control-ordinance
+  captured: '2025-02-02'

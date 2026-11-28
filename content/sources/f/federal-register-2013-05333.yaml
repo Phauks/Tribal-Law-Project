@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 14820, published 2013-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250309181348/https://www.federalregister.gov/documents/2013/03/07/2013-05333/proclaiming-certain-lands-as-reservation-for-the-tohono-oodham-nation-of-arizona
+  captured: '2025-03-09'

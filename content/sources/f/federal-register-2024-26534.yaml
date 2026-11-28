@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 90036, published 2024-11-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250402130023/https://www.federalregister.gov/documents/2024/11/14/2024-26534/land-acquisitions-navajo-nation-arizona-new-mexico-and-utah-lower-highway-89-project-coconino-county
+  captured: '2025-04-02'

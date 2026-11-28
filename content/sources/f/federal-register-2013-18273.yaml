@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 45962, published 2013-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214001204/https://www.federalregister.gov/documents/2013/07/30/2013-18273/notice-of-inventory-completion-university-of-denver-museum-of-anthropology-denver-co
+  captured: '2025-02-14'

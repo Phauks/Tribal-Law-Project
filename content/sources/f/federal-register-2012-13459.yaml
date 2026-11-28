@@ -79,3 +79,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 32989, published 2012-06-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208132650/https://www.federalregister.gov/documents/2012/06/04/2012-13459/notice-of-inventory-completion-us-department-of-agriculture-san-juan-national-forest-durango-co-and
+  captured: '2025-02-08'

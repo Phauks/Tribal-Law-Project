@@ -54,3 +54,7 @@ review:
   - check: decided
     result: differs
     detail: index 1981-08-05; cover sheet 1981-10-15; decision 1981-08-05
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260525064357/https://www.oha.doi.gov/IBIA/IbiaDecisions/09ibia/09ibia063.PDF
+  captured: '2026-05-25'

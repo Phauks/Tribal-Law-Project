@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 51067, published 2001-10-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210331194212/https://www.federalregister.gov/documents/2001/10/05/01-24960/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-thomas-burke-memorial
+  captured: '2021-03-31'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 19973, published 2023-04-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250516102652/https://www.federalregister.gov/documents/2023/04/04/2023-06979/land-acquisitions-cayuga-nation-cayuga-county-parcels-cayuga-county-new-york
+  captured: '2025-05-16'

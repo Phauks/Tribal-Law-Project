@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 27844, published 2007-05-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208082251/https://www.federalregister.gov/documents/2007/05/17/E7-9453/notice-of-inventory-completion-augusta-state-university-department-of-history-and-anthropology-and
+  captured: '2025-02-08'

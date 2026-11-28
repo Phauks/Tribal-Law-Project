@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 28945, published 2009-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210330160533/https://www.federalregister.gov/documents/2009/06/18/E9-14298/notice-of-inventory-completion-binghamton-university-state-university-of-new-york-binghamton-ny
+  captured: '2021-03-30'

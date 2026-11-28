@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 36745, published 2003-06-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250223121056/https://www.federalregister.gov/documents/2003/06/19/03-15417/protection-of-products-of-indian-art-and-craftsmanship-correction
+  captured: '2025-02-23'

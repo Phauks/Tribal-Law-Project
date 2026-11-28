@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 58615, published 2023-08-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250612171954/https://www.federalregister.gov/documents/2023/08/28/2023-18495/notice-of-inventory-completion-klamath-county-museum-klamath-falls-or
+  captured: '2025-06-12'

@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.leg.state.nv.us/nrs/NRS-383.html#NRS383Sec075
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261117114251/https://www.leg.state.nv.us/nrs/NRS-383.html
+  captured: '2026-11-17'
 history:
   status: live
   last_checked: '2026-11-27'

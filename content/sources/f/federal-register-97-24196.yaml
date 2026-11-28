@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 48108, published 1997-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212174735/https://www.federalregister.gov/documents/1997/09/12/97-24196/notice-of-inventory-completion-for-native-american-human-remains-and-unassociated-funerary-objects
+  captured: '2025-02-12'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 52748, published 2012-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214073831/https://www.federalregister.gov/documents/2012/08/30/2012-21380/60-day-proposed-information-collection-indian-health-service-ihs-sharing-what-works-best-practice
+  captured: '2025-02-14'

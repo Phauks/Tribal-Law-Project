@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 16027, published 2023-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206053247/https://www.federalregister.gov/documents/2023/03/15/2023-05240/advisory-board-of-exceptional-children-meeting
+  captured: '2025-02-06'

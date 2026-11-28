@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 51398, published 2025-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251116040508/https://www.federalregister.gov/documents/2025/11/17/2025-19963/notice-of-inventory-completion-utah-field-house-of-natural-history-state-park-museum-vernal-ut
+  captured: '2025-11-16'

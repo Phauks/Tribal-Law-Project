@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 67562, published 2020-10-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204075952/https://www.federalregister.gov/documents/2020/10/23/2020-23508/final-environmental-impact-statement-for-the-little-river-band-trust-acquisition-and-casino-project
+  captured: '2025-02-04'

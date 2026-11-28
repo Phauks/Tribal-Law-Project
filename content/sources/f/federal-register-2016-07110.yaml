@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 17734, published 2016-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208174708/https://www.federalregister.gov/documents/2016/03/30/2016-07110/notice-of-inventory-completion-university-of-south-alabama-center-for-archaeological-studies-mobile
+  captured: '2025-02-08'

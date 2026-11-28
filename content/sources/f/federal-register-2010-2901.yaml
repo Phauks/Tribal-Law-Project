@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 6703, published 2010-02-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203162204/https://www.federalregister.gov/documents/2010/02/10/2010-2901/notice-of-rights-and-protections-available-under-the-notification-and-federal-employee
+  captured: '2025-02-03'

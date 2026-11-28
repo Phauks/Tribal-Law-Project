@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 47089, published 2011-08-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208080227/https://www.federalregister.gov/documents/2011/08/04/2011-19808/regulatory-review-schedule-cancellation-of-consultation-meetings
+  captured: '2025-02-08'

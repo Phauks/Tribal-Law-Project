@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 51564, published 2012-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213010126/https://www.federalregister.gov/documents/2012/08/24/2012-20959/notice-of-inventory-completion-herrett-center-for-arts-and-science-college-of-southern-idaho-twin
+  captured: '2025-02-13'

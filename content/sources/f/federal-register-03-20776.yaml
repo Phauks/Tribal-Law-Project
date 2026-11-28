@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 48549, published 2003-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210526050433/https://www.federalregister.gov/documents/2003/08/14/03-20776/distribution-of-fiscal-year-2003-indian-reservation-roads-funds
+  captured: '2021-05-26'

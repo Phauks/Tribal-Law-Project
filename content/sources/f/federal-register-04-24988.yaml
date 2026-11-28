@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 65215, published 2004-11-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204234328/https://www.federalregister.gov/documents/2004/11/10/04-24988/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-desert-rock-energy
+  captured: '2025-02-04'

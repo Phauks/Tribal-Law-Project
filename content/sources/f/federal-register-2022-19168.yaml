@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 54524, published 2022-09-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202161804/https://www.federalregister.gov/documents/2022/09/06/2022-19168/notice-of-inventory-completion-robert-s-peabody-institute-of-archaeology-andover-ma
+  captured: '2025-02-02'

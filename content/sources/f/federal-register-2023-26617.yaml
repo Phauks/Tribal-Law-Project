@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 84348, published 2023-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213020440/https://www.federalregister.gov/documents/2023/12/05/2023-26617/notice-of-intent-to-repatriate-cultural-items-university-of-california-berkeley-berkeley-ca
+  captured: '2025-02-13'

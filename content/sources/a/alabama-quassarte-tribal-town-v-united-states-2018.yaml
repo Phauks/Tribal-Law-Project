@@ -21,7 +21,10 @@ citation:
   number: 17-7003
 original_link: https://static.case.law/f3d/899/html/1121-01.html
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127191815/https://static.case.law/f3d/899/html/1121-01.html
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

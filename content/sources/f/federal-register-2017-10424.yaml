@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 23261, published 2017-05-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260429135840/https://www.federalregister.gov/documents/2017/05/22/2017-10424/office-of-tribal-self-governance-planning-cooperative-agreement-announcement-type-new-limited
+  captured: '2026-04-29'

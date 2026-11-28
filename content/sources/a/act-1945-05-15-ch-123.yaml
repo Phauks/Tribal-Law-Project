@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-59/STATUTE-59-Pg167-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127075952/https://www.govinfo.gov/app/details/STATUTE-59/STATUTE-59-Pg167-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-59/STATUTE-59-Pg167-2.pdf
   checksum: bc10e1eac3cc7cc784083d7f52147bea358dc21031dbdcf4a48466cee4abce3e

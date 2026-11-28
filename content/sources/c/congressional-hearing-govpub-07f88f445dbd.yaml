@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: GOVPUB-Y1_3-07f88f445dbd381bfad409f65d89c5a7'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260726063956/https://www.govinfo.gov/app/details/GOVPUB-Y1_3-07f88f445dbd381bfad409f65d89c5a7/
+  captured: '2026-07-26'

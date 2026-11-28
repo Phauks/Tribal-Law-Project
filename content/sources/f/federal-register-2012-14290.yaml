@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 34991, published 2012-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260722201048/https://www.federalregister.gov/documents/2012/06/12/2012-14290/notice-of-inventory-completion-university-of-california-santa-barbara-repository-of-archaeological
+  captured: '2026-07-22'

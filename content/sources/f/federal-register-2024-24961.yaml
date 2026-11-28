@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 85555, published 2024-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812184409/https://www.federalregister.gov/documents/2024/10/28/2024-24961/receipt-of-documented-petition-for-federal-acknowledgment-as-an-american-indian-tribe
+  captured: '2026-08-12'

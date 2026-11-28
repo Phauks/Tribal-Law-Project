@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 8986, published 2014-02-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250804152055/https://www.federalregister.gov/documents/2014/02/14/2014-03147/final-environmental-impact-statement-for-the-proposed-res-americas-moapa-solar-energy-center-clark
+  captured: '2025-08-04'

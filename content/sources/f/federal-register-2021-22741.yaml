@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 57853, published 2021-10-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214042127/https://www.federalregister.gov/documents/2021/10/19/2021-22741/notice-of-intent-to-repatriate-cultural-items-ohio-history-connection-columbus-oh
+  captured: '2025-02-14'

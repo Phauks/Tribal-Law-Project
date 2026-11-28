@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 61837, published 2005-10-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201231401/https://www.federalregister.gov/documents/2005/10/26/05-21331/notice-of-intent-to-repatriate-a-cultural-item-us-department-of-agriculture-forest-service-gila
+  captured: '2025-02-01'

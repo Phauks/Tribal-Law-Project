@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 16787, published 2024-03-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524180859/https://www.federalregister.gov/documents/2024/03/08/2024-04987/notice-of-inventory-completion-university-of-oregon-museum-of-natural-and-cultural-history-eugene-or
+  captured: '2025-05-24'

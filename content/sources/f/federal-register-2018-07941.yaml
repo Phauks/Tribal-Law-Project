@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 16877, published 2018-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260121165031/https://www.federalregister.gov/documents/2018/04/17/2018-07941/office-of-tribal-self-governance-negotiation-cooperative-agreement
+  captured: '2026-01-21'

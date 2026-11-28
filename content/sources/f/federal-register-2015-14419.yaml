@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 33543, published 2015-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210408020411/https://www.federalregister.gov/documents/2015/06/12/2015-14419/confederated-tribes-of-the-umatilla-indian-reservation-liquor-code-amendment
+  captured: '2021-04-08'

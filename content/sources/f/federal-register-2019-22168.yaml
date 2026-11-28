@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 54636, published 2019-10-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204153844/https://www.federalregister.gov/documents/2019/10/10/2019-22168/notice-of-inventory-completion-carnegie-museum-of-natural-history-pittsburgh-pa
+  captured: '2025-02-04'

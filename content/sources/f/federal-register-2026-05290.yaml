@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 13053, published 2026-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810012000/https://www.federalregister.gov/documents/2026/03/18/2026-05290/notice-of-intended-repatriation-university-of-california-san-diego-san-diego-ca
+  captured: '2026-08-10'

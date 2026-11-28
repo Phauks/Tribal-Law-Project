@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 65149, published 2009-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207185447/https://www.federalregister.gov/documents/2009/12/09/E9-29293/notice-of-inventory-completion-amherst-college-museum-of-natural-history-amherst-college-amherst-ma
+  captured: '2025-02-07'

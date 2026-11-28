@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 23280, published 2010-05-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201234656/https://www.federalregister.gov/documents/2010/05/03/2010-10284/choctaw-nation-of-oklahoma-alcohol-control-ordinance
+  captured: '2025-02-01'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 18318, published 2019-04-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213210230/https://www.federalregister.gov/documents/2019/04/30/2019-08743/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-alaska-state
+  captured: '2025-02-13'

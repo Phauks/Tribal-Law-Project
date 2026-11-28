@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 36645, published 2002-05-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202145418/https://www.federalregister.gov/documents/2002/05/24/02-13060/notice-of-availability-assessment-plan-for-natural-resources-injured-by-releases-of-hazardous
+  captured: '2025-02-02'

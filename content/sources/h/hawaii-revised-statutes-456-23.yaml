@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://data.capitol.hawaii.gov/hrscurrent/Vol10_Ch0436-0474/HRS0456/HRS_0456-0023.htm
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260521164727/https://data.capitol.hawaii.gov/hrscurrent/Vol10_Ch0436-0474/HRS0456/HRS_0456-0023.htm
+  captured: '2026-05-21'
 history:
   status: live
   last_checked: '2026-11-27'

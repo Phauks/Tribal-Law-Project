@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 80925, published 2024-10-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524220647/https://www.federalregister.gov/documents/2024/10/04/2024-22894/notice-of-inventory-completion-us-army-garrison-fort-leonard-wood-mo
+  captured: '2025-05-24'

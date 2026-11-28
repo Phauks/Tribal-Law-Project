@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 23855, published 2025-06-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250624141823/https://www.federalregister.gov/documents/2025/06/05/2025-10218/civil-penalties-inflation-adjustments-annual-adjustments
+  captured: '2025-06-24'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 34169, published 2015-06-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216130218/https://www.federalregister.gov/documents/2015/06/15/2015-14551/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-02-16'

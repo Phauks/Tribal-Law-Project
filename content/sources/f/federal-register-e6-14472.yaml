@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 51636, published 2006-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210519014506/https://www.federalregister.gov/documents/2006/08/30/E6-14472/notice-of-inventory-completion-sam-noble-oklahoma-museum-of-natural-history-university-of-oklahoma
+  captured: '2021-05-19'

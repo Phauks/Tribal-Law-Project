@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 5681, published 2006-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250303150931/https://www.federalregister.gov/documents/2006/02/02/E6-1376/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2025-03-03'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 44455, published 2017-09-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212002657/https://www.federalregister.gov/documents/2017/09/22/2017-20293/notice-of-inventory-completion-us-department-of-agriculture-forest-service-rogue-river-siskiyou
+  captured: '2025-02-12'

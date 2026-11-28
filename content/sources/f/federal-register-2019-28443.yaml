@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 524, published 2020-01-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207125034/https://www.federalregister.gov/documents/2020/01/06/2019-28443/tule-river-indian-tribe-of-the-tule-river-reservation-amended-and-restated-liquor-ordinance
+  captured: '2025-02-07'

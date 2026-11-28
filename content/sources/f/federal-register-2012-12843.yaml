@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 31381, published 2012-05-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210429095349/https://www.federalregister.gov/documents/2012/05/25/2012-12843/habematolel-pomo-of-upper-lake-tribal-liquor-ordinance-no-2008-01
+  captured: '2021-04-29'

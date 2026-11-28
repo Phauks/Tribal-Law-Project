@@ -102,3 +102,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 34291, published 2022-06-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213152122/https://www.federalregister.gov/documents/2022/06/06/2022-12116/notice-of-inventory-completion-university-of-colorado-museum-boulder-co
+  captured: '2025-02-13'

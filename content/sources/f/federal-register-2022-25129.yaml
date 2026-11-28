@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 69329, published 2022-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206194833/https://www.federalregister.gov/documents/2022/11/18/2022-25129/notice-of-inventory-completion-amendment-university-of-arkansas-museum-collections-fayetteville-ar
+  captured: '2025-02-06'

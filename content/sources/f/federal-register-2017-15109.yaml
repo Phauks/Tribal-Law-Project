@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 33152, published 2017-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217023156/https://www.federalregister.gov/documents/2017/07/19/2017-15109/notice-of-inventory-completion-us-army-corps-of-engineers-huntington-district-correction
+  captured: '2025-02-17'

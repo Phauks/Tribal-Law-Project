@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 53817, published 2011-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210402081126/https://www.federalregister.gov/documents/2011/08/30/2011-22035/minimum-internal-control-standards-for-class-ii-gaming
+  captured: '2021-04-02'

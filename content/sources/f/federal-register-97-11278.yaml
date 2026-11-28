@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 23794, published 1997-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218084139/https://www.federalregister.gov/documents/1997/05/01/97-11278/native-american-graves-protection-and-repatriation-review-committee-findings
+  captured: '2025-02-18'

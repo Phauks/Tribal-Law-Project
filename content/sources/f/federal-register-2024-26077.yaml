@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 89036, published 2024-11-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208060257/https://www.federalregister.gov/documents/2024/11/12/2024-26077/notice-of-inventory-completion-california-state-university-sacramento-sacramento-ca
+  captured: '2025-02-08'

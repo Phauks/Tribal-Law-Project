@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 26232, published 2021-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240809204816/https://www.federalregister.gov/documents/2021/05/13/2021-10086/native-american-business-development-institute-nabdi-grant-solicitation-of-proposals
+  captured: '2024-08-09'

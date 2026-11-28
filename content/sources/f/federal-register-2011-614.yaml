@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 2409, published 2011-01-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250516171044/https://www.federalregister.gov/documents/2011/01/13/2011-614/proclaiming-certain-lands-lots-15-and-16-acquisition-as-an-addition-to-the-bay-mills-indian
+  captured: '2025-05-16'

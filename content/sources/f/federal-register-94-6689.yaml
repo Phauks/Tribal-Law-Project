@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-03-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260330164710/https://www.federalregister.gov/documents/1994/03/22/94-6689/grant-availability-to-federally-recognized-indian-tribes-for-projects-implementing-traffic-safety-on
+  captured: '2026-03-30'

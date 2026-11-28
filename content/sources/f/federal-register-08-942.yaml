@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 12221, published 2008-03-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219032024/https://www.federalregister.gov/documents/2008/03/06/08-942/fee-rate
+  captured: '2025-02-19'

@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 29928, published 2017-06-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208202916/https://www.federalregister.gov/documents/2017/06/30/2017-13737/notice-of-inventory-completion-university-of-massachusetts-amherst-department-of-anthropology
+  captured: '2025-02-08'

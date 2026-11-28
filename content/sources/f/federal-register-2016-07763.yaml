@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 19633, published 2016-04-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203073006/https://www.federalregister.gov/documents/2016/04/05/2016-07763/notice-of-inventory-completion-catalina-island-museum-avalon-ca
+  captured: '2025-02-03'

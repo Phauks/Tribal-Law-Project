@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 6918, published 2014-02-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217050943/https://www.federalregister.gov/documents/2014/02/05/2014-02300/notice-of-inventory-completion-us-army-corps-of-engineers-tulsa-district-tulsa-ok
+  captured: '2025-02-17'

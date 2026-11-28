@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 38470, published 1999-07-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203224200/https://www.federalregister.gov/documents/1999/07/16/99-18124/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-peabody-museum-of
+  captured: '2025-02-03'

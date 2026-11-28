@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 103866, published 2024-12-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201095949/https://www.federalregister.gov/documents/2024/12/19/2024-30255/blackfeet-tribe-of-the-blackfeet-indian-reservation-amendment-to-regulation-and-control-of-liquor
+  captured: '2025-02-01'

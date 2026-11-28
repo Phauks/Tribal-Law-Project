@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 42669, published 2006-07-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201235050/https://www.federalregister.gov/documents/2006/07/27/E6-12001/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-saguaro-national
+  captured: '2025-02-01'

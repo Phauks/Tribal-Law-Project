@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 42206, published 2022-07-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215173048/https://www.federalregister.gov/documents/2022/07/14/2022-15042/notice-of-inventory-completion-mississippi-department-of-archives-and-history-jackson-ms
+  captured: '2025-02-15'

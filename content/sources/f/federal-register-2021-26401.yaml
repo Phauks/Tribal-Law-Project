@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 69065, published 2021-12-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250405165706/https://www.federalregister.gov/documents/2021/12/06/2021-26401/living-languages-grant-program-llgp-solicitation-of-proposals
+  captured: '2025-04-05'

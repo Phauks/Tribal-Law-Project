@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-78/STATUTE-78-Pg186
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127090455/https://www.govinfo.gov/app/details/STATUTE-78/STATUTE-78-Pg186
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-78/STATUTE-78-Pg186.pdf
   checksum: 2ae7d65ce52d9603ec9ff8faa69ba10409faca824642acd34106dd8686292118

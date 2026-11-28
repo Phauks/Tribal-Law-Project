@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 65876, published 2008-11-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205011937/https://www.federalregister.gov/documents/2008/11/05/E8-26350/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-delaware-water
+  captured: '2025-02-05'

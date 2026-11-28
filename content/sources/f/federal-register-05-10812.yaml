@@ -77,3 +77,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 31522, published 2005-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201231617/https://www.federalregister.gov/documents/2005/06/01/05-10812/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-national-park-service
+  captured: '2025-02-01'

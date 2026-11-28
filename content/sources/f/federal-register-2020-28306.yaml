@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 1037, published 2021-01-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208022343/https://www.federalregister.gov/documents/2021/01/07/2020-28306/american-indian-probate-regulations
+  captured: '2025-02-08'

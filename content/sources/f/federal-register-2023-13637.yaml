@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 41658, published 2023-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611214752/https://www.federalregister.gov/documents/2023/06/27/2023-13637/notice-of-inventory-completion-california-state-university-chico-chico-ca
+  captured: '2025-06-11'

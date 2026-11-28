@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12552, published 2025-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601040609/https://www.federalregister.gov/documents/2025/03/18/2025-04356/notice-of-intended-repatriation-nelson-gallery-foundation-dba-the-nelson-atkins-museum-of-art-kansas
+  captured: '2025-06-01'

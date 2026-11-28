@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 56320, published 2000-09-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260602234647/https://www.federalregister.gov/documents/2000/09/18/00-23915/redding-rancheria-liquor-licensing-ordinance
+  captured: '2026-06-02'

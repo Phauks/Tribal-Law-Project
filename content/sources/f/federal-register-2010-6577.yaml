@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 14467, published 2010-03-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202150805/https://www.federalregister.gov/documents/2010/03/25/2010-6577/notice-of-inventory-completion-pierce-college-district-lakewood-wa-and-thomas-burke-memorial
+  captured: '2025-02-02'

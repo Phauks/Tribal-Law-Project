@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 67998, published 2010-11-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208170119/https://www.federalregister.gov/documents/2010/11/04/2010-27916/notice-of-inventory-completion-western-michigan-university-anthropology-department-kalamazoo-mi
+  captured: '2025-02-08'

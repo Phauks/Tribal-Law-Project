@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 5850, published 2009-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216160938/https://www.federalregister.gov/documents/2009/02/02/E9-2126/notice-of-intent-to-repatriate-cultural-items-heard-museum-phoenix-az
+  captured: '2025-02-16'

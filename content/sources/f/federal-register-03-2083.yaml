@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 4511, published 2003-01-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208100645/https://www.federalregister.gov/documents/2003/01/29/03-2083/ho-chunk-nation-alcohol-beverage-control-ordinance
+  captured: '2025-02-08'

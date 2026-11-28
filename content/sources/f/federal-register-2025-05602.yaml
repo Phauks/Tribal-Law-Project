@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 14473, published 2025-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601045457/https://www.federalregister.gov/documents/2025/04/02/2025-05602/notice-of-inventory-completion-the-field-museum-chicago-il
+  captured: '2025-06-01'

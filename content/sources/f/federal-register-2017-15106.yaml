@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 33155, published 2017-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204144107/https://www.federalregister.gov/documents/2017/07/19/2017-15106/notice-of-inventory-completion-us-department-of-defense-army-corps-of-engineers-nashville-district
+  captured: '2025-02-04'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 49833, published 2000-08-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210512213741/https://www.federalregister.gov/documents/2000/08/15/00-20700/notice-of-inventory-completion-for-native-american-human-remains-and-an-associated-funerary-object
+  captured: '2021-05-12'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 52748, published 1998-10-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204194048/https://www.federalregister.gov/documents/1998/10/01/98-26261/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-04'

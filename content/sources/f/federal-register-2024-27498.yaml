@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 92967, published 2024-11-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260704070457/https://www.federalregister.gov/documents/2024/11/25/2024-27498/notice-of-intended-repatriation-western-washington-university-department-of-anthropology-bellingham
+  captured: '2026-07-04'

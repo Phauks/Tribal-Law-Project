@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 37557, published 2025-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250826065554/https://www.federalregister.gov/documents/2025/08/05/2025-14803/notice-of-inventory-completion-california-department-of-parks-and-recreation-sacramento-ca
+  captured: '2025-08-26'

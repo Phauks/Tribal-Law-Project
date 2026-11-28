@@ -18,7 +18,10 @@ citation:
       - 26
 original_link: https://ictnews.org/news/potawatomi-tribe-signs-self-governing-compact-with-transportation-department
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260211191124/https://ictnews.org/news/potawatomi-tribe-signs-self-governing-compact-with-transportation-department/
+  captured: '2026-02-11'
 history:
   status: live
   last_checked: '2026-11-26'

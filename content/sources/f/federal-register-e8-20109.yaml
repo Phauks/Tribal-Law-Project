@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 50985, published 2008-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207161655/https://www.federalregister.gov/documents/2008/08/29/E8-20109/notice-of-intent-to-repatriate-a-cultural-item-denver-museum-of-nature-and-science-denver-co
+  captured: '2025-02-07'

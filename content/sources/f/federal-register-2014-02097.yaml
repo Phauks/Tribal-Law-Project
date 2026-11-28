@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 5451, published 2014-01-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250417154555/https://www.federalregister.gov/documents/2014/01/31/2014-02097/snoqualmie-indian-tribe-liquor-control-ordinance
+  captured: '2025-04-17'

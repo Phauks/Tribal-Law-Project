@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 17488, published 2006-04-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418162446/https://www.federalregister.gov/documents/2006/04/06/E6-5017/proposed-finding-for-federal-acknowledgment-of-the-mashpee-wampanoag-indian-tribal-council
+  captured: '2026-04-18'

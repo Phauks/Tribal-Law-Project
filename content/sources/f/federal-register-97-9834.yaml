@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 18648, published 1997-04-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210503052434/https://www.federalregister.gov/documents/1997/04/16/97-9834/notice-of-inventory-completion-for-native-american-human-remains-from-missouri-and-montana-in-the
+  captured: '2021-05-03'

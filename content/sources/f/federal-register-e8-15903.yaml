@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 40372, published 2008-07-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208080050/https://www.federalregister.gov/documents/2008/07/14/E8-15903/notice-of-inventory-completion-us-department-of-the-interior-us-fish-and-wildlife-service-region-7
+  captured: '2025-02-08'

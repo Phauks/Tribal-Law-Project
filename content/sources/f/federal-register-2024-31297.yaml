@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 106574, published 2024-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202040442/https://www.federalregister.gov/documents/2024/12/30/2024-31297/notice-of-intended-repatriation-sam-noble-oklahoma-museum-of-natural-history-norman-ok
+  captured: '2025-02-02'

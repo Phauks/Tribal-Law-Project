@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 5067, published 2006-01-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208035156/https://www.federalregister.gov/documents/2006/01/31/E6-1198/land-acquisitions-snoqualmie-tribe-of-washington
+  captured: '2025-02-08'

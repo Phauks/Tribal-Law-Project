@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 42107, published 2009-08-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250802233839/https://www.federalregister.gov/documents/2009/08/20/E9-19979/notice-of-inventory-completion-the-public-museum-grand-rapids-mi
+  captured: '2025-08-02'

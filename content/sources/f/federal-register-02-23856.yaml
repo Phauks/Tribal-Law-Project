@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 59307, published 2002-09-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204080947/https://www.federalregister.gov/documents/2002/09/20/02-23856/picayune-rancheria-of-chukchansi-indians-liquor-control-ordinance
+  captured: '2025-02-04'

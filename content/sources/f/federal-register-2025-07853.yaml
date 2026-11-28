@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 19227, published 2025-05-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250526231715/https://www.federalregister.gov/documents/2025/05/06/2025-07853/notice-of-documented-petition-for-federal-acknowledgment-as-an-american-indian-tribe
+  captured: '2025-05-26'

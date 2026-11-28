@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-50/STATUTE-50-Pg810-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127075041/https://www.govinfo.gov/app/details/STATUTE-50/STATUTE-50-Pg810-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-50/STATUTE-50-Pg810-2.pdf
   checksum: 4d0be7c6ee11e46fbb1bfd9f0f46b29b0656a01a6df7f25b219ee813269eb0b6

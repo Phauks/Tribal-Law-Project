@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 53225, published 2012-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213051821/https://www.federalregister.gov/documents/2012/08/31/2012-21507/draft-environmental-impact-statement-for-the-proposed-seminole-tribe-of-florida-fee-to-trust-city-of
+  captured: '2025-02-13'

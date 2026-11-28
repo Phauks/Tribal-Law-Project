@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 20443, published 2022-04-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211021004/https://www.federalregister.gov/documents/2022/04/07/2022-07333/zero-suicide-initiative-coordinating-center
+  captured: '2025-02-11'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 51849, published 2006-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202070725/https://www.federalregister.gov/documents/2006/08/31/06-7278/notice-of-intent-to-repatriate-cultural-items-thomas-burke-memorial-washington-state-museum
+  captured: '2025-02-02'

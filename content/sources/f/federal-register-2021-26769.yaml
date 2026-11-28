@@ -78,3 +78,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 70524, published 2021-12-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207164629/https://www.federalregister.gov/documents/2021/12/10/2021-26769/notice-of-inventory-completion-university-of-colorado-museum-boulder-co
+  captured: '2025-02-07'

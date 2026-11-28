@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 25617, published 2017-06-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209003919/https://www.federalregister.gov/documents/2017/06/02/2017-11434/2017-final-fee-rate-and-fingerprint-fees
+  captured: '2025-02-09'

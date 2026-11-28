@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 65409, published 2019-11-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205004820/https://www.federalregister.gov/documents/2019/11/27/2019-25727/notice-of-inventory-completion-the-university-of-oregon-museum-of-natural-and-cultural-history
+  captured: '2025-02-05'

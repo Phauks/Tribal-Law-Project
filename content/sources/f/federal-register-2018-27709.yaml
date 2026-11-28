@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 65726, published 2018-12-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260417104127/https://www.federalregister.gov/documents/2018/12/21/2018-27709/notice-of-inventory-completion-robert-s-peabody-museum-of-archaeology-andover-ma-correction
+  captured: '2026-04-17'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 21397, published 2009-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204092512/https://www.federalregister.gov/documents/2009/05/07/E9-10546/notice-of-inventory-completion-new-york-university-college-of-dentistry-new-york-ny
+  captured: '2025-02-04'

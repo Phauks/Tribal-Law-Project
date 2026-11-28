@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 11084, published 2022-02-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206083421/https://www.federalregister.gov/documents/2022/02/28/2022-04094/hearth-act-approval-of-santa-rosa-band-of-cahuilla-indians-california-leasing-ordinance
+  captured: '2025-02-06'

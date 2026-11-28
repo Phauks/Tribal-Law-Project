@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 18064, published 2014-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208232708/https://www.federalregister.gov/documents/2014/03/31/2014-07144/notice-of-intent-to-repatriate-cultural-items-museum-of-northern-arizona-flagstaff-az
+  captured: '2025-02-08'

@@ -88,3 +88,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 59655, published 2012-09-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810204802/https://www.federalregister.gov/documents/2012/09/28/2012-23903/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-walnut-canyon
+  captured: '2026-08-10'

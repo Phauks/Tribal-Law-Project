@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 55392, published 2017-11-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250421214613/https://www.federalregister.gov/documents/2017/11/21/2017-25109/salt-river-pima-maricopa-indian-community-amendment-to-alcoholic-beverage-control-ordinance
+  captured: '2025-04-21'

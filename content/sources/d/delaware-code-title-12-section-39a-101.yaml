@@ -18,7 +18,10 @@ citation:
       - 27
 original_link: https://delcode.delaware.gov/title12/c039a/index.html#39A-101
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260721142457/https://www.delcode.delaware.gov/title12/c039a/index.html
+  captured: '2026-07-21'
 history:
   status: live
   last_checked: '2026-11-27'

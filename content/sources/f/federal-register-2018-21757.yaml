@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 50407, published 2018-10-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205011319/https://www.federalregister.gov/documents/2018/10/05/2018-21757/notice-of-inventory-completion-office-of-the-state-archeologist-bioarcheology-program-university-of
+  captured: '2025-02-05'

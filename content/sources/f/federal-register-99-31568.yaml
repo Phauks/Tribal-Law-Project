@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 68373, published 1999-12-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217100417/https://www.federalregister.gov/documents/1999/12/07/99-31568/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-fort-concho-national
+  captured: '2025-02-17'

@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the manual page was read: https://www.bia.gov/policy-forms/manual'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261117193048/https://www.bia.gov/sites/default/files/dup/assets/public/raca/manual/pdf/90%20IAM%202%20Fiscal%20Management_FINAL_Signed_w.footer_508_8.20.20.pdf
+  captured: '2026-11-17'

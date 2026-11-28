@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 4407, published 2017-01-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250503175447/https://www.federalregister.gov/documents/2017/01/13/2017-00556/identifying-lands-subject-to-secretarial-order-of-restoration-of-february-22-1945
+  captured: '2025-05-03'

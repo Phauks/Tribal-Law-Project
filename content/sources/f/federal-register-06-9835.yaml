@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 77060, published 2006-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214005058/https://www.federalregister.gov/documents/2006/12/22/06-9835/energy-policy-act-of-2005-section-1813-draft-report-to-congress
+  captured: '2025-02-14'

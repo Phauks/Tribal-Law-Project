@@ -88,3 +88,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 62537, published 2008-10-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210421220515/https://www.federalregister.gov/documents/2008/10/21/E8-24963/notice-of-inventory-completion-university-of-denver-department-of-anthropology-and-museum-of
+  captured: '2021-04-21'

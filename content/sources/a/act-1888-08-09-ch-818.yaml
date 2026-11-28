@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-25/STATUTE-25-Pg392-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127071428/https://www.govinfo.gov/app/details/STATUTE-25/STATUTE-25-Pg392-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-25/STATUTE-25-Pg392-2.pdf
   checksum: 22c9708377cbe46381388c30643ce8331766f303d27fece47303238f4b2ee9d1

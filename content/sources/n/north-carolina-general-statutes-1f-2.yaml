@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_1F/GS_1F-2.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260713031111/https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_1F/GS_1F-2.html
+  captured: '2026-07-13'
 history:
   status: live
   last_checked: '2026-11-27'

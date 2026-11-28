@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 58618, published 2025-12-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260722202512/https://www.federalregister.gov/documents/2025/12/17/2025-23046/notice-of-intended-repatriation-university-of-california-santa-barbara-art-design-and-architecture
+  captured: '2026-07-22'

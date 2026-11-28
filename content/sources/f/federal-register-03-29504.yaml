@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 66487, published 2003-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208115251/https://www.federalregister.gov/documents/2003/11/26/03-29504/notice-of-inventory-completion-university-of-idaho-alfred-w-bowers-laboratory-of-anthropology-moscow
+  captured: '2025-02-08'

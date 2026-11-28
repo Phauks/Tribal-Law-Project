@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 34275, published 2007-06-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251208141317/https://www.federalregister.gov/documents/2007/06/21/E7-11985/notice-of-inventory-completion-anthropological-studies-center-archaeological-collections-facility
+  captured: '2025-12-08'

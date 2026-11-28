@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 42513, published 2012-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204124034/https://www.federalregister.gov/documents/2012/07/19/2012-17645/notice-of-inventory-completion-new-york-university-college-of-dentistry-new-york-ny
+  captured: '2025-02-04'

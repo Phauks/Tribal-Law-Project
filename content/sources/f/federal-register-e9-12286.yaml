@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 25275, published 2009-05-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203225503/https://www.federalregister.gov/documents/2009/05/27/E9-12286/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-national-park-service
+  captured: '2025-02-03'

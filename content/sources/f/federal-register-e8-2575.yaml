@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 8359, published 2008-02-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204174500/https://www.federalregister.gov/documents/2008/02/13/E8-2575/notice-of-inventory-completion-university-of-colorado-museum-boulder-co
+  captured: '2025-02-04'

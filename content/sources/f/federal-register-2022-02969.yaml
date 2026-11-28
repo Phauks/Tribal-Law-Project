@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 8020, published 2022-02-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207182654/https://www.federalregister.gov/documents/2022/02/11/2022-02969/request-for-public-comment-60-day-information-collection-urban-indian-organization-on-site-review
+  captured: '2025-02-07'

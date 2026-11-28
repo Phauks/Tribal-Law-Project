@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 16651, published 2020-03-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260806063212/https://www.federalregister.gov/documents/2020/03/24/2020-06150/agency-information-collection-activities-financial-assistance-and-social-services
+  captured: '2026-08-06'

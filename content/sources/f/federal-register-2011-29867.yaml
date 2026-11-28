@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 71600, published 2011-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202001126/https://www.federalregister.gov/documents/2011/11/18/2011-29867/renewal-of-agency-information-collection-for-reindeer-in-alaska-request-for-comments
+  captured: '2025-02-02'

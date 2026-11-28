@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 75657, published 2022-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204040425/https://www.federalregister.gov/documents/2022/12/09/2022-26789/notice-of-intent-to-repatriate-cultural-items-new-york-state-museum-albany-ny
+  captured: '2025-02-04'

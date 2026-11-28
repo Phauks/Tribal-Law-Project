@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: None, published 1994-02-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204191825/https://www.federalregister.gov/documents/1994/02/25/94-3935/business-practices-on-the-navajo-hopi-and-zuni-reservations-proposed-rule-department-of-the-interior
+  captured: '2025-02-04'

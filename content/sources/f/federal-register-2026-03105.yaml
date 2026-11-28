@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 7510, published 2026-02-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260717213332/https://www.federalregister.gov/documents/2026/02/18/2026-03105/salt-river-pima-maricopa-indian-community-of-the-salt-river-reservation-arizona-alcoholic-beverage
+  captured: '2026-07-17'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 5857, published 2009-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215174410/https://www.federalregister.gov/documents/2009/02/02/E9-2118/notice-of-inventory-completion-binghamton-university-state-university-of-new-york-binghamton-ny
+  captured: '2025-02-15'

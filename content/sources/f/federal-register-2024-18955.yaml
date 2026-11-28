@@ -106,3 +106,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 68196, published 2024-08-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250526090406/https://www.federalregister.gov/documents/2024/08/23/2024-18955/notice-of-inventory-completion-mercyhurst-university-erie-pa
+  captured: '2025-05-26'

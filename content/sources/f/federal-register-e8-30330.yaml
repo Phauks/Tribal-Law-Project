@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 78374, published 2008-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205075206/https://www.federalregister.gov/documents/2008/12/22/E8-30330/request-for-public-comment-30-day-proposed-information-collection-indian-health-service-background
+  captured: '2025-02-05'

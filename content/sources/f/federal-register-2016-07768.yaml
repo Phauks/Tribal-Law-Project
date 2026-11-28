@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 19619, published 2016-04-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203053305/https://www.federalregister.gov/documents/2016/04/05/2016-07768/notice-of-inventory-completion-us-department-of-defense-army-corps-of-engineers-omaha-district-omaha
+  captured: '2025-02-03'

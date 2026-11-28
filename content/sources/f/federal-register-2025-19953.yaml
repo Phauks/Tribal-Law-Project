@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 51399, published 2025-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251203110020/https://www.federalregister.gov/documents/2025/11/17/2025-19953/notice-of-intended-repatriation-us-department-of-the-interior-national-park-service-chaco-culture
+  captured: '2025-12-03'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 6108, published 2015-02-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204075840/https://www.federalregister.gov/documents/2015/02/04/2015-02186/notice-of-inventory-completion-buffalo-bill-museum-and-grave-formerly-the-buffalo-bill-memorial
+  captured: '2025-02-04'

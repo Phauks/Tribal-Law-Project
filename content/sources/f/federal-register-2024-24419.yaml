@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 84389, published 2024-10-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524193643/https://www.federalregister.gov/documents/2024/10/22/2024-24419/notice-of-intended-repatriation-yale-peabody-museum-yale-university-new-haven-ct
+  captured: '2025-05-24'

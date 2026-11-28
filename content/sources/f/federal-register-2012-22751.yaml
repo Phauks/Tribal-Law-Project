@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 57113, published 2012-09-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204195422/https://www.federalregister.gov/documents/2012/09/17/2012-22751/notice-of-inventory-completion-us-department-of-agriculture-forest-service-arapaho-and-roosevelt
+  captured: '2025-02-04'

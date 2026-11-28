@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 31522, published 2020-05-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240727225518/https://www.federalregister.gov/documents/2020/05/26/2020-11210/national-indian-health-outreach-and-education
+  captured: '2024-07-27'

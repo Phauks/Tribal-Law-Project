@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 58700, published 1996-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250227022115/https://www.federalregister.gov/documents/1996/11/18/96-29439/proclaiming-certain-lands-as-reservation-for-the-redwood-valley-rancheria-of-pomo-indians-of
+  captured: '2025-02-27'

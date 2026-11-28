@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 38821, published 2012-06-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208050719/https://www.federalregister.gov/documents/2012/06/29/2012-15878/final-environmental-impact-statement-for-the-menominee-indian-tribe-of-wisconsins-proposed
+  captured: '2025-02-08'

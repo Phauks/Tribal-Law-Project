@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 23426, published 2021-05-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250819201707/https://www.federalregister.gov/documents/2021/05/03/2021-09197/hearth-act-approval-of-cow-creek-band-of-umpqua-tribe-of-indians-title-105-leasing-code
+  captured: '2025-08-19'

@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-93/STATUTE-93-Pg1056
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127091132/https://www.govinfo.gov/app/details/STATUTE-93/STATUTE-93-Pg1056
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-93/STATUTE-93-Pg1056.pdf
   checksum: aea9d0a5cfbb2c1c99ddc236abaa1e291af104ce03f6fde5bd2a8f5650579f4c

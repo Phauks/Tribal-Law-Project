@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 28214, published 1996-06-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208091347/https://www.federalregister.gov/documents/1996/06/04/96-13880/list-of-recipients-of-indian-health-scholarships-under-the-indian-health-scholarship-program
+  captured: '2025-02-08'

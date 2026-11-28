@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 50045, published 1996-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203085859/https://www.federalregister.gov/documents/1996/09/24/96-24366/cahuilla-band-of-indians-liquor-control-ordinance
+  captured: '2025-02-03'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 2867, published 2014-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202062902/https://www.federalregister.gov/documents/2014/01/16/2014-00750/notice-of-inventory-completion-california-state-university-fullerton-ca
+  captured: '2025-02-02'

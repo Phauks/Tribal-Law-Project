@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 55471, published 2020-09-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251014080616/https://www.federalregister.gov/documents/2020/09/08/2020-19705/land-acquisitions-tejon-indian-tribe
+  captured: '2025-10-14'

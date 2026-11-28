@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 2015-10-30; cover sheet 2015-10-30; decision 2015-10-30
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325004839/https://www.oha.doi.gov/IBIA/Ibiadecisions/61ibia/61ibia348.pdf
+  captured: '2026-03-25'

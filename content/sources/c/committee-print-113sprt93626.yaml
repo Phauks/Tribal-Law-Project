@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CPRT-113SPRT93626'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260805062650/https://www.govinfo.gov/app/details/CPRT-113SPRT93626/
+  captured: '2026-08-05'

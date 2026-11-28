@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 30967, published 2020-05-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203164844/https://www.federalregister.gov/documents/2020/05/21/2020-11010/notice-of-purchasedreferred-care-delivery-area-designation-for-the-little-shell-tribe-of-chippewa
+  captured: '2025-02-03'

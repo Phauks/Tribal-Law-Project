@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12550, published 2025-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601031227/https://www.federalregister.gov/documents/2025/03/18/2025-04368/notice-of-intended-disposition-us-department-of-the-interior-national-park-service-aniakchak
+  captured: '2025-06-01'

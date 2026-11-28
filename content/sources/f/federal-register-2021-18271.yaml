@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 47513, published 2021-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204082101/https://www.federalregister.gov/documents/2021/08/25/2021-18271/notice-of-inventory-completion-mississippi-department-of-archives-and-history-jackson-ms
+  captured: '2025-02-04'

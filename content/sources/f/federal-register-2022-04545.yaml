@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 12484, published 2022-03-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202194656/https://www.federalregister.gov/documents/2022/03/04/2022-04545/draft-environmental-impact-statement-for-the-proposed-chuckwalla-solar-projects-clark-county-nevada
+  captured: '2025-02-02'

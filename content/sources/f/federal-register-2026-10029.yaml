@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 29157, published 2026-05-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260519055139/https://www.federalregister.gov/documents/2026/05/19/2026-10029/notice-of-inventory-completion-us-army-corps-of-engineers-tulsa-district-tulsa-ok-and-sam-noble
+  captured: '2026-05-19'

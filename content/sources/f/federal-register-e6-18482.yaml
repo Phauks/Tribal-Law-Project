@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 64562, published 2006-11-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210429033218/https://www.federalregister.gov/documents/2006/11/02/E6-18482/notice-of-intent-to-repatriate-cultural-items-thomas-burke-memorial-washington-state-museum
+  captured: '2021-04-29'

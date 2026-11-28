@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 9819, published 2019-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204140956/https://www.federalregister.gov/documents/2019/03/18/2019-04916/notice-of-inventory-completion-the-state-center-community-college-district-fresno-city-college
+  captured: '2025-02-04'

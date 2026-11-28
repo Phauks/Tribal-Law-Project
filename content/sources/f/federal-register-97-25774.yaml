@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 50960, published 1997-09-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210505091336/https://www.federalregister.gov/documents/1997/09/29/97-25774/mission-valley-power-utility-montana-power-rate-adjustment
+  captured: '2021-05-05'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 45672, published 2018-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210419034547/https://www.federalregister.gov/documents/2018/09/10/2018-19530/notice-of-inventory-completion-us-department-of-agriculture-forest-service-kootenai-national-forest
+  captured: '2021-04-19'

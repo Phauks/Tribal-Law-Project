@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 56440, published 2022-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208181312/https://www.federalregister.gov/documents/2022/09/14/2022-19830/notice-of-inventory-completion-university-of-missouri-museum-of-anthropology-columbia-mo
+  captured: '2025-02-08'

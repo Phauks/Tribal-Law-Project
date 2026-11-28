@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 78355, published 2020-12-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213203027/https://www.federalregister.gov/documents/2020/12/04/2020-26758/notice-of-inventory-completion-department-of-the-navy-navy-region-southeast-jacksonville-fl
+  captured: '2025-02-13'

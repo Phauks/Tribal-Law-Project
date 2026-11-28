@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 35010, published 2011-06-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209231243/https://www.federalregister.gov/documents/2011/06/15/2011-14764/notice-of-inventory-completion-colorado-historical-society-history-colorado-denver-co
+  captured: '2025-02-09'

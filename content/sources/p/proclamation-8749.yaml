@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2011/11/04/2011-28844/national-native-american-heritage-month-2011'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219143603/https://www.federalregister.gov/documents/2011/11/04/2011-28844/national-native-american-heritage-month-2011
+  captured: '2025-02-19'

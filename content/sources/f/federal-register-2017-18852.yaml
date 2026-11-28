@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 42112, published 2017-09-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210328171336/https://www.federalregister.gov/documents/2017/09/06/2017-18852/hearth-act-approval-of-the-osage-nation-regulations
+  captured: '2021-03-28'

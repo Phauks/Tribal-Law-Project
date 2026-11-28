@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 31821, published 2023-05-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204144043/https://www.federalregister.gov/documents/2023/05/18/2023-10554/notice-of-inventory-completion-wasco-countydalles-city-museum-commission-the-dalles-or
+  captured: '2025-02-04'

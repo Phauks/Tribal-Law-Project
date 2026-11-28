@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 74866, published 2012-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260808153645/https://www.federalregister.gov/documents/2012/12/18/2012-30455/notice-of-intent-to-repatriate-cultural-items-new-york-state-museum-albany-ny
+  captured: '2026-08-08'

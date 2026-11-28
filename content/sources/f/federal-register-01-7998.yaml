@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 17565, published 2001-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205174345/https://www.federalregister.gov/documents/2001/04/02/01-7998/request-for-public-comment-60-day-proposed-collection-indian-health-service-contract-health-service
+  captured: '2025-02-05'

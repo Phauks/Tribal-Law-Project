@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/machis-lower-alabama-creek-lndian-tribe'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127174211/https://www.bia.gov/sites/default/files/media_document/087_loi.pdf
+  captured: '2026-11-27'

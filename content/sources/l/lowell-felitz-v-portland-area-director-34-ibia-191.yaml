@@ -54,3 +54,7 @@ review:
   - check: decided
     result: differs
     detail: index 1999-120-07; cover sheet 1999-12-07; decision 1999-12-07
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010327/https://www.oha.doi.gov/IBIA/IbiaDecisions/34ibia/34ibia191.PDF
+  captured: '2026-03-25'

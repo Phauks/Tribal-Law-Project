@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 30146, published 2008-05-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260714011905/https://www.federalregister.gov/documents/2008/05/23/E8-11603/office-of-federal-acknowledgment-guidance-and-direction-regarding-internal-procedures
+  captured: '2026-07-14'

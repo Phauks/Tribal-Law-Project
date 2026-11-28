@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 67758, published 2000-11-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208072302/https://www.federalregister.gov/documents/2000/11/13/00-28858/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-08'

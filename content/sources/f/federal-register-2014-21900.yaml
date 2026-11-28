@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 55011, published 2014-09-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211053131/https://www.federalregister.gov/documents/2014/09/15/2014-21900/notice-of-intent-to-repatriate-cultural-items-thomas-burke-memorial-washington-state-museum
+  captured: '2025-02-11'

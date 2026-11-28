@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 10066, published 2009-03-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210429162237/https://www.federalregister.gov/documents/2009/03/09/E9-4841/60-day-notice-of-intention-to-request-clearance-of-collection-of-information-opportunity-for-public
+  captured: '2021-04-29'

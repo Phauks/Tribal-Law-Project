@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 37554, published 2025-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825230924/https://www.federalregister.gov/documents/2025/08/05/2025-14798/notice-of-inventory-completion-arkansas-archeological-survey-fayetteville-ar
+  captured: '2025-08-25'

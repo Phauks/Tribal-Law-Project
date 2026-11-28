@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 2409, published 2011-01-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210508203527/https://www.federalregister.gov/documents/2011/01/13/2011-612/proclaiming-certain-lands-lot-32-acquisition-as-an-addition-to-the-bay-mills-indian-reservation-for
+  captured: '2021-05-08'

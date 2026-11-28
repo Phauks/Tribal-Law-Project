@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 8740, published 2010-02-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210421230753/https://www.federalregister.gov/documents/2010/02/25/2010-3767/notice-of-intent-to-repatriate-a-cultural-item-peabody-museum-of-archaeology-and-ethnology-harvard
+  captured: '2021-04-21'

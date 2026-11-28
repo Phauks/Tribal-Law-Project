@@ -71,3 +71,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 43774, published 2014-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250223152956/https://www.federalregister.gov/documents/2014/07/28/2014-17744/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-tuzigoot-national
+  captured: '2025-02-23'

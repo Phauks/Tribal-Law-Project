@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 31526, published 2005-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202105533/https://www.federalregister.gov/documents/2005/06/01/05-10808/notice-of-inventory-completion-oakland-museum-of-california-oakland-ca
+  captured: '2025-02-02'

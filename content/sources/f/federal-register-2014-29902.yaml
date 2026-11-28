@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 76365, published 2014-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208043939/https://www.federalregister.gov/documents/2014/12/22/2014-29902/notice-of-intent-to-repatriate-cultural-items-honolulu-museum-of-art-honolulu-hi
+  captured: '2025-02-08'

@@ -78,3 +78,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 79904, published 2008-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204171502/https://www.federalregister.gov/documents/2008/12/30/E8-30893/notice-of-inventory-completion-klamath-county-museums-klamath-falls-or
+  captured: '2025-02-04'

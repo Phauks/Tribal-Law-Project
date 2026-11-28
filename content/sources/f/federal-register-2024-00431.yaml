@@ -74,3 +74,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 1939, published 2024-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250420195652/https://www.federalregister.gov/documents/2024/01/11/2024-00431/notice-of-inventory-completion-amendment-university-of-minnesota-twin-cities-minneapolis-mn
+  captured: '2025-04-20'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 54022, published 2001-10-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205001331/https://www.federalregister.gov/documents/2001/10/25/01-26839/comanche-indian-tribe-liquor-control-ordinance
+  captured: '2025-02-05'

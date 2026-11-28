@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 42322, published 2009-08-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217093634/https://www.federalregister.gov/documents/2009/08/21/E9-20105/notice-of-inventory-completion-saint-martins-waynick-museum-lacey-wa
+  captured: '2025-02-17'

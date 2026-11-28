@@ -100,3 +100,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 21393, published 2009-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204092533/https://www.federalregister.gov/documents/2009/05/07/E9-10558/notice-of-inventory-completion-colorado-historical-society-denver-co
+  captured: '2025-02-04'

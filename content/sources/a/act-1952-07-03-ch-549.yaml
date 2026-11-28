@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-66/STATUTE-66-Pg323
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127080703/https://www.govinfo.gov/app/details/STATUTE-66/STATUTE-66-Pg323
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-66/STATUTE-66-Pg323.pdf
   checksum: e0e9b8a7abecf84091d9cc18fc12dfbd2b9fbd9d770bc53726269a0847c78d47

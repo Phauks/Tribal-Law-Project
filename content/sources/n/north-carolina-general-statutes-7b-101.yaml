@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_7B/GS_7B-101.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260811212749/https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_7b/gs_7b-101.html
+  captured: '2026-08-11'
 history:
   status: live
   last_checked: '2026-11-27'

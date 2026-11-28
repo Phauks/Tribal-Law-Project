@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 49611, published 2022-08-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204085142/https://www.federalregister.gov/documents/2022/08/11/2022-17287/notice-of-inventory-completion-library-company-of-philadelphia-philadelphia-pa
+  captured: '2025-02-04'

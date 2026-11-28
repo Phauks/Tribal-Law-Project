@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 55954, published 2001-11-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205202600/https://www.federalregister.gov/documents/2001/11/05/01-27707/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-brooklyn-museum-of-art
+  captured: '2025-02-05'

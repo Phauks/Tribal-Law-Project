@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 12214, published 2008-03-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204200552/https://www.federalregister.gov/documents/2008/03/06/E8-4320/notice-of-inventory-completion-texas-department-of-transportation-austin-tx
+  captured: '2025-02-04'

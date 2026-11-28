@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 2118, published 2023-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214090632/https://www.federalregister.gov/documents/2023/01/12/2023-00467/notice-of-intent-to-repatriate-cultural-items-university-of-california-riverside-riverside-ca
+  captured: '2025-02-14'

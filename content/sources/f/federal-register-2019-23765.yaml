@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 58409, published 2019-10-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203164300/https://www.federalregister.gov/documents/2019/10/31/2019-23765/agency-information-collection-activities-leasing-of-osage-reservation-lands-for-oil-and-gas-mining
+  captured: '2025-02-03'

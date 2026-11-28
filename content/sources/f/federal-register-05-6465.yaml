@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 16842, published 2005-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206013908/https://www.federalregister.gov/documents/2005/04/01/05-6465/notice-of-inventory-completion-the-university-museum-university-of-arkansas-fayetteville-ar
+  captured: '2025-02-06'

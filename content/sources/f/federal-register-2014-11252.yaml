@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 27924, published 2014-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204033126/https://www.federalregister.gov/documents/2014/05/15/2014-11252/notice-of-inventory-completion-the-florida-department-of-state-division-of-historical-resources
+  captured: '2025-02-04'

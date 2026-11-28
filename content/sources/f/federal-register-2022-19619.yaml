@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 55841, published 2022-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208140124/https://www.federalregister.gov/documents/2022/09/12/2022-19619/notice-of-inventory-completion-university-of-california-berkeley-berkeley-ca-and-california
+  captured: '2025-02-08'

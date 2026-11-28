@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: R48934, version 7'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260505184811/https://www.congress.gov/crs-product/R48934
+  captured: '2026-05-05'

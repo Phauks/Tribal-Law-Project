@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 25608, published 2006-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205000920/https://www.federalregister.gov/documents/2006/05/01/06-4048/notice-of-inventory-completion-sheboygan-county-historical-museum-sheboygan-wi
+  captured: '2025-02-05'

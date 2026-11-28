@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH3/SECT47-330
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260316054741/https://legislature.idaho.gov/statutesrules/idstat/Title47/T47CH3/SECT47-330/
+  captured: '2026-03-16'
 history:
   status: live
   last_checked: '2026-11-27'

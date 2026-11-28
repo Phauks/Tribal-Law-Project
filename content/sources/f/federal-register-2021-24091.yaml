@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 60899, published 2021-11-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260711235128/https://www.federalregister.gov/documents/2021/11/04/2021-24091/hearth-act-approval-of-pascua-yaqui-tribe-of-arizona-residential-leasing-ordinance
+  captured: '2026-07-11'

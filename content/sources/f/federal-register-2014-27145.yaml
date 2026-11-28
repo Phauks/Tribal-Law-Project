@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 68463, published 2014-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807191501/https://www.federalregister.gov/documents/2014/11/17/2014-27145/notice-of-inventory-completion-us-department-of-agriculture-forest-service-cherokee-national-forest
+  captured: '2026-08-07'

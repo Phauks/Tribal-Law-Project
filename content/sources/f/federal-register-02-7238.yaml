@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 13793, published 2002-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210415041316/https://www.federalregister.gov/documents/2002/03/26/02-7238/spokane-tribe-of-indians-liquor-code
+  captured: '2021-04-15'

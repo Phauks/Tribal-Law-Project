@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 21452, published 2020-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203171912/https://www.federalregister.gov/documents/2020/04/17/2020-08180/land-acquisitions-the-grand-traverse-band-of-ottawa-and-chippewa-indians-michigan
+  captured: '2025-02-03'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 25289, published 2010-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208030703/https://www.federalregister.gov/documents/2010/05/07/2010-10371/notice-of-intent-to-repatriate-cultural-items-rochester-museum-and-science-center-rochester-ny
+  captured: '2025-02-08'

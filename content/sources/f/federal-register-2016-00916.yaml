@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 2903, published 2016-01-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203004331/https://www.federalregister.gov/documents/2016/01/19/2016-00916/notice-of-inventory-completion-carnegie-museum-of-natural-history-pittsburgh-pennsylvania-correction
+  captured: '2025-02-03'

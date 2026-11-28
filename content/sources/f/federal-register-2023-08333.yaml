@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 24439, published 2023-04-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203012057/https://www.federalregister.gov/documents/2023/04/20/2023-08333/notice-of-intent-to-repatriate-cultural-items-robert-s-peabody-institute-of-archaeology-andover-ma
+  captured: '2025-02-03'

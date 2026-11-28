@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 23490, published 2003-05-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204151258/https://www.federalregister.gov/documents/2003/05/02/03-10912/notice-of-inventory-completion-alaska-state-museum-juneau-ak
+  captured: '2025-02-04'

@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 32842, published 2001-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204051330/https://www.federalregister.gov/documents/2001/06/18/01-15310/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-04'

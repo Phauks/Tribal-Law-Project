@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 51633, published 2006-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210501184741/https://www.federalregister.gov/documents/2006/08/30/E6-14473/notice-of-inventory-completion-american-museum-of-natural-history-new-york-ny
+  captured: '2021-05-01'

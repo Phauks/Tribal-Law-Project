@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 35417, published 1995-07-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210515225057/https://www.federalregister.gov/documents/1995/07/07/95-16666/notice-of-proposed-revised-procedures-implementing-the-national-environmental-policy-act-nepa-for
+  captured: '2021-05-15'

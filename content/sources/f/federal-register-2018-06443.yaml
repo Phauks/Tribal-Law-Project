@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 13774, published 2018-03-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213023206/https://www.federalregister.gov/documents/2018/03/30/2018-06443/hearth-act-approval-of-lummi-tribe-of-the-lummi-indian-reservation-code-of-laws-trust-lands-leasing
+  captured: '2025-02-13'

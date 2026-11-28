@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 398, published 2024-01-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207024023/https://www.federalregister.gov/documents/2024/01/03/2023-28911/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-buffalo-national
+  captured: '2025-02-07'

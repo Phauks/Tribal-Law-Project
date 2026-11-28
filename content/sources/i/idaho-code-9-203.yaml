@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title9/T9CH2/SECT9-203
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260421131645/https://legislature.idaho.gov/statutesrules/idstat/title9/t9ch2/sect9-203/
+  captured: '2026-04-21'
 history:
   status: live
   last_checked: '2026-11-27'

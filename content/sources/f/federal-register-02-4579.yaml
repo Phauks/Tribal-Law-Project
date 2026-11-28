@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 9002, published 2002-02-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260327161702/https://www.federalregister.gov/documents/2002/02/27/02-4579/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2026-03-27'

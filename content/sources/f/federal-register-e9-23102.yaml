@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 48779, published 2009-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250224110937/https://www.federalregister.gov/documents/2009/09/24/E9-23102/notice-of-inventory-completion-the-colorado-college-colorado-springs-co-correction
+  captured: '2025-02-24'

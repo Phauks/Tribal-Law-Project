@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 71678, published 2008-11-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204231021/https://www.federalregister.gov/documents/2008/11/25/E8-28007/notice-of-inventory-completion-university-of-oregon-oregon-state-museum-of-anthropology-eugene-or
+  captured: '2025-02-04'

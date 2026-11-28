@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 7054, published 2000-02-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210410220050/https://www.federalregister.gov/documents/2000/02/11/00-3221/mooretown-rancheria-alcoholic-beverage-control-law
+  captured: '2021-04-10'

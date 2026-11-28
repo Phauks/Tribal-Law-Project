@@ -114,3 +114,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 72703, published 2013-12-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205234752/https://www.federalregister.gov/documents/2013/12/03/2013-28910/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-canyonlands
+  captured: '2025-02-05'

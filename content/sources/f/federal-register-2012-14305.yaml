@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 34985, published 2012-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210506105258/https://www.federalregister.gov/documents/2012/06/12/2012-14305/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-bureau-of-indian-affairs
+  captured: '2021-05-06'

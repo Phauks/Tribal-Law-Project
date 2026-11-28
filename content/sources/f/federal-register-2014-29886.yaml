@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 76351, published 2014-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260811091126/https://www.federalregister.gov/documents/2014/12/22/2014-29886/notice-of-inventory-completion-arkansas-archeological-survey-fayetteville-ar
+  captured: '2026-08-11'

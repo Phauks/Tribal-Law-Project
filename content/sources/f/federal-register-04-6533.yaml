@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 13870, published 2004-03-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204000803/https://www.federalregister.gov/documents/2004/03/24/04-6533/replacement-school-construction-priority-list-as-of-fy-2004
+  captured: '2025-02-04'

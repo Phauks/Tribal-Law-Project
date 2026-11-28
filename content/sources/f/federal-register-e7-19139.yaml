@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 54923, published 2007-09-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261018041000/https://www.federalregister.gov/documents/2007/09/27/E7-19139/land-acquisitions-shakopee-mdewakanton-sioux-community
+  captured: '2026-10-18'

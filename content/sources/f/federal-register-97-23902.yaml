@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 47678, published 1997-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208201441/https://www.federalregister.gov/documents/1997/09/10/97-23902/notice-of-intent-to-prepare-an-environmental-impact-statement-for-a-proposed-lease-to-construct-and
+  captured: '2025-02-08'

@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 11679, published 2013-02-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201235145/https://www.federalregister.gov/documents/2013/02/19/2013-03654/notice-of-intent-to-repatriate-a-cultural-item-binghamton-university-state-university-of-new-york
+  captured: '2025-02-01'

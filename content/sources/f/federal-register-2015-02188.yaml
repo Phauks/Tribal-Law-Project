@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 6135, published 2015-02-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260809072023/https://www.federalregister.gov/documents/2015/02/04/2015-02188/notice-of-intent-to-repatriate-cultural-items-denver-museum-of-nature-and-science-denver-co
+  captured: '2026-08-09'

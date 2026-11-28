@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 12229, published 2005-03-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215140312/https://www.federalregister.gov/documents/2005/03/11/05-4880/notice-of-intent-to-prepare-an-environmental-impact-statementenvironmental-impact-report-for-the
+  captured: '2025-02-15'

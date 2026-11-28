@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 4239, published 2016-01-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202191545/https://www.federalregister.gov/documents/2016/01/26/2016-01138/catastrophic-health-emergency-fund
+  captured: '2025-02-02'

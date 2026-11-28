@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 63967, published 2024-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525174511/https://www.federalregister.gov/documents/2024/08/06/2024-17253/notice-of-inventory-completion-university-of-north-carolina-at-charlotte-charlotte-nc
+  captured: '2025-05-25'

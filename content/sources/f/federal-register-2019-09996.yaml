@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 21805, published 2019-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206164655/https://www.federalregister.gov/documents/2019/05/15/2019-09996/notice-of-inventory-completion-tennessee-department-of-environment-and-conservation-division-of
+  captured: '2025-02-06'

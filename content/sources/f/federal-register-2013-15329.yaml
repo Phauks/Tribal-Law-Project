@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 38617, published 2013-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202064011/https://www.federalregister.gov/documents/2013/06/27/2013-15329/procedures-for-establishing-that-an-american-indian-group-exists-as-an-indian-tribe
+  captured: '2025-02-02'

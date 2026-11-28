@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 74873, published 2012-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213072858/https://www.federalregister.gov/documents/2012/12/18/2012-30463/notice-of-inventory-completion-university-of-montana-missoula-mt-museum-of-the-rockies-at-montana
+  captured: '2025-02-13'

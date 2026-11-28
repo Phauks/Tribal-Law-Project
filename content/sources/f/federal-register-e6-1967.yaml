@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 7568, published 2006-02-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208124734/https://www.federalregister.gov/documents/2006/02/13/E6-1967/public-scoping-meeting-on-congressionally-mandated-study-of-energy-rights-of-way-on-tribal-lands
+  captured: '2025-02-08'

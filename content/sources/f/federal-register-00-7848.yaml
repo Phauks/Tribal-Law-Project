@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 17305, published 2000-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516222724/https://www.federalregister.gov/documents/2000/03/31/00-7848/notice-of-intent-to-repatriate-cultural-items-from-the-island-of-oahu-hi-in-the-possession-of-the
+  captured: '2017-05-16'

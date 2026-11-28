@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 71669, published 2022-11-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202025758/https://www.federalregister.gov/documents/2022/11/23/2022-25576/notice-of-inventory-completion-university-of-california-berkeley-berkeley-ca
+  captured: '2025-02-02'

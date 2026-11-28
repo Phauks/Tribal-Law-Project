@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 29163, published 2026-05-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807195119/https://www.federalregister.gov/documents/2026/05/19/2026-10026/notice-of-inventory-completion-kansas-state-historical-society-topeka-ks
+  captured: '2026-08-07'

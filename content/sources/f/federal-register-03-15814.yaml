@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 37511, published 2003-06-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213155935/https://www.federalregister.gov/documents/2003/06/24/03-15814/guidance-for-distributing-fiscal-year-2003-contract-support-funds-and-indian-self-determination
+  captured: '2025-02-13'

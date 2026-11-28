@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12757, published 2025-03-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601030334/https://www.federalregister.gov/documents/2025/03/19/2025-04606/notice-of-intended-repatriation-denver-art-museum-denver-co
+  captured: '2025-06-01'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 54428, published 2008-09-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208034456/https://www.federalregister.gov/documents/2008/09/19/E8-21628/final-environmental-impact-statement-for-the-proposed-riverton-dome-coal-bed-natural-gas-and
+  captured: '2025-02-08'

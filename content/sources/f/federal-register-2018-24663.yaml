@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 56370, published 2018-11-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212041542/https://www.federalregister.gov/documents/2018/11/13/2018-24663/notice-of-inventory-completion-kansas-state-historical-society-topeka-ks
+  captured: '2025-02-12'

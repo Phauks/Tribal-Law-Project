@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 57971, published 2014-09-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208201136/https://www.federalregister.gov/documents/2014/09/26/2014-22972/renewal-of-agency-information-collection-for-solicitation-of-nominations-for-the-advisory-board-for
+  captured: '2025-02-08'

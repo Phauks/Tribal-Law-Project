@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 79158, published 2008-12-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250223023043/https://www.federalregister.gov/documents/2008/12/24/E8-30688/navajo-nation-liquor-regulations
+  captured: '2025-02-23'

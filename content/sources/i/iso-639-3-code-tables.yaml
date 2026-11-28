@@ -12,7 +12,10 @@ citation:
     date-parts: [[2026, 11, 27]]
 original_link: https://iso639-3.sil.org/code_tables/download_tables
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261010050112/https://iso639-3.sil.org/code_tables/download_tables
+  captured: '2026-10-10'
 history:
   status: live
   last_checked: '2026-11-27'

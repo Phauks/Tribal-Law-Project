@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2003/11/19/03-29072/national-american-indian-heritage-month-2003'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414115941/https://www.federalregister.gov/documents/2003/11/19/03-29072/national-american-indian-heritage-month-2003
+  captured: '2025-04-14'

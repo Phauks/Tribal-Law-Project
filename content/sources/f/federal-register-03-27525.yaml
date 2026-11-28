@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 62321, published 2003-11-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202231117/https://www.federalregister.gov/documents/2003/11/03/03-27525/notice-of-intent-to-repatriate-a-cultural-item-thomas-burke-memorial-washington-state-museum-seattle
+  captured: '2025-02-02'

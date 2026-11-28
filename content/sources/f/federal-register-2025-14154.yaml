@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35541, published 2025-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250827192320/https://www.federalregister.gov/documents/2025/07/28/2025-14154/notice-of-inventory-completion-the-university-of-kansas-lawrence-ks
+  captured: '2025-08-27'

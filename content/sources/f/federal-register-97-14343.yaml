@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 30336, published 1997-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250222205935/https://www.federalregister.gov/documents/1997/06/03/97-14343/proclaiming-certain-lands-as-reservation-for-the-reno-sparks-indian-colony-of-the-state-of-nevada
+  captured: '2025-02-22'

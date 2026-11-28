@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 34129, published 2013-06-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260203151722/https://www.federalregister.gov/documents/2013/06/06/2013-13465/notice-of-intent-to-repatriate-cultural-items-university-of-michigan-museum-of-anthropology-ann
+  captured: '2026-02-03'

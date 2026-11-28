@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.legis.iowa.gov/docs/code/99D.14.pdf
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261025025020/https://www.legis.iowa.gov/docs/code/99d.14.pdf
+  captured: '2026-10-25'
 history:
   status: live
   last_checked: '2026-11-27'

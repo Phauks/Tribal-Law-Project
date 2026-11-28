@@ -91,3 +91,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 73666, published 2011-11-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213143651/https://www.federalregister.gov/documents/2011/11/29/2011-30615/notice-of-inventory-completion-paul-h-karshner-memorial-museum-puyallup-wa
+  captured: '2025-02-13'

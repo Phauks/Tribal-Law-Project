@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 12956, published 2023-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206011210/https://www.federalregister.gov/documents/2023/03/01/2023-04151/preventing-alcohol-related-deaths-through-social-detoxification
+  captured: '2025-02-06'

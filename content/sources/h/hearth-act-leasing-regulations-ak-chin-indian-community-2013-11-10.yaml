@@ -51,3 +51,7 @@ review:
   - check: listing
     result: missing
     detail: Only the Bureau of Indian Affairs' list was read, not the regulations themselves
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260930030403/https://www.bia.gov/sites/default/files/dup/assets/bia/ots/ots/pdf/2013.11.10_Ak_Chin_Ind_Community_Approved_Leasing_Act_508.pdf
+  captured: '2026-09-30'

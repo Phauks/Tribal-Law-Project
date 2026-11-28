@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 17193, published 2019-04-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214010926/https://www.federalregister.gov/documents/2019/04/24/2019-08225/notice-of-inventory-completion-us-army-corps-of-engineers-omaha-district-omaha-ne-and-state
+  captured: '2025-02-14'

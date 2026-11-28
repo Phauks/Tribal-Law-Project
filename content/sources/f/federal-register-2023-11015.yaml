@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 33639, published 2023-05-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260402212402/https://www.federalregister.gov/documents/2023/05/24/2023-11015/notice-of-inventory-completion-appalachian-state-university-boone-nc
+  captured: '2026-04-02'

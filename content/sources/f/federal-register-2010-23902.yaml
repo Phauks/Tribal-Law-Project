@@ -96,3 +96,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 58427, published 2010-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251012123355/https://www.federalregister.gov/documents/2010/09/24/2010-23902/notice-of-inventory-completion-office-of-the-state-archaeologist-lansing-mi
+  captured: '2025-10-12'

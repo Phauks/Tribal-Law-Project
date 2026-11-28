@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 11676, published 2013-02-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260813091214/https://www.federalregister.gov/documents/2013/02/19/2013-03631/notice-of-inventory-completion-national-guard-bureaua7an-air-national-guard-joint-base-andrews-md
+  captured: '2026-08-13'

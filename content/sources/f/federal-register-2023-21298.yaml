@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 67342, published 2023-09-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611185315/https://www.federalregister.gov/documents/2023/09/29/2023-21298/hearth-act-approval-of-soboba-band-of-luiseo-indians-california-residential-leasing-ordinance
+  captured: '2025-06-11'

@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 50066, published 2019-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207041140/https://www.federalregister.gov/documents/2019/09/24/2019-20618/notice-of-inventory-completion-university-of-michigan-ann-arbor-mi
+  captured: '2025-02-07'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 31562, published 2018-07-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203052914/https://www.federalregister.gov/documents/2018/07/06/2018-14520/hearth-act-approval-of-san-manuel-band-of-mission-indians-california-business-site-leasing-code
+  captured: '2025-02-03'

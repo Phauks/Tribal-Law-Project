@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 21061, published 2025-05-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250516152857/https://www.federalregister.gov/documents/2025/05/16/2025-08767/notice-of-inventory-completion-california-state-university-chico-chico-ca
+  captured: '2025-05-16'

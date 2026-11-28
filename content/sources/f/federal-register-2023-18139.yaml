@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 57475, published 2023-08-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611190255/https://www.federalregister.gov/documents/2023/08/23/2023-18139/notice-of-inventory-completion-amendment-university-of-california-riverside-riverside-ca
+  captured: '2025-06-11'

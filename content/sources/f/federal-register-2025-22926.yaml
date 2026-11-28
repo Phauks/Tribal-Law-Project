@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 58292, published 2025-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260321110511/https://www.federalregister.gov/documents/2025/12/16/2025-22926/notice-of-intended-repatriation-university-of-denver-museum-of-anthropology-denver-co
+  captured: '2026-03-21'

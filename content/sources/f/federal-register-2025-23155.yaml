@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 59165, published 2025-12-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260722204711/https://www.federalregister.gov/documents/2025/12/18/2025-23155/notice-of-intended-repatriation-university-of-california-santa-barbara-repository-for-archaeological
+  captured: '2026-07-22'

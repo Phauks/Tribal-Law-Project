@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 33345, published 2021-06-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202064441/https://www.federalregister.gov/documents/2021/06/24/2021-13221/land-acquisitions-confederated-salish-and-kootenai-tribes-of-the-flathead-reservation
+  captured: '2025-02-02'

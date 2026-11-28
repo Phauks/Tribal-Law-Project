@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 15168, published 2000-03-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210420042048/https://www.federalregister.gov/documents/2000/03/21/00-6963/proclaiming-certain-lands-as-reservation-for-the-cow-creek-band-of-umpqua-tribe-of-indians-in-oregon
+  captured: '2021-04-20'

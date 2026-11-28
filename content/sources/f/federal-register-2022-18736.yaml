@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 52999, published 2022-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202195218/https://www.federalregister.gov/documents/2022/08/30/2022-18736/notice-of-inventory-completion-amendment-us-army-corps-of-engineers-mobile-district-mobile-al
+  captured: '2025-02-02'

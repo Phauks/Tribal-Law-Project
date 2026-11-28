@@ -46,3 +46,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/mashpee-wampanoag-indian-tribal-council-inc; it gives no year'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127005708/https://www.bia.gov/sites/default/files/media_document/015_pf.pdf
+  captured: '2026-11-27'

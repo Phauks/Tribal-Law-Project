@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 62885, published 2018-12-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250421205230/https://www.federalregister.gov/documents/2018/12/06/2018-26437/notice-of-inventory-completion-office-of-the-state-archaeologist-university-of-iowa-iowa-city-ia
+  captured: '2025-04-21'

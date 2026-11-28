@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 24278, published 2026-05-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260505115305/https://www.federalregister.gov/documents/2026/05/05/2026-08759/notice-of-inventory-completion-museum-of-us-san-diego-ca
+  captured: '2026-05-05'

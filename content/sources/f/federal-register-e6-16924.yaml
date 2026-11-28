@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 60191, published 2006-10-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202103230/https://www.federalregister.gov/documents/2006/10/12/E6-16924/notice-of-intent-to-repatriate-cultural-items-us-department-of-energy-richland-operations-office
+  captured: '2025-02-02'

@@ -71,3 +71,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 67206, published 2003-12-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201235156/https://www.federalregister.gov/documents/2003/12/01/03-29770/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-reclamation-lower-colorado
+  captured: '2025-02-01'

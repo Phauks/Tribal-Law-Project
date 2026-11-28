@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_70/GS_70-11.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251127155845/https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_70/GS_70-11.html
+  captured: '2025-11-27'
 history:
   status: live
   last_checked: '2026-11-27'

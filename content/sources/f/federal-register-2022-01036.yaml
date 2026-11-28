@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 4042, published 2022-01-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202114838/https://www.federalregister.gov/documents/2022/01/26/2022-01036/american-museum-of-natural-history-new-york-ny-correction
+  captured: '2025-02-02'

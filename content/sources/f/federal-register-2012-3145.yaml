@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 7180, published 2012-02-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807192813/https://www.federalregister.gov/documents/2012/02/10/2012-3145/native-american-graves-protection-and-repatriation-review-committee-meeting
+  captured: '2026-08-07'

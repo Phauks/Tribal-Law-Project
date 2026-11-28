@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 47288, published 2016-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250430145735/https://www.federalregister.gov/documents/2016/07/21/2016-17269/indian-child-welfare-act-proceedings
+  captured: '2025-04-30'

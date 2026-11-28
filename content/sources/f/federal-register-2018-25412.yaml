@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 58784, published 2018-11-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204040637/https://www.federalregister.gov/documents/2018/11/21/2018-25412/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-campo-wind-energy
+  captured: '2025-02-04'

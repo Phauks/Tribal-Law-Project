@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/tolowa-nation'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127174118/https://www.bia.gov/sites/default/files/media_document/085_loi.pdf
+  captured: '2026-11-27'

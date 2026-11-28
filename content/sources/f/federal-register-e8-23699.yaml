@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 58623, published 2008-10-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206163637/https://www.federalregister.gov/documents/2008/10/07/E8-23699/notice-of-inventory-completion-new-york-state-museum-albany-ny
+  captured: '2025-02-06'

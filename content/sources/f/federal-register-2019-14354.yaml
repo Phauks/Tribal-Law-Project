@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 32214, published 2019-07-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250218181704/https://www.federalregister.gov/documents/2019/07/05/2019-14354/native-american-graves-protection-and-repatriation-review-committee-notice-of-public-meeting
+  captured: '2025-02-18'

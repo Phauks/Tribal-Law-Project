@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 73260, published 2005-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206053025/https://www.federalregister.gov/documents/2005/12/09/05-23866/notice-of-inventory-completion-us-department-of-defense-naval-air-weapons-station-china-lake-ca-and
+  captured: '2025-02-06'

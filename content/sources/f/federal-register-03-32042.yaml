@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 75269, published 2003-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216113510/https://www.federalregister.gov/documents/2003/12/30/03-32042/robinson-rancheria-of-california-ordinance-governing-the-regulation-and-licensing-of-liquor
+  captured: '2025-02-16'

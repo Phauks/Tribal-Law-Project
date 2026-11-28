@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 6263, published 2026-02-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260211134946/https://www.federalregister.gov/documents/2026/02/11/2026-02709/notice-of-intended-repatriation-cincinnati-museum-center-cincinnati-oh
+  captured: '2026-02-11'

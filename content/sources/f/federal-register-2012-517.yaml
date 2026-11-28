@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 2083, published 2012-01-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810175539/https://www.federalregister.gov/documents/2012/01/13/2012-517/notice-of-inventory-completion-minnesota-indian-affairs-council-bemidji-mn
+  captured: '2026-08-10'

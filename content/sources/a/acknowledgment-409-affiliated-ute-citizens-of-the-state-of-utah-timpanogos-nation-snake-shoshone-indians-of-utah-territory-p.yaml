@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/petitions-in-process/affiliated-ute-citizens-state-utah'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812204905/https://www.bia.gov/sites/default/files/media_document/cor-2025-11-17-inc-000010_public_comment_timpanogos_nation%2C_snake_shoshone_indians_of_utah_territory_1_508.pdf
+  captured: '2026-08-12'

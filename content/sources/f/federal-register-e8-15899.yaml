@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 40364, published 2008-07-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207223802/https://www.federalregister.gov/documents/2008/07/14/E8-15899/notice-of-inventory-completion-us-department-of-homeland-security-us-coast-guard-headquarters
+  captured: '2025-02-07'

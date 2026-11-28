@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.revisor.mn.gov/statutes/cite/124D.385
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251213202811/https://www.revisor.mn.gov/statutes/cite/124D.385
+  captured: '2025-12-13'
 history:
   status: live
   last_checked: '2026-11-27'

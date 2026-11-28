@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 55577, published 2009-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203051533/https://www.federalregister.gov/documents/2009/10/28/E9-25965/notice-of-intent-to-repatriate-a-cultural-item-san-diego-museum-of-man-san-diego-ca
+  captured: '2025-02-03'

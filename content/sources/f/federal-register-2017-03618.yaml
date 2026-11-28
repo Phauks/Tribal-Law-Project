@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 11624, published 2017-02-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208171142/https://www.federalregister.gov/documents/2017/02/24/2017-03618/notice-of-inventory-completion-us-department-of-the-army-united-states-army-garrison-presidio-of
+  captured: '2025-02-08'

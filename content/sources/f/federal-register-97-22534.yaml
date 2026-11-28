@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 44988, published 1997-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210405073915/https://www.federalregister.gov/documents/1997/08/25/97-22534/liquor-ordinance-of-the-susanville-indian-rancheria
+  captured: '2021-04-05'

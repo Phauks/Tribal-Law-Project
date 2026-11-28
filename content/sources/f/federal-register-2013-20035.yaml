@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 50102, published 2013-08-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205011808/https://www.federalregister.gov/documents/2013/08/16/2013-20035/notice-of-inventory-completion-rochester-museum-and-science-center-rochester-ny
+  captured: '2025-02-05'

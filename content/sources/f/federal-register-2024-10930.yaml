@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 43871, published 2024-05-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204232951/https://www.federalregister.gov/documents/2024/05/20/2024-10930/native-american-graves-protection-and-repatriation-review-committee-notice-of-nomination
+  captured: '2025-02-04'

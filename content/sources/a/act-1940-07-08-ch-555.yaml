@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-54/STATUTE-54-Pg746
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127075654/https://www.govinfo.gov/app/details/STATUTE-54/STATUTE-54-Pg746
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-54/STATUTE-54-Pg746.pdf
   checksum: df8876de07e585cc2f4768fa55e1d8e89e3ecc827387d560ec0f8d484219a75c

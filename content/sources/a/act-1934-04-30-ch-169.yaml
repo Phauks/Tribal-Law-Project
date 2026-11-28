@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-48/STATUTE-48-Pg647
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127074542/https://www.govinfo.gov/app/details/STATUTE-48/STATUTE-48-Pg647
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-48/STATUTE-48-Pg647.pdf
   checksum: 38567c8edb6dfebc502d3009d13f98edc805cf82cb29c90d52e38f530fb30212

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 31606, published 1999-06-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208080022/https://www.federalregister.gov/documents/1999/06/11/99-14828/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-08'

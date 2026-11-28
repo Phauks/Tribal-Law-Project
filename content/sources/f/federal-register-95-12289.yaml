@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 26808, published 1995-05-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204102406/https://www.federalregister.gov/documents/1995/05/18/95-12289/receipt-of-petition-for-federal-acknowledgment-of-existence-as-an-indian-tribe
+  captured: '2025-02-04'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 69304, published 2022-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206190502/https://www.federalregister.gov/documents/2022/11/18/2022-25126/notice-of-inventory-completion-warren-anatomical-museum-harvard-university-boston-ma
+  captured: '2025-02-06'

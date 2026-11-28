@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 32863, published 2017-07-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260712155416/https://www.federalregister.gov/documents/2017/07/18/2017-15009/land-acquisitions-the-chickasaw-nation
+  captured: '2026-07-12'

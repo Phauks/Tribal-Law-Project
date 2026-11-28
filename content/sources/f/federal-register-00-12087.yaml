@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 30605, published 2000-05-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203053252/https://www.federalregister.gov/documents/2000/05/12/00-12087/final-programmatic-environmental-impact-statement-for-the-proposed-navajo-ten-year-forest-management
+  captured: '2025-02-03'

@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 34989, published 2012-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208132741/https://www.federalregister.gov/documents/2012/06/12/2012-14306/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-indian-affairs-washington-dc
+  captured: '2025-02-08'

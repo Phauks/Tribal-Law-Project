@@ -50,3 +50,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/petitions-in-process/fernandeno-tataviam-band-mission-indians'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812204620/https://www.bia.gov/sites/default/files/media_document/403_dpco_2024_lemos_2024-04-11_0.pdf
+  captured: '2026-08-12'

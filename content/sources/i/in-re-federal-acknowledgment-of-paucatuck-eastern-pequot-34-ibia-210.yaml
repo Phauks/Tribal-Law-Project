@@ -61,3 +61,7 @@ review:
   - check: decided
     result: agree
     detail: index 2000-01-06; cover sheet 2000-01-06; decision 2000-01-06
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325011204/https://www.oha.doi.gov/IBIA/IbiaDecisions/34ibia/34ibia210.PDF
+  captured: '2026-03-25'

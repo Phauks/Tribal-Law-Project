@@ -18,7 +18,10 @@ citation:
       - 27
 original_link: https://indigenousgov.hks.harvard.edu/publications/choctaw-tribal-court-system-mississippi-band-choctaw-indians
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260502045407/https://indigenousgov.hks.harvard.edu/publications/choctaw-tribal-court-system-mississippi-band-choctaw-indians
+  captured: '2026-05-02'
 history:
   status: live
   last_checked: '2026-11-26'

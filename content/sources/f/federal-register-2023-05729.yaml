@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 17015, published 2023-03-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204205205/https://www.federalregister.gov/documents/2023/03/21/2023-05729/notice-of-inventory-completion-moravian-historical-society-nazareth-pa
+  captured: '2025-02-04'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 75278, published 2003-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217004943/https://www.federalregister.gov/documents/2003/12/30/03-31933/notice-of-inventory-completion-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-17'

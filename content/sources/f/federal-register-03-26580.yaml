@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 60413, published 2003-10-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210424204334/https://www.federalregister.gov/documents/2003/10/22/03-26580/notice-of-intent-to-repatriate-cultural-items-peabody-essex-museum-salem-ma
+  captured: '2021-04-24'

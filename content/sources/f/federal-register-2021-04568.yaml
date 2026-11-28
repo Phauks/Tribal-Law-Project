@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 12968, published 2021-03-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208123855/https://www.federalregister.gov/documents/2021/03/05/2021-04568/notice-of-intent-to-repatriate-cultural-items-mississippi-department-of-archives-and-history-jackson
+  captured: '2025-02-08'

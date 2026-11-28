@@ -18,7 +18,10 @@ citation:
       - 26
 original_link: https://www.bia.gov/sites/default/files/media_document/2024_self_governance_tribes_alphabetically_as_of_07.24.24.pdf
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127003054/https://www.bia.gov/sites/default/files/media_document/2024_self_governance_tribes_alphabetically_as_of_07.24.24.pdf
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

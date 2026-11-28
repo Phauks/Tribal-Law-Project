@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 20346, published 2017-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216141233/https://www.federalregister.gov/documents/2017/05/01/2017-08669/notice-to-propose-the-re-designation-of-the-service-delivery-area-for-the-tolowa-dee-ni-nation
+  captured: '2025-02-16'

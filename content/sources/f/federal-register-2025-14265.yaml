@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35718, published 2025-07-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250826025314/https://www.federalregister.gov/documents/2025/07/29/2025-14265/notice-of-intended-disposition-us-department-of-the-air-force-vandenberg-space-force-base-santa
+  captured: '2025-08-26'

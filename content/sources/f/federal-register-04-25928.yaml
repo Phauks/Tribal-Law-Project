@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 68161, published 2004-11-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216223546/https://www.federalregister.gov/documents/2004/11/23/04-25928/notice-of-inventory-completion-texas-archeological-research-laboratory-the-university-of-texas-at
+  captured: '2025-02-16'

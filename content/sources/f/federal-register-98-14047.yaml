@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 29249, published 1998-05-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209031303/https://www.federalregister.gov/documents/1998/05/28/98-14047/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-09'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 68163, published 2002-11-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209234555/https://www.federalregister.gov/documents/2002/11/08/02-28521/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-whitman-mission
+  captured: '2025-02-09'

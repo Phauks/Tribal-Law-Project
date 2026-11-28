@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 55865, published 2002-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212134603/https://www.federalregister.gov/documents/2002/08/30/02-22227/advisory-board-for-exceptional-children
+  captured: '2025-02-12'

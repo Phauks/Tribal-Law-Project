@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 55649, published 1996-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209013410/https://www.federalregister.gov/documents/1996/10/28/96-27550/notice-of-inventory-completion-for-native-american-human-remains-from-the-puget-sound-area-wa-in-the
+  captured: '2025-02-09'

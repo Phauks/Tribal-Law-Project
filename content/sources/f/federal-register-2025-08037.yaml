@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 19517, published 2025-05-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812175307/https://www.federalregister.gov/documents/2025/05/08/2025-08037/notice-of-intended-repatriation-mukwonago-community-library-mukwonago-wi
+  captured: '2026-08-12'

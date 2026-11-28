@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 47494, published 2015-08-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216111952/https://www.federalregister.gov/documents/2015/08/07/2015-19467/notice-of-service-delivery-area-designation-for-the-koi-nation-of-northern-california-formerly-known
+  captured: '2025-02-16'

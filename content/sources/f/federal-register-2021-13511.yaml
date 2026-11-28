@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 33732, published 2021-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205074934/https://www.federalregister.gov/documents/2021/06/25/2021-13511/notice-of-intent-to-repatriate-cultural-items-oregon-state-university-corvallis-or
+  captured: '2025-02-05'

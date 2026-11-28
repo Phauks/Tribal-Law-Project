@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 31530, published 2005-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202114734/https://www.federalregister.gov/documents/2005/06/01/05-10804/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-02'

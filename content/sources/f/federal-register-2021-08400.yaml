@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 21341, published 2021-04-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201223133/https://www.federalregister.gov/documents/2021/04/22/2021-08400/notice-of-inventory-completion-arizona-museum-of-natural-history-mesa-az-correction
+  captured: '2025-02-01'

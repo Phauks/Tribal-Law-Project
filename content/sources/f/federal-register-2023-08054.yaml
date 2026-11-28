@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 23457, published 2023-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201212301/https://www.federalregister.gov/documents/2023/04/17/2023-08054/notice-of-inventory-completion-amendment-us-department-of-the-interior-fish-and-wildlife-service
+  captured: '2025-02-01'

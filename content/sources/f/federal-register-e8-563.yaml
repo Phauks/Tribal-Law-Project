@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 2525, published 2008-01-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210425151855/https://www.federalregister.gov/documents/2008/01/15/E8-563/notice-of-inventory-completion-paul-h-karshner-memorial-museum-puyallup-wa
+  captured: '2021-04-25'

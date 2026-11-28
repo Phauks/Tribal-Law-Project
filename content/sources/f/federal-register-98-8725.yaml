@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 16569, published 1998-04-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210504232155/https://www.federalregister.gov/documents/1998/04/03/98-8725/draft-environmental-impact-statement-deis-for-the-proposed-high-mesa-waste-management-facility-on
+  captured: '2021-05-04'

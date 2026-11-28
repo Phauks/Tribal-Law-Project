@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 41983, published 2017-09-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212045002/https://www.federalregister.gov/documents/2017/09/05/2017-18683/notice-of-inventory-completion-us-department-of-the-interior-fish-and-wildlife-service-office-of-law
+  captured: '2025-02-12'

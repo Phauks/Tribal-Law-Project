@@ -98,3 +98,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 32322, published 2018-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207060654/https://www.federalregister.gov/documents/2018/07/12/2018-14900/notice-of-inventory-completion-museum-of-ojibwa-culture-and-marquette-mission-park-city-of-st-ignace
+  captured: '2025-02-07'

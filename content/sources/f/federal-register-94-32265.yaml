@@ -46,3 +46,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 95, published 1995-01-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202004221/https://www.federalregister.gov/documents/1995/01/03/94-32265/federal-wildland-fire-management-policy-and-program-review
+  captured: '2025-02-02'

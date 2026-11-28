@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 27911, published 2014-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204032125/https://www.federalregister.gov/documents/2014/05/15/2014-11270/notice-of-inventory-completion-university-of-wisconsin-madison-department-of-anthropology-madison-wi
+  captured: '2025-02-04'

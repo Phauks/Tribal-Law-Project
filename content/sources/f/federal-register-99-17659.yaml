@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 37567, published 1999-07-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216201139/https://www.federalregister.gov/documents/1999/07/12/99-17659/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-american-museum-of-natural
+  captured: '2025-02-16'

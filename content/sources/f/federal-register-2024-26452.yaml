@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 90047, published 2024-11-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524171010/https://www.federalregister.gov/documents/2024/11/14/2024-26452/notice-of-intended-repatriation-evansville-museum-of-arts-history-and-science-evansville-in
+  captured: '2025-05-24'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 14388, published 2023-03-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204034529/https://www.federalregister.gov/documents/2023/03/08/2023-04726/hearth-act-approval-of-mechoopda-indian-tribe-of-chico-rancheria-california-leasing-ordinance
+  captured: '2025-02-04'

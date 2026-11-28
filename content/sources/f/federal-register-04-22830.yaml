@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 60660, published 2004-10-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208210418/https://www.federalregister.gov/documents/2004/10/12/04-22830/notice-of-intent-to-repatriate-louisiana-department-of-culture-recreation-and-tourism-division-of
+  captured: '2025-02-08'

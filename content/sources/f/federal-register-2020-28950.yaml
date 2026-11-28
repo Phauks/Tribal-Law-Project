@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 86940, published 2020-12-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250301174229/https://www.federalregister.gov/documents/2020/12/31/2020-28950/reimbursement-rates-for-calendar-year-2021
+  captured: '2025-03-01'

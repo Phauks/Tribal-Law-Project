@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 27747, published 2020-05-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202033307/https://www.federalregister.gov/documents/2020/05/11/2020-09992/redesignation-of-the-delivery-area-for-the-havasupai-tribe
+  captured: '2025-02-02'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 52673, published 2008-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204173753/https://www.federalregister.gov/documents/2008/09/10/E8-20953/the-grand-canyon-west-alcohol-ordinance-for-the-hualapai-indian-tribe
+  captured: '2025-02-04'

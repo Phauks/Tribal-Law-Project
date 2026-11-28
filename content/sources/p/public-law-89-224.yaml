@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-79/STATUTE-79-Pg897
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127090551/https://www.govinfo.gov/app/details/STATUTE-79/STATUTE-79-Pg897
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-79/STATUTE-79-Pg897.pdf
   checksum: 612ade19919d9b9e13288d42a6d3c5e73b08004d3ab55111358893b067b64ea0

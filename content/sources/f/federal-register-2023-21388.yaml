@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 67351, published 2023-09-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611180956/https://www.federalregister.gov/documents/2023/09/29/2023-21388/notice-of-inventory-completion-kansas-state-university-manhattan-ks
+  captured: '2025-06-11'

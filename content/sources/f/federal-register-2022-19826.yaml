@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 56442, published 2022-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209011839/https://www.federalregister.gov/documents/2022/09/14/2022-19826/notice-of-inventory-completion-museum-of-cultural-and-natural-history-central-michigan-university-mt
+  captured: '2025-02-09'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 23005, published 2016-04-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210403112826/https://www.federalregister.gov/documents/2016/04/19/2016-09019/renewal-of-agency-information-collection-for-tribal-energy-resource-agreements
+  captured: '2021-04-03'

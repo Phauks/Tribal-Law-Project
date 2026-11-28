@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 6612, published 2018-02-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204072305/https://www.federalregister.gov/documents/2018/02/14/2018-03076/proclaiming-certain-lands-as-reservation-for-the-nottawaseppi-huron-band-of-the-potawatomi
+  captured: '2025-02-04'

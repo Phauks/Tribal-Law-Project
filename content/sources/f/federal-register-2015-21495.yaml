@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 52491, published 2015-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251205014422/https://www.federalregister.gov/documents/2015/08/31/2015-21495/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-12-05'

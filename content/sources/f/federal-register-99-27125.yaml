@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 56219, published 1999-10-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210080602/https://www.federalregister.gov/documents/1999/10/18/99-27125/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-san-diego-museum-of-man-san
+  captured: '2025-02-10'

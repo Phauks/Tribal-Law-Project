@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 8310, published 2023-02-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207003503/https://www.federalregister.gov/documents/2023/02/08/2023-02632/notice-of-inventory-completion-colorado-springs-fine-arts-center-at-colorado-college-colorado
+  captured: '2025-02-07'

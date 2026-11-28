@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 2728, published 2004-01-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250223113053/https://www.federalregister.gov/documents/2004/01/20/04-1110/environmental-impact-statement-for-the-proposed-ione-band-of-miwok-indians-trust-acquisition-and
+  captured: '2025-02-23'

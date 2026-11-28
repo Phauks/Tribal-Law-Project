@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-35/STATUTE-35-Pg781-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127072642/https://www.govinfo.gov/app/details/STATUTE-35/STATUTE-35-Pg781-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-35/STATUTE-35-Pg781-2.pdf
   checksum: 9a284b808ca4a20d40893b62b45aa8360349083b27fc3500bbf5ccacf372b759

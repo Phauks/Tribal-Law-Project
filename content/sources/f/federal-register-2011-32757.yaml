@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 80847, published 2011-12-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214113432/https://www.federalregister.gov/documents/2011/12/27/2011-32757/enforcement-actions
+  captured: '2025-02-14'

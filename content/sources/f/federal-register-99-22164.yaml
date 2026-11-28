@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 46716, published 1999-08-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204171936/https://www.federalregister.gov/documents/1999/08/26/99-22164/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects
+  captured: '2025-02-04'

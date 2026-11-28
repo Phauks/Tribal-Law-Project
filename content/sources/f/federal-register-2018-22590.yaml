@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 52526, published 2018-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202140231/https://www.federalregister.gov/documents/2018/10/17/2018-22590/notice-of-inventory-completion-california-department-of-parks-and-recreation-sacramento-ca
+  captured: '2025-02-02'

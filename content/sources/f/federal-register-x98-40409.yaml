@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 17489, published 1998-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201235115/https://www.federalregister.gov/documents/1998/04/09/X98-40409/annual-fees-payable-by-indian-gaming-operations
+  captured: '2025-02-01'

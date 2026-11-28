@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 21835, published 2026-04-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260811202115/https://www.federalregister.gov/documents/2026/04/23/2026-07957/notice-of-intended-repatriation-yale-peabody-museum-yale-university-new-haven-ct
+  captured: '2026-08-11'

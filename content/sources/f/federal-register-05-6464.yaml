@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 16837, published 2005-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207041946/https://www.federalregister.gov/documents/2005/04/01/05-6464/notice-of-inventory-completion-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-07'

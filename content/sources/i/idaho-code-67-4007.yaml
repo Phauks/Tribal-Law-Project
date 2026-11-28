@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://legislature.idaho.gov/statutesrules/idstat/Title67/T67CH40/SECT67-4007
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260115024116/https://legislature.idaho.gov/statutesrules/idstat/title67/t67ch40/sect67-4007/
+  captured: '2026-01-15'
 history:
   status: live
   last_checked: '2026-11-27'

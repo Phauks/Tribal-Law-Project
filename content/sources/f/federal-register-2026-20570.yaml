@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 64397, published 2026-10-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261008103747/https://www.federalregister.gov/documents/2026/10/08/2026-20570/notice-of-proposed-reinterment-edge-of-the-cedars-state-park-museum-blanding-ut
+  captured: '2026-10-08'

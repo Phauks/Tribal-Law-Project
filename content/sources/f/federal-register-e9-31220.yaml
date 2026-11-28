@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 434, published 2010-01-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214033057/https://www.federalregister.gov/documents/2010/01/05/E9-31220/notice-of-intent-to-repatriate-cultural-items-thomas-burke-memorial-washington-state-museum
+  captured: '2025-02-14'

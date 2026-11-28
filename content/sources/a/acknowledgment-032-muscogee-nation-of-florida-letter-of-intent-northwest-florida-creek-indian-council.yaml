@@ -47,3 +47,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/petitions-in-process/muscogee-nation-florida'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260927055716/https://www.bia.gov/sites/default/files/media_document/032_loi_508.pdf
+  captured: '2026-09-27'

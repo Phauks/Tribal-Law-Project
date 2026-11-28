@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 71450, published 2019-12-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203002050/https://www.federalregister.gov/documents/2019/12/27/2019-27996/draft-environmental-impact-statement-for-osage-county-oil-and-gas-osage-county-oklahoma
+  captured: '2025-02-03'

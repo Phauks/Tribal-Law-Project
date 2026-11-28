@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 66737, published 2024-08-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250528203618/https://www.federalregister.gov/documents/2024/08/16/2024-18379/hearth-act-approval-of-forest-county-potawatomi-community-wisconsin-leasing-ordinance
+  captured: '2025-05-28'

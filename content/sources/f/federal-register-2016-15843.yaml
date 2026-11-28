@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 43637, published 2016-07-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203234340/https://www.federalregister.gov/documents/2016/07/05/2016-15843/notice-of-intent-to-repatriate-cultural-items-field-museum-of-natural-history-chicago-il
+  captured: '2025-02-03'

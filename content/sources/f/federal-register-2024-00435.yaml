@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 1938, published 2024-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260902121152/https://www.federalregister.gov/documents/2024/01/11/2024-00435/notice-of-intent-to-repatriate-cultural-items-indiana-university-bloomington-in
+  captured: '2026-09-02'

@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 59967, published 2013-09-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260711181557/https://www.federalregister.gov/documents/2013/09/30/2013-23800/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-tumacacori
+  captured: '2026-07-11'

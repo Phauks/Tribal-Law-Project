@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 44590, published 2013-07-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210423011537/https://www.federalregister.gov/documents/2013/07/24/2013-17741/salt-river-pima-maricopa-indian-community-amendment-to-alcoholic-beverage-control-ordinance
+  captured: '2021-04-23'

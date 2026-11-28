@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Congress.gov API only: IF13173, version 3'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260308091205/https://www.congress.gov/crs-product/IF13173
+  captured: '2026-03-08'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 23268, published 2017-05-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250404041136/https://www.federalregister.gov/documents/2017/05/22/2017-10449/division-of-behavioral-health-national-urban-indian-behavioral-health-awareness
+  captured: '2025-04-04'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 35787, published 2014-06-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210426185128/https://www.federalregister.gov/documents/2014/06/24/2014-14748/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-national-park-service
+  captured: '2021-04-26'

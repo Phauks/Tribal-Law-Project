@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-89/STATUTE-89-Pg577
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251117111138/https://www.govinfo.gov/app/details/STATUTE-89/STATUTE-89-Pg577
+  captured: '2025-11-17'
 file:
   storage_key: govinfo/STATUTE-89/STATUTE-89-Pg577.pdf
   checksum: 9e2d366d4647d45b34bfa965428b44f76ae4f9e96e3feec61bd034f53df55310

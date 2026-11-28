@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 8507, published 2026-02-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260222163803/https://www.federalregister.gov/documents/2026/02/23/2026-03564/notice-of-inventory-completion-la-sierra-university-museum-riverside-ca
+  captured: '2026-02-22'

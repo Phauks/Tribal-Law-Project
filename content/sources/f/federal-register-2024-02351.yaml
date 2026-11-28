@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 8238, published 2024-02-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260713162823/https://www.federalregister.gov/documents/2024/02/06/2024-02351/winnemucca-indian-colony-liquor-ordinance
+  captured: '2026-07-13'

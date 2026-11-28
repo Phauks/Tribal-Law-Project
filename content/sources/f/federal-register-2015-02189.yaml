@@ -87,3 +87,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 6110, published 2015-02-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204080500/https://www.federalregister.gov/documents/2015/02/04/2015-02189/notice-of-inventory-completion-university-of-denver-museum-of-anthropology-denver-co
+  captured: '2025-02-04'

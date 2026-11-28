@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-86/STATUTE-86-Pg788
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127091023/https://www.govinfo.gov/app/details/STATUTE-86/STATUTE-86-Pg788
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-86/STATUTE-86-Pg788.pdf
   checksum: 8f9f9030c1a232cf3ab1ffe441f2778f9348e70b90e948a4be6569b93e6b29bf

@@ -77,3 +77,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 52495, published 2015-08-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250421064838/https://www.federalregister.gov/documents/2015/08/31/2015-21488/notice-of-inventory-completion-center-for-archaeological-studies-texas-state-university-san-marcos
+  captured: '2025-04-21'

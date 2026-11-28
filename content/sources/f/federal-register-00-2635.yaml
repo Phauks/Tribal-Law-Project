@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 5880, published 2000-02-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418083602/https://www.federalregister.gov/documents/2000/02/07/00-2635/proposed-finding-against-federal-acknowledgment-of-the-steilacoom-tribe-of-indians
+  captured: '2026-04-18'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 866, published 2017-01-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260716231610/https://www.federalregister.gov/documents/2017/01/04/2016-31874/grand-traverse-band-of-ottawa-and-chippewa-indians-amendments-to-liquor-ordinance
+  captured: '2026-07-16'

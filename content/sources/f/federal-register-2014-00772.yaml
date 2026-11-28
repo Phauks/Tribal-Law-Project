@@ -94,3 +94,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 2871, published 2014-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202060853/https://www.federalregister.gov/documents/2014/01/16/2014-00772/notice-of-inventory-completion-university-of-denver-museum-of-anthropology-denver-co
+  captured: '2025-02-02'

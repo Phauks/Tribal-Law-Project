@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12546, published 2025-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250323044912/https://www.federalregister.gov/documents/2025/03/18/2025-04363/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management
+  captured: '2025-03-23'

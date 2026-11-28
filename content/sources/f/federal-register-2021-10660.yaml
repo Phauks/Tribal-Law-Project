@@ -82,3 +82,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 27472, published 2021-05-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201173144/https://www.federalregister.gov/documents/2021/05/20/2021-10660/notice-of-inventory-completion-university-of-wisconsin-madison-department-of-anthropology-madison-wi
+  captured: '2025-02-01'

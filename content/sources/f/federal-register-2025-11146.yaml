@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 25630, published 2025-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250622170147/https://www.federalregister.gov/documents/2025/06/17/2025-11146/notice-of-inventory-completion-los-rios-community-college-district-sacramento-ca
+  captured: '2025-06-22'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 4307, published 2015-01-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206175019/https://www.federalregister.gov/documents/2015/01/27/2015-01467/land-acquisitions-transfer-of-excess-federal-real-property
+  captured: '2025-02-06'

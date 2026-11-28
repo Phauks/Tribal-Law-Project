@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 53638, published 2024-06-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611192958/https://www.federalregister.gov/documents/2024/06/27/2024-14103/notice-of-intended-repatriation-michigan-history-center-lansing-mi
+  captured: '2025-06-11'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 78386, published 2023-11-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611191135/https://www.federalregister.gov/documents/2023/11/15/2023-25211/notice-of-intent-to-repatriate-cultural-items-the-childrens-museum-of-indianapolis-indianapolis-in
+  captured: '2025-06-11'

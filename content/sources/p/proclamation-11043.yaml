@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2026/07/17/2026-14548/modifying-the-bears-ears-national-monument'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261102054243/https://www.federalregister.gov/documents/2026/07/17/2026-14548/modifying-the-bears-ears-national-monument
+  captured: '2026-11-02'

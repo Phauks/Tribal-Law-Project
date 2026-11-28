@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 78976, published 2013-12-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204090257/https://www.federalregister.gov/documents/2013/12/27/2013-31076/indian-health-professions-preparatory-indian-health-professions-pre-graduate-and-indian-health
+  captured: '2025-02-04'

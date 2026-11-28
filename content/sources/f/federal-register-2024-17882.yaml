@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 65669, published 2024-08-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207091214/https://www.federalregister.gov/documents/2024/08/12/2024-17882/notice-of-intended-repatriation-new-york-state-museum-albany-ny
+  captured: '2025-02-07'

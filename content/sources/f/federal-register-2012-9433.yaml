@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 23497, published 2012-04-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250222121355/https://www.federalregister.gov/documents/2012/04/19/2012-9433/notice-of-intent-to-repatriate-cultural-items-benton-county-historical-society-and-museum-philomath
+  captured: '2025-02-22'

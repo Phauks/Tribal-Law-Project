@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 48720, published 1996-09-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205230005/https://www.federalregister.gov/documents/1996/09/16/96-23587/notice-of-inventory-completion-for-native-american-human-remains-in-the-possession-of-bents-old-fort
+  captured: '2025-02-05'

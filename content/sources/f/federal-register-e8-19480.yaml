@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 50037, published 2008-08-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202114419/https://www.federalregister.gov/documents/2008/08/25/E8-19480/request-for-public-comment-60-day-proposed-information-collection-indian-health-service-health
+  captured: '2025-02-02'

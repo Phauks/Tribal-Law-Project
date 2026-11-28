@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the manual page was read: https://www.bia.gov/policy-forms/manual'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261116165347/https://www.bia.gov/sites/default/files/dup/assets/public/raca/manual/pdf/27_iam_19_1099_processing_issuance_and_corrections_final_4.8.24_signed4.18.24_w.footer_508.pdf
+  captured: '2026-11-16'

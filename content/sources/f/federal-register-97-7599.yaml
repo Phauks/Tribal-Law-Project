@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 14439, published 1997-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250312124659/https://www.federalregister.gov/documents/1997/03/26/97-7599/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-arizona-state-museum
+  captured: '2025-03-12'

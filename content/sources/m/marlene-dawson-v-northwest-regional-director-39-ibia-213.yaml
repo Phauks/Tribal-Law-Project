@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 2003-12-11; cover sheet 2003-12-11; decision 2003-12-11
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325011354/https://www.oha.doi.gov/IBIA/IbiaDecisions/39ibia/39ibia213.PDF
+  captured: '2026-03-25'

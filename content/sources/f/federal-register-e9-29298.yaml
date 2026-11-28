@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 65144, published 2009-12-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210503121107/https://www.federalregister.gov/documents/2009/12/09/E9-29298/notice-of-inventory-completion-university-of-colorado-museum-boulder-co
+  captured: '2021-05-03'

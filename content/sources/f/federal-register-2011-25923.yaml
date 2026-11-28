@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 63237, published 2011-10-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208175244/https://www.federalregister.gov/documents/2011/10/12/2011-25923/issuance-of-investigation-completion-letters
+  captured: '2025-02-08'

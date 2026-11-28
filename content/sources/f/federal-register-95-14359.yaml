@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 31040, published 1995-06-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204134539/https://www.federalregister.gov/documents/1995/06/12/95-14359/plan-for-the-distribution-of-the-confederated-tribes-of-the-colville-reservation-indian-judgment
+  captured: '2025-02-04'

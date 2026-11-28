@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 25658, published 2024-04-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524174637/https://www.federalregister.gov/documents/2024/04/11/2024-07714/notice-of-inventory-completion-dickinson-state-university-dickinson-nd
+  captured: '2025-05-24'

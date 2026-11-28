@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 13499, published 2017-03-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208193607/https://www.federalregister.gov/documents/2017/03/13/2017-04850/notice-of-inventory-completion-san-diego-museum-of-man-san-diego-ca-correction
+  captured: '2025-02-08'

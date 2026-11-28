@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 81352, published 2015-12-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250507143022/https://www.federalregister.gov/documents/2015/12/29/2015-32739/draft-environmental-impact-statement-for-the-proposed-wilton-rancheria-fee-to-trust-and-casino
+  captured: '2025-05-07'

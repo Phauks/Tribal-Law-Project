@@ -89,3 +89,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 53000, published 2022-08-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203045217/https://www.federalregister.gov/documents/2022/08/30/2022-18740/notice-of-inventory-completion-michigan-state-university-east-lansing-mi
+  captured: '2025-02-03'

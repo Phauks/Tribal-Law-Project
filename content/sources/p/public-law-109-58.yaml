@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-119/STATUTE-119-Pg594
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260807152635/https://www.govinfo.gov/app/details/STATUTE-119/STATUTE-119-Pg594
+  captured: '2026-08-07'
 file:
   storage_key: govinfo/STATUTE-119/STATUTE-119-Pg594.pdf
   checksum: cfd29f293731ac5a083bddcd2cad21d2928ca8a6ef5540878224d5a2b4592819

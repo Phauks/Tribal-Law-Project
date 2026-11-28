@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 47159, published 2004-08-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219093844/https://www.federalregister.gov/documents/2004/08/04/04-17777/american-indians-into-psychology-program-correction
+  captured: '2025-02-19'

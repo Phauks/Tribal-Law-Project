@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 14259, published 1999-03-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203045858/https://www.federalregister.gov/documents/1999/03/24/99-7118/grant-availability-to-federally-recognized-indian-tribes-for-projects-implementing-traffic-safety-on
+  captured: '2025-02-03'

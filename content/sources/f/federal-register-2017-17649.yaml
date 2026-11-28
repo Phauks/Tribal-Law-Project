@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 39904, published 2017-08-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250418165610/https://www.federalregister.gov/documents/2017/08/22/2017-17649/notice-of-inventory-completion-tennessee-valley-authority-knoxville-tn
+  captured: '2025-04-18'

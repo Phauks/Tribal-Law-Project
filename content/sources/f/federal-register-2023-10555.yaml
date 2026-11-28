@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 31816, published 2023-05-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202040133/https://www.federalregister.gov/documents/2023/05/18/2023-10555/notice-of-inventory-completion-columbia-gorge-discovery-center-and-museum-the-dalles-or
+  captured: '2025-02-02'

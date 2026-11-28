@@ -48,3 +48,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Commission''s table was read: https://www.nigc.gov/office-of-general-counsel/legal-opinions/game-classification-opinions/'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260513031335/https://www.nigc.gov/wp-content/uploads/2025/03/1997.03.28_Ltr_to_President_Multimedia_Games_from_A._Deer_NIGC_Acting_Chair.pdf
+  captured: '2026-05-13'

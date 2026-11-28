@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 55460, published 2004-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204022802/https://www.federalregister.gov/documents/2004/09/14/04-20654/notice-of-intent-to-repatriate-cultural-items-thomas-burke-memorial-washington-state-museum-seattle
+  captured: '2025-02-04'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 40016, published 2017-08-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260710172400/https://www.federalregister.gov/documents/2017/08/23/2017-17841/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for
+  captured: '2026-07-10'

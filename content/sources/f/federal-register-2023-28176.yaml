@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 88652, published 2023-12-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611190914/https://www.federalregister.gov/documents/2023/12/22/2023-28176/notice-of-inventory-completion-department-of-the-interior-national-park-service-navajo-national
+  captured: '2025-06-11'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 64503, published 2016-09-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202234620/https://www.federalregister.gov/documents/2016/09/20/2016-22618/notice-of-inventory-completion-thomas-gilcrease-institute-of-american-history-and-art-gilcrease
+  captured: '2025-02-02'

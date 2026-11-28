@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2017/11/06/2017-24295/national-native-american-heritage-month-2017'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250409222959/https://www.federalregister.gov/documents/2017/11/06/2017-24295/national-native-american-heritage-month-2017
+  captured: '2025-04-09'

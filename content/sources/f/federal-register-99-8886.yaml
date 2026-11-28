@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 17410, published 1999-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204191751/https://www.federalregister.gov/documents/1999/04/09/99-8886/notice-of-intent-to-repatriate-a-cultural-item-in-the-possession-of-the-anchorage-museum-of-history
+  captured: '2025-02-04'

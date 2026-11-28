@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 27890, published 2021-05-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203235513/https://www.federalregister.gov/documents/2021/05/24/2021-10904/notice-of-approved-class-iii-tribal-gaming-ordinances
+  captured: '2025-02-03'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 4363, published 2009-01-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204135154/https://www.federalregister.gov/documents/2009/01/26/E9-1346/amendments-to-various-national-indian-gaming-commission-regulations
+  captured: '2025-02-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 15481, published 2003-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209045018/https://www.federalregister.gov/documents/2003/03/31/03-7637/proclaiming-certain-lands-as-reservation-for-the-confederated-tribes-of-siletz-indians-of-oregon
+  captured: '2025-02-09'

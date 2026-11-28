@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 20706, published 2021-04-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250819201708/https://www.federalregister.gov/documents/2021/04/21/2021-08201/hearth-act-approval-of-standing-rock-sioux-tribe-of-north-and-south-dakota-leasing-ordinance
+  captured: '2025-08-19'

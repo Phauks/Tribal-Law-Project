@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 81883, published 2000-12-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208164022/https://www.federalregister.gov/documents/2000/12/27/00-32917/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-08'

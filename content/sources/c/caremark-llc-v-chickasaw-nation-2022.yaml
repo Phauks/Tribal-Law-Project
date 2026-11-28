@@ -21,7 +21,10 @@ citation:
   number: 21-16209
 original_link: https://www.courtlistener.com/opinion/7855376/caremark-llc-v-chickasaw-nation/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128111305/https://www.courtlistener.com/opinion/7855376/caremark-llc-v-chickasaw-nation/
+  captured: '2026-11-28'
 history:
   status: live
   last_checked: '2026-11-26'

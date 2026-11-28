@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 20948, published 2008-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211191214/https://www.federalregister.gov/documents/2008/04/17/E8-8305/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-colorado
+  captured: '2025-02-11'

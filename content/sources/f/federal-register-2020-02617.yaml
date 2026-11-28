@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 7765, published 2020-02-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240727094134/https://www.federalregister.gov/documents/2020/02/11/2020-02617/loan-repayment-program-for-repayment-of-health-professions-educational-loans
+  captured: '2024-07-27'

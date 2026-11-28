@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 20945, published 2008-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213023321/https://www.federalregister.gov/documents/2008/04/17/E8-8313/notice-of-inventory-completion-oregon-state-university-department-of-anthropology-corvallis-or
+  captured: '2025-02-13'

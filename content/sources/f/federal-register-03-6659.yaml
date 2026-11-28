@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 13724, published 2003-03-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202140705/https://www.federalregister.gov/documents/2003/03/20/03-6659/receipt-of-petitions-for-federal-acknowledgment-of-existence-as-an-indian-tribe
+  captured: '2025-02-02'

@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 14206, published 2001-03-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211020338/https://www.federalregister.gov/documents/2001/03/09/01-5942/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-peabody-museum-of-archaeology
+  captured: '2025-02-11'

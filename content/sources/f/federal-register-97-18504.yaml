@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 37926, published 1997-07-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204063038/https://www.federalregister.gov/documents/1997/07/15/97-18504/resighini-rancheria-liquor-licensing-ordinance
+  captured: '2025-02-04'

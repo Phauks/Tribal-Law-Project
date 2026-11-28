@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 612, published 2002-01-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203042037/https://www.federalregister.gov/documents/2002/01/04/02-182/paperwork-reduction-act
+  captured: '2025-02-03'

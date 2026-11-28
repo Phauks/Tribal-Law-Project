@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 58763, published 2024-07-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250525162129/https://www.federalregister.gov/documents/2024/07/19/2024-15897/notice-of-intended-disposition-us-department-of-the-interior-bureau-of-reclamation-region-10
+  captured: '2025-05-25'

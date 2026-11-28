@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 23800, published 2010-05-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208181124/https://www.federalregister.gov/documents/2010/05/04/2010-10365/notice-of-intent-to-repatriate-a-cultural-item-virginia-museum-of-fine-arts-richmond-va
+  captured: '2025-02-08'

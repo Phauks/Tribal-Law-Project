@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 24976, published 2012-04-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206085013/https://www.federalregister.gov/documents/2012/04/26/2012-10080/environmental-impact-statement-for-the-proposed-wheatgrass-ridge-wind-project-fort-hall-indian
+  captured: '2025-02-06'

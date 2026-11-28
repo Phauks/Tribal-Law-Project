@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 62592, published 2023-09-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240807003634/https://www.federalregister.gov/documents/2023/09/12/2023-19601/notice-of-intent-to-repatriate-cultural-items-david-a-fredrickson-archaeological-collections
+  captured: '2024-08-07'

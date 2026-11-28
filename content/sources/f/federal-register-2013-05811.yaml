@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 15970, published 2013-03-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204110327/https://www.federalregister.gov/documents/2013/03/13/2013-05811/cedarville-rancheria-liquor-licensing-ordinance-of-the-cedarville-rancheria-ordinance-no-2012-05
+  captured: '2025-02-04'

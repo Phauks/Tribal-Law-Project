@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 34127, published 2013-06-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260712213932/https://www.federalregister.gov/documents/2013/06/06/2013-13469/notice-of-inventory-completion-coachella-valley-history-museum-indio-ca
+  captured: '2026-07-12'

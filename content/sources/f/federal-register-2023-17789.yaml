@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 56657, published 2023-08-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204172657/https://www.federalregister.gov/documents/2023/08/18/2023-17789/notice-of-inventory-completion-texas-department-of-transportation-austin-tx
+  captured: '2025-02-04'

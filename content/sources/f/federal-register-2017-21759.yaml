@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 46997, published 2017-10-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207022713/https://www.federalregister.gov/documents/2017/10/10/2017-21759/re-designation-of-the-delivery-area-for-the-passamaquoddy-tribe-at-indian-township
+  captured: '2025-02-07'

@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 31519, published 2005-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260716205530/https://www.federalregister.gov/documents/2005/06/01/05-10815/notice-of-inventory-completion-california-state-university-long-beach-long-beach-ca
+  captured: '2026-07-16'

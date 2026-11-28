@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 45656, published 2010-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204135603/https://www.federalregister.gov/documents/2010/08/03/2010-19002/notice-of-inventory-completion-us-department-of-agriculture-forest-service-siuslaw-national-forest
+  captured: '2025-02-04'

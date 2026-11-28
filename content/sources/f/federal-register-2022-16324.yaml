@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 45789, published 2022-07-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206192119/https://www.federalregister.gov/documents/2022/07/29/2022-16324/rate-adjustments-for-indian-irrigation-projects
+  captured: '2025-02-06'

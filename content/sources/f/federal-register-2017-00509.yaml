@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 3807, published 2017-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210812063306/https://www.federalregister.gov/documents/2017/01/12/2017-00509/notice-of-inventory-completion-metroparks-of-the-toledo-area-toledo-oh
+  captured: '2021-08-12'

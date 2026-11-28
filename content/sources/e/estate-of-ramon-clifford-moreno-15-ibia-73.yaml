@@ -54,3 +54,7 @@ review:
   - check: decided
     result: agree
     detail: index 1986-12-19; cover sheet 1986-12-19; decision 1986-12-19
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325010450/https://www.oha.doi.gov/IBIA/IbiaDecisions/15ibia/15ibia073.PDF
+  captured: '2026-03-25'

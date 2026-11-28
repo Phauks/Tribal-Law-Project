@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 18061, published 2014-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208144858/https://www.federalregister.gov/documents/2014/03/31/2014-07150/notice-of-intent-to-repatriate-cultural-items-tennessee-valley-authority-knoxville-tn
+  captured: '2025-02-08'

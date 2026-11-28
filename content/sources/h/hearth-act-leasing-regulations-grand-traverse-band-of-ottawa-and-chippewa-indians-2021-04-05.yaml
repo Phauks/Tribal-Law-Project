@@ -51,3 +51,7 @@ review:
   - check: listing
     result: missing
     detail: Only the Bureau of Indian Affairs' list was read, not the regulations themselves
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260930030414/https://www.bia.gov/sites/default/files/dup/assets/bia/ots/ots/pdf/Grand_Traverse_Band_of_Ottawa_%26_Chippewa_Indians_Hearth_Act_Approval_page_%26_Ordinance_508.pdf
+  captured: '2026-09-30'

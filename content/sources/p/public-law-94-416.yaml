@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-90/STATUTE-90-Pg1275
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127091124/https://www.govinfo.gov/app/details/STATUTE-90/STATUTE-90-Pg1275
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-90/STATUTE-90-Pg1275.pdf
   checksum: 870d4be7058131c601b4d826f4737fefdf28d4a84cd7b6b92e5fea555d0af069

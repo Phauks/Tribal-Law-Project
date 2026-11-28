@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 63619, published 2000-10-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212214714/https://www.federalregister.gov/documents/2000/10/24/00-27206/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-12'

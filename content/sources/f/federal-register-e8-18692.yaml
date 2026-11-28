@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 47231, published 2008-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202114100/https://www.federalregister.gov/documents/2008/08/13/E8-18692/notice-of-inventory-completion-northwest-museum-whitman-college-walla-walla-wa
+  captured: '2025-02-02'

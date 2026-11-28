@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 18018, published 2002-04-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204103659/https://www.federalregister.gov/documents/2002/04/12/02-8854/notice-of-availability-of-the-final-environmental-impact-statement-for-the-proposed-white-river
+  captured: '2025-02-04'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 18192, published 2007-04-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250210073205/https://www.federalregister.gov/documents/2007/04/11/E7-6789/consultation-on-regulations-regarding-the-disposition-of-unclaimed-native-american-human-remains
+  captured: '2025-02-10'

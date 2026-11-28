@@ -80,3 +80,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 9809, published 2019-03-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20230405005557/https://www.federalregister.gov/documents/2019/03/18/2019-04911/notice-of-inventory-completion-office-of-the-state-archaeologist-bioarchaeology-program-university
+  captured: '2023-04-05'

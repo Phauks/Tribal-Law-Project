@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 32843, published 2001-06-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203083436/https://www.federalregister.gov/documents/2001/06/18/01-15303/correction-notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary
+  captured: '2025-02-03'

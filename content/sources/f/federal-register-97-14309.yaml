@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 29738, published 1997-06-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212084159/https://www.federalregister.gov/documents/1997/06/02/97-14309/notice-of-inventory-completion-for-native-american-human-remains-in-the-possession-of-the-field
+  captured: '2025-02-12'

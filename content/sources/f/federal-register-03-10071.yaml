@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 20023, published 2003-04-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213052611/https://www.federalregister.gov/documents/2003/04/23/03-10071/submission-to-omb-for-approval-of-tribal-self-governance-program-information-collection
+  captured: '2025-02-13'

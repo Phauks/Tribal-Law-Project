@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 16123, published 2018-04-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205050253/https://www.federalregister.gov/documents/2018/04/13/2018-07701/notice-of-intent-to-repatriate-cultural-items-new-york-state-museum-albany-ny
+  captured: '2025-02-05'

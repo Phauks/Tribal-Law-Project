@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 39341, published 2019-08-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260727103548/https://www.federalregister.gov/documents/2019/08/09/2019-17135/office-of-tribal-self-governance-negotiation-cooperative-agreement
+  captured: '2026-07-27'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 58427, published 2006-10-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214030303/https://www.federalregister.gov/documents/2006/10/03/E6-16259/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-mississippi-band-of-choctaw
+  captured: '2025-02-14'

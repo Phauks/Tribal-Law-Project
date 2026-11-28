@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 11462, published 2014-02-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250505103158/https://www.federalregister.gov/documents/2014/02/28/2014-04439/proclaiming-certain-lands-white-horse-golf-course-property-as-an-addition-to-the-port-madison-indian
+  captured: '2025-05-05'

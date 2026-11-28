@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 17355, published 2008-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219060512/https://www.federalregister.gov/documents/2008/04/01/E8-6429/tribal-management-grant-program
+  captured: '2025-02-19'

@@ -87,3 +87,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 78849, published 2016-11-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208080402/https://www.federalregister.gov/documents/2016/11/09/2016-26978/notice-of-inventory-completion-lake-county-discovery-museum-wauconda-il
+  captured: '2025-02-08'

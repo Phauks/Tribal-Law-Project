@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 21268, published 2024-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250615003335/https://www.federalregister.gov/documents/2024/03/27/2024-06466/advisory-board-of-exceptional-children
+  captured: '2025-06-15'

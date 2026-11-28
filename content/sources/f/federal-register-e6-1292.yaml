@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 5360, published 2006-02-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210528185642/https://www.federalregister.gov/documents/2006/02/01/E6-1292/native-american-graves-protection-and-repatriation-review-committee-nomination-solicitation
+  captured: '2021-05-28'

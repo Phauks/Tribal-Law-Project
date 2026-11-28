@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 29921, published 2017-06-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210328104242/https://www.federalregister.gov/documents/2017/06/30/2017-13743/notice-of-inventory-completion-oberlin-college-oberlin-oh
+  captured: '2021-03-28'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 16062, published 2012-03-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20201108043619/https://www.federalregister.gov/documents/2012/03/19/2012-6566/advisory-board-for-exceptional-children
+  captured: '2020-11-08'

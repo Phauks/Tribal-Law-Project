@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 63883, published 2000-10-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250219133829/https://www.federalregister.gov/documents/2000/10/25/00-27369/notice-of-intent-to-repatriate-cultural-items-in-the-possession-of-the-alaska-state-office-bureau-of
+  captured: '2025-02-19'

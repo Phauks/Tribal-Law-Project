@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 29924, published 2017-06-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208063824/https://www.federalregister.gov/documents/2017/06/30/2017-13736/notice-of-inventory-completion-us-department-of-defense-department-of-the-air-force-air-education
+  captured: '2025-02-08'

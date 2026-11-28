@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 54241, published 2022-09-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203160739/https://www.federalregister.gov/documents/2022/09/02/2022-19018/notice-of-availability-of-the-final-programmatic-environmental-impact-statement-for-the-navajo
+  captured: '2025-02-03'

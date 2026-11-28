@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'GovInfo metadata only: CRPT-105hrpt783'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260727143350/https://www.govinfo.gov/app/details/CRPT-105hrpt783/
+  captured: '2026-07-27'

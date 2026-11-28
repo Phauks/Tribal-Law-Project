@@ -83,3 +83,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 17732, published 2001-04-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516165340/https://www.federalregister.gov/documents/2001/04/03/01-8169/notice-of-inventory-completion-for-human-remains-and-associated-funerary-objects-in-the-possession
+  captured: '2017-05-16'

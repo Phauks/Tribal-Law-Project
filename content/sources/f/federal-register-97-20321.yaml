@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 41412, published 1997-08-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216230053/https://www.federalregister.gov/documents/1997/08/01/97-20321/notice-of-inventory-completion-for-native-american-remains-and-associated-funerary-objects-from
+  captured: '2025-02-16'

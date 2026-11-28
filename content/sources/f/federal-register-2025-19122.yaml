@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 47326, published 2025-10-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812170911/https://www.federalregister.gov/documents/2025/10/01/2025-19122/notice-of-intended-repatriation-california-state-university-monterey-bay-seaside-ca
+  captured: '2026-08-12'

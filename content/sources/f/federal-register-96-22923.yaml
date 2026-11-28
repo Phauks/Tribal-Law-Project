@@ -52,3 +52,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 61 FR 47788, published 1996-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215024105/https://www.federalregister.gov/documents/1996/09/10/96-22923/notice-of-interdepartmental-agreement-on-indian-housing-program
+  captured: '2025-02-15'

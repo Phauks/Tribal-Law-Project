@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 23499, published 2012-04-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250221202556/https://www.federalregister.gov/documents/2012/04/19/2012-9439/notice-of-intent-to-repatriate-cultural-items-museum-of-indian-arts-and-culturelaboratory-of
+  captured: '2025-02-21'

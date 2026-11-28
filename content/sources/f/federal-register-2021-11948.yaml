@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 30479, published 2021-06-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204045940/https://www.federalregister.gov/documents/2021/06/08/2021-11948/notice-of-intent-to-repatriate-cultural-items-mcclure-archives-and-university-museum-university-of
+  captured: '2025-02-04'

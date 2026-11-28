@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 36673, published 2010-06-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250802233850/https://www.federalregister.gov/documents/2010/06/28/2010-15576/notice-of-inventory-completion-public-museum-of-west-michigan-grand-rapids-mi
+  captured: '2025-08-02'

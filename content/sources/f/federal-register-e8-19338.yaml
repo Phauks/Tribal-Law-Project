@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 49476, published 2008-08-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212155402/https://www.federalregister.gov/documents/2008/08/21/E8-19338/notice-of-intent-to-repatriate-a-cultural-item-horner-collection-oregon-state-university-corvallis
+  captured: '2025-02-12'

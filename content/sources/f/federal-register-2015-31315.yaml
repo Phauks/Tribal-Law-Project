@@ -83,3 +83,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 77001, published 2015-12-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207232451/https://www.federalregister.gov/documents/2015/12/11/2015-31315/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-glen-canyon
+  captured: '2025-02-07'

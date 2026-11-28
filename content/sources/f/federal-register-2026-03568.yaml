@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 8514, published 2026-02-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260222161413/https://www.federalregister.gov/documents/2026/02/23/2026-03568/notice-of-intended-repatriation-illinois-state-museum-springfield-il
+  captured: '2026-02-22'

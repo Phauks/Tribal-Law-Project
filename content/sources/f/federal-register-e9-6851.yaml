@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 13455, published 2009-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208021511/https://www.federalregister.gov/documents/2009/03/27/E9-6851/tulalip-liquor-ordinance
+  captured: '2025-02-08'

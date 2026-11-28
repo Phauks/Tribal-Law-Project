@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 71836, published 2015-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204100519/https://www.federalregister.gov/documents/2015/11/17/2015-29360/notice-of-intent-to-repatriate-cultural-items-dallas-museum-of-art-dallas-tx
+  captured: '2025-02-04'

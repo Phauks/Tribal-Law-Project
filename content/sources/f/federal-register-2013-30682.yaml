@@ -114,3 +114,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 78380, published 2013-12-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204131717/https://www.federalregister.gov/documents/2013/12/26/2013-30682/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-fort-bowie
+  captured: '2025-02-04'

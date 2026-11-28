@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 49673, published 2020-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202232718/https://www.federalregister.gov/documents/2020/08/14/2020-17750/liquor-control-statute-of-the-ione-band-of-miwok-indians
+  captured: '2025-02-02'

@@ -51,3 +51,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2009/11/09/E9-27142/tribal-consultation'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260930141742/https://www.federalregister.gov/documents/2009/11/09/E9-27142/tribal-consultation
+  captured: '2026-09-30'

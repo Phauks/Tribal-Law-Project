@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 48972, published 2005-08-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207175537/https://www.federalregister.gov/documents/2005/08/22/05-16599/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-greenville-rancherias
+  captured: '2025-02-07'

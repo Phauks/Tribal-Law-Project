@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 53733, published 2014-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208080211/https://www.federalregister.gov/documents/2014/09/10/2014-21486/notice-of-inventory-completion-stephen-f-austin-state-university-nacogdoches-tx
+  captured: '2025-02-08'

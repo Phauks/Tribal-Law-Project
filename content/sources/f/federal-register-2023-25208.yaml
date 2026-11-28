@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 78384, published 2023-11-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250413094049/https://www.federalregister.gov/documents/2023/11/15/2023-25208/notice-of-inventory-completion-the-university-of-kansas-lawrence-ks
+  captured: '2025-04-13'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 61357, published 2022-10-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204123823/https://www.federalregister.gov/documents/2022/10/11/2022-22040/notice-of-inventory-completion-northern-arizona-university-department-of-anthropology-flagstaff-az
+  captured: '2025-02-04'

@@ -59,3 +59,7 @@ review:
   - check: decided
     result: agree
     detail: index 1996-01-29; cover sheet 1996-01-29; decision 1996-01-29
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260325011341/https://www.oha.doi.gov/IBIA/IbiaDecisions/29ibia/29ibia053.PDF
+  captured: '2026-03-25'

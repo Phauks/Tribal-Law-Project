@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 47170, published 2023-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611194127/https://www.federalregister.gov/documents/2023/07/21/2023-15524/notice-of-intent-to-repatriate-cultural-items-lyon-county-historical-society-marshall-mn
+  captured: '2025-06-11'

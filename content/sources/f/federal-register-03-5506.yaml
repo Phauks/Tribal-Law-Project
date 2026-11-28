@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 11135, published 2003-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207160651/https://www.federalregister.gov/documents/2003/03/07/03-5506/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2025-02-07'

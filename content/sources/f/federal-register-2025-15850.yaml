@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 40645, published 2025-08-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250825221334/https://www.federalregister.gov/documents/2025/08/20/2025-15850/notice-of-inventory-completion-the-newark-museum-of-art-newark-nj
+  captured: '2025-08-25'

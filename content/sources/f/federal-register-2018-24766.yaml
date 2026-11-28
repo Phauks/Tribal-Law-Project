@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 56872, published 2018-11-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260416101334/https://www.federalregister.gov/documents/2018/11/14/2018-24766/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-idaho-state
+  captured: '2026-04-16'

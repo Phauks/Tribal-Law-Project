@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 36331, published 2014-06-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217065419/https://www.federalregister.gov/documents/2014/06/26/2014-14966/renewal-of-agency-information-collection-for-application-for-job-placement-and-training-services
+  captured: '2025-02-17'

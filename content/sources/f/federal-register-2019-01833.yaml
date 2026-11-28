@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 3226, published 2019-02-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250303014355/https://www.federalregister.gov/documents/2019/02/11/2019-01833/proclaiming-certain-lands-as-reservation-for-the-kickapoo-traditional-tribe-of-texas
+  captured: '2025-03-03'

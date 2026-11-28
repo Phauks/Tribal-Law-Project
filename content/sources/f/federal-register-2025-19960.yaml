@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 51400, published 2025-11-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251116053310/https://www.federalregister.gov/documents/2025/11/17/2025-19960/notice-of-inventory-completion-bixby-memorial-free-library-vergennes-vt
+  captured: '2025-11-16'

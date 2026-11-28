@@ -18,7 +18,10 @@ citation:
       - 27
 original_link: https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265/Section15D
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260512055634/https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265/Section15D
+  captured: '2026-05-12'
 history:
   status: live
   last_checked: '2026-11-27'

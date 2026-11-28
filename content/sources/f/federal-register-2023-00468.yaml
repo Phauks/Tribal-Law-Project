@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 2127, published 2023-01-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250414175502/https://www.federalregister.gov/documents/2023/01/12/2023-00468/notice-of-inventory-completion-south-carolina-institute-of-archaeology-and-anthropology-university
+  captured: '2025-04-14'

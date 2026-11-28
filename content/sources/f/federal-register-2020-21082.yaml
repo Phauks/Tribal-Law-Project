@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 60265, published 2020-09-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204094630/https://www.federalregister.gov/documents/2020/09/24/2020-21082/notice-of-intent-to-repatriate-cultural-items-eastern-washington-state-historical-societynorthwest
+  captured: '2025-02-04'

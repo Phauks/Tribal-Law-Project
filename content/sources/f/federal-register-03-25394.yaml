@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 57705, published 2003-10-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207160515/https://www.federalregister.gov/documents/2003/10/06/03-25394/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-mohawk-mountain
+  captured: '2025-02-07'

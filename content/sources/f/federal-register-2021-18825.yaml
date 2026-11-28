@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 49048, published 2021-09-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250819201645/https://www.federalregister.gov/documents/2021/09/01/2021-18825/hearth-act-approval-of-title-xvi-pueblo-of-jemez-tribal-leasing-code
+  captured: '2025-08-19'

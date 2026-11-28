@@ -51,3 +51,7 @@ review:
   - check: listing
     result: missing
     detail: Only the Bureau of Indian Affairs' list was read, not the regulations themselves
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260930030408/https://www.bia.gov/sites/default/files/dup/assets/bia/HEARTH%20Act%20Approval%20of%20Catawba%20Indian%20Nation.PDF
+  captured: '2026-09-30'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 19667, published 2023-04-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204125117/https://www.federalregister.gov/documents/2023/04/03/2023-06874/hearth-act-approval-of-lac-courte-oreilles-band-of-lake-superior-chippewa-indians-of-wisconsin
+  captured: '2025-02-04'

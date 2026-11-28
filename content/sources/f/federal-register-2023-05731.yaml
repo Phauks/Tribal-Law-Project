@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 17014, published 2023-03-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204174104/https://www.federalregister.gov/documents/2023/03/21/2023-05731/notice-of-inventory-completion-university-of-tennessee-mcclung-museum-of-natural-history-and-culture
+  captured: '2025-02-04'

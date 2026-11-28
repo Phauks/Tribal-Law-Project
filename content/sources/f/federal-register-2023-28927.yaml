@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 399, published 2024-01-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207015303/https://www.federalregister.gov/documents/2024/01/03/2023-28927/notice-of-intent-to-repatriate-cultural-items-yale-university-art-gallery-new-haven-ct
+  captured: '2025-02-07'

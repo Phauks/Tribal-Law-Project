@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 30664, published 2025-07-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260915024456/https://www.federalregister.gov/documents/2025/07/10/2025-12832/notice-of-inventory-completion-antelope-valley-college-lancaster-ca
+  captured: '2026-09-15'

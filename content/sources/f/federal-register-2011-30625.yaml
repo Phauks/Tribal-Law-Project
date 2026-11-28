@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 73664, published 2011-11-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213124559/https://www.federalregister.gov/documents/2011/11/29/2011-30625/notice-of-inventory-completion-washington-state-university-museum-of-anthropology-pullman-wa
+  captured: '2025-02-13'

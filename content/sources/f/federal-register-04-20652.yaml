@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 55460, published 2004-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204133754/https://www.federalregister.gov/documents/2004/09/14/04-20652/notice-of-inventory-completion-springfield-science-museum-springfield-ma-correction
+  captured: '2025-02-04'

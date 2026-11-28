@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 28892, published 1997-05-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210523010759/https://www.federalregister.gov/documents/1997/05/28/97-13949/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-master-development
+  captured: '2021-05-23'

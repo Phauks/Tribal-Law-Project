@@ -64,3 +64,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 53469, published 2006-09-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208171912/https://www.federalregister.gov/documents/2006/09/11/E6-14932/notice-of-inventory-completion-museum-of-northern-arizona-flagstaff-az
+  captured: '2025-02-08'

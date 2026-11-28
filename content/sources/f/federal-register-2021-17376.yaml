@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 44741, published 2021-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204161635/https://www.federalregister.gov/documents/2021/08/13/2021-17376/indian-child-welfare-act-icwa-grants-to-indian-organizations-for-off-reservation-indian-child-and
+  captured: '2025-02-04'

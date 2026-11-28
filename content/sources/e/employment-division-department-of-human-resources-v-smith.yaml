@@ -34,6 +34,10 @@ opinions:
     page: 674
 original_link: https://www.loc.gov/item/usrep485660/
 retrieved: '2026-11-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20241206211048/https://www.loc.gov/item/usrep485660/
+  captured: '2024-12-06'
 history:
   status: live
   last_checked: '2026-11-26'

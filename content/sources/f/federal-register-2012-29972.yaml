@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 74689, published 2012-12-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214043107/https://www.federalregister.gov/documents/2012/12/17/2012-29972/land-acquisitions-tonkawa-tribe-of-oklahoma
+  captured: '2025-02-14'

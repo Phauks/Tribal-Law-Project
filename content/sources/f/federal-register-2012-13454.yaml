@@ -67,3 +67,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 32982, published 2012-06-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210525060630/https://www.federalregister.gov/documents/2012/06/04/2012-13454/notice-of-inventory-completion-tennessee-valley-authority-and-the-university-of-tennessee-mcclung
+  captured: '2021-05-25'

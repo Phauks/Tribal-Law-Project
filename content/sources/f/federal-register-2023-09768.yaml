@@ -75,3 +75,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 29943, published 2023-05-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204232725/https://www.federalregister.gov/documents/2023/05/09/2023-09768/notice-of-inventory-completion-karshner-museum-and-center-for-culture-and-arts-puyallup-wa
+  captured: '2025-02-04'

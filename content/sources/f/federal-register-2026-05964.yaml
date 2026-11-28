@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 14874, published 2026-03-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260720011727/https://www.federalregister.gov/documents/2026/03/27/2026-05964/notice-of-inventory-completion-sedav-vaaki-museum-city-of-phoenix-phoenix-az
+  captured: '2026-07-20'

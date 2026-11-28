@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 13751, published 2022-03-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217094948/https://www.federalregister.gov/documents/2022/03/10/2022-05063/notice-of-inventory-completion-university-of-southern-mississippi-hattiesburg-ms
+  captured: '2025-02-17'

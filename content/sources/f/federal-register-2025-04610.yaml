@@ -106,3 +106,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12778, published 2025-03-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611184409/https://www.federalregister.gov/documents/2025/03/19/2025-04610/notice-of-inventory-completion-school-district-of-philadelphia-philadelphia-pa
+  captured: '2025-06-11'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 53467, published 2006-09-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208165151/https://www.federalregister.gov/documents/2006/09/11/E6-14929/notice-of-inventory-completion-kansas-state-university-manhattan-ks
+  captured: '2025-02-08'

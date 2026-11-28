@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 48437, published 2016-07-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250507062748/https://www.federalregister.gov/documents/2016/07/25/2016-17494/request-for-public-comment-60-day-proposed-information-collection-environmental-health-assessment-of
+  captured: '2025-05-07'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 39960, published 2010-07-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260122232533/https://www.federalregister.gov/documents/2010/07/13/2010-17003/alcoholic-beverage-control-ordinance-salt-river-pima-maricopa-indian-community-srpmic
+  captured: '2026-01-22'

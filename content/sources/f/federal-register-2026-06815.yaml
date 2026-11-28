@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 17992, published 2026-04-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260718151842/https://www.federalregister.gov/documents/2026/04/09/2026-06815/notice-of-intended-repatriation-us-department-of-the-interior-national-park-service-channel-islands
+  captured: '2026-07-18'

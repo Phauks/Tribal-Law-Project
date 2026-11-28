@@ -60,3 +60,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12357, published 2025-03-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601025309/https://www.federalregister.gov/documents/2025/03/17/2025-04199/notice-of-intended-disposition-us-department-of-defense-navy-naval-weapons-station-seal-beach
+  captured: '2025-06-01'

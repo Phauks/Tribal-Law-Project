@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 64 FR 38164, published 1999-07-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250211221322/https://www.federalregister.gov/documents/1999/07/15/99-17903/administrative-practice-and-procedure-testimony-information-response-to-subpoena
+  captured: '2025-02-11'

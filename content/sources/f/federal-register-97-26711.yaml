@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 52724, published 1997-10-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250227100043/https://www.federalregister.gov/documents/1997/10/09/97-26711/alternate-method-of-acquisition-for-health-care-services-authorized-by-the-federal-acquisition
+  captured: '2025-02-27'

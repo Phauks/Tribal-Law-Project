@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 645, published 2020-01-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206065031/https://www.federalregister.gov/documents/2020/01/07/2019-27997/list-of-courts-of-indian-offenses-future-publication-of-updates
+  captured: '2025-02-06'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 14390, published 2019-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216084315/https://www.federalregister.gov/documents/2019/04/10/2019-07092/hearth-act-approval-of-mississippi-band-of-choctaw-indians-regulations
+  captured: '2025-02-16'

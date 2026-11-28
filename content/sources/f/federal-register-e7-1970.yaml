@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 5736, published 2007-02-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210415074324/https://www.federalregister.gov/documents/2007/02/07/E7-1970/notice-of-inventory-completion-central-washington-university-department-of-anthropology-and-museum
+  captured: '2021-04-15'

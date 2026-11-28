@@ -46,3 +46,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/petitions-in-process/butte-tribe-bayou-bourbeaux; it gives no year'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812211012/https://www.bia.gov/sites/default/files/media_document/402_tap1_2024_10_10_4.pdf
+  captured: '2026-08-12'

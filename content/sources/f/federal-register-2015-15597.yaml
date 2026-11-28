@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 36571, published 2015-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210329013608/https://www.federalregister.gov/documents/2015/06/25/2015-15597/hearth-act-approval-of-dry-creek-rancheria-band-of-pomo-indians-regulations
+  captured: '2021-03-29'

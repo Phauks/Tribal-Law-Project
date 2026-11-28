@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 33734, published 2021-06-25'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240809215918/https://www.federalregister.gov/documents/2021/06/25/2021-13510/notice-of-inventory-completion-oregon-state-university-corvallis-or
+  captured: '2024-08-09'

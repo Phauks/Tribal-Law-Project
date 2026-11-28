@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 42683, published 2009-08-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418170054/https://www.federalregister.gov/documents/2009/08/24/E9-20285/proposed-finding-against-acknowledgment-of-the-brothertown-indian-nation
+  captured: '2026-04-18'

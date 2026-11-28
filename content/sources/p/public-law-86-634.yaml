@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-74/STATUTE-74-Pg469
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127090019/https://www.govinfo.gov/app/details/STATUTE-74/STATUTE-74-Pg469
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-74/STATUTE-74-Pg469.pdf
   checksum: 99fb492f5c686b225d65345229c6f1400f77bf931cbd54994654bd4aa6129a47

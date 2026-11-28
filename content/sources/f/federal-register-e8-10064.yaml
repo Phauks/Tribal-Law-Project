@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 25766, published 2008-05-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206013820/https://www.federalregister.gov/documents/2008/05/07/E8-10064/land-acquisitions-federated-indians-of-graton-rancheria-california
+  captured: '2025-02-06'

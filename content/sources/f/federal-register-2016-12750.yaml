@@ -86,3 +86,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 35051, published 2016-06-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251206082538/https://www.federalregister.gov/documents/2016/06/01/2016-12750/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-canyon-de-chelly
+  captured: '2025-12-06'

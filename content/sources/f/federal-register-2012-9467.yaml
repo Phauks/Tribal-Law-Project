@@ -87,3 +87,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 23501, published 2012-04-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260812184825/https://www.federalregister.gov/documents/2012/04/19/2012-9467/notice-of-inventory-completion-sheboygan-county-historical-museum-sheboygan-wi
+  captured: '2026-08-12'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 38220, published 2009-07-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201235408/https://www.federalregister.gov/documents/2009/07/31/E9-18294/kaw-nation-alcohol-control-ordinance
+  captured: '2025-02-01'

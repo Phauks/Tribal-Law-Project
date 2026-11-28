@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 21847, published 2026-04-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260423080553/https://www.federalregister.gov/documents/2026/04/23/2026-07940/notice-of-intended-repatriation-miami-university-oxford-oh
+  captured: '2026-04-23'

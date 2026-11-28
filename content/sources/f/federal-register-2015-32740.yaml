@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 81353, published 2015-12-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204084600/https://www.federalregister.gov/documents/2015/12/29/2015-32740/proclaiming-certain-lands-as-reservation-for-the-tonto-apache-tribe-of-arizona
+  captured: '2025-02-04'

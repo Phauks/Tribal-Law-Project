@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 44596, published 2013-07-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260203020504/https://www.federalregister.gov/documents/2013/07/24/2013-17716/notice-of-inventory-completion-state-historical-society-of-wisconsin-madison-wi
+  captured: '2026-02-03'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 37109, published 2017-08-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216183220/https://www.federalregister.gov/documents/2017/08/08/2017-16623/notice-of-inventory-completion-tennessee-department-of-environment-and-conservation-division-of
+  captured: '2025-02-16'

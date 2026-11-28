@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 16018, published 2024-03-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215194915/https://www.federalregister.gov/documents/2024/03/06/2024-04666/notice-of-inventory-completion-university-of-california-berkeley-berkeley-ca
+  captured: '2025-02-15'

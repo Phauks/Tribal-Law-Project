@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 14057, published 2011-03-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204211550/https://www.federalregister.gov/documents/2011/03/15/2011-5865/notice-of-inventory-completion-university-of-wyoming-anthropology-department-human-remains
+  captured: '2025-02-04'

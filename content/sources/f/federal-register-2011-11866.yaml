@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 28079, published 2011-05-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202000455/https://www.federalregister.gov/documents/2011/05/13/2011-11866/notice-of-intent-to-repatriate-cultural-items-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2025-02-02'

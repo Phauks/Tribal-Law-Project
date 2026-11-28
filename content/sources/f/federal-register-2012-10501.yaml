@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 25737, published 2012-05-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210418132445/https://www.federalregister.gov/documents/2012/05/01/2012-10501/notice-of-intent-to-repatriate-cultural-items-arizona-state-museum-university-of-arizona-tucson-az
+  captured: '2021-04-18'

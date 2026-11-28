@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 63671, published 2018-12-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209024138/https://www.federalregister.gov/documents/2018/12/11/2018-26782/land-acquisitions-the-dry-creek-rancheria-band-of-pomo-indians-california
+  captured: '2025-02-09'

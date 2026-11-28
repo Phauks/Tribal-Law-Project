@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 63347, published 2006-10-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208140344/https://www.federalregister.gov/documents/2006/10/30/E6-18184/proclaiming-certain-lands-as-reservation-for-the-snoqualmie-indian-tribe-of-washington
+  captured: '2025-02-08'

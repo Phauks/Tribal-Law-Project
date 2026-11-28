@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 16727, published 2026-04-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260714043301/https://www.federalregister.gov/documents/2026/04/02/2026-06336/notice-of-inventory-completion-us-department-of-agriculture-forest-service-mark-twain-national
+  captured: '2026-07-14'

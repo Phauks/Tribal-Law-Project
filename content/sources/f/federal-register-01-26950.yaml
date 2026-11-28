@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 54273, published 2001-10-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210511054624/https://www.federalregister.gov/documents/2001/10/26/01-26950/notice-of-availability-of-the-draft-environmental-impact-statement-for-the-proposed-truckee-river
+  captured: '2021-05-11'

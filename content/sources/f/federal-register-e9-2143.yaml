@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 5855, published 2009-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210523102258/https://www.federalregister.gov/documents/2009/02/02/E9-2143/notice-of-inventory-completion-us-department-of-agriculture-forest-service-santa-fe-nm-and-maxwell
+  captured: '2021-05-23'

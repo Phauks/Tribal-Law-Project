@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 68188, published 2024-08-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251206095727/https://www.federalregister.gov/documents/2024/08/23/2024-18963/notice-of-intended-repatriation-california-department-of-parks-and-recreation-sacramento-ca
+  captured: '2025-12-06'

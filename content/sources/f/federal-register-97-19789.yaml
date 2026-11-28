@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 40373, published 1997-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250221011020/https://www.federalregister.gov/documents/1997/07/28/97-19789/notice-of-intent-to-repatriate-cultural-items-from-jackson-county-ks-in-the-possession-of-the-kansas
+  captured: '2025-02-21'

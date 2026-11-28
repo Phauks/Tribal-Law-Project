@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 30314, published 2016-05-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205012141/https://www.federalregister.gov/documents/2016/05/16/2016-11545/tribal-management-grant-program-correction
+  captured: '2025-02-05'

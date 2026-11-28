@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 11140, published 2003-03-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207212304/https://www.federalregister.gov/documents/2003/03/07/03-5511/notice-of-intent-to-repatriate-cultural-items-springfield-science-museum-springfield-ma
+  captured: '2025-02-07'

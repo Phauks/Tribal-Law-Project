@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 50186, published 2003-08-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20191214233200/https://www.federalregister.gov/documents/2003/08/20/03-21337/notice-of-inventory-completion-the-university-of-montana-missoula-mt-and-us-department-of-the
+  captured: '2019-12-14'

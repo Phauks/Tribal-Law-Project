@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 42102, published 2009-08-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213220058/https://www.federalregister.gov/documents/2009/08/20/E9-19977/notice-of-inventory-completion-alaska-state-office-bureau-of-land-management-anchorage-ak-alutiiq
+  captured: '2025-02-13'

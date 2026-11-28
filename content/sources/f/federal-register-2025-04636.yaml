@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12772, published 2025-03-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601043414/https://www.federalregister.gov/documents/2025/03/19/2025-04636/notice-of-inventory-completion-university-of-tennessee-mcclung-museum-of-natural-history-and-culture
+  captured: '2025-06-01'

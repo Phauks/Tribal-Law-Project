@@ -105,3 +105,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 17483, published 2015-04-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210328182442/https://www.federalregister.gov/documents/2015/04/01/2015-07417/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-western
+  captured: '2021-03-28'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 15802, published 2012-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204235017/https://www.federalregister.gov/documents/2012/03/16/2012-6322/notice-of-inventory-completion-central-washington-university-department-of-anthropology-ellensburg
+  captured: '2025-02-04'

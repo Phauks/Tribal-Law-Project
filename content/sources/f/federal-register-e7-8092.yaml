@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 21039, published 2007-04-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250221062612/https://www.federalregister.gov/documents/2007/04/27/E7-8092/kiowa-indian-tribe-of-oklahoma-liquor-control-ordinance-of-2006
+  captured: '2025-02-21'

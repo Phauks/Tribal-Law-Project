@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Commission''s table was read: https://www.nigc.gov/office-of-chief-of-staff/compliance/bulletins/'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260513030958/https://www.nigc.gov/wp-content/uploads/2025/02/2006-1.pdf
+  captured: '2026-05-13'

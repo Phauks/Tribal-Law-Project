@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 51358, published 2024-06-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524172629/https://www.federalregister.gov/documents/2024/06/17/2024-13247/notice-of-intended-repatriation-chicago-historical-society-chicago-il
+  captured: '2025-05-24'

@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 11077, published 2000-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210418114537/https://www.federalregister.gov/documents/2000/03/01/00-4826/notice-of-inventory-completion-for-native-american-human-remains-from-georgia-in-the-possession-of
+  captured: '2021-04-18'

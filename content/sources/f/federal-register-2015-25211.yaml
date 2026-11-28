@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 60158, published 2015-10-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204154811/https://www.federalregister.gov/documents/2015/10/05/2015-25211/notice-to-propose-the-redesignation-of-the-service-delivery-area-for-the-aquinnah-wampanoag-indian
+  captured: '2025-02-04'

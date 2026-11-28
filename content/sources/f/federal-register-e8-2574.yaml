@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 8055, published 2008-02-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206124906/https://www.federalregister.gov/documents/2008/02/12/E8-2574/notice-of-deadline-for-submitting-completed-applications-to-begin-participation-in-the-tribal
+  captured: '2025-02-06'

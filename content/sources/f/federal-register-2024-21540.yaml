@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 77190, published 2024-09-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524160741/https://www.federalregister.gov/documents/2024/09/20/2024-21540/notice-of-intended-disposition-us-department-of-agriculture-forest-service-cherokee-national-forest
+  captured: '2025-05-24'

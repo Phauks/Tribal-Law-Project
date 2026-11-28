@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 69338, published 2009-12-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201232512/https://www.federalregister.gov/documents/2009/12/31/E9-30947/request-for-public-comment-30-day-proposed-information-collection-application-for-participation-in
+  captured: '2025-02-01'

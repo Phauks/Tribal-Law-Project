@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 5998, published 2025-01-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202220059/https://www.federalregister.gov/documents/2025/01/17/2025-01168/notice-of-intended-disposition-us-department-of-agriculture-forest-service-apache-sitgreaves
+  captured: '2025-02-02'

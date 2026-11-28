@@ -76,3 +76,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 7114, published 2019-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202193533/https://www.federalregister.gov/documents/2019/03/01/2019-03580/notice-of-inventory-completion-university-of-michigan-ann-arbor-mi
+  captured: '2025-02-02'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 69300, published 1998-12-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210523091239/https://www.federalregister.gov/documents/1998/12/16/98-33228/health-professions-preparatory-pregraduate-and-indian-health-professions-scholarship-programs
+  captured: '2021-05-23'

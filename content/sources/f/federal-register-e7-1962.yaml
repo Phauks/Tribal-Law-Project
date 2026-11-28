@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 72 FR 5744, published 2007-02-07'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250217170441/https://www.federalregister.gov/documents/2007/02/07/E7-1962/notice-of-intent-to-repatriate-a-cultural-item-state-historical-society-of-wisconsin-madison-wi
+  captured: '2025-02-17'

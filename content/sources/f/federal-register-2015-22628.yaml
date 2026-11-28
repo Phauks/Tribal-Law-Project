@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 54310, published 2015-09-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202045741/https://www.federalregister.gov/documents/2015/09/09/2015-22628/pueblo-of-santa-ana-title-10-licensing-and-regulation-chapter-1-liquor-code-chapter
+  captured: '2025-02-02'

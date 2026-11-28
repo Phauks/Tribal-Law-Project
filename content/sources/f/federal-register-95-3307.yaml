@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 60 FR 8130, published 1995-02-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214022814/https://www.federalregister.gov/documents/1995/02/10/95-3307/wyandot-nation-of-kansas-receipt-of-petition-for-federal-acknowledgment-of-existence-as-an-indian
+  captured: '2025-02-14'

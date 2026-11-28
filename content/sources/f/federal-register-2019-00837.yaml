@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 84 FR 1488, published 2019-02-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207023519/https://www.federalregister.gov/documents/2019/02/04/2019-00837/notice-of-inventory-completion-us-fish-and-wildlife-service-anchorage-ak-and-the-university-of
+  captured: '2025-02-07'

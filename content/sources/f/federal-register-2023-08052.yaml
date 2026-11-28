@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 23460, published 2023-04-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201215322/https://www.federalregister.gov/documents/2023/04/17/2023-08052/notice-of-inventory-completion-indiana-university-of-pennsylvania-indiana-pa
+  captured: '2025-02-01'

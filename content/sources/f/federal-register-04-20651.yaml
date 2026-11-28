@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 55457, published 2004-09-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204142227/https://www.federalregister.gov/documents/2004/09/14/04-20651/notice-of-inventory-completion-us-department-of-agriculture-forest-service-angeles-national-forest
+  captured: '2025-02-04'

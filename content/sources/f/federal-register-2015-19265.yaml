@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 46997, published 2015-08-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210424190923/https://www.federalregister.gov/documents/2015/08/06/2015-19265/notice-of-intent-to-repatriate-cultural-items-heard-museum-phoenix-az
+  captured: '2021-04-24'

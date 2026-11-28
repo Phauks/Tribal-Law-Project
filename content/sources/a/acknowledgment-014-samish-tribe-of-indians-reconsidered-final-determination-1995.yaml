@@ -49,3 +49,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the petition''s page was read: https://www.bia.gov/as-ia/ofa/resolved/samish-tribe-indians'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260418102505/https://www.bia.gov/sites/default/files/media_document/014_rfd_rpt.pdf
+  captured: '2026-04-18'

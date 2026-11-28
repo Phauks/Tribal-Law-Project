@@ -22,7 +22,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-87/STATUTE-87-Pg466
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251117111843/https://www.govinfo.gov/app/details/STATUTE-87/STATUTE-87-Pg466
+  captured: '2025-11-17'
 file:
   storage_key: govinfo/STATUTE-87/STATUTE-87-Pg466.pdf
   checksum: 6278c649e29cc6e6e55f16073ad4aa5918fdce28a147b881e8b04e5a7e80f05e

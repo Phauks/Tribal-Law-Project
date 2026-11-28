@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 21410, published 2013-04-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260204030814/https://www.federalregister.gov/documents/2013/04/10/2013-08369/native-american-graves-protection-and-repatriation-review-committee-meetings
+  captured: '2026-02-04'

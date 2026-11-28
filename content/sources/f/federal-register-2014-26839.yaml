@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 68640, published 2014-11-18'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201195711/https://www.federalregister.gov/documents/2014/11/18/2014-26839/curation-of-federally-owned-and-administered-archeological-collections
+  captured: '2025-02-01'

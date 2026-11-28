@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 67256, published 2008-11-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251206040859/https://www.federalregister.gov/documents/2008/11/13/E8-26487/indian-trust-management-reform
+  captured: '2025-12-06'

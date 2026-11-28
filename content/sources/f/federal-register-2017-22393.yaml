@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 82 FR 48205, published 2017-10-17'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260221172220/https://www.federalregister.gov/documents/2017/10/17/2017-22393/freedom-of-information-act-procedures
+  captured: '2026-02-21'

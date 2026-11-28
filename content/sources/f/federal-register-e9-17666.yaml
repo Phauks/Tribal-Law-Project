@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 38467, published 2009-08-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208065246/https://www.federalregister.gov/documents/2009/08/03/E9-17666/notice-of-inventory-completion-st-lawrence-university-department-of-anthropology-canton-ny
+  captured: '2025-02-08'

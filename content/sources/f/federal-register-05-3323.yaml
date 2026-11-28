@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 70 FR 8634, published 2005-02-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210413110949/https://www.federalregister.gov/documents/2005/02/22/05-3323/notice-of-inventory-completion-university-of-missouri-columbia-museum-of-anthropology-columbia-mo
+  captured: '2021-04-13'

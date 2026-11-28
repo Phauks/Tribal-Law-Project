@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 75619, published 2003-12-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209005427/https://www.federalregister.gov/documents/2003/12/31/03-32043/cheyenne-and-arapaho-tribes-of-oklahoma-alcohol-beverage-control-ordinance
+  captured: '2025-02-09'

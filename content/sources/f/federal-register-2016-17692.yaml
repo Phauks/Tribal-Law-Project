@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 49261, published 2016-07-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210402192318/https://www.federalregister.gov/documents/2016/07/27/2016-17692/native-american-graves-protection-and-repatriation-review-committee-notice-of-nomination
+  captured: '2021-04-02'

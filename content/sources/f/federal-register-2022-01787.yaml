@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 4641, published 2022-01-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204194802/https://www.federalregister.gov/documents/2022/01/28/2022-01787/ponca-tribe-of-nebraska-liquor-control-ordinance
+  captured: '2025-02-04'

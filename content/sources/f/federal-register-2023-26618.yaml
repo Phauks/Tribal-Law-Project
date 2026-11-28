@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 84352, published 2023-12-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611190000/https://www.federalregister.gov/documents/2023/12/05/2023-26618/notice-of-inventory-completion-los-angeles-county-natural-history-museum-los-angeles-ca
+  captured: '2025-06-11'

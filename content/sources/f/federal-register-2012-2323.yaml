@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 77 FR 5265, published 2012-02-02'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260805003932/https://www.federalregister.gov/documents/2012/02/02/2012-2323/eastern-band-of-cherokee-indians-cherokee-code-chapter-18b-regulation-of-alcoholic-beverages
+  captured: '2026-08-05'

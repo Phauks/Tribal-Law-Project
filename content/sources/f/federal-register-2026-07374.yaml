@@ -73,3 +73,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 20487, published 2026-04-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260721072535/https://www.federalregister.gov/documents/2026/04/16/2026-07374/notice-of-inventory-completion-center-for-american-archeology-kampsville-il
+  captured: '2026-07-21'

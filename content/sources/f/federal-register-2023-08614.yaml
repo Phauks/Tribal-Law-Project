@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 24812, published 2023-04-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260511232422/https://www.federalregister.gov/documents/2023/04/24/2023-08614/produce-prescription-pilot-program?
+  captured: '2026-05-11'

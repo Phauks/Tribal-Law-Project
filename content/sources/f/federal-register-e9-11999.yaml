@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 24032, published 2009-05-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210426034914/https://www.federalregister.gov/documents/2009/05/22/E9-11999/notice-of-availability-of-the-draft-environmental-impact-statement-for-the-proposed-fee-to-trust
+  captured: '2021-04-26'

@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 31143, published 2008-05-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213075541/https://www.federalregister.gov/documents/2008/05/30/E8-12105/final-environmental-impact-statement-for-the-cowlitz-indian-tribes-proposed-15187-acre-fee-to-trust
+  captured: '2025-02-13'

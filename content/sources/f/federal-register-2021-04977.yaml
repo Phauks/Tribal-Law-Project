@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 13731, published 2021-03-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250526025020/https://www.federalregister.gov/documents/2021/03/10/2021-04977/notice-of-intent-to-repatriate-cultural-items-kentucky-museum-western-kentucky-university-bowling
+  captured: '2025-05-26'

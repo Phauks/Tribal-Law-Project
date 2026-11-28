@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 39634, published 2024-05-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260711123503/https://www.federalregister.gov/documents/2024/05/09/2024-10072/hearth-act-approval-of-nisqually-indian-tribe-residential-leasing-ordinance
+  captured: '2026-07-11'

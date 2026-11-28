@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 58609, published 2023-08-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202065735/https://www.federalregister.gov/documents/2023/08/28/2023-18506/notice-of-inventory-completion-california-state-university-sacramento-sacramento-ca
+  captured: '2025-02-02'

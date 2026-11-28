@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 19403, published 2001-04-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214072206/https://www.federalregister.gov/documents/2001/04/16/01-9382/acquisition-of-title-to-land-in-trust-delay-of-effective-date
+  captured: '2025-02-14'

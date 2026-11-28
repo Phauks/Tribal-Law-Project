@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 9427, published 2009-03-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208231701/https://www.federalregister.gov/documents/2009/03/04/E9-4668/native-american-graves-protection-and-repatriation-review-committee-findings-and-recommendations
+  captured: '2025-02-08'

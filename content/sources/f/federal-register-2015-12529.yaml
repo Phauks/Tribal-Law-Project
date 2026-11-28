@@ -103,3 +103,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 29735, published 2015-05-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210413131408/https://www.federalregister.gov/documents/2015/05/22/2015-12529/notice-of-inventory-completion-grand-valley-state-university-allendale-mi-correction
+  captured: '2021-04-13'

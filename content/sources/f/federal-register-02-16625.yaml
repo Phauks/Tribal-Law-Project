@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 44234, published 2002-07-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204051221/https://www.federalregister.gov/documents/2002/07/01/02-16625/final-determination-to-acknowledge-the-historical-eastern-pequot-tribe
+  captured: '2025-02-04'

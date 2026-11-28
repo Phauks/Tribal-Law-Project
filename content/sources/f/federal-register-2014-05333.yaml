@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 79 FR 14081, published 2014-03-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250209033451/https://www.federalregister.gov/documents/2014/03/12/2014-05333/native-american-graves-protection-and-repatriation-review-committee-meetings
+  captured: '2025-02-09'

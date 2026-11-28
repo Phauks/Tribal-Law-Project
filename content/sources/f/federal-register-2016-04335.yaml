@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 10475, published 2016-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201230838/https://www.federalregister.gov/documents/2016/03/01/2016-04335/financial-assistance-and-social-services-programs-burial-assistance
+  captured: '2025-02-01'

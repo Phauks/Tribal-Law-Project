@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 25918, published 2026-05-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260512094341/https://www.federalregister.gov/documents/2026/05/12/2026-09416/notice-of-inventory-completion-california-department-of-transportation-oakland-ca
+  captured: '2026-05-12'

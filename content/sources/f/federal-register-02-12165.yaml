@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 34726, published 2002-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201044829/https://www.federalregister.gov/documents/2002/05/15/02-12165/notice-of-proposed-information-collection-for-source-directory-publication
+  captured: '2025-02-01'

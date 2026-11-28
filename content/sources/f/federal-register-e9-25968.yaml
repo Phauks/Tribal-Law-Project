@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 55579, published 2009-10-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203025753/https://www.federalregister.gov/documents/2009/10/28/E9-25968/notice-of-inventory-completion-peabody-museum-of-archaeology-and-ethnology-harvard-university
+  captured: '2025-02-03'

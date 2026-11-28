@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 46595, published 2015-08-05'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204161444/https://www.federalregister.gov/documents/2015/08/05/2015-19238/notice-of-intent-to-repatriate-cultural-items-portland-art-museum-portland-or
+  captured: '2025-02-04'

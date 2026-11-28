@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://ksrevisor.gov/statutes/chapters/ch25/025_023_0009.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260809163432/http://www.ksrevisor.gov/statutes/chapters/ch25/025_023_0009.html
+  captured: '2026-08-09'
 history:
   status: live
   last_checked: '2026-11-27'

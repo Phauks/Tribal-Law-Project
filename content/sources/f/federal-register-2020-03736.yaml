@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 10349, published 2020-02-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202030654/https://www.federalregister.gov/documents/2020/02/24/2020-03736/procedures-for-federal-acknowledgment-of-alaska-native-entities
+  captured: '2025-02-02'

@@ -62,3 +62,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 83 FR 45653, published 2018-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206190029/https://www.federalregister.gov/documents/2018/09/10/2018-19540/notice-of-inventory-completion-alfred-w-bowers-laboratory-of-anthropology-university-of-idaho-moscow
+  captured: '2025-02-06'

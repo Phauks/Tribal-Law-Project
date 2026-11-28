@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 69 FR 8460, published 2004-02-24'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208202939/https://www.federalregister.gov/documents/2004/02/24/04-3867/native-american-research-centers-for-health-new-request-for-application-of-funds
+  captured: '2025-02-08'

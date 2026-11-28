@@ -66,3 +66,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 25278, published 2009-05-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204171144/https://www.federalregister.gov/documents/2009/05/27/E9-12259/notice-of-inventory-completion-california-state-department-of-transportation-sacramento-ca-and-san
+  captured: '2025-02-04'

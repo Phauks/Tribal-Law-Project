@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 40616, published 2021-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20240809160751/https://www.federalregister.gov/documents/2021/07/28/2021-15977/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for
+  captured: '2024-08-09'

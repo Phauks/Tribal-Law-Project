@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 29167, published 2026-05-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260519055258/https://www.federalregister.gov/documents/2026/05/19/2026-10027/notice-of-intended-disposition-us-department-of-agriculture-forest-service-chugach-national-forest
+  captured: '2026-05-19'

@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 2639, published 2024-01-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212130731/https://www.federalregister.gov/documents/2024/01/16/2024-00612/notice-of-intent-to-repatriate-cultural-items-amendment-university-of-pennsylvania-museum-of
+  captured: '2025-02-12'

@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 63 FR 43721, published 1998-08-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20170516182041/https://www.federalregister.gov/documents/1998/08/14/98-21885/notice-of-inventory-completion-for-associated-funerary-objects-in-the-possession-of-the-museum-of
+  captured: '2017-05-16'

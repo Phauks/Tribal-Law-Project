@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 12765, published 2025-03-19'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250601035342/https://www.federalregister.gov/documents/2025/03/19/2025-04458/notice-of-inventory-completion-museum-of-osteopathic-medicine-kirksville-mo
+  captured: '2025-06-01'

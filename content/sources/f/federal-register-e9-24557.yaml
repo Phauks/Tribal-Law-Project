@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 74 FR 52503, published 2009-10-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203162420/https://www.federalregister.gov/documents/2009/10/13/E9-24557/notice-of-inventory-completion-minnesota-indian-affairs-council-bemidji-mn
+  captured: '2025-02-03'

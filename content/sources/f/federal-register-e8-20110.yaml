@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 50991, published 2008-08-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207161040/https://www.federalregister.gov/documents/2008/08/29/E8-20110/notice-of-inventory-completion-central-washington-university-department-of-anthropology-ellensburg
+  captured: '2025-02-07'

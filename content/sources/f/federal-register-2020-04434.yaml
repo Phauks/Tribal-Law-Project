@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 12806, published 2020-03-04'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203174112/https://www.federalregister.gov/documents/2020/03/04/2020-04434/notice-of-approved-class-iii-tribal-gaming-ordinance
+  captured: '2025-02-03'

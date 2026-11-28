@@ -80,3 +80,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 66886, published 2023-09-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611175434/https://www.federalregister.gov/documents/2023/09/28/2023-21241/notice-of-inventory-completion-university-of-nevada-las-vegas-las-vegas-nv
+  captured: '2025-06-11'

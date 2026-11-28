@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 65927, published 2024-08-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202232143/https://www.federalregister.gov/documents/2024/08/13/2024-17980/notice-of-inventory-completion-new-york-state-museum-albany-ny
+  captured: '2025-02-02'

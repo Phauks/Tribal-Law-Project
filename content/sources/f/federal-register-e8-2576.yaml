@@ -71,3 +71,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 8357, published 2008-02-13'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250205073927/https://www.federalregister.gov/documents/2008/02/13/E8-2576/notice-of-inventory-completion-denver-museum-of-nature-and-science-denver-co
+  captured: '2025-02-05'

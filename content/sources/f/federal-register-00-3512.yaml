@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 65 FR 7431, published 2000-02-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204225530/https://www.federalregister.gov/documents/2000/02/15/00-3512/distribution-of-fiscal-year-2000-indian-reservation-roads-funds
+  captured: '2025-02-04'

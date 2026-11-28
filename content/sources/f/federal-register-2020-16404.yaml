@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 85 FR 45650, published 2020-07-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206230116/https://www.federalregister.gov/documents/2020/07/29/2020-16404/agency-information-collection-activities-native-american-business-development-institute-nabdi
+  captured: '2025-02-06'

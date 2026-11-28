@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 91 FR 3733, published 2026-01-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260201075646/https://www.federalregister.gov/documents/2026/01/28/2026-01673/notice-of-intended-disposition-us-army-corps-of-engineers-walla-walla-district-walla-walla-wa
+  captured: '2026-02-01'

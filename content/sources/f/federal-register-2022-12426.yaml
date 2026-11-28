@@ -72,3 +72,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 35243, published 2022-06-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212013145/https://www.federalregister.gov/documents/2022/06/09/2022-12426/notice-of-inventory-completion-san-diego-museum-of-man-san-diego-ca-correction
+  captured: '2025-02-12'

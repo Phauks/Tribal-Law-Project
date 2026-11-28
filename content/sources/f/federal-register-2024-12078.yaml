@@ -65,3 +65,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 47602, published 2024-06-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250206052332/https://www.federalregister.gov/documents/2024/06/03/2024-12078/notice-of-inventory-completion-university-of-new-hampshire-durham-nh
+  captured: '2025-02-06'

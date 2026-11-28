@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 44701, published 2024-05-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250611185105/https://www.federalregister.gov/documents/2024/05/21/2024-11090/notice-of-inventory-completion-kent-state-university-department-of-anthropology-kent-oh
+  captured: '2025-06-11'

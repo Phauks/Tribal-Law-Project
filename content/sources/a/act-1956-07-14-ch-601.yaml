@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.govinfo.gov/app/details/STATUTE-70/STATUTE-70-Pg544-2
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127080939/https://www.govinfo.gov/app/details/STATUTE-70/STATUTE-70-Pg544-2
+  captured: '2026-11-27'
 file:
   storage_key: govinfo/STATUTE-70/STATUTE-70-Pg544-2.pdf
   checksum: d0b186713765daffca4fc212f388ca0eeb4f7b8ed0592f603bf42c4d30b38286

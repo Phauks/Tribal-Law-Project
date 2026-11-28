@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 73 FR 79905, published 2008-12-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204200616/https://www.federalregister.gov/documents/2008/12/30/E8-30892/notice-of-inventory-completion-museum-of-indian-arts-and-culturelaboratory-of-anthropology-museum-of
+  captured: '2025-02-04'

@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 88 FR 78387, published 2023-11-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250612000859/https://www.federalregister.gov/documents/2023/11/15/2023-25217/notice-of-inventory-completion-us-department-of-the-interior-national-park-service-canaveral
+  captured: '2025-06-12'

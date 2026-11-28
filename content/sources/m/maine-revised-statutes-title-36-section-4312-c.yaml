@@ -21,7 +21,10 @@ citation:
       - 27
 original_link: https://legislature.maine.gov/statutes/36/title36sec4312-C.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261013205031/https://www.legislature.maine.gov/statutes/36/title36sec4312-C.html
+  captured: '2026-10-13'
 history:
   status: live
   last_checked: '2026-11-27'

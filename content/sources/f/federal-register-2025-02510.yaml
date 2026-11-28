@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 9434, published 2025-02-12'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260927010010/https://www.federalregister.gov/documents/2025/02/12/2025-02510/presidential-memorandum-lumbee-tribe-of-north-carolina
+  captured: '2026-09-27'

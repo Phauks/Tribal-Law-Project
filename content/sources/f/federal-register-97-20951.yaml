@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 62 FR 42817, published 1997-08-08'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260928190302/https://www.federalregister.gov/documents/1997/08/08/97-20951/receipt-of-petition-for-federal-acknowledgment-of-existence-as-an-indian-tribe
+  captured: '2026-09-28'

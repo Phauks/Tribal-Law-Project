@@ -56,3 +56,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 13606, published 2015-03-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204234238/https://www.federalregister.gov/documents/2015/03/16/2015-05987/notice-of-inventory-completion-columbia-university-department-of-anthropology-new-york-ny
+  captured: '2025-02-04'

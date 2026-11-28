@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 34728, published 2002-05-15'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250608053127/https://www.federalregister.gov/documents/2002/05/15/02-12053/tribal-consultation-on-indian-education-topics-correction
+  captured: '2025-06-08'

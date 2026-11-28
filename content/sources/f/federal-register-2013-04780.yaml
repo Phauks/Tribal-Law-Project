@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 13888, published 2013-03-01'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250216222826/https://www.federalregister.gov/documents/2013/03/01/2013-04780/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-bureau-of-indian-affairs
+  captured: '2025-02-16'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 75 FR 16173, published 2010-03-31'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250208065318/https://www.federalregister.gov/documents/2010/03/31/2010-7172/renewal-of-agency-information-collection-for-tribal-energy-resource-agreements-comment-request
+  captured: '2025-02-08'

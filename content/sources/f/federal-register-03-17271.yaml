@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 68 FR 41010, published 2003-07-09'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210508235708/https://www.federalregister.gov/documents/2003/07/09/03-17271/notice-of-intent-to-repatriate-cultural-items-us-department-of-the-interior-us-fish-and-wildlife
+  captured: '2021-05-08'

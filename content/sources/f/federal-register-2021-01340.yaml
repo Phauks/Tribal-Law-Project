@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 86 FR 6667, published 2021-01-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250201214954/https://www.federalregister.gov/documents/2021/01/22/2021-01340/notice-of-inventory-completion-mississippi-department-of-archives-and-history-jackson-ms-correction
+  captured: '2025-02-01'

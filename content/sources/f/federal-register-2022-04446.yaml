@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 12202, published 2022-03-03'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204101828/https://www.federalregister.gov/documents/2022/03/03/2022-04446/notice-of-intent-to-repatriate-cultural-items-cheekwood-estate-and-gardens-nashville-tn
+  captured: '2025-02-04'

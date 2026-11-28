@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 71 FR 11218, published 2006-03-06'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204132246/https://www.federalregister.gov/documents/2006/03/06/E6-3090/proposed-agency-information-collection-with-indian-artistartisan-survey-comment-request
+  captured: '2025-02-04'

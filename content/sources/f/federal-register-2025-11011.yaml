@@ -61,3 +61,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 25362, published 2025-06-16'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250622171500/https://www.federalregister.gov/documents/2025/06/16/2025-11011/notice-of-inventory-completion-amendment-louisiana-state-university-museum-of-natural-science-baton
+  captured: '2025-06-22'

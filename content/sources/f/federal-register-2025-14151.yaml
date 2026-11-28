@@ -59,3 +59,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 35545, published 2025-07-28'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260412190911/https://www.federalregister.gov/documents/2025/07/28/2025-14151/notice-of-inventory-completion-amendment-us-department-of-the-interior-bureau-of-land-management
+  captured: '2026-04-12'

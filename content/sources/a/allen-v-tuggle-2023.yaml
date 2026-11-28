@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/9919075/allen-v-tuggle/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261127195709/https://www.courtlistener.com/opinion/9919075/allen-v-tuggle/
+  captured: '2026-11-27'
 history:
   status: live
   last_checked: '2026-11-26'

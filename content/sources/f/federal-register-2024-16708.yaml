@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 61145, published 2024-07-30'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524193005/https://www.federalregister.gov/documents/2024/07/30/2024-16708/notice-of-inventory-completion-stamford-museum-and-nature-center-stamford-ct
+  captured: '2025-05-24'

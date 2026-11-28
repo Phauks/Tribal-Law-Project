@@ -53,3 +53,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 80 FR 57014, published 2015-09-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250417155038/https://www.federalregister.gov/documents/2015/09/21/2015-23609/notice-of-intent-to-prepare-an-environmental-impact-statement-for-the-proposed-little-river-band-of
+  captured: '2025-04-17'

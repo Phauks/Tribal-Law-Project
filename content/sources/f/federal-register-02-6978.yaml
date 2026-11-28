@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 13358, published 2002-03-22'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250213134648/https://www.federalregister.gov/documents/2002/03/22/02-6978/submission-of-paperwork-reduction-act-request-to-office-of-management-and-budget
+  captured: '2025-02-13'

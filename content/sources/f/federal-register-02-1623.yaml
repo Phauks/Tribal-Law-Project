@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 67 FR 3227, published 2002-01-23'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203234919/https://www.federalregister.gov/documents/2002/01/23/02-1623/proposed-agency-information-collection-activities-comment-request
+  captured: '2025-02-03'

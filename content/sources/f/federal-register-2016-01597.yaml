@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 4651, published 2016-01-27'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250203211715/https://www.federalregister.gov/documents/2016/01/27/2016-01597/notice-of-intent-to-repatriate-cultural-items-fowler-museum-at-the-university-of-california-los
+  captured: '2025-02-03'

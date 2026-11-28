@@ -68,3 +68,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 90 FR 43621, published 2025-09-10'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250926150454/https://www.federalregister.gov/documents/2025/09/10/2025-17370/notice-of-intended-disposition-tennessee-valley-authority-knoxville-tn
+  captured: '2025-09-26'

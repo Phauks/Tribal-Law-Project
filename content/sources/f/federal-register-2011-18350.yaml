@@ -58,3 +58,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 76 FR 43720, published 2011-07-21'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210413224359/https://www.federalregister.gov/documents/2011/07/21/2011-18350/notice-of-inventory-completion-homer-society-of-natural-history-pratt-museum-homer-ak
+  captured: '2021-04-13'

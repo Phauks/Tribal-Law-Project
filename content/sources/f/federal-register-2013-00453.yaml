@@ -63,3 +63,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 78 FR 2431, published 2013-01-11'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260810205650/https://www.federalregister.gov/documents/2013/01/11/2013-00453/notice-of-inventory-completion-us-department-of-energy-oak-ridge-office-oak-ridge-tn-correction
+  captured: '2026-08-10'

@@ -51,3 +51,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 87 FR 2383, published 2022-01-14'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250417154319/https://www.federalregister.gov/documents/2022/01/14/2022-00631/background-investigations-for-persons-or-entities-with-a-financial-interest-in-or-having-a
+  captured: '2025-04-17'

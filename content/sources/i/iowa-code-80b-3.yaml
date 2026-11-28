@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.legis.iowa.gov/docs/code/80B.3.pdf
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260903091521/https://www.legis.iowa.gov/docs/code//80B.3.pdf
+  captured: '2026-09-03'
 history:
   status: live
   last_checked: '2026-11-27'

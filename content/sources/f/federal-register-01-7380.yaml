@@ -79,3 +79,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 66 FR 16490, published 2001-03-26'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20210412223854/https://www.federalregister.gov/documents/2001/03/26/01-7380/notice-of-inventory-completion-for-native-american-human-remains-and-associated-funerary-objects-in
+  captured: '2021-04-12'

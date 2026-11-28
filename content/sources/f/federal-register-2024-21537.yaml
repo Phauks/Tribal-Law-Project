@@ -57,3 +57,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 89 FR 77182, published 2024-09-20'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250524184030/https://www.federalregister.gov/documents/2024/09/20/2024-21537/notice-of-intended-disposition-us-department-of-the-interior-national-park-service-timucuan
+  captured: '2025-05-24'

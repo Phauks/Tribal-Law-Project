@@ -55,3 +55,7 @@ review:
   - check: citation
     result: missing
     detail: 'Federal Register API only: 81 FR 25711, published 2016-04-29'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260328042227/https://www.federalregister.gov/documents/2016/04/29/2016-10067/notice-of-inventory-completion-kansas-state-historical-society-topeka-ks
+  captured: '2026-03-28'
