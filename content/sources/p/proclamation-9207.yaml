@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2014/11/06/2014-26496/national-native-american-heritage-month-2014'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250207164131/https://www.federalregister.gov/documents/2014/11/06/2014-26496/national-native-american-heritage-month-2014
+  captured: '2025-02-07'

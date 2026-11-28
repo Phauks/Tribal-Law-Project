@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2023/08/15/2023-17628/establishment-of-the-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260512084121/https://www.federalregister.gov/documents/2023/08/15/2023-17628/establishment-of-the-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national
+  captured: '2026-05-12'

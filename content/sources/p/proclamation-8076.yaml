@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2006/11/02/06-9061/national-american-indian-heritage-month-2006'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250212221155/https://www.federalregister.gov/documents/2006/11/02/06-9061/national-american-indian-heritage-month-2006
+  captured: '2025-02-12'

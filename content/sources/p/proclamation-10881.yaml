@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2025/01/17/2025-01441/establishment-of-the-chuckwalla-national-monument'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251223030623/https://www.federalregister.gov/documents/2025/01/17/2025-01441/establishment-of-the-chuckwalla-national-monument
+  captured: '2025-12-23'

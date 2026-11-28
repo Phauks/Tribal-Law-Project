@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2002/11/06/02-28433/national-american-indian-heritage-month-2002'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214095813/https://www.federalregister.gov/documents/2002/11/06/02-28433/national-american-indian-heritage-month-2002
+  captured: '2025-02-14'

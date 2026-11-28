@@ -11,7 +11,10 @@ citation:
     date-parts: [[2026, 11, 27]]
 original_link: https://services1.arcgis.com/fBc8EJBxQRMcHlei/ArcGIS/rest/services/TRTE_NHT/FeatureServer/0
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251205044134/https://services1.arcgis.com/fBc8EJBxQRMcHlei/arcgis/rest/services/TRTE_NHT/FeatureServer/0
+  captured: '2025-12-05'
 history:
   status: live
   last_checked: '2026-11-27'

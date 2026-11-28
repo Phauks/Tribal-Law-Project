@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2016/11/03/2016-26805/national-native-american-heritage-month-2016'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204113609/https://www.federalregister.gov/documents/2016/11/03/2016-26805/national-native-american-heritage-month-2016
+  captured: '2025-02-04'

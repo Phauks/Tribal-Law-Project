@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2007/11/02/07-5509/national-american-indian-heritage-month-2007'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204001802/https://www.federalregister.gov/documents/2007/11/02/07-5509/national-american-indian-heritage-month-2007
+  captured: '2025-02-04'

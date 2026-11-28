@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2020/11/05/2020-24742/national-native-american-heritage-month-2020'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214074819/https://www.federalregister.gov/documents/2020/11/05/2020-24742/national-native-american-heritage-month-2020
+  captured: '2025-02-14'

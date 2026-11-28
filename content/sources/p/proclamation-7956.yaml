@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2005/11/07/05-22296/national-american-indian-heritage-month-2005'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250215134506/https://www.federalregister.gov/documents/2005/11/07/05-22296/national-american-indian-heritage-month-2005
+  captured: '2025-02-15'

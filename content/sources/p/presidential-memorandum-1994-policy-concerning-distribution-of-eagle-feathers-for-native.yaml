@@ -46,3 +46,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/1994/05/04/94-10885/policy-concerning-distribution-of-eagle-feathers-for-native-american-religious-purposes'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250202041312/https://www.federalregister.gov/documents/1994/05/04/94-10885/policy-concerning-distribution-of-eagle-feathers-for-native-american-religious-purposes
+  captured: '2025-02-02'

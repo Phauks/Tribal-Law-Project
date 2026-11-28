@@ -47,3 +47,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/1994/11/09/94-27938/national-american-indian-heritage-month-1994'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250214042428/https://www.federalregister.gov/documents/1994/11/09/94-27938/national-american-indian-heritage-month-1994
+  captured: '2025-02-14'

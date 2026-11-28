@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/1995/11/06/95-27594/national-american-indian-heritage-month-1995'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204132451/https://www.federalregister.gov/documents/1995/11/06/95-27594/national-american-indian-heritage-month-1995
+  captured: '2025-02-04'

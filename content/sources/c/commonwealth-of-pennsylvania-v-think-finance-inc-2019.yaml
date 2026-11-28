@@ -17,7 +17,10 @@ citation:
       - 26
 original_link: https://www.courtlistener.com/opinion/9931371/commonwealth-of-pennsylvania-v-think-finance-inc/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128160741/https://www.courtlistener.com/opinion/9931371/commonwealth-of-pennsylvania-v-think-finance-inc/
+  captured: '2026-11-28'
 history:
   status: live
   last_checked: '2026-11-26'

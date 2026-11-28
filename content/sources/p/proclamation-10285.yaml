@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2021/10/15/2021-22672/bears-ears-national-monument'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260512010038/https://www.federalregister.gov/documents/2021/10/15/2021-22672/bears-ears-national-monument
+  captured: '2026-05-12'

@@ -52,3 +52,7 @@ review:
   - check: listing
     result: missing
     detail: 'Only the Federal Register API was read: https://www.federalregister.gov/documents/2022/05/09/2022-10073/missing-or-murdered-indigenous-persons-awareness-day-2022'
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20250204223148/https://www.federalregister.gov/documents/2022/05/09/2022-10073/missing-or-murdered-indigenous-persons-awareness-day-2022
+  captured: '2025-02-04'
