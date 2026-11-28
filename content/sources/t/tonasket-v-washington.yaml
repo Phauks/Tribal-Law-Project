@@ -149,6 +149,55 @@ argument_audio:
     checksum: 3e4b3ae3b6911537f7d3818b747d5edbaa44ccd5ce5586a31ae88c0fb6eec86b
     media_type: audio/mpeg
     bytes: 40850615
+argument_timing:
+- date: '1972-12-12'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 119
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-2d-r1.mp3, seconds: 181.0}
+  - {key: supreme-court-audio/national-archives/red-series/267-2d-r2.mp3, seconds: 1560.03}
+  - {key: supreme-court-audio/national-archives/red-series/267-2d-r3.mp3, seconds: 2616.01}
+  span: [1744.6, 4355.8]
+  counsel:
+  - name: "Robert L. Pirtle"
+    for: "appellant"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep411/usrep411451/usrep411451.pdf
+  - name: "Slade Gorton"
+    title: "Attorney General of Washington"
+    for: "appellees"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep411/usrep411451/usrep411451.pdf
+  - name: "Alvin J. Ziontz"
+    for: "Confederated Tribes of the Colville Reservation et al., as amici curiae"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep411/usrep411451/usrep411451.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/tonasket-v-washington/1972-12-12.json
+    checksum: 7bc1b0e1e5d83d688223cf43de36738073cd54d7baa2e316efd2f2b4af038d3d
+    media_type: application/json
+    bytes: 43162
+- date: '1972-12-13'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 113
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-3a.mp3, seconds: 2553.03}
+  span: [0.0, 2543.6]
+  counsel:
+  - name: "Robert L. Pirtle"
+    for: "appellant"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep411/usrep411451/usrep411451.pdf
+  - name: "Slade Gorton"
+    title: "Attorney General of Washington"
+    for: "appellees"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep411/usrep411451/usrep411451.pdf
+  - name: "Alvin J. Ziontz"
+    for: "Confederated Tribes of the Colville Reservation et al., as amici curiae"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep411/usrep411451/usrep411451.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/tonasket-v-washington/1972-12-13.json
+    checksum: 66423981e36ce49519db199edba50030d439987d34ebc5f09a3a53731adeb635
+    media_type: application/json
+    bytes: 42655
 rights:
   status: no-permission-needed
   basis: us-government-work

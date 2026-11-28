@@ -147,6 +147,29 @@ argument_transcripts:
     checksum: f1e784f340697b1b57b5d1d677e13f8f0094a1d724430e9c41fa445ab3c63c78
     media_type: application/pdf
     bytes: 820634
+argument_timing:
+- date: '2026-04-01'
+  made: official transcript
+  model: Whisper small.en
+  turns: 412
+  recording:
+  - {key: supreme-court-audio/court/2025/25-365.mp3, seconds: 7709.64}
+  span: [0.0, 7709.6]
+  counsel:
+  - name: "Gen. D. John Sauer"
+    for: "the Petitioners"
+  - name: "Cecillia D. Wang"
+    title: "San Francisco, California"
+    for: "the Respondents"
+  sections:
+  - {label: "Sauer", counsel: "Gen. D. John Sauer", t: 5.4}
+  - {label: "Wang", counsel: "Cecillia D. Wang", t: 4145.3}
+  - {label: "Rebuttal", counsel: "Gen. D. John Sauer", t: 7514.1}
+  file:
+    storage_key: supreme-court-transcripts/timed/trump-v-barbara/2026-04-01.json
+    checksum: 086046cee59f8a249ac90bcfaee572aa47415df83c240b5237a5584cf2a148ef
+    media_type: application/json
+    bytes: 163423
 rights:
   status: no-permission-needed
   basis: us-government-work

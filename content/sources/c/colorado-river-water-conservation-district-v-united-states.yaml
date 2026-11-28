@@ -264,6 +264,33 @@ argument_transcripts:
     checksum: a0d76d97d7ac9099771aeaf1b2f5e2d2e507b9ddb232e9b5e06aaeae74c8909d
     media_type: application/pdf
     bytes: 10405203
+argument_timing:
+- date: '1976-01-14'
+  made: official transcript
+  model: Whisper small.en
+  turns: 263
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-133-r1.mp3, seconds: 127.5}
+  - {key: supreme-court-audio/national-archives/red-series/267-133-r2.mp3, seconds: 341.63}
+  - {key: supreme-court-audio/national-archives/red-series/267-133-r3.mp3, seconds: 4178.91}
+  - {key: supreme-court-audio/national-archives/red-series/267-133-r4.mp3, seconds: 3781.3}
+  - {key: supreme-court-audio/national-archives/red-series/267-133-r5.mp3, seconds: 2999.25}
+  - {key: supreme-court-audio/national-archives/red-series/267-133-r6.mp3, seconds: 3648.0}
+  span: [11415.0, 15076.6]
+  counsel:
+  - name: "Kenneth Balcqmb"
+    for: "Petitioners"
+  - name: "Howard E. Shapiro"
+    for: "Respondent"
+  sections:
+  - {label: "Balcqmb", counsel: "Kenneth Balcqmb", t: 11481.2}
+  - {label: "Shapiro", counsel: "Howard E. Shapiro", t: 12701.3}
+  - {label: "Rebuttal", counsel: "Kenneth Balcqmb", t: 14513.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/colorado-river-water-conservation-district-v-united-states/1976-01-14.json
+    checksum: ed3bb9bebb472c4543ec5d05fcd1190bfdb9918f790aad8e3db996f13c3839d8
+    media_type: application/json
+    bytes: 77398
 rights:
   status: no-permission-needed
   basis: us-government-work

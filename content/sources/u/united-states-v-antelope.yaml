@@ -260,6 +260,42 @@ argument_transcripts:
     checksum: 615692f3bc7be8c5e58ab1299282fb3a5cc54fbd4da803ff1b318b9c1596a65b
     media_type: application/pdf
     bytes: 8907586
+argument_timing:
+- date: '1977-01-18'
+  made: official transcript
+  model: Whisper small.en
+  turns: 163
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-178-r1.mp3, seconds: 146.78}
+  - {key: supreme-court-audio/national-archives/red-series/267-178-r2.mp3, seconds: 178.08}
+  - {key: supreme-court-audio/national-archives/red-series/267-178-r3.mp3, seconds: 3172.65}
+  - {key: supreme-court-audio/national-archives/red-series/267-178-r4.mp3, seconds: 3855.67}
+  - {key: supreme-court-audio/national-archives/red-series/267-178-r5.mp3, seconds: 2274.17}
+  - {key: supreme-court-audio/national-archives/red-series/267-178-r6.mp3, seconds: 3978.48}
+  - {key: supreme-court-audio/national-archives/red-series/267-178-r7.mp3, seconds: 3840.39}
+  span: [308.4, 3516.1]
+  counsel:
+  - name: "Lee. C. Clyburn"
+    for: "Defendants"
+  - name: "Andrew L. Frey"
+    title: "ESQ, Moscow"
+    for: "Petitioner JOHN W. WALKER, ESQ., 1J 4 East Third Street, Moscow, Idaho 83843 Court-appointed Attorney for Respondents William Andrew Davison and Leonard Francis Davison ■ ALLEN V. BOWLES, ESQ., 204 East 1st Street, Moscow, Idaho 83843 Attorney for Respondent Gabriel Francis Antelope x A"
+  - name: "John W. Walker"
+    for: "Respondents Davisons"
+  - name: "Allen V. Bowles"
+    for: "Respondent Antelope"
+  sections:
+  - {label: "Clyburn", counsel: "Lee. C. Clyburn", t: 327.7}
+  - {label: "Frey", counsel: "Andrew L. Frey", t: 327.7}
+  - {label: "Rebuttal", counsel: "Andrew L. Frey", t: 339.8}
+  - {label: "Walker", counsel: "John W. Walker", t: 1560.6}
+  - {label: "Bowles", counsel: "Allen V. Bowles", t: 2447.7}
+  - {label: "Rebuttal", counsel: "Andrew L. Frey", t: 3104.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-antelope/1977-01-18.json
+    checksum: 7ca57d046c403075235837bcf6e0f8ad97125dc6dc0d10c78798b5356e825fbc
+    media_type: application/json
+    bytes: 63658
 rights:
   status: no-permission-needed
   basis: us-government-work

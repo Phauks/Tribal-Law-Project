@@ -228,6 +228,32 @@ argument_transcripts:
     checksum: 7b27fcc917ce9bd407cc23f0c35cdf409e47a984128beb304582da4fd9d1e76d
     media_type: application/pdf
     bytes: 15868778
+argument_timing:
+- date: '1977-04-18'
+  made: official transcript
+  model: Whisper small.en
+  turns: 112
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-191-r1.mp3, seconds: 269.14}
+  - {key: supreme-court-audio/national-archives/red-series/267-191-r2.mp3, seconds: 189.73}
+  - {key: supreme-court-audio/national-archives/red-series/267-191-r3.mp3, seconds: 677.25}
+  - {key: supreme-court-audio/national-archives/red-series/267-191-r4.mp3, seconds: 3505.08}
+  - {key: supreme-court-audio/national-archives/red-series/267-191-r5.mp3, seconds: 1857.31}
+  - {key: supreme-court-audio/national-archives/red-series/267-191-r6.mp3, seconds: 3665.03}
+  - {key: supreme-court-audio/national-archives/red-series/267-191-r7.mp3, seconds: 1962.74}
+  - {key: supreme-court-audio/national-archives/red-series/267-191-r8.mp3, seconds: 3641.26}
+  - {key: supreme-court-audio/national-archives/red-series/267-191-r9.mp3, seconds: 1565.99}
+  span: [10381.1, 12145.3]
+  counsel:
+  - name: "William B. Rodgers, Jr."
+    for: "the Petitioners"
+  sections:
+  - {label: "Rebuttal", counsel: "William B. Rodgers, Jr.", t: 11678.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/puyallup-tribe-inc-v-department-of-game-of-washington/1977-04-18.json
+    checksum: a67ad42dcdac9c36dc06a932361b6825e843eaba644eb7d98ad3cbac235f7a62
+    media_type: application/json
+    bytes: 36711
 rights:
   status: no-permission-needed
   basis: us-government-work

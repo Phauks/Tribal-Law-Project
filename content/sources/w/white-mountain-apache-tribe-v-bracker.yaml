@@ -117,6 +117,34 @@ argument_transcripts:
     checksum: 5e2d8de45c2e7ab71974ebfd74362341652ac7279b9664963f62fe95e01eeb44
     media_type: application/pdf
     bytes: 13378475
+argument_timing:
+- date: '1980-01-14'
+  made: official transcript
+  model: Whisper small.en
+  turns: 144
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-302.mp3, seconds: 14284.09}
+  span: [3960.2, 7272.7]
+  counsel:
+  - name: "Neil Vincent Wake"
+    title: "Phoenix, Arizona"
+    for: "the Petitioners"
+  - name: "Michael J. Brown"
+    for: "the Petitioners"
+  - name: "Elinor H. Stillman"
+    for: "the United States Department of Justice"
+  - name: "Ian A. Macpeerson"
+    for: "the Respondents"
+  sections:
+  - {label: "Wake", counsel: "Neil Vincent Wake", t: 3983.9}
+  - {label: "Brown", counsel: "Michael J. Brown", t: 4667.5}
+  - {label: "Stillman", counsel: "Elinor H. Stillman", t: 5339.4}
+  - {label: "Macpeerson", counsel: "Ian A. Macpeerson", t: 6089.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/white-mountain-apache-tribe-v-bracker/1980-01-14.json
+    checksum: e7159ca08916ac48cfb5795f4191d7de8302b5e2ec4d680c6e64d91693d86c00
+    media_type: application/json
+    bytes: 60955
 rights:
   status: no-permission-needed
   basis: us-government-work

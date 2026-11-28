@@ -132,6 +132,30 @@ argument_transcripts:
     checksum: cc44c5520d4086436d545e1c2c845157ebe7babeb0bc319052a0f735cda368d0
     media_type: application/pdf
     bytes: 185351
+argument_timing:
+- date: '2002-12-02'
+  made: official transcript
+  model: Whisper small.en
+  turns: 278
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1239.mp3, seconds: 7337.43}
+  span: [3698.9, 7337.4]
+  counsel:
+  - name: "Edwin S. Kneedler"
+    title: "Deputy Solicitor General"
+    for: "the Petitioner"
+  - name: "Paul E. Frye"
+    title: "Albuquerque, New Mexico"
+    for: "the Respondent"
+  sections:
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 3779.4}
+  - {label: "Frye", counsel: "Paul E. Frye", t: 5353.5}
+  - {label: "Rebuttal", counsel: "Edwin S. Kneedler", t: 7110.7}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-navajo-nation/2002-12-02.json
+    checksum: 1d4616ce7c132c5f004cf77b347e1e7c8a2e02f4bd1b8c813013ce78bd717bb5
+    media_type: application/json
+    bytes: 80750
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -136,6 +136,27 @@ argument_transcripts:
     checksum: 23a8b3436cf3d818fbdcf728ee0233fcd1d99ce68a5f54138ff330731c84c30b
     media_type: application/pdf
     bytes: 11013972
+argument_timing:
+- date: '1980-03-24'
+  made: official transcript
+  model: Whisper small.en
+  turns: 148
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-314.mp3, seconds: 15017.69}
+  span: [3692.0, 7227.6]
+  counsel:
+  - name: "Louis F. Claiborne"
+  - name: "Arthur Lazarus, Jr."
+    for: "the Respondents"
+  sections:
+  - {label: "Rebuttal", counsel: "Louis F. Claiborne", t: 3712.0}
+  - {label: "Rebuttal", counsel: "Louis F. Claiborne", t: 3712.0}
+  - {label: "Lazarus", counsel: "Arthur Lazarus, Jr.", t: 5473.9}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-sioux-nation-of-indians/1980-03-24.json
+    checksum: 155a3d33183bb3196604ddd9185cc14033fd827f5969af0223239c29151cf93c
+    media_type: application/json
+    bytes: 57195
 rights:
   status: no-permission-needed
   basis: us-government-work

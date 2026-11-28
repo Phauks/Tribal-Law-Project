@@ -132,6 +132,28 @@ argument_transcripts:
     checksum: af4ea51fd2486f068e19b85b407501cc1a1d81c019fe42338f1d4121403a390b
     media_type: application/pdf
     bytes: 11662888
+argument_timing:
+- date: '1988-11-30'
+  made: official transcript
+  model: Whisper small.en
+  turns: 137
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-680.mp3, seconds: 13326.63}
+  span: [3587.1, 6910.3]
+  counsel:
+  - name: "Daniel H. Israel"
+    for: "the Appellants"
+  - name: "Harold D. Strattgn"
+    for: "the Appellees"
+  sections:
+  - {label: "Israel", counsel: "Daniel H. Israel", t: 3683.9}
+  - {label: "Strattgn", counsel: "Harold D. Strattgn", t: 5061.4}
+  - {label: "Rebuttal", counsel: "Daniel H. Israel", t: 6552.1}
+  file:
+    storage_key: supreme-court-transcripts/timed/cotton-petroleum-corp-v-new-mexico/1988-11-30.json
+    checksum: ebcb4757f38d72c496087e1e258787261d37e8f7ea6220e483438b8f7504e12f
+    media_type: application/json
+    bytes: 63749
 rights:
   status: no-permission-needed
   basis: us-government-work

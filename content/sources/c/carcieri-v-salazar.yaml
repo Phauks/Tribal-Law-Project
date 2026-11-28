@@ -149,6 +149,30 @@ argument_transcripts:
     checksum: 890bdffb96a26d674981622614d43b1f52f4864aa0a4b60b2af7d1450500cbb0
     media_type: application/pdf
     bytes: 330331
+argument_timing:
+- date: '2008-11-03'
+  made: official transcript
+  model: Whisper small.en
+  turns: 224
+  recording:
+  - {key: supreme-court-audio/national-archives/gold-series/267a-1550-november3ampm.mp3, seconds: 11706.65}
+  span: [7934.8, 11706.6]
+  counsel:
+  - name: "Theodore B. Olson"
+    title: "Washington, D.C."
+    for: "the Petitioners"
+  - name: "Deanne E. Maynard"
+    title: "Assistant to the Solicitor General"
+    for: "the Respondents"
+  sections:
+  - {label: "Olson", counsel: "Theodore B. Olson", t: 7964.2}
+  - {label: "Maynard", counsel: "Deanne E. Maynard", t: 9498.8}
+  - {label: "Rebuttal", counsel: "Theodore B. Olson", t: 11407.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/carcieri-v-salazar/2008-11-03.json
+    checksum: 3055bdb8ad3092d40fc80ecdeed7b165a9fe09e093b0f6d57c48c9aabaf43f8e
+    media_type: application/json
+    bytes: 79473
 rights:
   status: no-permission-needed
   basis: us-government-work

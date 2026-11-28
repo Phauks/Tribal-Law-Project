@@ -196,6 +196,38 @@ argument_transcripts:
     checksum: 0b566aac4e56d93579f823a14983845938cb20da56698bdebb0755209f2dfe5b
     media_type: application/pdf
     bytes: 11070726
+argument_timing:
+- date: '1975-01-13'
+  made: official transcript
+  model: Whisper small.en
+  turns: 219
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-88-r1.mp3, seconds: 210.44}
+  - {key: supreme-court-audio/national-archives/red-series/267-88-r2.mp3, seconds: 163.6}
+  - {key: supreme-court-audio/national-archives/red-series/267-88-r3.mp3, seconds: 544.42}
+  - {key: supreme-court-audio/national-archives/red-series/267-88-r4.mp3, seconds: 4030.54}
+  - {key: supreme-court-audio/national-archives/red-series/267-88-r5.mp3, seconds: 3240.7}
+  - {key: supreme-court-audio/national-archives/red-series/267-88-r6.mp3, seconds: 3163.17}
+  - {key: supreme-court-audio/national-archives/red-series/267-88-r7.mp3, seconds: 3845.38}
+  span: [903.8, 4967.5]
+  counsel:
+  - name: "Lawrence G. Wallace"
+    title: "Office of the Solicitor General"
+    for: "Federal Power Commission"
+  - name: "Northcutt Ely"
+    for: "Arizona Public Service Company"
+  - name: "Joseph J. Brecher"
+    for: "Chemehuevi Tribe of Indians et al."
+  sections:
+  - {label: "Wallace", counsel: "Lawrence G. Wallace", t: 957.8}
+  - {label: "Ely", counsel: "Northcutt Ely", t: 2278.7}
+  - {label: "Brecher", counsel: "Joseph J. Brecher", t: 2709.1}
+  - {label: "Rebuttal", counsel: "Northcutt Ely", t: 4460.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/chemehuevi-tribe-of-indians-v-federal-power-commission/1975-01-13.json
+    checksum: d6c67f08926ee7946df14e5faacee0a06fd296abc6462704cb75f9477bf3526c
+    media_type: application/json
+    bytes: 79835
 rights:
   status: no-permission-needed
   basis: us-government-work

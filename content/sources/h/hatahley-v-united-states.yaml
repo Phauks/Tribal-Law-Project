@@ -124,6 +124,45 @@ argument_audio:
     checksum: b9e0a984fc94a0b9b4783b44dcda73660cd8a4951d6e8ddaa1177b9d3209b386
     media_type: audio/mpeg
     bytes: 68704548
+argument_timing:
+- date: '1956-03-26'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 187
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-036-231-19560326-19560327.mp3, seconds: 3222.54}
+  span: [0.0, 3222.5]
+  counsel:
+  - name: "Norman M. Littell"
+    for: "petitioners"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep351/usrep351173/usrep351173.pdf
+  - name: "Roger P. Marquis"
+    for: "the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep351/usrep351173/usrep351173.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/hatahley-v-united-states/1956-03-26.json
+    checksum: 2b26645b9efbd0d4022aa4fafd1760f27aac8e44d98eb0ff8074760c370f38be
+    media_type: application/json
+    bytes: 51778
+- date: '1956-03-27'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 226
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-037-231-19560326-19560327.mp3, seconds: 4294.03}
+  span: [0.0, 4294.0]
+  counsel:
+  - name: "Norman M. Littell"
+    for: "petitioners"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep351/usrep351173/usrep351173.pdf
+  - name: "Roger P. Marquis"
+    for: "the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep351/usrep351173/usrep351173.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/hatahley-v-united-states/1956-03-27.json
+    checksum: c5a627cc1177034f62491d7aaee41cb9e2dd99c1e224390db2d885c5b662a186
+    media_type: application/json
+    bytes: 64913
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -129,6 +129,30 @@ argument_transcripts:
     checksum: ef33831c46d917b698ee078380856d93093d22e53b3479de45d38dca25eab9cb
     media_type: application/pdf
     bytes: 12050526
+argument_timing:
+- date: '1987-01-12'
+  made: official transcript
+  model: Whisper small.en
+  turns: 131
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-586.mp3, seconds: 10915.58}
+  span: [252.2, 3956.6]
+  counsel:
+  - name: "F. Henry Habicht, II"
+  - name: "E. Edward Bruce"
+    for: "the Petitioners in No. 65-1239"
+  - name: "Donald S. Cooper"
+    for: "the Respondents"
+  sections:
+  - {label: "Habicht", counsel: "F. Henry Habicht, II", t: 288.0}
+  - {label: "Bruce", counsel: "E. Edward Bruce", t: 1503.4}
+  - {label: "Cooper", counsel: "Donald S. Cooper", t: 1959.7}
+  - {label: "Rebuttal", counsel: "E. Edward Bruce", t: 3692.9}
+  file:
+    storage_key: supreme-court-transcripts/timed/amoco-production-co-v-village-of-gambell/1987-01-12.json
+    checksum: 460112e481f9065518011c753420d12f04edc020a836482c438bf5ca42251516
+    media_type: application/json
+    bytes: 66709
 rights:
   status: no-permission-needed
   basis: us-government-work

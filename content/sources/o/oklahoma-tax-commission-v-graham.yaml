@@ -127,6 +127,28 @@ argument_transcripts:
     checksum: 5a226c8df64d64cd232ee90d2dbf4e0c1ee127fb95eaa6d7e7c50549e45f353f
     media_type: application/pdf
     bytes: 8483391
+argument_timing:
+- date: '1989-02-21'
+  made: official transcript
+  model: Whisper small.en
+  turns: 116
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-691.mp3, seconds: 13802.16}
+  span: [7558.1, 10343.0]
+  counsel:
+  - name: "David Allen Miley"
+    for: "the Petitioner"
+  - name: "Bob Rabon"
+    for: "Respondents"
+  sections:
+  - {label: "Miley", counsel: "David Allen Miley", t: 7586.7}
+  - {label: "Rabon", counsel: "Bob Rabon", t: 8746.4}
+  - {label: "Rebuttal", counsel: "David Allen Miley", t: 10234.1}
+  file:
+    storage_key: supreme-court-transcripts/timed/oklahoma-tax-commission-v-graham/1989-02-21.json
+    checksum: b1f578b888afaffe035713c0004de2f1dbb06d94c4d2a70d735d7dbde9e10e70
+    media_type: application/json
+    bytes: 44061
 rights:
   status: no-permission-needed
   basis: us-government-work

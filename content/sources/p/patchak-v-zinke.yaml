@@ -166,6 +166,32 @@ argument_transcripts:
     checksum: d2bfd8ec1de7aece7713602823af6baba7a0e1ad7bd89ec5063d9ee0baef20ea
     media_type: application/pdf
     bytes: 758424
+argument_timing:
+- date: '2017-11-07'
+  made: official transcript
+  model: Whisper small.en
+  turns: 313
+  recording:
+  - {key: supreme-court-audio/court/2017/16-498.mp3, seconds: 3774.22}
+  span: [0.0, 3774.2]
+  counsel:
+  - name: "Scott E. Gant"
+    title: "Washington, D.C."
+    for: "the Petitioner"
+  - name: "Ann O'Connell"
+    for: "the Federal Respondents"
+  - name: "Pratik A. Shah"
+    for: "the Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians Respondent"
+  sections:
+  - {label: "Gant", counsel: "Scott E. Gant", t: 6.2}
+  - {label: "O'Connell", counsel: "Ann O'Connell", t: 1710.8}
+  - {label: "Shah", counsel: "Pratik A. Shah", t: 2912.9}
+  - {label: "Rebuttal", counsel: "Scott E. Gant", t: 3575.8}
+  file:
+    storage_key: supreme-court-transcripts/timed/patchak-v-zinke/2017-11-07.json
+    checksum: 82af2189efc5d4b1ada6240e17167fa3099ff94cb87db025912eab996d056f8e
+    media_type: application/json
+    bytes: 89948
 rights:
   status: no-permission-needed
   basis: us-government-work

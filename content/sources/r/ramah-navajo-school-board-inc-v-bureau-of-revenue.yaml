@@ -168,6 +168,36 @@ argument_transcripts:
     checksum: 35b0d8138b94156de72aaff60e29397807c264f9c58b4f3e3d633e435e599dbb
     media_type: application/pdf
     bytes: 11147110
+argument_timing:
+- date: '1982-04-28'
+  made: official transcript
+  model: Whisper small.en
+  turns: 145
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-405-r1.mp3, seconds: 3366.43}
+  - {key: supreme-court-audio/national-archives/red-series/267-405-r2.mp3, seconds: 2809.34}
+  - {key: supreme-court-audio/national-archives/red-series/267-405-r3.mp3, seconds: 3308.46}
+  - {key: supreme-court-audio/national-archives/red-series/267-405-r4.mp3, seconds: 3386.83}
+  span: [30.9, 3365.2]
+  counsel:
+  - name: "Michael P. Gross"
+    for: "the Appellants"
+  - name: "Louis F. Claiborne"
+    title: "Office of the Solicitor General"
+    for: "Curiae"
+  - name: "Jan Unna"
+    title: "Santa Fe, New Mexico"
+    for: "Appellees• • I, L'in * «WiP <*•*»! 11 $ A «M milk .«■< \"■.«.Ik'i i^, r/Vn./V ef • «•"
+  sections:
+  - {label: "Gross", counsel: "Michael P. Gross", t: 65.4}
+  - {label: "Claiborne", counsel: "Louis F. Claiborne", t: 1003.5}
+  - {label: "Unna", counsel: "Jan Unna", t: 1835.4}
+  - {label: "Rebuttal", counsel: "Michael P. Gross", t: 3015.1}
+  file:
+    storage_key: supreme-court-transcripts/timed/ramah-navajo-school-board-inc-v-bureau-of-revenue/1982-04-28.json
+    checksum: 26ca9e25a7c02511772d64aba377aacce29c78093ea5946eea077fd762fa5dfb
+    media_type: application/json
+    bytes: 56672
 rights:
   status: no-permission-needed
   basis: us-government-work

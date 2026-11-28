@@ -132,6 +132,33 @@ argument_transcripts:
     checksum: 5ea82670f14b4829bdaaf4f108a4b8f9608958db13e10b2347d7790885064d3a
     media_type: application/pdf
     bytes: 187456
+argument_timing:
+- date: '2004-01-14'
+  made: official transcript
+  model: Whisper small.en
+  turns: 229
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1286.mp3, seconds: 8141.48}
+  span: [4448.4, 8141.5]
+  counsel:
+  - name: "Timothy S. Bishop"
+    title: "Chicago, Illinois"
+    for: "the Petitioner"
+  - name: "Jeffrey P. Minear"
+    title: "Assistant to the Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Petitioner"
+  - name: "Dexter W. Lehtinen"
+    title: "Miami, Florida"
+    for: "the Respondents"
+  sections:
+  - {label: "Bishop", counsel: "Timothy S. Bishop", t: 4527.9}
+  - {label: "Minear", counsel: "Jeffrey P. Minear", t: 5717.3}
+  - {label: "Lehtinen", counsel: "Dexter W. Lehtinen", t: 6334.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/south-florida-water-management-district-v-miccosukee-tribe-of-indians/2004-01-14.json
+    checksum: ef95cda16ea1b31a0db45a683e0e3bef1f6adbb6c2104507ab5e4d8de365028e
+    media_type: application/json
+    bytes: 79464
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -256,6 +256,33 @@ argument_transcripts:
     checksum: bfec5906241ba26420c5ba70102c04e5f1257523751cdfb0dd8c8a1259fb2720
     media_type: application/pdf
     bytes: 16517878
+argument_timing:
+- date: '1976-11-10'
+  made: official transcript
+  model: Whisper small.en
+  turns: 313
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-167-r1.mp3, seconds: 90.25}
+  - {key: supreme-court-audio/national-archives/red-series/267-167-r2.mp3, seconds: 3746.25}
+  - {key: supreme-court-audio/national-archives/red-series/267-167-r3.mp3, seconds: 1827.34}
+  - {key: supreme-court-audio/national-archives/red-series/267-167-r4.mp3, seconds: 4197.56}
+  - {key: supreme-court-audio/national-archives/red-series/267-167-r5.mp3, seconds: 4172.72}
+  span: [70.8, 5682.3]
+  counsel:
+  - name: "A. Raymond Randolph, Jr."
+    title: "Deputy Solicitor General# Department of Justice"
+    for: "the Appellants"
+  - name: "Delmer L. Stagner"
+    title: "Continental Savings Building, Oklahoma City"
+    for: "the Appellees"
+  sections:
+  - {label: "Randolph", counsel: "A. Raymond Randolph, Jr.", t: 746.5}
+  - {label: "Stagner", counsel: "Delmer L. Stagner", t: 2361.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/delaware-tribal-business-committee-v-weeks/1976-11-10.json
+    checksum: 67beaba4e5fd07985689812c09d5a0d9794a38ec7ffd013118a4f5ef56f5484f
+    media_type: application/json
+    bytes: 110632
 rights:
   status: no-permission-needed
   basis: us-government-work

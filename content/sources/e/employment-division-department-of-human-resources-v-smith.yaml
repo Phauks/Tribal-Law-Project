@@ -128,6 +128,30 @@ argument_transcripts:
     checksum: 98dc2dcc48671bb613027a0538fdb6eeb8ea4d001af2d188c127b2698dfb240a
     media_type: application/pdf
     bytes: 11209664
+argument_timing:
+- date: '1987-12-08'
+  made: official transcript
+  model: Whisper small.en
+  turns: 179
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-624.mp3, seconds: 13007.75}
+  span: [3573.6, 7043.4]
+  counsel:
+  - name: "William F. Gary"
+    title: "Deputy Attorney General of Oregon"
+    for: "Petitioners"
+  - name: "Suanne Lovendahl"
+    title: "Roseburg, Oregon"
+    for: "the Respondent"
+  sections:
+  - {label: "Gary", counsel: "William F. Gary", t: 3593.6}
+  - {label: "Lovendahl", counsel: "Suanne Lovendahl", t: 5370.2}
+  - {label: "Rebuttal", counsel: "William F. Gary", t: 6955.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/employment-division-department-of-human-resources-v-smith/1987-12-08.json
+    checksum: 2bf2d7db51e8b9e6a0f3bb3f7ed3050581911dbdebf04e8bd6a7721be1ca3463
+    media_type: application/json
+    bytes: 66042
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -138,6 +138,33 @@ argument_transcripts:
     checksum: 7b71e5e2d8beed064dde295e1418f6a4a12534de208094bed020f7c713ac85a2
     media_type: application/pdf
     bytes: 371125
+argument_timing:
+- date: '2009-02-25'
+  made: official transcript
+  model: Whisper small.en
+  turns: 218
+  recording:
+  - {key: supreme-court-audio/national-archives/gold-series/267a-1569-february25.mp3, seconds: 7842.77}
+  span: [592.8, 4297.0]
+  counsel:
+  - name: "Gen. Mark J. Bennett"
+    for: "the Petitioners"
+  - name: "William M. Jay"
+    title: "Assistant to the Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Petitioners"
+  - name: "Kannon K. Shanmugam"
+    title: "Washington, D.C."
+    for: "the Respondents"
+  sections:
+  - {label: "Bennett", counsel: "Gen. Mark J. Bennett", t: 633.0}
+  - {label: "Jay", counsel: "William M. Jay", t: 1774.7}
+  - {label: "Shanmugam", counsel: "Kannon K. Shanmugam", t: 2387.6}
+  - {label: "Rebuttal", counsel: "Gen. Mark J. Bennett", t: 4196.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/hawaii-v-office-of-hawaiian-affairs/2009-02-25.json
+    checksum: 979a6e3d49dba03468278fbc67e9cef740fd3d09417f6e7942f408eac5f70250
+    media_type: application/json
+    bytes: 77123
 rights:
   status: no-permission-needed
   basis: us-government-work

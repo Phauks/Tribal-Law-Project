@@ -163,6 +163,32 @@ argument_transcripts:
     checksum: 185075a39eac09b5157a776f61cc35d7cbdace374e0c516285c98e8184b29b8f
     media_type: application/pdf
     bytes: 12801978
+argument_timing:
+- date: '1971-10-18'
+  made: official transcript
+  model: Whisper small.en
+  turns: 89
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-840-71-78-19711018.mp3, seconds: 5024.52}
+  span: [0.0, 5024.5]
+  counsel:
+  - name: "A. Raymond Randolph"
+    for: "the Respondent United States"
+  - name: "Marvin J. Bertoch"
+    title: "Salt Lake City, Utah"
+    for: "Respondent First Security Bank of Utah, N.A"
+  - name: "Parker M. Nielson"
+    title: "Salt Lake City, Utah"
+    for: "the Petitioners"
+  sections:
+  - {label: "Randolph", counsel: "A. Raymond Randolph", t: 1757.3}
+  - {label: "Bertoch", counsel: "Marvin J. Bertoch", t: 2986.8}
+  - {label: "Rebuttal", counsel: "Parker M. Nielson", t: 4275.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/affiliated-ute-citizens-v-united-states/1971-10-18.json
+    checksum: 75abebe557df5536c983ebb7cdf2e3249531e25bdfac23f7a9d820d9d4eef4ce
+    media_type: application/json
+    bytes: 84487
 rights:
   status: no-permission-needed
   basis: us-government-work

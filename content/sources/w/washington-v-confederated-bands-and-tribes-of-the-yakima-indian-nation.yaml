@@ -132,6 +132,29 @@ argument_transcripts:
     checksum: 79a494b5317005c9e85a3f289ccf0c77310a25fc1210f716d72a74393bef8d44
     media_type: application/pdf
     bytes: 14023346
+argument_timing:
+- date: '1978-10-02'
+  made: official transcript
+  model: Whisper small.en
+  turns: 243
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-241.mp3, seconds: 11730.96}
+  span: [267.8, 6039.1]
+  counsel:
+  - name: "Slade Gorton"
+    for: "the Appellant;»"
+  - name: "Louis F. Claiborne"
+    for: "Curiae"
+  - name: "James B. Hovis"
+  sections:
+  - {label: "Gorton", counsel: "Slade Gorton", t: 328.9}
+  - {label: "Claiborne", counsel: "Louis F. Claiborne", t: 2571.1}
+  - {label: "Hovis", counsel: "James B. Hovis", t: 3798.1}
+  file:
+    storage_key: supreme-court-transcripts/timed/washington-v-confederated-bands-and-tribes-of-the-yakima-indian-nation/1978-10-02.json
+    checksum: 1da6bf7b5246356aa3b4491108a62ce41a14f8f612404e839116a68a37fe96ea
+    media_type: application/json
+    bytes: 97710
 rights:
   status: no-permission-needed
   basis: us-government-work

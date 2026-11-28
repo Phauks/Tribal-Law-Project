@@ -190,6 +190,58 @@ argument_audio:
     checksum: affcbdf0415ddbf128ea139b01152a2a635fdd5218b3608c7ddabb4d38211997
     media_type: audio/mpeg
     bytes: 60721237
+argument_timing:
+- date: '1973-03-27'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 78
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-20-r1.mp3, seconds: 3797.21}
+  - {key: supreme-court-audio/national-archives/red-series/267-20-r2.mp3, seconds: 3930.88}
+  - {key: supreme-court-audio/national-archives/red-series/267-20-r3.mp3, seconds: 4072.59}
+  - {key: supreme-court-audio/national-archives/red-series/267-20-r4.mp3, seconds: 1628.16}
+  span: [11801.2, 13428.8]
+  counsel:
+  - name: "Lee J. Sclar"
+    for: "petitioner"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep412/usrep412481/usrep412481.pdf
+  - name: "Roderick Walston"
+    title: "Deputy Attorney General of California"
+    for: "respondent"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep412/usrep412481/usrep412481.pdf
+  - name: "Harry R. Sachse"
+    for: "the United States, as amicus curiae, urging reversal"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep412/usrep412481/usrep412481.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/mattz-v-arnett/1973-03-27.json
+    checksum: 3baf11f1677b36fbc435b39fab37cd6ee19f1627d681949e492db0b4a9333df7
+    media_type: application/json
+    bytes: 27594
+- date: '1973-03-28'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 116
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-21-r1.mp3, seconds: 2078.93}
+  - {key: supreme-court-audio/national-archives/red-series/267-21-r2.mp3, seconds: 3062.39}
+  - {key: supreme-court-audio/national-archives/red-series/267-21-r3.mp3, seconds: 3794.94}
+  span: [0.0, 2079.1]
+  counsel:
+  - name: "Lee J. Sclar"
+    for: "petitioner"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep412/usrep412481/usrep412481.pdf
+  - name: "Roderick Walston"
+    title: "Deputy Attorney General of California"
+    for: "respondent"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep412/usrep412481/usrep412481.pdf
+  - name: "Harry R. Sachse"
+    for: "the United States, as amicus curiae, urging reversal"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep412/usrep412481/usrep412481.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/mattz-v-arnett/1973-03-28.json
+    checksum: c5786c8cc5290b06c6a52d839166a7e200ab126b8cfa6a58176ee8ac81826fa6
+    media_type: application/json
+    bytes: 41736
 rights:
   status: no-permission-needed
   basis: us-government-work

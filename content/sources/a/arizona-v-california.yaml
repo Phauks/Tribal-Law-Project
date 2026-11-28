@@ -132,6 +132,37 @@ argument_transcripts:
     checksum: bcbab32df0118b9e24319615aa9121fac767df154053efc94c11e97d7e8fe16c
     media_type: application/pdf
     bytes: 16741425
+argument_timing:
+- date: '1982-12-08'
+  made: official transcript
+  model: Whisper small.en
+  turns: 153
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-422.mp3, seconds: 13998.21}
+  span: [226.2, 5573.9]
+  counsel:
+  - name: "Carl Boronkay"
+    title: "Los Angeles, California"
+    for: "State Parties"
+  - name: "Ralph Hunsaker"
+    title: "Los Angeles, California"
+    for: "the State Parties"
+  - name: "Lawrence A. Aschenbrenner"
+    title: "Washington, D.C."
+    for: "the Indian Tribes"
+  - name: "Louis F. Claiborne"
+    title: "Office of the Solicitor General"
+    for: "the United States"
+  sections:
+  - {label: "Boronkay", counsel: "Carl Boronkay", t: 245.1}
+  - {label: "Hunsaker", counsel: "Ralph Hunsaker", t: 1767.5}
+  - {label: "Aschenbrenner", counsel: "Lawrence A. Aschenbrenner", t: 3008.2}
+  - {label: "Claiborne", counsel: "Louis F. Claiborne", t: 4151.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/arizona-v-california/1982-12-08.json
+    checksum: 66bea1702a9c94bf98d3e6ddf58d40ea73edbc882b5fc0c61dfdc9b55f9920ba
+    media_type: application/json
+    bytes: 84456
 rights:
   status: no-permission-needed
   basis: us-government-work

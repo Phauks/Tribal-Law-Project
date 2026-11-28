@@ -128,6 +128,26 @@ argument_transcripts:
     checksum: 4e77dd2b9a188b63f8c9c9fb27ea065e1a317439a32829e82c33846aff0f7854
     media_type: application/pdf
     bytes: 10060459
+argument_timing:
+- date: '1980-03-24'
+  made: official transcript
+  model: Whisper small.en
+  turns: 211
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-314.mp3, seconds: 15017.69}
+  span: [129.3, 3664.1]
+  counsel:
+  - name: "Andrew J. Levander"
+    for: "the Petitioners"
+  - name: "D. D. Hayes"
+  sections:
+  - {label: "Levander", counsel: "Andrew J. Levander", t: 164.4}
+  - {label: "Hayes", counsel: "D. D. Hayes", t: 1970.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/andrus-v-glover-construction-co/1980-03-24.json
+    checksum: 8e6b64f21733b179b40bb5c3cc40192500af3661b37ddb1100045de3fced1ff1
+    media_type: application/json
+    bytes: 65996
 rights:
   status: no-permission-needed
   basis: us-government-work

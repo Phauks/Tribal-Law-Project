@@ -138,6 +138,38 @@ argument_transcripts:
     checksum: e822f1390831c8d4a2868135baf3e0040f73861b12ef526bfb1733fb5ccc2f9b
     media_type: application/pdf
     bytes: 301611
+argument_timing:
+- date: '2018-11-27'
+  made: official transcript
+  model: Whisper small.en
+  turns: 295
+  recording:
+  - {key: supreme-court-audio/court/2018/17-1107.mp3, seconds: 3893.59}
+  span: [0.0, 3893.6]
+  counsel:
+  - name: "Lisa S. Blatt"
+    title: "Washington, D.C."
+    for: "the Petitioner"
+  - name: "Edwin S. Kneedler"
+    title: "Deputy Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Petitioner"
+  - name: "Ian H. Gershengorn"
+    title: "Washington, D.C."
+    for: "the Respondent"
+  - name: "Riyaz A. Kanji"
+    title: "Ann Arbor, Michigan"
+    for: "Muscogee (creek) Nation as Amicus Curiae, Supporting the Respondent"
+  sections:
+  - {label: "Blatt", counsel: "Lisa S. Blatt", t: 6.4}
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 1122.5}
+  - {label: "Gershengorn", counsel: "Ian H. Gershengorn", t: 1827.8}
+  - {label: "Kanji", counsel: "Riyaz A. Kanji", t: 3046.2}
+  - {label: "Rebuttal", counsel: "Lisa S. Blatt", t: 3739.2}
+  file:
+    storage_key: supreme-court-transcripts/timed/sharp-v-murphy/2018-11-27.json
+    checksum: 5500961b17f9a9a0e88baa917d52168ff843936f3080e8f6602aecb9b40d85ce
+    media_type: application/json
+    bytes: 90604
 rights:
   status: no-permission-needed
   basis: us-government-work

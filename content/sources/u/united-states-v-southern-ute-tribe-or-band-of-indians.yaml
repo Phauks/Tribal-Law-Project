@@ -164,6 +164,26 @@ argument_transcripts:
     checksum: 5544e571a64b34ff5f7de10a534bccb84e795cb92bee4f3896ac465ccbfecb07
     media_type: application/pdf
     bytes: 10298889
+argument_timing:
+- date: '1971-03-01'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 138
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-825-70-515-19710301.mp3, seconds: 4186.46}
+  span: [0.0, 4186.5]
+  counsel:
+  - name: "Lawrence G. Wallace"
+    for: "the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep402/usrep402159/usrep402159.pdf
+  - name: "Glen A. Wilkinson"
+    for: "respondent"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep402/usrep402159/usrep402159.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-southern-ute-tribe-or-band-of-indians/1971-03-01.json
+    checksum: 9c0d1b7e4e1cf37e67b90710b692fd9c6d5f42441f876e72ec5d6fdb91c3b887
+    media_type: application/json
+    bytes: 52420
 rights:
   status: no-permission-needed
   basis: us-government-work

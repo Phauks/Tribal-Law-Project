@@ -128,6 +128,34 @@ argument_transcripts:
     checksum: b1aba591502a533d9c8fa4f2c3cf5f55049c6c3b2652438e2d78ea1c19d24d54
     media_type: application/pdf
     bytes: 11144900
+argument_timing:
+- date: '1998-02-24'
+  made: official transcript
+  model: Whisper small.en
+  turns: 237
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1054.mp3, seconds: 7276.38}
+  span: [3754.8, 7276.4]
+  counsel:
+  - name: "Earl Edwin Maus"
+    title: "County Attorney"
+    for: "the Petitioners"
+  - name: "James M. Schoessler"
+    title: "Minneapolis, Minnesota"
+    for: "the Respondent"
+  - name: "Barbara B. McDowell"
+    title: "Assistant to the Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Respondent"
+  sections:
+  - {label: "Maus", counsel: "Earl Edwin Maus", t: 3823.6}
+  - {label: "Schoessler", counsel: "James M. Schoessler", t: 5263.5}
+  - {label: "McDowell", counsel: "Barbara B. McDowell", t: 6517.9}
+  - {label: "Rebuttal", counsel: "Earl Edwin Maus", t: 7158.8}
+  file:
+    storage_key: supreme-court-transcripts/timed/cass-county-v-leech-lake-band-of-chippewa-indians/1998-02-24.json
+    checksum: fd240ae6799e58475ef05e3e1c26cb63b7c5e88c298358b63cbed54544ad024b
+    media_type: application/json
+    bytes: 69703
 rights:
   status: no-permission-needed
   basis: us-government-work

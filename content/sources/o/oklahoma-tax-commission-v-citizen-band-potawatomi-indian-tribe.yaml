@@ -113,6 +113,33 @@ argument_transcripts:
     checksum: a7c53fc97ca7b301f40376f22b134cf0e784d655e5cd3d2d86749ad3e0026f6b
     media_type: application/pdf
     bytes: 10885471
+argument_timing:
+- date: '1991-01-07'
+  made: official transcript
+  model: Whisper small.en
+  turns: 191
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-787.mp3, seconds: 13205.52}
+  span: [3432.3, 6736.3]
+  counsel:
+  - name: "David Allen Miley"
+    for: "the Petitioner"
+  - name: "Edwin S. Kneedler"
+    title: "Assistant to the Solicitor Gsnaral"
+    for: "the United States as Amicus Curiae"
+  - name: "Michael Minnis"
+    title: "Oklahoma City, Oklahoma"
+    for: "the Respondent"
+  sections:
+  - {label: "Miley", counsel: "David Allen Miley", t: 3502.0}
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 4832.8}
+  - {label: "Minnis", counsel: "Michael Minnis", t: 5458.6}
+  - {label: "Rebuttal", counsel: "David Allen Miley", t: 6515.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/oklahoma-tax-commission-v-citizen-band-potawatomi-indian-tribe/1991-01-07.json
+    checksum: 3cb0200d2af9e0d5ebb22277a25b3e29a9bd1850471c6f671f9593c8efa0f4ad
+    media_type: application/json
+    bytes: 60576
 rights:
   status: no-permission-needed
   basis: us-government-work

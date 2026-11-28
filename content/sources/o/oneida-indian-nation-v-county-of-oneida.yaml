@@ -242,6 +242,62 @@ argument_audio:
     checksum: a51979788fe93093325c357f3d1fc548ffc73092921275f5e05ed9d6760324b0
     media_type: audio/mpeg
     bytes: 16393740
+argument_timing:
+- date: '1973-11-06'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 64
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r1.mp3, seconds: 127.03}
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r2.mp3, seconds: 2893.87}
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r3.mp3, seconds: 2726.43}
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r4.mp3, seconds: 3596.56}
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r5.mp3, seconds: 3379.62}
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r6.mp3, seconds: 1583.1}
+  span: [12707.2, 14306.6]
+  counsel:
+  - name: "George C. Shattuck"
+    for: "petitioners"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep414/usrep414661/usrep414661.pdf
+  - name: "William L. Burke"
+    for: "respondents"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep414/usrep414661/usrep414661.pdf
+  - name: "Jeremiah Jochnowitz"
+    title: "Assistant Attorney General of New York"
+    for: "the State of New York, as amicus curiae, urging affirmance"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep414/usrep414661/usrep414661.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/oneida-indian-nation-v-county-of-oneida/1973-11-06.json
+    checksum: d9ea2b5cc49090328ffcd626d6075e7665d614402858fdaba36da66662227481
+    media_type: application/json
+    bytes: 25632
+- date: '1973-11-07'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 40
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-35-r1.mp3, seconds: 65.75}
+  - {key: supreme-court-audio/national-archives/red-series/267-35-r2.mp3, seconds: 3190.8}
+  - {key: supreme-court-audio/national-archives/red-series/267-35-r3.mp3, seconds: 2304.03}
+  - {key: supreme-court-audio/national-archives/red-series/267-35-r4.mp3, seconds: 3998.46}
+  - {key: supreme-court-audio/national-archives/red-series/267-35-r5.mp3, seconds: 1024.47}
+  span: [9562.4, 10583.5]
+  counsel:
+  - name: "George C. Shattuck"
+    for: "petitioners"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep414/usrep414661/usrep414661.pdf
+  - name: "William L. Burke"
+    for: "respondents"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep414/usrep414661/usrep414661.pdf
+  - name: "Jeremiah Jochnowitz"
+    title: "Assistant Attorney General of New York"
+    for: "the State of New York, as amicus curiae, urging affirmance"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep414/usrep414661/usrep414661.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/oneida-indian-nation-v-county-of-oneida/1973-11-07.json
+    checksum: 6c0dcd752f127a4bde860430418ae647b87a239614820478312da5f7708a1e43
+    media_type: application/json
+    bytes: 17159
 rights:
   status: no-permission-needed
   basis: us-government-work

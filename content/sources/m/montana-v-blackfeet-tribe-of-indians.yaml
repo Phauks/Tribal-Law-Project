@@ -168,6 +168,48 @@ argument_transcripts:
     checksum: 56fb20c9f2d78d08ec8ac6bbfe68ed5f99de15dfa8cf60e57c36847d3f845f39
     media_type: application/pdf
     bytes: 10204965
+argument_timing:
+- date: '1985-01-15'
+  made: official transcript
+  model: Whisper small.en
+  turns: 185
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-510.mp3, seconds: 14152.65}
+  span: [7355.1, 10723.7]
+  counsel:
+  - name: "Deiedre Boggs"
+    for: "the Petitioners"
+  sections:
+  - {label: "Boggs", counsel: "Deiedre Boggs", t: 7388.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/montana-v-blackfeet-tribe-of-indians/1985-01-15.json
+    checksum: 80d9d63fadf8b75da7b64753e6775caf2ec070598076394feb882c8f4ac6a172
+    media_type: application/json
+    bytes: 59905
+- date: '1985-04-23'
+  made: official transcript
+  model: Whisper small.en
+  turns: 59
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-527-r1.mp3, seconds: 6883.55}
+  - {key: supreme-court-audio/national-archives/red-series/267-527-r2.mp3, seconds: 3640.27}
+  span: [3521.8, 6888.3]
+  counsel:
+  - name: "Deiedre Bcggs"
+    title: "Special Assistant Attorney General of Montana"
+    for: "Petitioners"
+  - name: "Jeanne S. Whiteing"
+    title: "Roulder, Colorado"
+    for: "Respondents"
+  sections:
+  - {label: "Bcggs", counsel: "Deiedre Bcggs", t: 3543.8}
+  - {label: "Whiteing", counsel: "Jeanne S. Whiteing", t: 4736.2}
+  - {label: "Rebuttal", counsel: "Deiedre Bcggs", t: 6527.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/montana-v-blackfeet-tribe-of-indians/1985-04-23.json
+    checksum: d69270322851bd8008e0804109bc53a066ab6eb9d95b740f1253f18f9b138a8e
+    media_type: application/json
+    bytes: 48930
 rights:
   status: no-permission-needed
   basis: us-government-work

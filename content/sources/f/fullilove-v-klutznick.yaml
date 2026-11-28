@@ -140,6 +140,31 @@ argument_transcripts:
     checksum: 1c42fdbe593a09ebc9bb07e435502a2bc681f94592153f4dd5fd2f7baffb24c0
     media_type: application/pdf
     bytes: 11459707
+argument_timing:
+- date: '1979-11-27'
+  made: official transcript
+  model: Whisper small.en
+  turns: 205
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-294.mp3, seconds: 14527.48}
+  span: [506.5, 4526.0]
+  counsel:
+  - name: "Robert G. Benzsch"
+    title: "P.C., Garden City"
+    for: "Petitioners. ROBERT J0 HICKEY, ESQ., Kirlin, Campbell £ Keating, On behalf of the Petitioners"
+  - name: "Robert J. Hickey"
+  - name: "Drew S. Days, III"
+    title: ". Assistant Attorney General"
+    for: "Respondents"
+  sections:
+  - {label: "Benzsch", counsel: "Robert G. Benzsch", t: 526.5}
+  - {label: "Hickey", counsel: "Robert J. Hickey", t: 1959.8}
+  - {label: "Days", counsel: "Drew S. Days, III", t: 2647.2}
+  file:
+    storage_key: supreme-court-transcripts/timed/fullilove-v-klutznick/1979-11-27.json
+    checksum: 972c31512af01c18632009dd77d5329397a8aa2bace72e23379dfb841e2ee04a
+    media_type: application/json
+    bytes: 73376
 rights:
   status: no-permission-needed
   basis: us-government-work

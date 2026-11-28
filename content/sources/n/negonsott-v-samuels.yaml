@@ -128,6 +128,34 @@ argument_transcripts:
     checksum: ceda40b5a8f6711fa2a2eeaeb64c7ef86849733e6c331687d57587b57df75f90
     media_type: application/pdf
     bytes: 10228408
+argument_timing:
+- date: '1993-01-11'
+  made: official transcript
+  model: Whisper small.en
+  turns: 158
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-865.mp3, seconds: 13328.3}
+  span: [7220.6, 10415.4]
+  counsel:
+  - name: "Pamela S. Thompson"
+    title: "Stratford, Connecticut"
+    for: "the Petitioner"
+  - name: "Robert T. Stephan"
+    title: "Attorney General of Kansas"
+    for: "the Respondents"
+  - name: "William K. Kelley"
+    title: "Assistant to the Solicitor General"
+    for: "the United States as Amicus Curiae Supporting the Respondents"
+  sections:
+  - {label: "Thompson", counsel: "Pamela S. Thompson", t: 7250.6}
+  - {label: "Stephan", counsel: "Robert T. Stephan", t: 8875.5}
+  - {label: "Kelley", counsel: "William K. Kelley", t: 9816.4}
+  - {label: "Rebuttal", counsel: "Pamela S. Thompson", t: 10200.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/negonsott-v-samuels/1993-01-11.json
+    checksum: 4ef669738e0bdc9824d7ec99e0ab6d8dda74a347017b2736a4059f88ff44d56d
+    media_type: application/json
+    bytes: 58525
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -181,6 +181,29 @@ argument_transcripts:
     checksum: 420df6fdf8fd168a80ca5786c1afc79c537e6d610eee02cf19ff6ce0968a21fb
     media_type: application/pdf
     bytes: 10539310
+argument_timing:
+- date: '1988-10-05'
+  made: official transcript
+  model: Whisper small.en
+  turns: 145
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-669-r1.mp3, seconds: 3660.72}
+  - {key: supreme-court-audio/national-archives/red-series/267-669-r2.mp3, seconds: 3053.61}
+  - {key: supreme-court-audio/national-archives/red-series/267-669-r3.mp3, seconds: 3723.47}
+  - {key: supreme-court-audio/national-archives/red-series/267-669-r4.mp3, seconds: 1124.91}
+  span: [3728.6, 6728.8]
+  counsel:
+  - name: "John Peytun"
+    for: "Appellant"
+  - name: "Walter H. Hyland Cn Behalf Of Tfe Appellee"
+  sections:
+  - {label: "Peytun", counsel: "John Peytun", t: 3748.6}
+  - {label: "Appellee", counsel: "Walter H. Hyland Cn Behalf Of Tfe Appellee", t: 5282.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/city-of-richmond-v-j-a-croson-co/1988-10-05.json
+    checksum: 2930d7b13859f944c347d30c2233fa36a463be4b751d3ad0d2efb3417b354ffb
+    media_type: application/json
+    bytes: 55976
 rights:
   status: no-permission-needed
   basis: us-government-work

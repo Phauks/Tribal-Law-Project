@@ -116,6 +116,26 @@ argument_audio:
     checksum: 1774b5ed17085735ef0ace3d4a071a355fc54c611c5a19114b40d954a90f9ce4
     media_type: audio/mpeg
     bytes: 55324838
+argument_timing:
+- date: '1968-01-15'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 163
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-666-219-19680115.mp3, seconds: 3457.78}
+  span: [0.0, 3457.8]
+  counsel:
+  - name: "Jack Joseph"
+    for: "petitioners"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep390/usrep390468/usrep390468.pdf
+  - name: "Robert S. Rifkind"
+    for: "the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep390/usrep390468/usrep390468.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/peoria-tribe-of-indians-v-united-states/1968-01-15.json
+    checksum: ff00aa3f2d174589932872076bbc466cf472a75cf8be9b2dbede8772842cd5ac
+    media_type: application/json
+    bytes: 53123
 rights:
   status: no-permission-needed
   basis: us-government-work

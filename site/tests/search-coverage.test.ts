@@ -124,7 +124,8 @@ const notSearched: Record<string, string> = {
 	'/nations/[id]/opinions': 'a nation’s opinions, each of which is searched',
 	'/nations/data/[chart]/[bar]': 'the records behind one bar of a chart',
 	'/nations/data/[chart]/sources': 'the sources of one chart',
-	'/forms/[form]/print': 'a form’s print view'
+	'/forms/[form]/print': 'a form’s print view',
+	'/cases/[id]/argument/[date]': 'a case’s oral argument, opened from the case page, which is searched'
 };
 
 function isLeftOut(route: string): boolean {

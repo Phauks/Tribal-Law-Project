@@ -143,6 +143,29 @@ argument_transcripts:
     checksum: ac7b5adccb7123cafa8588b66472a67cd3c94bd02cc279326af00b5170f14b25
     media_type: application/pdf
     bytes: 11571068
+argument_timing:
+- date: '1974-02-26'
+  made: official transcript
+  model: Whisper small.en
+  turns: 286
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-54-r1.mp3, seconds: 3461.59}
+  - {key: supreme-court-audio/national-archives/red-series/267-54-r2.mp3, seconds: 4264.05}
+  span: [3442.1, 7725.6]
+  counsel:
+  - name: "Josef Diamond"
+    for: "the Petitioners"
+  - name: "Slade Gorton"
+    for: "the Respondents"
+  sections:
+  - {label: "Diamond", counsel: "Josef Diamond", t: 3535.9}
+  - {label: "Gorton", counsel: "Slade Gorton", t: 5090.0}
+  - {label: "Rebuttal", counsel: "Josef Diamond", t: 7043.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/defunis-v-odegaard/1974-02-26.json
+    checksum: 96a8a826962efee3b245c62f94e2e63bda4175a9a819e8b4cf97124d5096dfc5
+    media_type: application/json
+    bytes: 87486
 rights:
   status: no-permission-needed
   basis: us-government-work

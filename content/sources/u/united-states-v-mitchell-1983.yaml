@@ -132,6 +132,30 @@ argument_transcripts:
     checksum: 8dc7b3d3542c806832238688bfdfbeebedc338f5f831d67bc3f0c0c1f6af0212
     media_type: application/pdf
     bytes: 12332991
+argument_timing:
+- date: '1983-03-01'
+  made: official transcript
+  model: Whisper small.en
+  turns: 50
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-433.mp3, seconds: 14241.38}
+  span: [3380.3, 7090.0]
+  counsel:
+  - name: "Joshua I. Schwartz"
+    title: "Office of the Solicitor General"
+    for: "the Petitioner"
+  - name: "Charles A. Hobbs"
+    title: "Washington, D.C."
+    for: "the Respondent"
+  sections:
+  - {label: "Schwartz", counsel: "Joshua I. Schwartz", t: 3403.8}
+  - {label: "Hobbs", counsel: "Charles A. Hobbs", t: 5085.1}
+  - {label: "Rebuttal", counsel: "Joshua I. Schwartz", t: 6955.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-mitchell-1983/1983-03-01.json
+    checksum: 5626f37cd7256cd509687b6f9224ade9c0d2782ebff33f08d936a065c4f34a32
+    media_type: application/json
+    bytes: 57501
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -136,6 +136,41 @@ argument_transcripts:
     checksum: 95813d124bbee4d02f26a2a2f7e6c1e2ed403892970aa904ce0c02701bc47047
     media_type: application/pdf
     bytes: 19893377
+argument_timing:
+- date: '1983-03-23'
+  made: official transcript
+  model: Whisper small.en
+  turns: 233
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-437.mp3, seconds: 13047.17}
+  span: [7427.8, 13027.2]
+  counsel:
+  - name: "Jon L. Kyl"
+    for: "the Petitioners in"
+  - name: "Michael T. Greely"
+    title: "Attorney General of Montana"
+    for: "the Petitioner in"
+  - name: "Robert S. Pelcyger"
+    title: "Boulder, Colorado"
+    for: "the Respondent Montana Indian Tribes"
+  - name: "Simon K. Rifkind"
+    title: "New York, New York"
+    for: "the Respondent Arizona Indian Tri3es"
+  - name: "Louis F. Claiborne"
+    title: "Office of the Solicitor General"
+    for: "Respondent United States"
+  sections:
+  - {label: "Kyl", counsel: "Jon L. Kyl", t: 7495.0}
+  - {label: "Greely", counsel: "Michael T. Greely", t: 8747.6}
+  - {label: "Pelcyger", counsel: "Robert S. Pelcyger", t: 9747.2}
+  - {label: "Rifkind", counsel: "Simon K. Rifkind", t: 10975.8}
+  - {label: "Claiborne", counsel: "Louis F. Claiborne", t: 11795.1}
+  - {label: "Rebuttal", counsel: "Jon L. Kyl", t: 12636.1}
+  file:
+    storage_key: supreme-court-transcripts/timed/arizona-v-san-carlos-apache-tribe/1983-03-23.json
+    checksum: c26f1b90b6377c02ce7076d942581e72e9ae70ffe544389e7d7cb1939a73dee9
+    media_type: application/json
+    bytes: 102347
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -134,6 +134,30 @@ argument_transcripts:
     checksum: 6ca687216c02f8fb1d542df49e523680d65194df141a8d07c15ab078f08cec57
     media_type: application/pdf
     bytes: 856810
+argument_timing:
+- date: '2016-04-19'
+  made: official transcript
+  model: Whisper small.en
+  turns: 133
+  recording:
+  - {key: supreme-court-audio/court/2015/15-420.mp3, seconds: 2638.87}
+  span: [0.0, 2638.9]
+  counsel:
+  - name: "Elizabeth B. Prelogar"
+    title: "Assistant to the Solicitor General"
+    for: "the Petitioner"
+  - name: "Steven C. Babcock"
+    title: "Assistant Federal Defender"
+    for: "the Respondent"
+  sections:
+  - {label: "Prelogar", counsel: "Elizabeth B. Prelogar", t: 7.7}
+  - {label: "Babcock", counsel: "Steven C. Babcock", t: 1314.7}
+  - {label: "Rebuttal", counsel: "Elizabeth B. Prelogar", t: 2440.8}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-bryant/2016-04-19.json
+    checksum: 99b8ea451100a2cc7fe340a8596ef00c534c315e90e326c84a6e945e977d7cf1
+    media_type: application/json
+    bytes: 55486
 rights:
   status: no-permission-needed
   basis: us-government-work

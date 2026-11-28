@@ -199,6 +199,87 @@ argument_transcripts:
     checksum: 36a08a862d2eee6f8e8182840c86697dfa11dba435026767413a5b342aa28053
     media_type: application/pdf
     bytes: 15419047
+argument_timing:
+- date: '1969-10-22'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 153
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-754-41-59-19691022-19691023.mp3, seconds: 3484.24}
+  span: [0.0, 3484.2]
+  counsel:
+  - name: "Lon Kile"
+    for: "petitioners in No. 41 (Choctaw Nation et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  - name: "Peyton Ford"
+    for: "petitioner in No. 59 (Cherokee Nation or Tribe of Indians in Oklahoma)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  - name: "M. Darwin Kirk"
+    for: "respondents (Oklahoma et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  - name: "Louis F. Claiborne"
+    for: "the United States as amicus curiae"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/choctaw-nation-v-oklahoma/1969-10-22.json
+    checksum: 7c53e4868a7f344dd69768e925869523f5aceb15a3c0629221e30b1d0dd8a2f4
+    media_type: application/json
+    bytes: 45231
+- date: '1969-10-23'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 266
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-755-41-59-19691022-19691023-1of2.mp3, seconds: 3742.28}
+  - {key: supreme-court-audio/national-archives/black-series/267-755-41-59-19691022-19691023-2of2.mp3, seconds: 1801.35}
+  span: [0.0, 5543.6]
+  counsel:
+  - name: "Lon Kile"
+    for: "petitioners in No. 41 (Choctaw Nation et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  - name: "Peyton Ford"
+    for: "petitioner in No. 59 (Cherokee Nation or Tribe of Indians in Oklahoma)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  - name: "M. Darwin Kirk"
+    for: "respondents (Oklahoma et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  - name: "Louis F. Claiborne"
+    for: "the United States as amicus curiae"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/choctaw-nation-v-oklahoma/1969-10-23.json
+    checksum: 9b17c8ef70936d82380875ca9e805369ea47b8be195b1ee134fce5e4f5ea069c
+    media_type: application/json
+    bytes: 73115
+- date: '1970-03-05'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 137
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-780-41-59-19700305-1of2.mp3, seconds: 3644.79}
+  span: [0.0, 3644.8]
+  counsel:
+  - name: "Lon Kile"
+    for: "petitioners in No. 41 (Choctaw Nation et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  - name: "Peyton Ford"
+    for: "petitioner in No. 59 (Cherokee Nation or Tribe of Indians in Oklahoma)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  - name: "M. Darwin Kirk"
+    for: "respondents (Oklahoma et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  - name: "G. T. Blankenship"
+    title: "Attorney General of Oklahoma"
+    for: "respondents (Oklahoma et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  - name: "Louis F. Claiborne"
+    for: "the United States as amicus curiae"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397620/usrep397620.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/choctaw-nation-v-oklahoma/1970-03-05.json
+    checksum: 89b8062d4d41dfe9add36a17c4b4902032358184cbc375b81786f8956f700b66
+    media_type: application/json
+    bytes: 42941
 rights:
   status: no-permission-needed
   basis: us-government-work

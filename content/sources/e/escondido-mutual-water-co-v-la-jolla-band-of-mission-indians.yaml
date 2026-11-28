@@ -128,6 +128,25 @@ argument_transcripts:
     checksum: 17acbf59e473fd55706457c0573c36c9eb74d2abe9d02500d98b0bd34bc9056d
     media_type: application/pdf
     bytes: 11853857
+argument_timing:
+- date: '1984-03-26'
+  made: official transcript
+  model: Whisper small.en
+  turns: 151
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-480.mp3, seconds: 14745.47}
+  span: [168.8, 3926.0]
+  counsel:
+  - name: "Jerome M. Feit"
+  - name: "Elliott Schulder"
+  sections:
+  - {label: "Feit", counsel: "Jerome M. Feit", t: 898.7}
+  - {label: "Schulder", counsel: "Elliott Schulder", t: 1760.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/escondido-mutual-water-co-v-la-jolla-band-of-mission-indians/1984-03-26.json
+    checksum: b6ba2cfc7a49ea9325059514fd9f46d59de419ee2edbcd898b9a762f337e6b34
+    media_type: application/json
+    bytes: 63825
 rights:
   status: no-permission-needed
   basis: us-government-work

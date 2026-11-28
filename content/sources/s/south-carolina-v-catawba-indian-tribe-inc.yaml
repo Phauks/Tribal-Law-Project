@@ -132,6 +132,25 @@ argument_transcripts:
     checksum: 20f01e562a24c41f2d6bd0e7c0a550eb317ecd23e74f7d68fd82fd189742692d
     media_type: application/pdf
     bytes: 10795708
+argument_timing:
+- date: '1985-12-12'
+  made: official transcript
+  model: Whisper small.en
+  turns: 64
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-544.mp3, seconds: 14253.95}
+  span: [3622.6, 6980.2]
+  counsel:
+  - name: "Janes D. St Clair"
+    title: "Boston, Massachusetts"
+    for: "Petitioners"
+  sections:
+  - {label: "Clair", counsel: "Janes D. St Clair", t: 3642.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/south-carolina-v-catawba-indian-tribe-inc/1985-12-12.json
+    checksum: 5a68d0ae081d3c71f958577fb1c4949d64a342b4fbc33bff599e5f53823dd87a
+    media_type: application/json
+    bytes: 48369
 rights:
   status: no-permission-needed
   basis: us-government-work

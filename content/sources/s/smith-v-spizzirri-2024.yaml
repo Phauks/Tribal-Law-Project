@@ -114,6 +114,30 @@ argument_transcripts:
     checksum: 8a950433877af8b20ab809412c984d5772126dcfb8c9b6936611a92646518d8f
     media_type: application/pdf
     bytes: 334572
+argument_timing:
+- date: '2024-04-22'
+  made: official transcript
+  model: Whisper small.en
+  turns: 102
+  recording:
+  - {key: supreme-court-audio/court/2023/22-1218.mp3, seconds: 2596.27}
+  span: [0.0, 2596.3]
+  counsel:
+  - name: "Daniel L. Geyser"
+    title: "Dallas, Texas"
+    for: "the Petitioners"
+  - name: "E. Joshua Rosenkranz"
+    title: "New York, New York"
+    for: "the Respondents"
+  sections:
+  - {label: "Geyser", counsel: "Daniel L. Geyser", t: 6.7}
+  - {label: "Rosenkranz", counsel: "E. Joshua Rosenkranz", t: 950.9}
+  - {label: "Rebuttal", counsel: "Daniel L. Geyser", t: 2422.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/smith-v-spizzirri-2024/2024-04-22.json
+    checksum: 829343a0b0f27049880a92a4f376b67dbf9a5d8aa38b153b802f182c2468cc21
+    media_type: application/json
+    bytes: 51078
 rights:
   status: no-permission-needed
   basis: us-government-work

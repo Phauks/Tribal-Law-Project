@@ -146,6 +146,52 @@ argument_audio:
     checksum: 7d214db370186491af2dde327031964365c838f5cd431c6ab729fec2d647e05b
     media_type: audio/mpeg
     bytes: 9444622
+argument_timing:
+- date: '1968-01-22'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 257
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-670-187-19680122-1of2.mp3, seconds: 3837.1}
+  - {key: supreme-court-audio/national-archives/black-series/267-670-187-19680122-2of2.mp3, seconds: 2161.42}
+  span: [0.0, 5998.5]
+  counsel:
+  - name: "Charles A. Hobbs"
+    for: "petitioner"
+    source: https://catalog.archives.gov/medialz/mopix/267a/black/267-670-187-19680122-1of2.mp3
+  - name: "Louis F. Claiborne"
+    for: "the United States"
+    source: https://catalog.archives.gov/medialz/mopix/267a/black/267-670-187-19680122-1of2.mp3
+  file:
+    storage_key: supreme-court-transcripts/timed/menominee-tribe-v-united-states/1968-01-22.json
+    checksum: 08728655571af3e7aa62a476f329cb719d4f2fa7e91e528a09966ba4c9991e94
+    media_type: application/json
+    bytes: 88950
+- date: '1968-04-25'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 397
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-693-187-19680425-1of3.mp3, seconds: 3820.43}
+  - {key: supreme-court-audio/national-archives/black-series/267-693-187-19680425-2of3.mp3, seconds: 3866.96}
+  - {key: supreme-court-audio/national-archives/black-series/267-693-187-19680425-3of3.mp3, seconds: 590.26}
+  span: [0.0, 8277.6]
+  counsel:
+  - name: "Charles A. Hobbs"
+    for: "petitioner"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391404/usrep391404.pdf
+  - name: "Louis F. Claiborne"
+    for: "the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391404/usrep391404.pdf
+  - name: "Bronson C. La Follette"
+    title: "Attorney General of Wisconsin"
+    for: "the State of Wisconsin, as amicus curiae"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391404/usrep391404.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/menominee-tribe-v-united-states/1968-04-25.json
+    checksum: 26c96f46e262a6d9f56bb141f8bf5f280f5d8ed13d989051e83d3e81fa3eefbb
+    media_type: application/json
+    bytes: 127506
 rights:
   status: no-permission-needed
   basis: us-government-work

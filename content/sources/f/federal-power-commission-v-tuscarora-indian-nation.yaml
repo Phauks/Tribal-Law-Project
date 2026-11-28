@@ -142,6 +142,32 @@ argument_audio:
     checksum: 3caf92b6c9be0a69842159b6a4db84fee44bc1f4fae974230142deaa15956bbf
     media_type: audio/mpeg
     bytes: 16502281
+argument_timing:
+- date: '1959-12-07'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 436
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-232-63-66-19591207-1of3.mp3, seconds: 4523.55}
+  - {key: supreme-court-audio/national-archives/black-series/267-232-63-66-19591207-2of3.mp3, seconds: 4055.33}
+  - {key: supreme-court-audio/national-archives/black-series/267-232-63-66-19591207-3of3.mp3, seconds: 1031.37}
+  span: [0.0, 9610.2]
+  counsel:
+  - name: "J. Lee Rankin"
+    title: "Solicitor General"
+    for: "petitioner in No. 63 (Federal Power Commission)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep362/usrep362099/usrep362099.pdf
+  - name: "Thomas F. Moore, Jr."
+    for: "petitioner in No. 66 (Power Authority of the State of New York)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep362/usrep362099/usrep362099.pdf
+  - name: "Arthur Lazarus, Jr."
+    for: "respondent"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep362/usrep362099/usrep362099.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/federal-power-commission-v-tuscarora-indian-nation/1959-12-07.json
+    checksum: 02ab0287f29f2675eff8620d8f6b00e3329d1318db82824b31f2baa15f598c35
+    media_type: application/json
+    bytes: 149968
 rights:
   status: no-permission-needed
   basis: us-government-work

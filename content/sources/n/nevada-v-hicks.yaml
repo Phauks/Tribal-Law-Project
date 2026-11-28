@@ -118,6 +118,33 @@ argument_transcripts:
     checksum: 88cd13ca678cf10441ad8ef36434ffc1c82c872a61d3985897566eeb7e11d18f
     media_type: application/pdf
     bytes: 74680
+argument_timing:
+- date: '2001-03-21'
+  made: official transcript
+  model: Whisper small.en
+  turns: 375
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1179.mp3, seconds: 7952.48}
+  span: [4341.0, 7952.5]
+  counsel:
+  - name: "C. Wayne Howle"
+    for: "Petitioner"
+  - name: "S. James Anaya"
+    title: "Tucson, Arizona"
+    for: "Respondents"
+  - name: "Barbara McDowell"
+    title: "Assistant to the Solicitor General"
+    for: "the United States as Amicus Curiae, Supporting Affirmance"
+  sections:
+  - {label: "Howle", counsel: "C. Wayne Howle", t: 4376.8}
+  - {label: "Anaya", counsel: "S. James Anaya", t: 5961.6}
+  - {label: "McDowell", counsel: "Barbara McDowell", t: 7183.8}
+  - {label: "Rebuttal", counsel: "C. Wayne Howle", t: 7807.2}
+  file:
+    storage_key: supreme-court-transcripts/timed/nevada-v-hicks/2001-03-21.json
+    checksum: 31e7dfb672bad03d3bf6cfabf2cf64006a9fae04feb5f2d1c19ca084e773e681
+    media_type: application/json
+    bytes: 84853
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -128,6 +128,135 @@
         "checked": { "$ref": "common.schema.json#/$defs/calendarDate" }
       }
     },
+    "argument_timing": {
+      "type": "array",
+      "description": "The argument's transcript with the moment each turn begins, for the argument player: one per day of argument with a recording. Where the Court has a transcript, its turns are timed against the recording; where it has none (before the October 1968 term, and four later arguments), the transcript is the words a speech recognition model heard, with the speakers not marked. Made and stored by scripts/caselaw/supreme_court_argument_timing.py.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "date",
+          "made",
+          "model",
+          "recording",
+          "span",
+          "file"
+        ],
+        "properties": {
+          "date": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+            "description": "The day of the argument."
+          },
+          "made": {
+            "type": "string",
+            "enum": [
+              "official transcript",
+              "speech recognition"
+            ],
+            "description": "Whether the text is the Court's transcript, timed, or our own made by speech recognition."
+          },
+          "model": {
+            "type": "string",
+            "description": "The speech recognition model that heard the recording (\"Whisper small.en\")."
+          },
+          "turns": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Turns (or, for our own transcripts, paragraphs) in the file."
+          },
+          "recording": {
+            "type": "array",
+            "description": "The recording's files in playing order (the record's argument_audio files), each with its length as heard; the times are from the start of the first.",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "key",
+                "seconds"
+              ],
+              "properties": {
+                "key": {
+                  "type": "string",
+                  "description": "The file's storage key."
+                },
+                "seconds": {
+                  "type": "number",
+                  "minimum": 0
+                }
+              }
+            }
+          },
+          "span": {
+            "type": "array",
+            "items": {
+              "type": "number",
+              "minimum": 0
+            },
+            "minItems": 2,
+            "maxItems": 2,
+            "description": "Where the argument lies in the recording, in seconds: all of it for a case's own file, part of a whole day's reels."
+          },
+          "counsel": {
+            "type": "array",
+            "description": "Who argued: from the transcript's appearances and headings, or, with no transcript, from the report's syllabus (research/supreme-court-coverage/argument-counsel.csv).",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "name"
+              ],
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "title": {
+                  "type": "string",
+                  "description": "Office or city, as the appearances give it."
+                },
+                "for": {
+                  "type": "string",
+                  "description": "Whom the counsel argued for, as the source says it."
+                },
+                "source": {
+                  "type": "string",
+                  "format": "uri",
+                  "description": "The report the counsel is named in, where there is no transcript."
+                }
+              }
+            }
+          },
+          "sections": {
+            "type": "array",
+            "description": "Where each counsel's argument (and rebuttal) begins, in seconds, from the transcript's headings.",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "label",
+                "counsel",
+                "t"
+              ],
+              "properties": {
+                "label": {
+                  "type": "string"
+                },
+                "counsel": {
+                  "type": "string"
+                },
+                "t": {
+                  "type": "number",
+                  "minimum": 0
+                }
+              }
+            }
+          },
+          "file": {
+            "$ref": "#/properties/file"
+          }
+        }
+      }
+    },
     "argument_transcripts": {
       "type": "array",
       "description": "Official transcripts of the court hearing the case argued, one per day of argument. For the Supreme Court, from the Court's own site, which has one for every argument since the October 1968 term (the Court's library scans before the 2000 term). Listed and stored by scripts/caselaw/supreme_court_argument_transcripts.py; the plan is research/supreme-court-coverage/argument-transcripts.csv.",

@@ -109,6 +109,34 @@ argument_audio:
     checksum: cf60bd349b8135ba230952d52500b3772e4b7eff9bdbfd87b42e0b08da7b7fff
     media_type: audio/mpeg
     bytes: 119455785
+argument_timing:
+- date: '2000-04-25'
+  made: official transcript
+  model: Whisper small.en
+  turns: 284
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1147.mp3, seconds: 7465.85}
+  span: [4035.4, 7465.9]
+  counsel:
+  - name: "Jeffrey P. Minear"
+    title: "Assistant to the Solicitor General"
+    for: "the United States"
+  - name: "Mason D. Morisset"
+    title: "Seattle, Washington"
+    for: "the Quechan Indian Tribe"
+  - name: "Jerome C. Muys"
+    title: "Washington, D.C."
+    for: "the State Parties"
+  sections:
+  - {label: "Minear", counsel: "Jeffrey P. Minear", t: 4118.8}
+  - {label: "Morisset", counsel: "Mason D. Morisset", t: 5183.3}
+  - {label: "Muys", counsel: "Jerome C. Muys", t: 5530.1}
+  - {label: "Rebuttal", counsel: "Jeffrey P. Minear", t: 7321.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/arizona-v-california-2000-531-1/2000-04-25.json
+    checksum: 699d6916eafc2d1efd2293a9e821fec87ca0a569202cf35982b71d9eeddd6f06
+    media_type: application/json
+    bytes: 79405
 rights:
   status: no-permission-needed
   basis: us-government-work

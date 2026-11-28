@@ -122,6 +122,10 @@ const bucketCalls: Record<string, BucketUse> = {
     kind: "project-file",
     why: "The watch Worker's own progress record: counts, run outcomes and model spend, never an item's text.",
   },
+  "src/routes/cases/[id]/argument/[date]/+page.server.ts load get(day.timed.key)": {
+    kind: "project-file",
+    why: "An argument's timed transcript, which scripts/caselaw/supreme_court_argument_timing.py makes from the Court's transcript or the recording; read as JSON and checked against its SHA-256, never served as a file.",
+  },
   "src/lib/server/uploads.ts finishUpload get(upload.original_key)": {
     kind: "kept-not-served",
     why: "Reads a sent picture to make its copy without location details; both are put in line for the scan, and neither is served until it passes.",

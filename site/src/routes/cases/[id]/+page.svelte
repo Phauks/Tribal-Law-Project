@@ -183,6 +183,12 @@
 {/snippet}
 
 <style>
+	/* The headphones before a day the argument player can play (src/lib/server/case-arguments.ts). */
+	:global(.fact-icon) {
+		vertical-align: -3px;
+		margin-right: 0.3rem;
+	}
+
 	.lead-facts {
 		color: var(--color-ink-muted);
 	}

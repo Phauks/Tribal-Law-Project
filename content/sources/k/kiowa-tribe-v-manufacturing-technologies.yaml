@@ -117,6 +117,33 @@ argument_transcripts:
     checksum: c9e672e5c9bba385bd271b5cf9d433f025cbe99b2b865b9efb0e092eba2738e3
     media_type: application/pdf
     bytes: 11166383
+argument_timing:
+- date: '1998-01-12'
+  made: official transcript
+  model: Whisper small.en
+  turns: 197
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1048.mp3, seconds: 10651.66}
+  span: [7186.5, 10651.7]
+  counsel:
+  - name: "R. Brown Wallace"
+    for: "the Petitioner"
+  - name: "Edward C. Dumont"
+    title: "Assistant to the Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Petitioner"
+  - name: "John E. Patterson, Jr."
+    title: "Oklahoma City, Oklahoma"
+    for: "the Respondent"
+  sections:
+  - {label: "Wallace", counsel: "R. Brown Wallace", t: 7219.1}
+  - {label: "Dumont", counsel: "Edward C. Dumont", t: 8087.1}
+  - {label: "Patterson", counsel: "John E. Patterson, Jr.", t: 8990.2}
+  - {label: "Rebuttal", counsel: "R. Brown Wallace", t: 10594.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/kiowa-tribe-v-manufacturing-technologies/1998-01-12.json
+    checksum: 912446a4711a6ab479525d305f6a7ef7440f3243f059fabb2b3d3b90bf68757c
+    media_type: application/json
+    bytes: 66807
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -171,6 +171,33 @@ argument_transcripts:
     checksum: 47499ebb140529313b2a34a93621a62fce283a3cf05e8faadbbc5b73426d01b9
     media_type: application/pdf
     bytes: 604590
+argument_timing:
+- date: '2022-10-31'
+  made: official transcript
+  model: Whisper small.en
+  turns: 420
+  recording:
+  - {key: supreme-court-audio/court/2022/20-1199.mp3, seconds: 6915.48}
+  span: [0.0, 6915.5]
+  counsel:
+  - name: "Cameron T. Norris"
+    title: "Arlington, Virginia"
+    for: "the Petitioner"
+  - name: "Seth P. Waxman"
+    title: "Washington, D.C."
+    for: "the Respondent"
+  - name: "Gen. Elizabeth B. Prelogar"
+    for: "the United States, as Amicus Curiae, Supporting the Respondent"
+  sections:
+  - {label: "Norris", counsel: "Cameron T. Norris", t: 9.8}
+  - {label: "Waxman", counsel: "Seth P. Waxman", t: 2077.6}
+  - {label: "Prelogar", counsel: "Gen. Elizabeth B. Prelogar", t: 5496.4}
+  - {label: "Rebuttal", counsel: "Cameron T. Norris", t: 6733.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/students-for-fair-admissions-v-harvard/2022-10-31.json
+    checksum: 61aab1f4a57777abfee4cd39c3e8aaf74c03a2096580991044d5663c70d41c7d
+    media_type: application/json
+    bytes: 145261
 rights:
   status: no-permission-needed
   basis: us-government-work

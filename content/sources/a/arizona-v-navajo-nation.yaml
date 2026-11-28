@@ -139,6 +139,34 @@ argument_transcripts:
     checksum: e90a362e013bd78096d19a76bbcbe013413387fbd12857206e664dba04418378
     media_type: application/pdf
     bytes: 626021
+argument_timing:
+- date: '2023-03-20'
+  made: official transcript
+  model: Whisper small.en
+  turns: 512
+  recording:
+  - {key: supreme-court-audio/court/2022/21-1484.mp3, seconds: 6602.45}
+  span: [0.0, 6602.4]
+  counsel:
+  - name: "Frederick Liu"
+    title: "Assistant to the Solicitor General"
+    for: "the Federal Parties"
+  - name: "Rita P. Maguire"
+    title: "Phoenix, Arizona"
+    for: "the State Parties"
+  - name: "Shay Dvoretzky"
+    title: "Washington, D.C."
+    for: "the Navajo Nation"
+  sections:
+  - {label: "Liu", counsel: "Frederick Liu", t: 9.5}
+  - {label: "Maguire", counsel: "Rita P. Maguire", t: 2923.4}
+  - {label: "Dvoretzky", counsel: "Shay Dvoretzky", t: 3650.2}
+  - {label: "Rebuttal", counsel: "Frederick Liu", t: 6414.9}
+  file:
+    storage_key: supreme-court-transcripts/timed/arizona-v-navajo-nation/2023-03-20.json
+    checksum: 78ee542576aaf653c8fcb0ceb9c3a49a3ec45c97d96652dddde3470ab4d40ae9
+    media_type: application/json
+    bytes: 150978
 rights:
   status: no-permission-needed
   basis: us-government-work

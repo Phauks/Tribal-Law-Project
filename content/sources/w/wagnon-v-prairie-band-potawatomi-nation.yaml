@@ -144,6 +144,34 @@ argument_transcripts:
     checksum: 2758705f73bbccf0c1767089e7cb88e2be87d16b3a1ea278037c3af8a6bdfd8c
     media_type: application/pdf
     bytes: 232658
+argument_timing:
+- date: '2005-10-03'
+  made: official transcript
+  model: Whisper small.en
+  turns: 393
+  recording:
+  - {key: supreme-court-audio/national-archives/gold-series/267a-1347.mp3, seconds: 7789.99}
+  span: [4114.4, 7790.0]
+  counsel:
+  - name: "Theodore B. Olson"
+    title: "Washington, D.C."
+    for: "Petitioner"
+  - name: "Ian Heath Gershengorn"
+    title: "Washington, D.C."
+    for: "Respondent"
+  - name: "Edwin S. Kneedler"
+    title: "Deputy Solicitor General"
+    for: "the United States"
+  sections:
+  - {label: "Olson", counsel: "Theodore B. Olson", t: 4137.4}
+  - {label: "Gershengorn", counsel: "Ian Heath Gershengorn", t: 5679.1}
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 6898.4}
+  - {label: "Rebuttal", counsel: "Theodore B. Olson", t: 7512.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/wagnon-v-prairie-band-potawatomi-nation/2005-10-03.json
+    checksum: b21d413737ac016651cc8fe6bb327375349af6e7cb6fefe824c6b029bd0ee7d9
+    media_type: application/json
+    bytes: 93714
 rights:
   status: no-permission-needed
   basis: us-government-work

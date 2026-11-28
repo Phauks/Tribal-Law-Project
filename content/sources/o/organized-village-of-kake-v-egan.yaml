@@ -208,6 +208,69 @@ argument_audio:
     checksum: 387f8cc7055f4995e0a5543d1581857b84e16e6fe42c6cd8217de6467dfee013
     media_type: audio/mpeg
     bytes: 63618402
+argument_timing:
+- date: '1961-12-13'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 22
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-354-2-3-19611213-19611214.mp3, seconds: 441.29}
+  span: [0.0, 441.3]
+  counsel:
+  - name: "John W. Cragun"
+    for: "appellants (Organized Village of Kake et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369060/usrep369060.pdf
+  - name: "Richard Schifter"
+    for: "appellant in No. 2 (Metlakatla Indian Community)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369045/usrep369045.pdf
+  - name: "Ralph E. Moody"
+    title: "Attorney General of Alaska"
+    for: "appellee"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369060/usrep369060.pdf
+  - name: "Avrum M. Gross"
+    title: "Assistant Attorney General of Alaska"
+    for: "appellee"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369060/usrep369060.pdf
+  - name: "Oscar H. Davis"
+    for: "the United States, as amicus curiae, urging reversal"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369060/usrep369060.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/organized-village-of-kake-v-egan/1961-12-13.json
+    checksum: 83409ed913d247693d0324143bbba3752254ecb53905aea1360b2cf8a19b7e02
+    media_type: application/json
+    bytes: 8437
+- date: '1961-12-14'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 499
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-355-2-3-19611213-19611214-1of3.mp3, seconds: 3915.65}
+  - {key: supreme-court-audio/national-archives/black-series/267-355-2-3-19611213-19611214-2of3.mp3, seconds: 4090.7}
+  - {key: supreme-court-audio/national-archives/black-series/267-355-2-3-19611213-19611214-3of3.mp3, seconds: 2932.79}
+  span: [0.0, 10939.1]
+  counsel:
+  - name: "John W. Cragun"
+    for: "appellants (Organized Village of Kake et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369060/usrep369060.pdf
+  - name: "Richard Schifter"
+    for: "appellant in No. 2 (Metlakatla Indian Community)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369045/usrep369045.pdf
+  - name: "Ralph E. Moody"
+    title: "Attorney General of Alaska"
+    for: "appellee"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369060/usrep369060.pdf
+  - name: "Avrum M. Gross"
+    title: "Assistant Attorney General of Alaska"
+    for: "appellee"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369060/usrep369060.pdf
+  - name: "Oscar H. Davis"
+    for: "the United States, as amicus curiae, urging reversal"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369060/usrep369060.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/organized-village-of-kake-v-egan/1961-12-14.json
+    checksum: ff01011100be279dfdf2b031ac5639a7ed601657d8d6056d72e477e8425c0edc
+    media_type: application/json
+    bytes: 181105
 rights:
   status: no-permission-needed
   basis: us-government-work

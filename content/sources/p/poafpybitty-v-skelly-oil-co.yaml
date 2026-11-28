@@ -116,6 +116,26 @@ argument_audio:
     checksum: 28849171c7cebf6e2ef376eedbd2e86e51f83252107a64b54d7359f27fe40879
     media_type: audio/mpeg
     bytes: 51956505
+argument_timing:
+- date: '1968-01-24'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 109
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-672-65-19680124.mp3, seconds: 3247.26}
+  span: [0.0, 3247.3]
+  counsel:
+  - name: "Charles Hill Johns"
+    for: "petitioners"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep390/usrep390365/usrep390365.pdf
+  - name: "John H. Cantrell"
+    for: "respondent"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep390/usrep390365/usrep390365.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/poafpybitty-v-skelly-oil-co/1968-01-24.json
+    checksum: 191a8ddea1dfe540800c62d101e793f22e2b46bbbae6697c339cc85d83bc9107
+    media_type: application/json
+    bytes: 37637
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -132,6 +132,34 @@ argument_transcripts:
     checksum: 542e0a5386dc5cdc5bd44853ad4587ac11e662578bcf4b0700cccb897694c80f
     media_type: application/pdf
     bytes: 188966
+argument_timing:
+- date: '2003-03-31'
+  made: official transcript
+  model: Whisper small.en
+  turns: 269
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1259.mp3, seconds: 8116.27}
+  span: [935.9, 4531.5]
+  counsel:
+  - name: "John D. Kirby"
+    title: "San Diego, California"
+    for: "the Petitioners"
+  - name: "Barbara B. McDowell"
+    title: "Assistant to the Solicitor General"
+    for: "the United States as Amicus Curiae Supporting the Petitioners in Part and the Respondents in Part"
+  - name: "Reid Peyton Chambers"
+    title: "Washington, D.C."
+    for: "the Respondents"
+  sections:
+  - {label: "Kirby", counsel: "John D. Kirby", t: 968.4}
+  - {label: "McDowell", counsel: "Barbara B. McDowell", t: 2217.7}
+  - {label: "Chambers", counsel: "Reid Peyton Chambers", t: 2833.3}
+  - {label: "Rebuttal", counsel: "John D. Kirby", t: 4293.2}
+  file:
+    storage_key: supreme-court-transcripts/timed/inyo-county-v-paiute-shoshone-indians-of-the-bishop-community/2003-03-31.json
+    checksum: 434325282e97a92b51bbad07cea90aad1ce855d8e18f0b091bcba6eb2af6a95f
+    media_type: application/json
+    bytes: 81264
 rights:
   status: no-permission-needed
   basis: us-government-work

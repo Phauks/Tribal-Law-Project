@@ -153,6 +153,30 @@ argument_transcripts:
     checksum: 9af5804015f1b50b4214d63b01d034b2d8d61fa415877dc45a3dd56f289b0b33
     media_type: application/pdf
     bytes: 348315
+argument_timing:
+- date: '2012-04-18'
+  made: official transcript
+  model: Whisper small.en
+  turns: 339
+  recording:
+  - {key: supreme-court-audio/court/2011/11-551.mp3, seconds: 3466.58}
+  span: [0.0, 3466.6]
+  counsel:
+  - name: "Mark R. Freeman"
+    title: "Assistant to the Solicitor General"
+    for: "the Petitioners"
+  - name: "Carter G. Phillips"
+    title: "Washington, D.C."
+    for: "the Respondents"
+  sections:
+  - {label: "Freeman", counsel: "Mark R. Freeman", t: 9.8}
+  - {label: "Phillips", counsel: "Carter G. Phillips", t: 1577.4}
+  - {label: "Rebuttal", counsel: "Mark R. Freeman", t: 3196.7}
+  file:
+    storage_key: supreme-court-transcripts/timed/salazar-v-ramah-navajo-chapter/2012-04-18.json
+    checksum: b2f6382f350cff70bf33bcf3b1c2cc7a7336c9196c4c77cf3bb4cd3688345510
+    media_type: application/json
+    bytes: 89843
 rights:
   status: no-permission-needed
   basis: us-government-work

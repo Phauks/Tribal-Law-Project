@@ -139,6 +139,34 @@ argument_transcripts:
     checksum: dff98344822d0725dc3707f2eff6de6925b3318124ec2980f93e775656a23cf8
     media_type: application/pdf
     bytes: 635090
+argument_timing:
+- date: '2024-03-25'
+  made: official transcript
+  model: Whisper small.en
+  turns: 483
+  recording:
+  - {key: supreme-court-audio/court/2023/23-250.mp3, seconds: 5188.08}
+  span: [0.0, 5188.1]
+  counsel:
+  - name: "Caroline A. Flynn"
+    title: "Assistant to the Solicitor General"
+    for: "the Petitioners"
+  - name: "Adam G. Unikowsky"
+    title: "Washington, D.C."
+    for: "the Respondent in 23-253"
+  - name: "Lloyd B. Miller"
+    title: "Washington, D.C."
+    for: "the Respondent in 23-250"
+  sections:
+  - {label: "Flynn", counsel: "Caroline A. Flynn", t: 9.5}
+  - {label: "Unikowsky", counsel: "Adam G. Unikowsky", t: 2095.5}
+  - {label: "Miller", counsel: "Lloyd B. Miller", t: 3832.5}
+  - {label: "Rebuttal", counsel: "Caroline A. Flynn", t: 4882.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/becerra-v-san-carlos-apache-tribe/2024-03-25.json
+    checksum: 6ac7533ee380835a34a0fda5ab7b5d1350f193cc0f39a35b543054a880954d3b
+    media_type: application/json
+    bytes: 132277
 rights:
   status: no-permission-needed
   basis: us-government-work

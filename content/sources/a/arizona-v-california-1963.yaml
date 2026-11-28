@@ -371,6 +371,126 @@ argument_audio:
     checksum: 7d5d8c0d01bd4fd453d534487d180be18e864025d5b4d6f7fbffebe2c5143d52
     media_type: audio/mpeg
     bytes: 12428015
+argument_timing:
+- date: '1962-01-08'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 652
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-356-8-19620108-19620109-1of4.mp3, seconds: 4274.6}
+  - {key: supreme-court-audio/national-archives/black-series/267-356-8-19620108-19620109-2of4.mp3, seconds: 4281.94}
+  - {key: supreme-court-audio/national-archives/black-series/267-356-8-19620108-19620109-3of4.mp3, seconds: 4276.14}
+  - {key: supreme-court-audio/national-archives/black-series/267-356-8-19620108-19620109-4of4.mp3, seconds: 1122.93}
+  span: [0.0, 13955.6]
+  file:
+    storage_key: supreme-court-transcripts/timed/arizona-v-california-1963/1962-01-08.json
+    checksum: 238bc05f6897bf1238183a1c69d3a42a7096b050911a3aee75fb0b1d2f3d6f00
+    media_type: application/json
+    bytes: 217152
+- date: '1962-01-09'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 672
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-357-8-19620108-19620109-1of4.mp3, seconds: 4249.0}
+  - {key: supreme-court-audio/national-archives/black-series/267-357-8-19620108-19620109-2of4.mp3, seconds: 4519.73}
+  - {key: supreme-court-audio/national-archives/black-series/267-357-8-19620108-19620109-3of4.mp3, seconds: 4159.19}
+  - {key: supreme-court-audio/national-archives/black-series/267-357-8-19620108-19620109-4of4.mp3, seconds: 1038.0}
+  span: [0.0, 13965.9]
+  file:
+    storage_key: supreme-court-transcripts/timed/arizona-v-california-1963/1962-01-09.json
+    checksum: 72df6db101e8f9af2a534f84077ee5d2d4de87f104191fb20af4d4ba9cdb88a8
+    media_type: application/json
+    bytes: 216674
+- date: '1962-01-10'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 599
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-358-8-19620109-19620110-1of4.mp3, seconds: 4476.6}
+  - {key: supreme-court-audio/national-archives/black-series/267-358-8-19620109-19620110-2of4.mp3, seconds: 4274.13}
+  - {key: supreme-court-audio/national-archives/black-series/267-358-8-19620109-19620110-3of4.mp3, seconds: 4160.13}
+  - {key: supreme-court-audio/national-archives/black-series/267-358-8-19620109-19620110-4of4.mp3, seconds: 1525.47}
+  span: [0.0, 14436.3]
+  file:
+    storage_key: supreme-court-transcripts/timed/arizona-v-california-1963/1962-01-10.json
+    checksum: 55851fa3d17aec06d9eb58432aac8ed5ca22305fe88268b27a7f692666e0a930
+    media_type: application/json
+    bytes: 195336
+- date: '1962-01-11'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 589
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-359-8-19620110-19620111-1of4.mp3, seconds: 4058.8}
+  - {key: supreme-court-audio/national-archives/black-series/267-359-8-19620110-19620111-2of4.mp3, seconds: 4532.82}
+  - {key: supreme-court-audio/national-archives/black-series/267-359-8-19620110-19620111-3of4.mp3, seconds: 4098.09}
+  - {key: supreme-court-audio/national-archives/black-series/267-359-8-19620110-19620111-4of4.mp3, seconds: 2524.79}
+  span: [0.0, 15214.5]
+  file:
+    storage_key: supreme-court-transcripts/timed/arizona-v-california-1963/1962-01-11.json
+    checksum: e48d0c0b348dbad4efae08128dc105d20cc4af25efc7ba9d3079ca2395251186
+    media_type: application/json
+    bytes: 212669
+- date: '1962-11-13'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 682
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-402-8-19621113-19621114-1of4.mp3, seconds: 4210.13}
+  - {key: supreme-court-audio/national-archives/black-series/267-402-8-19621113-19621114-2of4.mp3, seconds: 4151.77}
+  - {key: supreme-court-audio/national-archives/black-series/267-402-8-19621113-19621114-3of4.mp3, seconds: 4141.74}
+  - {key: supreme-court-audio/national-archives/black-series/267-402-8-19621113-19621114-4of4.mp3, seconds: 1126.43}
+  span: [0.0, 13630.1]
+  counsel:
+  - name: "Mark Wilmer"
+    for: "complainant"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep373/usrep373546/usrep373546.pdf
+  - name: "Northcutt Ely"
+    title: "Special Assistant Attorney General of California"
+    for: "the State of California et al. (defendants)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep373/usrep373546/usrep373546.pdf
+  - name: "Archibald Cox"
+    title: "Solicitor General"
+    for: "the United States (intervener)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep373/usrep373546/usrep373546.pdf
+  - name: "R. P. Parry"
+    for: "the State of Nevada (intervener)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep373/usrep373546/usrep373546.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/arizona-v-california-1963/1962-11-13.json
+    checksum: 2c2d2fb0e8fe4d553c9b44bbea44b888228b7358cf9ab03d7933923fa2be9da6
+    media_type: application/json
+    bytes: 232806
+- date: '1962-11-14'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 336
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-403-8-19621113-19621114-1of3.mp3, seconds: 4104.49}
+  - {key: supreme-court-audio/national-archives/black-series/267-403-8-19621113-19621114-2of3.mp3, seconds: 4113.66}
+  - {key: supreme-court-audio/national-archives/black-series/267-403-8-19621113-19621114-3of3.mp3, seconds: 776.72}
+  span: [0.0, 8994.9]
+  counsel:
+  - name: "Mark Wilmer"
+    for: "complainant"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep373/usrep373546/usrep373546.pdf
+  - name: "Northcutt Ely"
+    title: "Special Assistant Attorney General of California"
+    for: "the State of California et al. (defendants)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep373/usrep373546/usrep373546.pdf
+  - name: "Archibald Cox"
+    title: "Solicitor General"
+    for: "the United States (intervener)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep373/usrep373546/usrep373546.pdf
+  - name: "R. P. Parry"
+    for: "the State of Nevada (intervener)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep373/usrep373546/usrep373546.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/arizona-v-california-1963/1962-11-14.json
+    checksum: 940052804d4c2fc5a04069e82127bff579b735476226d310e9b6a33a4630bf36
+    media_type: application/json
+    bytes: 130222
 rights:
   status: no-permission-needed
   basis: us-government-work

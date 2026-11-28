@@ -164,6 +164,27 @@ argument_transcripts:
     checksum: fa1985e726221b0fe2557f9655e1c3def8ecc00de7686b4212c665494f8c1e81
     media_type: application/pdf
     bytes: 10610512
+argument_timing:
+- date: '1973-04-18'
+  made: official transcript
+  model: Whisper small.en
+  turns: 103
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-24-r1.mp3, seconds: 2647.67}
+  - {key: supreme-court-audio/national-archives/red-series/267-24-r2.mp3, seconds: 3905.93}
+  - {key: supreme-court-audio/national-archives/red-series/267-24-r3.mp3, seconds: 3895.75}
+  - {key: supreme-court-audio/national-archives/red-series/267-24-r4.mp3, seconds: 4056.14}
+  span: [2842.4, 6573.1]
+  counsel:
+  - name: "Paul C. Duncan"
+    for: "Petitioner State of Oklahoma"
+  sections:
+  - {label: "Duncan", counsel: "Paul C. Duncan", t: 3961.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-mason/1973-04-18.json
+    checksum: 4740313d3ae46091f490903539dfb374fe0519b929d8b91ed4730331efaa3554
+    media_type: application/json
+    bytes: 59425
 rights:
   status: no-permission-needed
   basis: us-government-work

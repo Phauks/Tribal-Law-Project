@@ -144,6 +144,30 @@ argument_transcripts:
     checksum: 58b794c8c67fdb2269256b8a618546125658dceec926f4e6aa79fe4db269f63c
     media_type: application/pdf
     bytes: 12767814
+argument_timing:
+- date: '1995-01-17'
+  made: official transcript
+  model: Whisper small.en
+  turns: 293
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-941.mp3, seconds: 11261.41}
+  span: [110.6, 3857.4]
+  counsel:
+  - name: "William Perry Pendley"
+    title: "Denver, Colorado"
+    for: "the Petitioner"
+  - name: "Drew S. Days, III"
+    title: "Solicitor General"
+    for: "the Respondents"
+  sections:
+  - {label: "Pendley", counsel: "William Perry Pendley", t: 142.2}
+  - {label: "Days", counsel: "Drew S. Days, III", t: 1730.6}
+  - {label: "Rebuttal", counsel: "William Perry Pendley", t: 3577.7}
+  file:
+    storage_key: supreme-court-transcripts/timed/adarand-constructors-inc-v-pena/1995-01-17.json
+    checksum: ee954feee9f4c5f3b07fac6f9d75ddfe2c2654b7ab5bfa403f0657fdf2cdee2d
+    media_type: application/json
+    bytes: 78065
 rights:
   status: no-permission-needed
   basis: us-government-work

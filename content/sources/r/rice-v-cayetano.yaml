@@ -130,6 +130,34 @@ argument_transcripts:
     checksum: 17381ccce210929786bc1099454a99cbb3e0af2d4758e7badedad496811b7dad
     media_type: application/pdf
     bytes: 13720220
+argument_timing:
+- date: '1999-10-06'
+  made: official transcript
+  model: Whisper small.en
+  turns: 308
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1112.mp3, seconds: 7284.19}
+  span: [3514.9, 7284.2]
+  counsel:
+  - name: "Theodore B. Olson"
+    title: "Washington, D.C."
+    for: "the Petitioner"
+  - name: "John G. Roberts, Jr."
+    title: "Washington, D.C."
+    for: "the Respondent"
+  - name: "Edwin S. Kneedler"
+    title: "Assistant to the Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Respondent"
+  sections:
+  - {label: "Olson", counsel: "Theodore B. Olson", t: 3590.0}
+  - {label: "Roberts", counsel: "John G. Roberts, Jr.", t: 5179.5}
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 6420.9}
+  - {label: "Rebuttal", counsel: "Theodore B. Olson", t: 7033.7}
+  file:
+    storage_key: supreme-court-transcripts/timed/rice-v-cayetano/1999-10-06.json
+    checksum: 660733d1da83af009acdba67e0c59f3eda55dd9d4050a15da7ffd81b3c80dba7
+    media_type: application/json
+    bytes: 85430
 rights:
   status: no-permission-needed
   basis: us-government-work

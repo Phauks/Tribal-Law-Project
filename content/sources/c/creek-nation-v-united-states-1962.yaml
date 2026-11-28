@@ -123,6 +123,27 @@ argument_audio:
     checksum: 5a58cb54b8c60b19fe48caefc4eb667df8cbb8dc045bbfc64b3a9bb6f8167a9f
     media_type: audio/mpeg
     bytes: 50173491
+argument_timing:
+- date: '1962-04-24'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 259
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-388-124-19620424-1of2.mp3, seconds: 4098.82}
+  - {key: supreme-court-audio/national-archives/black-series/267-388-124-19620424-2of2.mp3, seconds: 3135.82}
+  span: [0.0, 7234.6]
+  counsel:
+  - name: "Paul M. Niebell"
+    for: "petitioner"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep370/usrep370157/usrep370157.pdf
+  - name: "Ralph A. Barney"
+    for: "the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep370/usrep370157/usrep370157.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/creek-nation-v-united-states-1962/1962-04-24.json
+    checksum: b99227f7de4301ee968c6e750089867f0ad560c1f95db9a5476675f2fef210e1
+    media_type: application/json
+    bytes: 95825
 rights:
   status: no-permission-needed
   basis: us-government-work

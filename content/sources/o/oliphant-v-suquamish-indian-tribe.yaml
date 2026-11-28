@@ -165,6 +165,33 @@ argument_transcripts:
     checksum: 1ced8fd18db53bebb7fb60940df08d65bb72f10814f4269ee4453077d73268d1
     media_type: application/pdf
     bytes: 17622421
+argument_timing:
+- date: '1978-01-09'
+  made: official transcript
+  model: Whisper small.en
+  turns: 421
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-215-r1.mp3, seconds: 118.65}
+  - {key: supreme-court-audio/national-archives/red-series/267-215-r2.mp3, seconds: 3815.68}
+  - {key: supreme-court-audio/national-archives/red-series/267-215-r3.mp3, seconds: 1878.75}
+  - {key: supreme-court-audio/national-archives/red-series/267-215-r4.mp3, seconds: 4171.42}
+  - {key: supreme-court-audio/national-archives/red-series/267-215-r5.mp3, seconds: 3797.79}
+  span: [147.8, 5830.3]
+  counsel:
+  - name: "Philip P. Malone"
+    for: "Petitioners"
+  - name: "Barry D. Erins Toff"
+    for: "Respondents"
+  - name: "H- Bartow Farr, III"
+  sections:
+  - {label: "Malone", counsel: "Philip P. Malone", t: 145.9}
+  - {label: "Toff", counsel: "Barry D. Erins Toff", t: 2572.1}
+  - {label: "Farr", counsel: "H- Bartow Farr, III", t: 4497.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/oliphant-v-suquamish-indian-tribe/1978-01-09.json
+    checksum: 461d50dd521148fc9f3769fd62bff1fb962f71c0a6e9d11e694160c0e04592de
+    media_type: application/json
+    bytes: 125920
 rights:
   status: no-permission-needed
   basis: us-government-work

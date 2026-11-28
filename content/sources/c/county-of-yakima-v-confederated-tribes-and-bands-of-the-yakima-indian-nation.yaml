@@ -132,6 +132,34 @@ argument_transcripts:
     checksum: 590b393321e15635e4e7b2d886aa3d96dd52275de943411992301966029583db
     media_type: application/pdf
     bytes: 11948185
+argument_timing:
+- date: '1991-11-05'
+  made: official transcript
+  model: Whisper small.en
+  turns: 221
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-818.mp3, seconds: 14198.07}
+  span: [3245.0, 7034.5]
+  counsel:
+  - name: "Jeffrey C. Sullivan"
+    title: "Yakima, Washington"
+    for: "Petitioners/cross-Respondents"
+  - name: "Robert Wayne Bjur"
+    title: "Yakima, Washington"
+    for: "Respondent/cross - Petitioner"
+  - name: "Edwin S. Kneedler"
+    title: "Assistant Solicitor General"
+    for: "the United States as Amicus Curiae"
+  sections:
+  - {label: "Sullivan", counsel: "Jeffrey C. Sullivan", t: 3312.0}
+  - {label: "Bjur", counsel: "Robert Wayne Bjur", t: 4896.3}
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 6129.1}
+  - {label: "Rebuttal", counsel: "Jeffrey C. Sullivan", t: 6748.8}
+  file:
+    storage_key: supreme-court-transcripts/timed/county-of-yakima-v-confederated-tribes-and-bands-of-the-yakima-indian-nation/1991-11-05.json
+    checksum: 1d983a7f07b2fe42552ef4d62575469be0204c13febfc9b10610e42c18180d32
+    media_type: application/json
+    bytes: 71202
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -151,6 +151,69 @@ argument_audio:
     checksum: df02eb75c4e475e5a1948046447d4c9f5b5abf74490a1037e7819862471152a9
     media_type: audio/mpeg
     bytes: 46925112
+argument_timing:
+- date: '1961-12-13'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 22
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-354-2-3-19611213-19611214.mp3, seconds: 441.29}
+  span: [0.0, 441.3]
+  counsel:
+  - name: "Richard Schifter"
+    for: "appellant (Metlakatla Indian Community)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369045/usrep369045.pdf
+  - name: "John W. Cragun"
+    for: "appellants in No. 3 (Organized Village of Kake et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369060/usrep369060.pdf
+  - name: "Ralph E. Moody"
+    title: "Attorney General of Alaska"
+    for: "appellees"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369045/usrep369045.pdf
+  - name: "Avrum M. Gross"
+    title: "Assistant Attorney General of Alaska"
+    for: "appellees"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369045/usrep369045.pdf
+  - name: "Oscar H. Davis"
+    for: "the United States, as amicus curiae, urging reversal"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369045/usrep369045.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/metlakatla-indian-community-annette-islands-reserve-v-egan/1961-12-13.json
+    checksum: c699e72a228a27de36729799445c353545cc54745110d11d43927ca67bfd7226
+    media_type: application/json
+    bytes: 8465
+- date: '1961-12-14'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 499
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-355-2-3-19611213-19611214-1of3.mp3, seconds: 3915.65}
+  - {key: supreme-court-audio/national-archives/black-series/267-355-2-3-19611213-19611214-2of3.mp3, seconds: 4090.7}
+  - {key: supreme-court-audio/national-archives/black-series/267-355-2-3-19611213-19611214-3of3.mp3, seconds: 2932.79}
+  span: [0.0, 10939.1]
+  counsel:
+  - name: "Richard Schifter"
+    for: "appellant (Metlakatla Indian Community)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369045/usrep369045.pdf
+  - name: "John W. Cragun"
+    for: "appellants in No. 3 (Organized Village of Kake et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369060/usrep369060.pdf
+  - name: "Ralph E. Moody"
+    title: "Attorney General of Alaska"
+    for: "appellees"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369045/usrep369045.pdf
+  - name: "Avrum M. Gross"
+    title: "Assistant Attorney General of Alaska"
+    for: "appellees"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369045/usrep369045.pdf
+  - name: "Oscar H. Davis"
+    for: "the United States, as amicus curiae, urging reversal"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep369/usrep369045/usrep369045.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/metlakatla-indian-community-annette-islands-reserve-v-egan/1961-12-14.json
+    checksum: 3bb0767faf99c1060e56591dbc127e49886ca8043242e7cc9dcebe727329fff6
+    media_type: application/json
+    bytes: 181133
 rights:
   status: no-permission-needed
   basis: us-government-work

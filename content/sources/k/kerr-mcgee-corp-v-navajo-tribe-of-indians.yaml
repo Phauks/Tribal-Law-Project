@@ -124,6 +124,25 @@ argument_transcripts:
     checksum: 2e7d9527123bec6efe5167e5b9b913d876e1cf80296a386c14a803439122d6ab
     media_type: application/pdf
     bytes: 12214542
+argument_timing:
+- date: '1985-02-25'
+  made: official transcript
+  model: Whisper small.en
+  turns: 22
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-514.mp3, seconds: 13542.92}
+  span: [6219.0, 7307.4]
+  counsel:
+  - name: "Alvin H. Shrago"
+    title: "Phoenix, Arizona"
+    for: "the Petitioner"
+  sections:
+  - {label: "Shrago", counsel: "Alvin H. Shrago", t: 6328.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/kerr-mcgee-corp-v-navajo-tribe-of-indians/1985-02-25.json
+    checksum: ffa04e015cd6067b67c02fa9772804677ddc72c5489842f82c4ac70420125242
+    media_type: application/json
+    bytes: 16477
 rights:
   status: no-permission-needed
   basis: us-government-work

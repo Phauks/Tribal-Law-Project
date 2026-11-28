@@ -131,6 +131,27 @@ argument_audio:
     checksum: a318346ef9efcfae537c727bbbc26feddace4e6d2e1ae723c40051ab74c632e5
     media_type: audio/mpeg
     bytes: 24490317
+argument_timing:
+- date: '1956-01-19'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 289
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-024-134-19560119-1of2.mp3, seconds: 5234.63}
+  - {key: supreme-court-audio/national-archives/black-series/267-024-134-19560119-2of2.mp3, seconds: 1530.62}
+  span: [0.0, 6765.2]
+  counsel:
+  - name: "Charles F. Barber"
+    for: "petitioner"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep351/usrep351001/usrep351001.pdf
+  - name: "John W. Cragun"
+    for: "respondents"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep351/usrep351001/usrep351001.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/squire-v-capoeman/1956-01-19.json
+    checksum: d5bbcb4eb5ac85b335c470ef2fcb70964a9ce8253cdb75671c65f14c162ef177
+    media_type: application/json
+    bytes: 91216
 rights:
   status: no-permission-needed
   basis: us-government-work

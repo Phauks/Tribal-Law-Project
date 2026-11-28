@@ -119,6 +119,30 @@ argument_transcripts:
     checksum: 0369eb1be177bacb906cd31349e9a3af083fb9dde271f1f6e92dc78e66a21b47
     media_type: application/pdf
     bytes: 377327
+argument_timing:
+- date: '2021-03-23'
+  made: official transcript
+  model: Whisper small.en
+  turns: 229
+  recording:
+  - {key: supreme-court-audio/court/2020/19-1414.mp3, seconds: 4131.62}
+  span: [0.0, 4131.6]
+  counsel:
+  - name: "Eric J. Feigin"
+    title: "Deputy Solicitor General"
+    for: "the Petitioner"
+  - name: "Eric R. Henkel"
+    title: "Missoula, Montana"
+    for: "the Respondent"
+  sections:
+  - {label: "Feigin", counsel: "Eric J. Feigin", t: 9.4}
+  - {label: "Henkel", counsel: "Eric R. Henkel", t: 2077.1}
+  - {label: "Rebuttal", counsel: "Eric J. Feigin", t: 3950.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-cooley/2021-03-23.json
+    checksum: af936f79f815d780bb72828f94fecb97b47aea71f9f0ae3aaa1512b9790264c2
+    media_type: application/json
+    bytes: 78355
 rights:
   status: no-permission-needed
   basis: us-government-work

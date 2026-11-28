@@ -132,6 +132,34 @@ argument_transcripts:
     checksum: 9283529f880d2da19aadde532eb0e7e34c97c332b57e00133a870fb9f6864a26
     media_type: application/pdf
     bytes: 80479
+argument_timing:
+- date: '2001-04-23'
+  made: official transcript
+  model: Whisper small.en
+  turns: 226
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1186.mp3, seconds: 7143.89}
+  span: [26.0, 3604.0]
+  counsel:
+  - name: "Steven W. Strack"
+    title: "Deputy Attorney General"
+    for: "the Petitioner"
+  - name: "Raymond C. Givens"
+    title: "Coeur d'Alene, Idaho"
+    for: "the Respondent Coeur D'Alene Tribe"
+  - name: "David C. Frederick"
+    title: "Assistant to the Solicitor General"
+    for: "Respondent United States"
+  sections:
+  - {label: "Strack", counsel: "Steven W. Strack", t: 54.1}
+  - {label: "Givens", counsel: "Raymond C. Givens", t: 1580.9}
+  - {label: "Frederick", counsel: "David C. Frederick", t: 2197.3}
+  - {label: "Rebuttal", counsel: "Steven W. Strack", t: 3314.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/idaho-v-united-states/2001-04-23.json
+    checksum: 40c012b9b08e37024dce0bdd2da1f73b5c3b1140afb20f34b5fa5fadf668f906
+    media_type: application/json
+    bytes: 73340
 rights:
   status: no-permission-needed
   basis: us-government-work

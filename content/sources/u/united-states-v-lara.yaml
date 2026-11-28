@@ -117,6 +117,30 @@ argument_transcripts:
     checksum: 99e44637c71572b4855477d7109db8a5a9d308f062b1f0fda2eb8f826f514fa9
     media_type: application/pdf
     bytes: 163584
+argument_timing:
+- date: '2004-01-21'
+  made: official transcript
+  model: Whisper small.en
+  turns: 230
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1288.mp3, seconds: 7572.04}
+  span: [603.0, 4206.4]
+  counsel:
+  - name: "Edwin S. Kneedler"
+    title: "Deputy Solicitor General"
+    for: "the Petitioner"
+  - name: "Alexander F. Reichert"
+    title: "Grand Forks, North Dakota"
+    for: "the Respondent"
+  sections:
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 630.3}
+  - {label: "Reichert", counsel: "Alexander F. Reichert", t: 2197.4}
+  - {label: "Rebuttal", counsel: "Edwin S. Kneedler", t: 3944.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-lara/2004-01-21.json
+    checksum: a3a674db3249084dfb2c3a89de05b1582edb1c2269c85b2bda855df98518e622
+    media_type: application/json
+    bytes: 76302
 rights:
   status: no-permission-needed
   basis: us-government-work

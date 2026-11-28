@@ -104,6 +104,30 @@ argument_transcripts:
     checksum: 50300a32c43e5adb254d0a93c68992d52416b36348f56c8fce834a427e05aec3
     media_type: application/pdf
     bytes: 283300
+argument_timing:
+- date: '2007-11-07'
+  made: official transcript
+  model: Whisper small.en
+  turns: 351
+  recording:
+  - {key: supreme-court-audio/national-archives/gold-series/267a-1495-november7.mp3, seconds: 3878.3}
+  span: [206.9, 3878.3]
+  counsel:
+  - name: "Carter G. Phillips"
+    title: "Washington, D.C."
+    for: "the Petitioner"
+  - name: "Beth S. Brinkmann"
+    title: "Washington, D.C."
+    for: "Respondent"
+  sections:
+  - {label: "Phillips", counsel: "Carter G. Phillips", t: 234.3}
+  - {label: "Brinkmann", counsel: "Beth S. Brinkmann", t: 1754.2}
+  - {label: "Rebuttal", counsel: "Carter G. Phillips", t: 3563.2}
+  file:
+    storage_key: supreme-court-transcripts/timed/hall-street-associates-v-mattel-2008/2007-11-07.json
+    checksum: 20d52ed752d1a4a6852364561edbdedd3e293f2dcb41ba989c6c0f475a44363f
+    media_type: application/json
+    bytes: 95538
 rights:
   status: no-permission-needed
   basis: us-government-work

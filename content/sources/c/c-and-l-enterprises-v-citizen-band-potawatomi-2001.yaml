@@ -97,6 +97,38 @@ argument_transcripts:
     checksum: 835f9626b27eb1d0024f53884a5cdd3441ec0bffe8ad71fb7ebadcc1fd7fdecf
     media_type: application/pdf
     bytes: 67685
+argument_timing:
+- date: '2001-03-19'
+  made: official transcript
+  model: Whisper small.en
+  turns: 263
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1177.mp3, seconds: 7421.0}
+  span: [4047.2, 7421.0]
+  counsel:
+  - name: "John D. Mashburn"
+    title: "Oklahoma City, Oklahoma"
+    for: "the Petitioners"
+  - name: "Gregory S. Coleman"
+    title: "Solicitor General of Texas"
+    for: "Texas, as Amicus Curiae Supporting Petitioner"
+  - name: "Michael Minnis"
+    title: "Oklahoma City, Oklahoma"
+    for: "the Respondent"
+  - name: "Gregory G. Garre"
+    title: "Assistant to the Solicitor General"
+    for: "the United States, as Amicus Curiae Supporting the Respondent"
+  sections:
+  - {label: "Mashburn", counsel: "John D. Mashburn", t: 4120.5}
+  - {label: "Coleman", counsel: "Gregory S. Coleman", t: 5161.7}
+  - {label: "Minnis", counsel: "Michael Minnis", t: 5792.4}
+  - {label: "Garre", counsel: "Gregory G. Garre", t: 6776.1}
+  - {label: "Rebuttal", counsel: "John D. Mashburn", t: 7403.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/c-and-l-enterprises-v-citizen-band-potawatomi-2001/2001-03-19.json
+    checksum: 17b7a42730f75a1a7eaefda7f674ed5ee3cebf72272d6a69f1744bcff571df67
+    media_type: application/json
+    bytes: 71921
 rights:
   status: no-permission-needed
   basis: us-government-work

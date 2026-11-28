@@ -168,6 +168,34 @@ argument_transcripts:
     checksum: 77ff1c73344816a26af9f142f1ae48236628721bf611e7d1949e54282cbd0322
     media_type: application/pdf
     bytes: 12154815
+argument_timing:
+- date: '1977-01-12'
+  made: official transcript
+  model: Whisper small.en
+  turns: 180
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-176-r1.mp3, seconds: 625.24}
+  - {key: supreme-court-audio/national-archives/red-series/267-176-r2.mp3, seconds: 3834.88}
+  - {key: supreme-court-audio/national-archives/red-series/267-176-r3.mp3, seconds: 3918.5}
+  - {key: supreme-court-audio/national-archives/red-series/267-176-r4.mp3, seconds: 4284.26}
+  span: [8359.4, 12662.9]
+  counsel:
+  - name: "Marvin J. Sonoskv"
+    for: "Petitioner"
+  - name: "H. Bartow Farr"
+    for: "U, S. as Amicus Curiae"
+  - name: "William J. Janklow"
+    for: "Respondents"
+  sections:
+  - {label: "Sonoskv", counsel: "Marvin J. Sonoskv", t: 8473.9}
+  - {label: "Farr", counsel: "H. Bartow Farr", t: 9820.7}
+  - {label: "Janklow", counsel: "William J. Janklow", t: 10766.7}
+  - {label: "Rebuttal", counsel: "Marvin J. Sonoskv", t: 12543.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/rosebud-sioux-tribe-v-kneip/1977-01-12.json
+    checksum: 74f8665b05d5c96d2c7f983d071b21b5fb48f84774f7ae3d6c7d6fa0de51b20c
+    media_type: application/json
+    bytes: 83979
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -118,6 +118,36 @@ argument_transcripts:
     checksum: 52f8c06361227ea5e87bf69966fa1470a1bc51f1a165abfa1413610ba68d3f5e
     media_type: application/pdf
     bytes: 15534468
+argument_timing:
+- date: '1978-10-10'
+  made: official transcript
+  model: Whisper small.en
+  turns: 144
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-244.mp3, seconds: 14479.49}
+  span: [8891.9, 14479.5]
+  counsel:
+  - name: "Robert P. Will"
+    for: "the Metropolitan Water District of Southern California et al."
+  - name: "Ralph E. Hunsaker"
+    for: "the Complainant et al."
+  - name: "Raymond C. Simpson"
+    for: "the Fort Mojave Indian Tribe et al."
+  - name: "Lawrence D. Aschbrenner"
+    for: "the Cocopah Indian Tribe"
+  - name: "Terry Noble Fiske"
+    for: "the Colorado River Indian Tribes"
+  sections:
+  - {label: "Will", counsel: "Robert P. Will", t: 9908.7}
+  - {label: "Hunsaker", counsel: "Ralph E. Hunsaker", t: 10365.9}
+  - {label: "Simpson", counsel: "Raymond C. Simpson", t: 10584.3}
+  - {label: "Aschbrenner", counsel: "Lawrence D. Aschbrenner", t: 11911.6}
+  - {label: "Fiske", counsel: "Terry Noble Fiske", t: 12551.1}
+  file:
+    storage_key: supreme-court-transcripts/timed/arizona-v-california-1979/1978-10-10.json
+    checksum: 730811fc751f26afb66eb76b4c2ea9e0deecae5cce0bdf52265eb4a9722a5855
+    media_type: application/json
+    bytes: 91184
 rights:
   status: no-permission-needed
   basis: us-government-work

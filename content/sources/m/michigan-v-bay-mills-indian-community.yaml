@@ -139,6 +139,34 @@ argument_transcripts:
     checksum: cd35a0405857a7403dcf6a448efe89d25de472df1db3e1bfc7028c031f8f0d4c
     media_type: application/pdf
     bytes: 782003
+argument_timing:
+- date: '2013-12-02'
+  made: official transcript
+  model: Whisper small.en
+  turns: 305
+  recording:
+  - {key: supreme-court-audio/court/2013/12-515.mp3, seconds: 3714.04}
+  span: [0.0, 3714.0]
+  counsel:
+  - name: "John J. Bursch"
+    title: "Michigan Solicitor General"
+    for: "the Petitioner"
+  - name: "Neal Kumar Katyal"
+    title: "Washington, D.C."
+    for: "the Respondents"
+  - name: "Edwin S. Kneedler"
+    title: "Deputy Solicitor General"
+    for: "United States, as Amicus Curiae, Supporting the Respondents"
+  sections:
+  - {label: "Bursch", counsel: "John J. Bursch", t: 8.6}
+  - {label: "Katyal", counsel: "Neal Kumar Katyal", t: 1522.2}
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 2747.2}
+  - {label: "Rebuttal", counsel: "John J. Bursch", t: 3372.7}
+  file:
+    storage_key: supreme-court-transcripts/timed/michigan-v-bay-mills-indian-community/2013-12-02.json
+    checksum: edeec17029143724fb1d1be1ac3facd86e1a4a9673297f9a76b474168dfefb7a
+    media_type: application/json
+    bytes: 91254
 rights:
   status: no-permission-needed
   basis: us-government-work

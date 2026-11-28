@@ -132,6 +132,30 @@ argument_transcripts:
     checksum: 1ab964ed6dba206046b8b8721bd822ded6f75d0c96f3998540d8c132badab2d8
     media_type: application/pdf
     bytes: 10692769
+argument_timing:
+- date: '1991-02-19'
+  made: official transcript
+  model: Whisper small.en
+  turns: 164
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-793.mp3, seconds: 14486.99}
+  span: [11213.1, 14487.0]
+  counsel:
+  - name: "Rex E. Lee"
+    title: "Washington, D.C."
+    for: "the Petitioner"
+  - name: "Lawrence A. Aschenbrenner"
+    title: "Anchorage, Alaska"
+    for: "the Respondents"
+  sections:
+  - {label: "Lee", counsel: "Rex E. Lee", t: 11263.1}
+  - {label: "Aschenbrenner", counsel: "Lawrence A. Aschenbrenner", t: 12500.0}
+  - {label: "Rebuttal", counsel: "Rex E. Lee", t: 14336.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/blatchford-v-native-village/1991-02-19.json
+    checksum: f573a8fcf2c5310fc3cb716c919ab6b39a8f018bb505698080b75154be2da374
+    media_type: application/json
+    bytes: 58338
 rights:
   status: no-permission-needed
   basis: us-government-work

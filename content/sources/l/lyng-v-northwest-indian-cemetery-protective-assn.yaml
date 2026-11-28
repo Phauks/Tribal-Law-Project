@@ -132,6 +132,29 @@ argument_transcripts:
     checksum: f80818ce1b37054cd598bbd90e24c8a7dad34ed79df7d565c3ff735703a08ca9
     media_type: application/pdf
     bytes: 12351881
+argument_timing:
+- date: '1987-11-30'
+  made: official transcript
+  model: Whisper small.en
+  turns: 242
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-620.mp3, seconds: 13681.11}
+  span: [127.7, 3536.9]
+  counsel:
+  - name: "Andrew J. Pincus"
+    for: "the Petitioners"
+  - name: "Marilyn B. Miles"
+    title: "Eureka, California"
+    for: "the Respondent"
+  sections:
+  - {label: "Pincus", counsel: "Andrew J. Pincus", t: 160.7}
+  - {label: "Miles", counsel: "Marilyn B. Miles", t: 1752.2}
+  - {label: "Rebuttal", counsel: "Andrew J. Pincus", t: 3323.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/lyng-v-northwest-indian-cemetery-protective-assn/1987-11-30.json
+    checksum: a47f611fa8dbbf66f771392c7bc12e2c8f139a3e9b94ffb59607470558ceadab
+    media_type: application/json
+    bytes: 76145
 rights:
   status: no-permission-needed
   basis: us-government-work

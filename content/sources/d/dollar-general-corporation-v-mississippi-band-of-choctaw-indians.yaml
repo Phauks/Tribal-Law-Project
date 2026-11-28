@@ -127,6 +127,34 @@ argument_transcripts:
     checksum: 663f20616706daeee7de6874f24a1515b5fb34136385e7edecf57ee7e582eb64
     media_type: application/pdf
     bytes: 1346134
+argument_timing:
+- date: '2015-12-07'
+  made: official transcript
+  model: Whisper small.en
+  turns: 249
+  recording:
+  - {key: supreme-court-audio/court/2015/13-1496.mp3, seconds: 3728.27}
+  span: [0.0, 3728.3]
+  counsel:
+  - name: "Thomas C. Goldstein"
+    title: "Bethesda, Md."
+    for: "the Petitioners"
+  - name: "Neal K. Katyal"
+    title: "Washington, D.C."
+    for: "the Respondents"
+  - name: "Edwin S. Kneedler"
+    title: "Deputy Solicitor General"
+    for: "United States, as Amicus Curiae, Supporting the Respondents"
+  sections:
+  - {label: "Goldstein", counsel: "Thomas C. Goldstein", t: 10.4}
+  - {label: "Katyal", counsel: "Neal K. Katyal", t: 1530.2}
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 2760.5}
+  - {label: "Rebuttal", counsel: "Thomas C. Goldstein", t: 3414.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/dollar-general-corporation-v-mississippi-band-of-choctaw-indians/2015-12-07.json
+    checksum: 9eccb5bbf63514b59ace62b5a97a942dbba0cb596a9f200297633b599490f5de
+    media_type: application/json
+    bytes: 85611
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -127,6 +127,34 @@ argument_transcripts:
     checksum: a3f7c4ce621e18dc086cc7e1814aef07c9eaeb53ac91e7b70cd91e11ae21c0cb
     media_type: application/pdf
     bytes: 752193
+argument_timing:
+- date: '2022-04-27'
+  made: official transcript
+  model: Whisper small.en
+  turns: 402
+  recording:
+  - {key: supreme-court-audio/court/2021/21-429.mp3, seconds: 7782.34}
+  span: [0.0, 7782.3]
+  counsel:
+  - name: "Kannon K. Shanmugam"
+    title: "Washington, D.C."
+    for: "the Petitioner"
+  - name: "Zachary C. Schauf"
+    title: "Washington, D.C."
+    for: "the Respondent"
+  - name: "Edwin S. Kneedler"
+    title: "Deputy Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Respondent"
+  sections:
+  - {label: "Shanmugam", counsel: "Kannon K. Shanmugam", t: 5.6}
+  - {label: "Schauf", counsel: "Zachary C. Schauf", t: 4256.3}
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 6182.1}
+  - {label: "Rebuttal", counsel: "Kannon K. Shanmugam", t: 7473.8}
+  file:
+    storage_key: supreme-court-transcripts/timed/oklahoma-v-castro-huerta/2022-04-27.json
+    checksum: e8d317b27e4db6bbef276d3648ad6613ea63712d8fdedd72ba0849710f24af49
+    media_type: application/json
+    bytes: 158114
 rights:
   status: no-permission-needed
   basis: us-government-work

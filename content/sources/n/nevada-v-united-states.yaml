@@ -132,6 +132,36 @@ argument_transcripts:
     checksum: 895e0c66b4d4d606d0bba6bea8a000f012234d2cedfea8ca68206b2fef9f5e28
     media_type: application/pdf
     bytes: 13667415
+argument_timing:
+- date: '1983-04-27'
+  made: official transcript
+  model: Whisper small.en
+  turns: 214
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-446.mp3, seconds: 14318.0}
+  span: [9875.3, 13484.3]
+  counsel:
+  - name: "E. Barrett Prettyman, Jr."
+    for: "Nevada"
+  - name: "Fredericx G. Girard"
+    title: "Sacramento, California"
+    for: "the Truckee-Carson Irrigaton District"
+  - name: "Robert S. Pelcyger"
+    title: "Boulder, Colorado"
+    for: "the Pyramid Lake Paiute Tribe of Indians"
+  - name: "Edwin S. Kkeedler"
+    title: "Office of the Solicitor General"
+    for: "the United States"
+  sections:
+  - {label: "Prettyman", counsel: "E. Barrett Prettyman, Jr.", t: 9994.1}
+  - {label: "Girard", counsel: "Fredericx G. Girard", t: 10709.6}
+  - {label: "Pelcyger", counsel: "Robert S. Pelcyger", t: 11437.4}
+  - {label: "Kkeedler", counsel: "Edwin S. Kkeedler", t: 12397.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/nevada-v-united-states/1983-04-27.json
+    checksum: 15b3c8cf4bd4adff84a312673ae95c660e8e76ba0a06e9f4e94331b176c79d17
+    media_type: application/json
+    bytes: 72144
 rights:
   status: no-permission-needed
   basis: us-government-work

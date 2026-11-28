@@ -129,6 +129,34 @@ argument_transcripts:
     checksum: 49326c9a38a056256b8585d76242196f5b93296f594afa30a5b2a0be8907fc09
     media_type: application/pdf
     bytes: 12882940
+argument_timing:
+- date: '1995-10-11'
+  made: official transcript
+  model: Whisper small.en
+  turns: 309
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-962.mp3, seconds: 11587.84}
+  span: [7714.8, 11587.8]
+  counsel:
+  - name: "Bruce S. Rogow"
+    title: "Fort Lauderdale, Florida"
+    for: "the Petitioner"
+  - name: "Drew S. Days, III"
+    title: "Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Petitioner"
+  - name: "Jonathan A. Glogau"
+    title: "Assistant Attorney General of Florida"
+    for: "the Respondents"
+  sections:
+  - {label: "Rogow", counsel: "Bruce S. Rogow", t: 7745.0}
+  - {label: "Days", counsel: "Drew S. Days, III", t: 8788.0}
+  - {label: "Glogau", counsel: "Jonathan A. Glogau", t: 9424.2}
+  - {label: "Rebuttal", counsel: "Bruce S. Rogow", t: 11335.2}
+  file:
+    storage_key: supreme-court-transcripts/timed/seminole-tribe-v-florida-1996/1995-10-11.json
+    checksum: ce910a9071617630c2f6472ba14ba5567e1522a7cf24bb6b1389aab980a5ad0f
+    media_type: application/json
+    bytes: 82305
 rights:
   status: no-permission-needed
   basis: us-government-work

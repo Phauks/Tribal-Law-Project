@@ -141,6 +141,29 @@ argument_transcripts:
     checksum: e6d0e6b0a78097975c36d73dd11f35b0a115cae9a2b51e28c78fafbac6d114c6
     media_type: application/pdf
     bytes: 342243
+argument_timing:
+- date: '2009-02-23'
+  made: official transcript
+  model: Whisper small.en
+  turns: 149
+  recording:
+  - {key: supreme-court-audio/national-archives/gold-series/267a-1567-february23.mp3, seconds: 7517.02}
+  span: [221.7, 3871.2]
+  counsel:
+  - name: "Gen. Edwin S. Kneedler"
+    for: "the Petitioner"
+  - name: "Carter G. Phillips"
+    title: "Washington, D.C."
+    for: "the Respondent"
+  sections:
+  - {label: "Kneedler", counsel: "Gen. Edwin S. Kneedler", t: 318.5}
+  - {label: "Phillips", counsel: "Carter G. Phillips", t: 1501.2}
+  - {label: "Rebuttal", counsel: "Gen. Edwin S. Kneedler", t: 3352.9}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-navajo-nation-2009/2009-02-23.json
+    checksum: 633d79f4496c4adc2ecf804333801227127b36a3df9fb42ccaeab20faaa1553d
+    media_type: application/json
+    bytes: 72797
 rights:
   status: no-permission-needed
   basis: us-government-work

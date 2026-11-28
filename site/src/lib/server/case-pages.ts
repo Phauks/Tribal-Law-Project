@@ -45,6 +45,8 @@ import { courtName, courtPagePath, isSupremeCourt } from '../court-pages.ts';
 import type { Stub } from '../stubs.ts';
 import type { CitedRecord } from '../citation-styles.ts';
 import { caseCourtName, citationLine } from './record-citations.ts';
+import { argumentDays, type ArgumentParts } from './case-arguments.ts';
+import type { ArgumentDay } from '../case-arguments.ts';
 
 export { caseCourtName, citationLine };
 
@@ -130,6 +132,8 @@ export interface CasePage {
 	decidedBy?: { name: string; link: string };
 	/** Set when the case has no box and no accounts of its impact: a stub (src/lib/stubs.ts). */
 	stub?: Stub;
+	/** The days argued the site can play, each with its player page (case-arguments.ts). */
+	arguments?: ArgumentDay[];
 }
 
 interface CaseRecordParts {
@@ -369,8 +373,22 @@ function citedParts(record: SourceRecord): CitedRecord['reference'] {
 	};
 }
 
+const headphones =
+	'<svg class="fact-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"/></svg>';
+
+/** The facts with a line for the argument player after the days argued: each day it can play, with the headphones. */
+export function withArgumentLine(facts: [string, string][], argued: ArgumentDay[]): [string, string][] {
+	if (argued.length === 0) return facts;
+	const line: [string, string] = [
+		'Oral argument',
+		argued.map((day) => `<a href="${day.path}">${headphones}${argued.length > 1 ? day.when : 'Listen with the transcript'}</a>`).join('<br>')
+	];
+	const after = facts.findLastIndex(([label]) => /^(Argued|Reargued|Argued and submitted)$/.test(label));
+	return after >= 0 ? [...facts.slice(0, after + 1), line, ...facts.slice(after + 1)] : [...facts, line];
+}
+
 export function casePage(key: string): CasePage {
-	const record = sources().get(key) as (SourceRecord & CaseRecordParts) | undefined;
+	const record = sources().get(key) as (SourceRecord & CaseRecordParts & ArgumentParts) | undefined;
 	if (!record || (record.citation as { type?: string }).type !== 'legal_case' || !record.citation.title) error(404, 'No case has this address.');
 	const name = record.citation.title;
 	const box = boxSections(key, name, record.case_box);
@@ -391,6 +409,7 @@ export function casePage(key: string): CasePage {
 	const decider = caseCourtName(record);
 	const deciderLink = decider && !isSupremeCourt(decider) ? courtPagePath(decider) : undefined;
 	const accounts = accountsOf({ record: key });
+	const argued = argumentDays(record);
 	return {
 		key,
 		name,
@@ -398,7 +417,7 @@ export function casePage(key: string): CasePage {
 		reference: citedParts(record),
 		caption: record.caption?.printed,
 		// The nations have their own section, with how the case names each.
-		facts: (essayLibrary.facts?.('case', key) ?? []).filter(([label]) => !/^(Nations?|Peoples?|Nations and peoples)$/.test(label)),
+		facts: withArgumentLine((essayLibrary.facts?.('case', key) ?? []).filter(([label]) => !/^(Nations?|Peoples?|Nations and peoples)$/.test(label)), argued),
 		topics: box.topics,
 		boxSections: box.sections,
 		opinions: opinionList,
@@ -420,6 +439,7 @@ export function casePage(key: string): CasePage {
 		sources: box.sources,
 		unverified: record.review?.status === 'unverified' || undefined,
 		decidedBy: decider && deciderLink ? { name: courtName(decider), link: deciderLink } : undefined,
-		stub: box.sections.length === 0 && accounts.length === 0 ? { kind: 'case', record: `cases/${key}` } : undefined
+		stub: box.sections.length === 0 && accounts.length === 0 ? { kind: 'case', record: `cases/${key}` } : undefined,
+		...(argued.length ? { arguments: argued } : {})
 	};
 }

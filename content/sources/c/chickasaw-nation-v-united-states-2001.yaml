@@ -144,6 +144,30 @@ argument_transcripts:
     checksum: a3901e090d59690756e35310107c7847d7e153b8ab504e01526c100a8098da2e
     media_type: application/pdf
     bytes: 282923
+argument_timing:
+- date: '2001-10-02'
+  made: official transcript
+  model: Whisper small.en
+  turns: 219
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1190.mp3, seconds: 6928.35}
+  span: [83.6, 3501.7]
+  counsel:
+  - name: "Graydon D. Luthey, Jr."
+    title: "Tulsa, Oklahoma"
+    for: "the Petitioner"
+  - name: "Edward C. Dumont"
+    title: "Assistant to the Solicitor General"
+    for: "the United States"
+  sections:
+  - {label: "Luthey", counsel: "Graydon D. Luthey, Jr.", t: 112.1}
+  - {label: "Dumont", counsel: "Edward C. Dumont", t: 1796.4}
+  - {label: "Rebuttal", counsel: "Graydon D. Luthey, Jr.", t: 3414.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/chickasaw-nation-v-united-states-2001/2001-10-02.json
+    checksum: c9441aef8cb562c7101faddfb725fac2b0d3cb0c2446f94424d10c2b7bde93e8
+    media_type: application/json
+    bytes: 66552
 rights:
   status: no-permission-needed
   basis: us-government-work

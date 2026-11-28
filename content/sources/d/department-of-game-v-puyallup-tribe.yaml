@@ -180,6 +180,31 @@ argument_transcripts:
     checksum: cd06d6900363ffa7a22352ca703702a767b8c5a29799cadccceaf686d0d8bfc6
     media_type: application/pdf
     bytes: 10033912
+argument_timing:
+- date: '1973-10-10'
+  made: official transcript
+  model: Whisper small.en
+  turns: 112
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-28-r1.mp3, seconds: 100.86}
+  - {key: supreme-court-audio/national-archives/red-series/267-28-r2.mp3, seconds: 3226.83}
+  - {key: supreme-court-audio/national-archives/red-series/267-28-r3.mp3, seconds: 2835.62}
+  - {key: supreme-court-audio/national-archives/red-series/267-28-r4.mp3, seconds: 3653.51}
+  - {key: supreme-court-audio/national-archives/red-series/267-28-r5.mp3, seconds: 3682.59}
+  span: [6150.3, 9834.7]
+  counsel:
+  - name: "Joseph L. Coniff, Jr."
+    for: "the Department 0? Game of the State of Washington"
+  - name: "Joseph L. Comiff, Jr."
+    for: "the Department of Game of the State of Washington"
+  sections:
+  - {label: "Coniff", counsel: "Joseph L. Coniff, Jr.", t: 6189.0}
+  - {label: "Rebuttal", counsel: "Joseph L. Comiff, Jr.", t: 9593.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/department-of-game-v-puyallup-tribe/1973-10-10.json
+    checksum: 6198a041fd32b6205f3587bfd0a0728c31c8785050c84f27e0f86b1f3e8059a8
+    media_type: application/json
+    bytes: 65317
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -127,6 +127,34 @@ argument_transcripts:
     checksum: d293fbb46078af1619a52cbb6f1a5589aee4db266079b33a1a3650709d04d908
     media_type: application/pdf
     bytes: 596573
+argument_timing:
+- date: '2021-04-19'
+  made: official transcript
+  model: Whisper small.en
+  turns: 320
+  recording:
+  - {key: supreme-court-audio/court/2020/20-543.mp3, seconds: 6250.25}
+  span: [0.0, 6250.2]
+  counsel:
+  - name: "Matthew Guarnieri"
+    title: "Assistant to the Solicitor General"
+    for: "the Petitioner in Case No. 20-543"
+  - name: "Paul D. Clement"
+    title: "Washington, D.C."
+    for: "the Petitioners in Case No. 20-544"
+  - name: "Jeffrey S. Rasmussen"
+    title: "Louisville, Colorado"
+    for: "the Respondents"
+  sections:
+  - {label: "Guarnieri", counsel: "Matthew Guarnieri", t: 11.6}
+  - {label: "Clement", counsel: "Paul D. Clement", t: 1835.7}
+  - {label: "Rasmussen", counsel: "Jeffrey S. Rasmussen", t: 3240.4}
+  - {label: "Rebuttal", counsel: "Matthew Guarnieri", t: 6063.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/yellen-v-confederated-tribes-of-chehalis-reservation/2021-04-19.json
+    checksum: 0d89b326cae39036ac435aadae97a5b6da1f64ee91f5f0c546e7ae341d11b016
+    media_type: application/json
+    bytes: 123182
 rights:
   status: no-permission-needed
   basis: us-government-work

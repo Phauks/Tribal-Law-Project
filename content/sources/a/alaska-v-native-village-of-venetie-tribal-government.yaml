@@ -118,6 +118,30 @@ argument_transcripts:
     checksum: 74111dd7b22164672a5de3d69c46c2a5ca920afd787ce8f114259918a0d08813
     media_type: application/pdf
     bytes: 12727899
+argument_timing:
+- date: '1997-12-10'
+  made: official transcript
+  model: Whisper small.en
+  turns: 328
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1047.mp3, seconds: 7833.78}
+  span: [4071.6, 7833.8]
+  counsel:
+  - name: "John G. Roberts"
+    title: "Washington, D.C."
+    for: "the Petitioner"
+  - name: "Heather R. Kendall"
+    title: "Anchorage, Alaska"
+    for: "the Respondents"
+  sections:
+  - {label: "Roberts", counsel: "John G. Roberts", t: 4149.2}
+  - {label: "Kendall", counsel: "Heather R. Kendall", t: 5685.9}
+  - {label: "Rebuttal", counsel: "John G. Roberts", t: 7539.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/alaska-v-native-village-of-venetie-tribal-government/1997-12-10.json
+    checksum: c615fd7f9b16267a783ba0c660353b2573ae144dd858072e51546da6d99354c8
+    media_type: application/json
+    bytes: 83213
 rights:
   status: no-permission-needed
   basis: us-government-work

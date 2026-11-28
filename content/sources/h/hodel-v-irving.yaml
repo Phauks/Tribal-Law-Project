@@ -140,6 +140,29 @@ argument_transcripts:
     checksum: 7d0fcbd5d8df3874bdf72b8bffc47c458d0e512438de634ec53c9cda74e4a958
     media_type: application/pdf
     bytes: 13656225
+argument_timing:
+- date: '1986-10-06'
+  made: official transcript
+  model: Whisper small.en
+  turns: 154
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-569.mp3, seconds: 13770.45}
+  span: [121.7, 3500.9]
+  counsel:
+  - name: "Yvette Hall War Bcnnett"
+    title: "Everett, Washington"
+    for: "the Appellees"
+  - name: "Edwin S. Kneedler"
+    title: "Assistant to the Solicitor General"
+    for: "the Aepellant - Reeuttai"
+  sections:
+  - {label: "Bcnnett", counsel: "Yvette Hall War Bcnnett", t: 1705.3}
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 3200.8}
+  file:
+    storage_key: supreme-court-transcripts/timed/hodel-v-irving/1986-10-06.json
+    checksum: 1f749f5a4f36639321031f86b6a32e9641a1db908b5d3b99b619e1b94c5e1a3a
+    media_type: application/json
+    bytes: 68428
 rights:
   status: no-permission-needed
   basis: us-government-work

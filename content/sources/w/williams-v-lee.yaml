@@ -116,6 +116,27 @@ argument_audio:
     checksum: d90456a4f302b336447d1ad626509d8049dd3ae91999daf6bd7bc58e2688a75c
     media_type: audio/mpeg
     bytes: 19876466
+argument_timing:
+- date: '1958-11-20'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 318
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-176-39-19581120-1of2.mp3, seconds: 5663.53}
+  - {key: supreme-court-audio/national-archives/black-series/267-176-39-19581120-2of2.mp3, seconds: 1242.28}
+  span: [0.0, 6905.8]
+  counsel:
+  - name: "Norman M. Littell"
+    for: "petitioners"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep358/usrep358217/usrep358217.pdf
+  - name: "Wm. W. Stevenson"
+    for: "respondent"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep358/usrep358217/usrep358217.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/williams-v-lee/1958-11-20.json
+    checksum: dddd8ec20775356fe90f072921dd7aafd3b2b1bd54bb83a4caec12dfab698062
+    media_type: application/json
+    bytes: 96586
 rights:
   status: no-permission-needed
   basis: us-government-work

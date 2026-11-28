@@ -117,6 +117,34 @@ argument_transcripts:
     checksum: 001cfe4a41fec10906d0ae51f6cab65e8a10be50add196fb7b287fb4d38b4517
     media_type: application/pdf
     bytes: 79374
+argument_timing:
+- date: '2001-03-27'
+  made: official transcript
+  model: Whisper small.en
+  turns: 276
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1181.mp3, seconds: 7195.79}
+  span: [27.9, 3630.5]
+  counsel:
+  - name: "Charles G. Cole"
+    title: "Washington, D.C."
+    for: "the Petitioner"
+  - name: "Marcelino R. Gomez"
+    title: "Assistant Attorney General"
+    for: "the Respondents"
+  - name: "Beth S. Brinkmann"
+    title: "Assistant to the Solicitor General"
+    for: "the United States as Amicus Curiae Supporting the Respondents"
+  sections:
+  - {label: "Cole", counsel: "Charles G. Cole", t: 56.4}
+  - {label: "Gomez", counsel: "Marcelino R. Gomez", t: 1600.0}
+  - {label: "Brinkmann", counsel: "Beth S. Brinkmann", t: 2802.6}
+  - {label: "Rebuttal", counsel: "Charles G. Cole", t: 3425.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/atkinson-trading-company-v-shirley/2001-03-27.json
+    checksum: 82fc4178bb7a145bb1593bc63ac356ded43b98d4df80fd965237520041b310e3
+    media_type: application/json
+    bytes: 73812
 rights:
   status: no-permission-needed
   basis: us-government-work

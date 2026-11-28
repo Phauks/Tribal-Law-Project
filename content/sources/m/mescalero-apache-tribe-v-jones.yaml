@@ -132,6 +132,27 @@ argument_transcripts:
     checksum: 40b01f7e221f828b5a9603d3aece6edb315b1781f7241c412b7ad7893141c6ed
     media_type: application/pdf
     bytes: 6350037
+argument_timing:
+- date: '1972-12-12'
+  made: official transcript
+  model: Whisper small.en
+  turns: 106
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-2c.mp3, seconds: 2582.47}
+  span: [0.0, 2582.5]
+  counsel:
+  - name: "George E. Pettinger Ok Behalf Of The Petitioner"
+  - name: "John C. Cook"
+    title: "Bureau of Revenue"
+    for: "the Respondents"
+  sections:
+  - {label: "Petitioner", counsel: "George E. Pettinger Ok Behalf Of The Petitioner", t: 7.5}
+  - {label: "Cook", counsel: "John C. Cook", t: 1623.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/mescalero-apache-tribe-v-jones/1972-12-12.json
+    checksum: d27626d3d8c1b33fd1a159e9cce2143675813da8f80c3c2e26f55350a7e792aa
+    media_type: application/json
+    bytes: 45161
 rights:
   status: no-permission-needed
   basis: us-government-work

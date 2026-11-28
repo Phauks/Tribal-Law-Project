@@ -136,6 +136,30 @@ argument_transcripts:
     checksum: a25c1826e7a2f3d441317288d41e456b2a7d6fe64131049ae892e2d1ca293d89
     media_type: application/pdf
     bytes: 11965351
+argument_timing:
+- date: '1996-10-16'
+  made: official transcript
+  model: Whisper small.en
+  turns: 221
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1000.mp3, seconds: 11249.74}
+  span: [7530.5, 11249.7]
+  counsel:
+  - name: "Clive J. Strong"
+    title: "Deputy Attorney General of Idaho"
+    for: "the Petitioners"
+  - name: "Raymond C. Givens"
+    title: "Coeur d'Alene, Idaho"
+    for: "the Respondents"
+  sections:
+  - {label: "Strong", counsel: "Clive J. Strong", t: 7560.8}
+  - {label: "Givens", counsel: "Raymond C. Givens", t: 9152.8}
+  - {label: "Rebuttal", counsel: "Clive J. Strong", t: 10990.9}
+  file:
+    storage_key: supreme-court-transcripts/timed/idaho-v-coeur-dalene-tribe/1996-10-16.json
+    checksum: e38e87a0357547d869c67818ce1c1fdd06731619b66ba0d5d5d37986324b5bef
+    media_type: application/json
+    bytes: 72633
 rights:
   status: no-permission-needed
   basis: us-government-work

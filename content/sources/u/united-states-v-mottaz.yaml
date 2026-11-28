@@ -124,6 +124,26 @@ argument_transcripts:
     checksum: 0562501fd914f0abbff9794e7463786336e5079c1793d3ad2abe7fbace473249
     media_type: application/pdf
     bytes: 1747333
+argument_timing:
+- date: '1986-04-22'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 138
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-563.mp3, seconds: 12644.99}
+  span: [3882.3, 6631.6]
+  counsel:
+  - name: "Edwin S. Kneedler"
+    for: "the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep476/usrep476834/usrep476834.pdf
+  - name: "Derck Amerman"
+    for: "respondent"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep476/usrep476834/usrep476834.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-mottaz/1986-04-22.json
+    checksum: 101a2a2e924b441be2fd3744c36e2e52a3e0c62710492c29b3a97df3638837bb
+    media_type: application/json
+    bytes: 48091
 rights:
   status: no-permission-needed
   basis: us-government-work

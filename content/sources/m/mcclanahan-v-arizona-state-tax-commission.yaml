@@ -113,6 +113,34 @@ argument_transcripts:
     checksum: b1f18709ceef68d3a9bfb97a82082f04831926f7bcb8ce0af702ef22333e9c41
     media_type: application/pdf
     bytes: 9186544
+argument_timing:
+- date: '1972-12-12'
+  made: official transcript
+  model: Whisper small.en
+  turns: 156
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-2b.mp3, seconds: 4136.28}
+  span: [37.2, 4136.3]
+  counsel:
+  - name: "Richard B. Collins, Jr."
+    title: "Window Rock, Arizona"
+    for: "the Appellant"
+  - name: "Harry R. Sachse"
+    title: "Department of Justice"
+    for: "the United States as Amicus Curiae"
+  - name: "James D. Winter"
+    title: "Assistant Attorney General"
+    for: "the Appellee"
+  sections:
+  - {label: "Collins", counsel: "Richard B. Collins, Jr.", t: 57.2}
+  - {label: "Rebuttal", counsel: "Richard B. Collins, Jr.", t: 1278.5}
+  - {label: "Sachse", counsel: "Harry R. Sachse", t: 1781.8}
+  - {label: "Winter", counsel: "James D. Winter", t: 2723.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/mcclanahan-v-arizona-state-tax-commission/1972-12-12.json
+    checksum: 6b50c9c2be92a6cb281c5080e586fa6cb105b823f4e5224e6390bc27197e7f3f
+    media_type: application/json
+    bytes: 69067
 rights:
   status: no-permission-needed
   basis: us-government-work

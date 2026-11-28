@@ -136,6 +136,24 @@ argument_transcripts:
     checksum: ec57185350f5cfe74c2a46a6ced74d40dfb59e7b314d7683f7904364e7eb3920
     media_type: application/pdf
     bytes: 18770821
+argument_timing:
+- date: '1984-10-01'
+  made: official transcript
+  model: Whisper small.en
+  turns: 216
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-489.mp3, seconds: 12293.49}
+  span: [6847.0, 12291.9]
+  counsel:
+  - name: "Feter H. Schiff"
+    for: "Petitionee"
+  sections:
+  - {label: "Schiff", counsel: "Feter H. Schiff", t: 9111.8}
+  file:
+    storage_key: supreme-court-transcripts/timed/county-of-oneida-v-oneida-indian-nation/1984-10-01.json
+    checksum: d6e7226e04c8c6d4cdeead5c543cc37bb3f1e3a20bbab132ffaa76c4dcd7bc8f
+    media_type: application/json
+    bytes: 101613
 rights:
   status: no-permission-needed
   basis: us-government-work

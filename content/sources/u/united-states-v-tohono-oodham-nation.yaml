@@ -158,6 +158,30 @@ argument_transcripts:
     checksum: 166fc160959c4234b6b89213466acb954eaf20821ad210f71c1120ec1edc5c70
     media_type: application/pdf
     bytes: 302450
+argument_timing:
+- date: '2010-11-01'
+  made: official transcript
+  model: Whisper small.en
+  turns: 177
+  recording:
+  - {key: supreme-court-audio/court/2010/09-846.mp3, seconds: 3616.84}
+  span: [0.0, 3616.8]
+  counsel:
+  - name: "Anthony Yang"
+    title: "Assistant to the Solicitor General"
+    for: "the Petitioner"
+  - name: "Danielle Spinelli"
+    title: "Washington, D.C."
+    for: "the Respondent"
+  sections:
+  - {label: "Yang", counsel: "Anthony Yang", t: 9.2}
+  - {label: "Spinelli", counsel: "Danielle Spinelli", t: 1555.8}
+  - {label: "Rebuttal", counsel: "Anthony Yang", t: 3328.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-tohono-oodham-nation/2010-11-01.json
+    checksum: 73ffa37a1a75f3f719383ce8bbc3c65159f398e392de64ee813736c7bac52971
+    media_type: application/json
+    bytes: 68189
 rights:
   status: no-permission-needed
   basis: us-government-work

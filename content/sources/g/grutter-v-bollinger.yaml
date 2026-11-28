@@ -144,6 +144,30 @@ argument_transcripts:
     checksum: bec43eaf2ca32bef2b6a2c8929538a58f21fbe561d348debb2f26ab886326f61
     media_type: application/pdf
     bytes: 180783
+argument_timing:
+- date: '2003-04-01'
+  made: official transcript
+  model: Whisper small.en
+  turns: 277
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1260.mp3, seconds: 7592.57}
+  span: [300.8, 3950.8]
+  counsel:
+  - name: "Kirk O. Kolbo"
+    title: "Minneapolis, Minnesota"
+    for: "the Petitioner"
+  - name: "Maureen E. Mahoney"
+    title: "Washington, D.C."
+    for: "the Respondents"
+  sections:
+  - {label: "Kolbo", counsel: "Kirk O. Kolbo", t: 411.5}
+  - {label: "Mahoney", counsel: "Maureen E. Mahoney", t: 1998.2}
+  - {label: "Rebuttal", counsel: "Kirk O. Kolbo", t: 3928.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/grutter-v-bollinger/2003-04-01.json
+    checksum: f2049a348c7a7ccb5094f88ef18f3ec358110db0e1b2ed073e1deaa89f929391
+    media_type: application/json
+    bytes: 82257
 rights:
   status: no-permission-needed
   basis: us-government-work

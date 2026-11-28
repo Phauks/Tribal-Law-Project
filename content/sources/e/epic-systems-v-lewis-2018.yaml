@@ -110,6 +110,35 @@ argument_transcripts:
     checksum: ce3963c53a937f2b7dd7bfe95cfffe43047f2f566b506ecf0571af2a0379102a
     media_type: application/pdf
     bytes: 1264025
+argument_timing:
+- date: '2017-10-02'
+  made: official transcript
+  model: Whisper small.en
+  turns: 276
+  recording:
+  - {key: supreme-court-audio/court/2017/16-285.mp3, seconds: 3780.05}
+  span: [0.0, 3780.1]
+  counsel:
+  - name: "Paul D. Clement"
+    title: "Washington, D.C."
+    for: "Petitioners in Nos. 16-285 and 16-300"
+  - name: "Jeffrey B. Wall"
+    for: "the United States, as Amicus Curiae, Supporting Petitioners in Nos. 16-285 and 16-300, and Respondents in No. 16-307"
+  - name: "Richard D. Griffin"
+    for: "Petitioner, Acting as Respondent in No. 16-307"
+  - name: "Daniel R. Ortiz"
+    for: "Respondents in Nos. 16-285 and 16-300"
+  sections:
+  - {label: "Clement", counsel: "Paul D. Clement", t: 11.1}
+  - {label: "Wall", counsel: "Jeffrey B. Wall", t: 1000.3}
+  - {label: "Griffin", counsel: "Richard D. Griffin", t: 1693.9}
+  - {label: "Ortiz", counsel: "Daniel R. Ortiz", t: 2913.7}
+  - {label: "Rebuttal", counsel: "Paul D. Clement", t: 3547.2}
+  file:
+    storage_key: supreme-court-transcripts/timed/epic-systems-v-lewis-2018/2017-10-02.json
+    checksum: 4e8c8a1d6cfb2cd828325e21529057d112fee5d9865ef4608e33587e4cb74dde
+    media_type: application/json
+    bytes: 83450
 rights:
   status: no-permission-needed
   basis: us-government-work

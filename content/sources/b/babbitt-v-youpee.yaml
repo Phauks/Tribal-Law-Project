@@ -144,6 +144,29 @@ argument_transcripts:
     checksum: 472b9971b6c9206e286d22253b14164b6d2570bcaed504a50b7603ec52cc09dd
     media_type: application/pdf
     bytes: 12391467
+argument_timing:
+- date: '1996-12-02'
+  made: official transcript
+  model: Whisper small.en
+  turns: 272
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1006.mp3, seconds: 10891.6}
+  span: [7515.4, 10891.6]
+  counsel:
+  - name: "James A. Feldman"
+    title: "Assistant to the Solicitor General"
+    for: "the Petitioners"
+  - name: "Rene A. Martell"
+    title: "Poplar, Montana"
+    for: "the Respondents"
+  sections:
+  - {label: "Feldman", counsel: "James A. Feldman", t: 7542.6}
+  - {label: "Martell", counsel: "Rene A. Martell", t: 9429.1}
+  file:
+    storage_key: supreme-court-transcripts/timed/babbitt-v-youpee/1996-12-02.json
+    checksum: 7b42c8c2a2e6fd46adb059394d89007e9c62e7f099d7421b6cb02382a67ca7ef
+    media_type: application/json
+    bytes: 75598
 rights:
   status: no-permission-needed
   basis: us-government-work

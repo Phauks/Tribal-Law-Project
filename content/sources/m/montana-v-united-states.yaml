@@ -118,6 +118,34 @@ argument_transcripts:
     checksum: fdfb75ae796a3fee35cf93d5f0ccc3fd357c3e309ed1ace7e0778870bd541fd2
     media_type: application/pdf
     bytes: 16046618
+argument_timing:
+- date: '1980-12-03'
+  made: official transcript
+  model: Whisper small.en
+  turns: 321
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-335.mp3, seconds: 13539.68}
+  span: [125.5, 5920.6]
+  counsel:
+  - name: "Urban L. Roth"
+    title: "Special Assistant Attorney General"
+    for: "the Petitioners"
+  - name: "Louis F. Claiborne"
+    title: "Deputy Solicitor General"
+    for: "the Respondents"
+  - name: "Thomas J. Lynaugh"
+    title: "Billings, Montana"
+    for: "the Respondents"
+  sections:
+  - {label: "Roth", counsel: "Urban L. Roth", t: 159.8}
+  - {label: "Claiborne", counsel: "Louis F. Claiborne", t: 2796.4}
+  - {label: "Lynaugh", counsel: "Thomas J. Lynaugh", t: 4348.2}
+  - {label: "Rebuttal", counsel: "Urban L. Roth", t: 5574.1}
+  file:
+    storage_key: supreme-court-transcripts/timed/montana-v-united-states/1980-12-03.json
+    checksum: 185ac0acfdad1f90ae8b56bce53079e65929f80d3c21051c33ceeab54a2853a4
+    media_type: application/json
+    bytes: 95200
 rights:
   status: no-permission-needed
   basis: us-government-work

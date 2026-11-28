@@ -152,6 +152,34 @@ argument_transcripts:
     checksum: b9ab7f8d41e0a1e01929ef6fcb02fe1897308b5476cf8cf98d1f038da11350ec
     media_type: application/pdf
     bytes: 729274
+argument_timing:
+- date: '2018-04-18'
+  made: official transcript
+  model: Whisper small.en
+  turns: 290
+  recording:
+  - {key: supreme-court-audio/court/2017/17-269.mp3, seconds: 3692.35}
+  span: [0.0, 3692.3]
+  counsel:
+  - name: "Noah Purcell"
+    title: "Washington State Solicitor General"
+    for: "the Petitioner"
+  - name: "Allon Kedem"
+    title: "Assistant to the Solicitor General"
+    for: "the Respondent United States"
+  - name: "William M. Jay"
+    title: "Washington, D.C."
+    for: "the Respondents Suquamish Indian Tribe, et al."
+  sections:
+  - {label: "Purcell", counsel: "Noah Purcell", t: 7.4}
+  - {label: "Kedem", counsel: "Allon Kedem", t: 1529.6}
+  - {label: "Jay", counsel: "William M. Jay", t: 2475.9}
+  - {label: "Rebuttal", counsel: "Noah Purcell", t: 3395.7}
+  file:
+    storage_key: supreme-court-transcripts/timed/washington-v-united-states/2018-04-18.json
+    checksum: 4343b88f7d0c17001e3b06220faae60bf6cff00351c8aa21f3d05518a929aec2
+    media_type: application/json
+    bytes: 91899
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -180,6 +180,30 @@ argument_transcripts:
     checksum: 9647109821e133864f3ed72f09f9df9618b6986a38aae9d01a5fa3c7638862b9
     media_type: application/pdf
     bytes: 10689472
+argument_timing:
+- date: '1976-03-29'
+  made: official transcript
+  model: Whisper small.en
+  turns: 151
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-146-r1.mp3, seconds: 136.36}
+  - {key: supreme-court-audio/national-archives/red-series/267-146-r2.mp3, seconds: 3804.11}
+  - {key: supreme-court-audio/national-archives/red-series/267-146-r3.mp3, seconds: 3732.77}
+  - {key: supreme-court-audio/national-archives/red-series/267-146-r4.mp3, seconds: 4046.18}
+  - {key: supreme-court-audio/national-archives/red-series/267-146-r5.mp3, seconds: 3062.91}
+  span: [120.1, 3955.7]
+  counsel:
+  - name: "Steven H. Chestnut"
+    for: "the Petitioner"
+  - name: "Lewis E. Brueggemann"
+  sections:
+  - {label: "Chestnut", counsel: "Steven H. Chestnut", t: 155.8}
+  - {label: "Brueggemann", counsel: "Lewis E. Brueggemann", t: 3271.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/northern-cheyenne-tribe-v-hollowbreast/1976-03-29.json
+    checksum: 563d59332b97be4db9f2e5df4867e40a211c7022f350962b5ac210eeff078105
+    media_type: application/json
+    bytes: 72028
 rights:
   status: no-permission-needed
   basis: us-government-work

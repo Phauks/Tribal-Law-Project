@@ -165,6 +165,34 @@ argument_transcripts:
     checksum: 02cfaf4d7e827dd936a9a5878cf5d279b8d8b98e62d65c13549ad6453d9ef0b7
     media_type: application/pdf
     bytes: 11342991
+argument_timing:
+- date: '1978-01-11'
+  made: official transcript
+  model: Whisper small.en
+  turns: 162
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-217-r1.mp3, seconds: 158.85}
+  - {key: supreme-court-audio/national-archives/red-series/267-217-r2.mp3, seconds: 176.64}
+  - {key: supreme-court-audio/national-archives/red-series/267-217-r3.mp3, seconds: 4365.43}
+  - {key: supreme-court-audio/national-archives/red-series/267-217-r4.mp3, seconds: 3653.83}
+  - {key: supreme-court-audio/national-archives/red-series/267-217-r5.mp3, seconds: 3150.99}
+  span: [4682.3, 8367.4]
+  counsel:
+  - name: "Stephen L. Urbanczyk"
+    title: "Assistant to tile Solicitor General"
+    for: "the Petitioner"
+  - name: "O'Toole"
+    title: "Phoenix, Arizona"
+    for: "the Respondent"
+  sections:
+  - {label: "Urbanczyk", counsel: "Stephen L. Urbanczyk", t: 4884.4}
+  - {label: "O'Toole", counsel: "O'Toole", t: 6221.5}
+  - {label: "Rebuttal", counsel: "Stephen L. Urbanczyk", t: 8130.9}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-wheeler/1978-01-11.json
+    checksum: f6abf3e5e0be86844ed535ae90490e49d917ea7f4c0d81fbb79ae825817c133f
+    media_type: application/json
+    bytes: 71652
 rights:
   status: no-permission-needed
   basis: us-government-work

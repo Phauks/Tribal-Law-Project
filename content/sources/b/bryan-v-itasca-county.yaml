@@ -177,6 +177,34 @@ argument_transcripts:
     checksum: 4e01c122e8b80c87f619a262352ab441c1c3aedd09474ba769dc515f039265e5
     media_type: application/pdf
     bytes: 7202382
+argument_timing:
+- date: '1976-04-20'
+  made: official transcript
+  model: Whisper small.en
+  turns: 122
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-150-r1.mp3, seconds: 83.7}
+  - {key: supreme-court-audio/national-archives/red-series/267-150-r2.mp3, seconds: 374.33}
+  - {key: supreme-court-audio/national-archives/red-series/267-150-r3.mp3, seconds: 3683.29}
+  - {key: supreme-court-audio/national-archives/red-series/267-150-r4.mp3, seconds: 2515.44}
+  - {key: supreme-court-audio/national-archives/red-series/267-150-r5.mp3, seconds: 3831.98}
+  - {key: supreme-court-audio/national-archives/red-series/267-150-r6.mp3, seconds: 4180.98}
+  span: [4122.9, 6669.9]
+  counsel:
+  - name: "Bernard P. Becker"
+    title: "St. Paul, Minnesota"
+    for: "Petitioner"
+  - name: "C. H. Luther"
+    for: "Respondent"
+  sections:
+  - {label: "Becker", counsel: "Bernard P. Becker", t: 4185.4}
+  - {label: "Luther", counsel: "C. H. Luther", t: 5776.5}
+  - {label: "Rebuttal", counsel: "Bernard P. Becker", t: 6435.8}
+  file:
+    storage_key: supreme-court-transcripts/timed/bryan-v-itasca-county/1976-04-20.json
+    checksum: 90f6a75f2c386f82c27f013415086c83e0842c080ee23b968072b742398edd2a
+    media_type: application/json
+    bytes: 50364
 rights:
   status: no-permission-needed
   basis: us-government-work

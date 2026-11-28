@@ -172,6 +172,33 @@ argument_transcripts:
     checksum: 1b42535b7fc0773b60220a79b2b8783c96c1572c97725aaa65c6002331111dbc
     media_type: application/pdf
     bytes: 14118896
+argument_timing:
+- date: '1989-11-06'
+  made: official transcript
+  model: Whisper small.en
+  turns: 255
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-727-r1.mp3, seconds: 3877.09}
+  - {key: supreme-court-audio/national-archives/red-series/267-727-r2.mp3, seconds: 3771.19}
+  - {key: supreme-court-audio/national-archives/red-series/267-727-r3.mp3, seconds: 3581.86}
+  - {key: supreme-court-audio/national-archives/red-series/267-727-r4.mp3, seconds: 3730.21}
+  span: [3728.7, 7599.4]
+  counsel:
+  - name: "David B. Frohnmayer"
+    title: "Attorney General of Oregon"
+    for: "the Petitioners"
+  - name: "Craig J. Dorsay"
+    title: "Portland, Oregon"
+    for: "the Respondent"
+  sections:
+  - {label: "Frohnmayer", counsel: "David B. Frohnmayer", t: 3949.4}
+  - {label: "Dorsay", counsel: "Craig J. Dorsay", t: 5575.1}
+  - {label: "Rebuttal", counsel: "David B. Frohnmayer", t: 7424.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/employment-division-v-smith/1989-11-06.json
+    checksum: 025c7c3c0d81b14c43bea3144f6feaa7a171aa6ac7f0bcb776105e9182e95d10
+    media_type: application/json
+    bytes: 80087
 rights:
   status: no-permission-needed
   basis: us-government-work

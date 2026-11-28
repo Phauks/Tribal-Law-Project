@@ -150,6 +150,83 @@ argument_audio:
     checksum: a16b287ee9bf73c6763f374fc7fae44cc54b2aefe62bdbbc0d80d4071985dded
     media_type: audio/mpeg
     bytes: 41286007
+argument_timing:
+- date: '1968-03-25'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 309
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-682-247-319-19680325-19680326-1of2.mp3, seconds: 3755.39}
+  - {key: supreme-court-audio/national-archives/black-series/267-682-247-319-19680325-19680326-2of2.mp3, seconds: 3220.04}
+  span: [0.0, 6975.4]
+  counsel:
+  - name: "Arthur Knodel"
+    for: "petitioner in No. 247 (Puyallup Tribe)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "Jack E. Tanner"
+    for: "petitioners in No. 319 (Kautz et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "Joseph L. Coniff"
+    title: "Special Assistant Attorney General of Washington"
+    for: "respondents in both cases"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "Mike R. Johnston"
+    title: "Assistant Attorney General of Washington"
+    for: "respondents in both cases"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "John S. Martin, Jr."
+    for: "the United States, as amicus curiae, urging reversal in both cases"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "George S. Woodworth"
+    title: "Assistant Attorney General of Oregon"
+    for: "the State of Oregon, as amicus curiae, urging affirmance in both cases"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "T. J. Jones III"
+    for: "the State of Idaho Fish and Game Department, as amicus curiae, urging affirmance in both cases"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/puyallup-tribe-v-department-of-game/1968-03-25.json
+    checksum: 99e8874b26751ee9aad02a2caafae300e1e2c96344d485bb279212db12948af0
+    media_type: application/json
+    bytes: 113526
+- date: '1968-03-26'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 301
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-683-247-319-19680325-19680326-1of2.mp3, seconds: 3776.0}
+  - {key: supreme-court-audio/national-archives/black-series/267-683-247-319-19680325-19680326-2of2.mp3, seconds: 2580.35}
+  span: [0.0, 6356.4]
+  counsel:
+  - name: "Arthur Knodel"
+    for: "petitioner in No. 247 (Puyallup Tribe)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "Jack E. Tanner"
+    for: "petitioners in No. 319 (Kautz et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "Joseph L. Coniff"
+    title: "Special Assistant Attorney General of Washington"
+    for: "respondents in both cases"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "Mike R. Johnston"
+    title: "Assistant Attorney General of Washington"
+    for: "respondents in both cases"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "John S. Martin, Jr."
+    for: "the United States, as amicus curiae, urging reversal in both cases"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "George S. Woodworth"
+    title: "Assistant Attorney General of Oregon"
+    for: "the State of Oregon, as amicus curiae, urging affirmance in both cases"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  - name: "T. J. Jones III"
+    for: "the State of Idaho Fish and Game Department, as amicus curiae, urging affirmance in both cases"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep391/usrep391392/usrep391392.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/puyallup-tribe-v-department-of-game/1968-03-26.json
+    checksum: e731037f87ff1401253bb64e5b25ba4ef7d6cde08ea3c76e3b09960822e24dc6
+    media_type: application/json
+    bytes: 101249
 rights:
   status: no-permission-needed
   basis: us-government-work

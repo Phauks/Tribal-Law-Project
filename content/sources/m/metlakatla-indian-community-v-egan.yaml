@@ -152,6 +152,35 @@ argument_audio:
     checksum: 7b4a43e70e37a536c0d6193f436be8596a7baf7a2545ce99c122244757f7310f
     media_type: audio/mpeg
     bytes: 18031176
+argument_timing:
+- date: '1960-05-18'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 668
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-270-326-327-19600518-1of4.mp3, seconds: 3992.97}
+  - {key: supreme-court-audio/national-archives/black-series/267-270-326-327-19600518-2of4.mp3, seconds: 4010.71}
+  - {key: supreme-court-audio/national-archives/black-series/267-270-326-327-19600518-3of4.mp3, seconds: 4149.03}
+  - {key: supreme-court-audio/national-archives/black-series/267-270-326-327-19600518-4of4.mp3, seconds: 1126.92}
+  span: [0.0, 13279.6]
+  counsel:
+  - name: "Richard Schifter"
+    for: "appellant in No. 326 (Metlakatla Indian Community)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep363/usrep363555/usrep363555.pdf
+  - name: "John W. Cragun"
+    for: "appellants in No. 327 (Organized Village of Kake et al.)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep363/usrep363555/usrep363555.pdf
+  - name: "John L. Rader"
+    for: "appellees"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep363/usrep363555/usrep363555.pdf
+  - name: "John D. Calhoun"
+    for: "the United States, as amicus curiae, urging reversal"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep363/usrep363555/usrep363555.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/metlakatla-indian-community-v-egan/1960-05-18.json
+    checksum: 84da98e26cf3183ab192c8bb7cadc696b8a73c092815d8050140650bddb38a44
+    media_type: application/json
+    bytes: 205055
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -139,6 +139,25 @@ argument_transcripts:
     checksum: 3bad17e7c7606197eaface8eb11e6c0cba8876b0847f71748c46df27e0d23b77
     media_type: application/pdf
     bytes: 12457952
+argument_timing:
+- date: '1989-01-10'
+  made: official transcript
+  model: Whisper small.en
+  turns: 165
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-686.mp3, seconds: 12709.75}
+  span: [9120.6, 12709.8]
+  counsel:
+  - name: "Jeffrey C. Sullivan"
+    for: "the Petitioners"
+  sections:
+  - {label: "Sullivan", counsel: "Jeffrey C. Sullivan", t: 9210.0}
+  - {label: "Rebuttal", counsel: "Jeffrey C. Sullivan", t: 12476.7}
+  file:
+    storage_key: supreme-court-transcripts/timed/brendale-v-confederated-tribes-and-bands-of-yakima-indian-nation/1989-01-10.json
+    checksum: d7d27c0e984d0bf4c5ae95d391cb373cbfe78eba6feb4e3ab8028b47386d3ab3
+    media_type: application/json
+    bytes: 68862
 rights:
   status: no-permission-needed
   basis: us-government-work

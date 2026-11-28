@@ -123,6 +123,31 @@ argument_transcripts:
     checksum: bb1a7d094cadc1907e42accdab115c3fa8b03f312b277b9c785a591d2c4e894d
     media_type: application/pdf
     bytes: 13714352
+argument_timing:
+- date: '1988-11-28'
+  made: official transcript
+  model: Whisper small.en
+  turns: 188
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-678.mp3, seconds: 13707.86}
+  span: [0.0, 3726.4]
+  counsel:
+  - name: "Jerome C . Muys"
+    for: "the Petitioners"
+  - name: "Edwin S. Kneeoler"
+  - name: "Dale T. White"
+    for: "the Tribal Respondents"
+  sections:
+  - {label: "Rebuttal", counsel: "Jerome C . Muys", t: 1.4}
+  - {label: "Rebuttal", counsel: "Jerome C . Muys", t: 11.9}
+  - {label: "Kneeoler", counsel: "Edwin S. Kneeoler", t: 1597.8}
+  - {label: "White", counsel: "Dale T. White", t: 2899.3}
+  - {label: "Rebuttal", counsel: "Jerome C . Muys", t: 3571.1}
+  file:
+    storage_key: supreme-court-transcripts/timed/california-v-united-states/1988-11-28.json
+    checksum: f89b5ac0a7dcd172ddd765496c061acf0dd00194bf0bfdd49281234f998aa684
+    media_type: application/json
+    bytes: 76537
 rights:
   status: no-permission-needed
   basis: us-government-work

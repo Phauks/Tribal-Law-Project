@@ -148,6 +148,33 @@ argument_transcripts:
     checksum: 0f6bff366204163d9750aeba129f9090ace00c8dcff80c34bea6ddba1900f1b8
     media_type: application/pdf
     bytes: 166135
+argument_timing:
+- date: '2003-04-01'
+  made: official transcript
+  model: Whisper small.en
+  turns: 220
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1260.mp3, seconds: 7592.57}
+  span: [3912.8, 7592.6]
+  counsel:
+  - name: "Kirk O. Kolbo"
+    title: "Minneapolis, Minnesota"
+    for: "the Petitioner"
+  - name: "Theodore B. Olson"
+    for: "the United States as Amicus Curiae Supporting the Petitioners"
+  - name: "John Payton"
+    title: "Washington, D.C."
+    for: "the Respondents"
+  sections:
+  - {label: "Kolbo", counsel: "Kirk O. Kolbo", t: 3971.8}
+  - {label: "Olson", counsel: "Theodore B. Olson", t: 4975.6}
+  - {label: "Payton", counsel: "John Payton", t: 5583.8}
+  - {label: "Rebuttal", counsel: "Kirk O. Kolbo", t: 7388.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/gratz-v-bollinger/2003-04-01.json
+    checksum: a94ef0c37cccf00021977d98d21c1d85b98880f93ab80952efa1876d8295030c
+    media_type: application/json
+    bytes: 76482
 rights:
   status: no-permission-needed
   basis: us-government-work

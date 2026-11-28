@@ -136,6 +136,33 @@ argument_transcripts:
     checksum: f869b1b1e4b97621db3f42af5c77c3dfbb12cac2e2c2538b07dcd51e1be86fdf
     media_type: application/pdf
     bytes: 1308673
+argument_timing:
+- date: '2017-01-09'
+  made: official transcript
+  model: Whisper small.en
+  turns: 188
+  recording:
+  - {key: supreme-court-audio/court/2016/15-1500.mp3, seconds: 3370.66}
+  span: [0.0, 3370.7]
+  counsel:
+  - name: "Eric D. Miller"
+    title: "Seattle, Wash."
+    for: "the Petitioners"
+  - name: "Ann O'Connell"
+    for: "United States, as Amicus Curiae, Supporting the Petitioners"
+  - name: "Neal K. Katyal"
+    title: "Washington, D.C."
+    for: "the Respondent"
+  sections:
+  - {label: "Miller", counsel: "Eric D. Miller", t: 7.4}
+  - {label: "O'Connell", counsel: "Ann O'Connell", t: 1082.7}
+  - {label: "Katyal", counsel: "Neal K. Katyal", t: 1676.0}
+  - {label: "Rebuttal", counsel: "Eric D. Miller", t: 3037.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/lewis-v-clarke/2017-01-09.json
+    checksum: 8b40c9efd76eda6ccd201799dac1052cd08daf212eb88f87b3d453150c83aa78
+    media_type: application/json
+    bytes: 72767
 rights:
   status: no-permission-needed
   basis: us-government-work

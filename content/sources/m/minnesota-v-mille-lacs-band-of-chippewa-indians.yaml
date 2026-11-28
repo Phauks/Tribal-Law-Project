@@ -136,6 +136,34 @@ argument_transcripts:
     checksum: dda1a246b493bbb238bba5d57e4b3c94fca28950c12c42f701986d1f1cf23bad
     media_type: application/pdf
     bytes: 12268017
+argument_timing:
+- date: '1998-12-02'
+  made: official transcript
+  model: Whisper small.en
+  turns: 315
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1083.mp3, seconds: 3967.95}
+  span: [0.0, 1058.0]
+  counsel:
+  - name: "John L. Kirwin"
+    title: "Assistant Attorney General of Minnesota"
+    for: "the Petitioners"
+  - name: "Randy V. Thompson"
+    title: "Minneapolis, Minnesota"
+    for: "the Respondents John W. Thompson, et al."
+  - name: "Marc D. Slonim"
+    title: "Seattle, Washington"
+    for: "the Respondents Mille Lacs Band of Chippewa Indians, et al."
+  - name: "Barbara B. McDowell"
+    title: "Assistant to the Solicitor General"
+    for: "the Respondent United States"
+  sections:
+  - {label: "McDowell", counsel: "Barbara B. McDowell", t: 117.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/minnesota-v-mille-lacs-band-of-chippewa-indians/1998-12-02.json
+    checksum: 743fcaeb0e17812c8765c150e4491fa8b9ed0ff88d558ce17891c726dcb102bf
+    media_type: application/json
+    bytes: 87291
 rights:
   status: no-permission-needed
   basis: us-government-work

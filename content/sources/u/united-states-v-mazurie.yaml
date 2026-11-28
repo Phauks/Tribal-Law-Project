@@ -152,6 +152,31 @@ argument_transcripts:
     checksum: e22842d0748c93b93d8a772a66e11bd7613e771bdda64946ac31fbd760d0fd0b
     media_type: application/pdf
     bytes: 10434615
+argument_timing:
+- date: '1974-11-12'
+  made: official transcript
+  model: Whisper small.en
+  turns: 312
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-77-r1.mp3, seconds: 3228.42}
+  - {key: supreme-court-audio/national-archives/red-series/267-77-r2.mp3, seconds: 4102.95}
+  - {key: supreme-court-audio/national-archives/red-series/267-77-r3.mp3, seconds: 4299.21}
+  span: [3211.3, 7349.3]
+  counsel:
+  - name: "Charles E. Hamilton"
+    for: "Respondents"
+  - name: "Jerome F. Statkus"
+    for: "Wyoming, as Amicus Curiae"
+  - name: "Harry R. Sachse"
+  sections:
+  - {label: "Hamilton", counsel: "Charles E. Hamilton", t: 4577.9}
+  - {label: "Statkus", counsel: "Jerome F. Statkus", t: 6433.8}
+  - {label: "Rebuttal", counsel: "Harry R. Sachse", t: 6864.1}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-mazurie/1974-11-12.json
+    checksum: 6099bea44ed3d8586d2a9ded276cb085dee618a9a6de7a4941c19f295ebb77a0
+    media_type: application/json
+    bytes: 80240
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -128,6 +128,28 @@ argument_transcripts:
     checksum: 7978ea3166e96977099519b9921a2a3919a3c61cc680d9571ea92c5a0f83f587
     media_type: application/pdf
     bytes: 11163052
+argument_timing:
+- date: '1986-03-25'
+  made: official transcript
+  model: Whisper small.en
+  turns: 129
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-557.mp3, seconds: 13413.22}
+  span: [7422.1, 10344.0]
+  counsel:
+  - name: "Jeffrey P. Minear"
+    for: "the Petitioner"
+  - name: "Terry L. Pechota"
+    title: "Rapid City, South Dakota"
+    for: "respondent"
+  sections:
+  - {label: "Minear", counsel: "Jeffrey P. Minear", t: 7442.1}
+  - {label: "Pechota", counsel: "Terry L. Pechota", t: 8717.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-dion/1986-03-25.json
+    checksum: 79c1ff9e9278ff65643c10a67e5f8c0dfe942641e41aa8731342872f0da191f2
+    media_type: application/json
+    bytes: 53721
 rights:
   status: no-permission-needed
   basis: us-government-work

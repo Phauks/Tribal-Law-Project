@@ -189,6 +189,37 @@ argument_transcripts:
     checksum: 3bdd5c5b80ad147c753dff09169e3f37d4f6784f7b4bf64a26b4f3fab5305e8b
     media_type: application/pdf
     bytes: 10544593
+argument_timing:
+- date: '1974-04-24'
+  made: official transcript
+  model: Whisper small.en
+  turns: 123
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-66-r1.mp3, seconds: 179.15}
+  - {key: supreme-court-audio/national-archives/red-series/267-66-r2.mp3, seconds: 194.27}
+  - {key: supreme-court-audio/national-archives/red-series/267-66-r3.mp3, seconds: 3806.01}
+  - {key: supreme-court-audio/national-archives/red-series/267-66-r4.mp3, seconds: 1337.26}
+  - {key: supreme-court-audio/national-archives/red-series/267-66-r5.mp3, seconds: 3750.43}
+  - {key: supreme-court-audio/national-archives/red-series/267-66-r6.mp3, seconds: 3739.27}
+  - {key: supreme-court-audio/national-archives/red-series/267-66-r7.mp3, seconds: 829.7}
+  span: [9293.7, 13836.1]
+  counsel:
+  - name: "Harris D. Sherman"
+    for: "the Iktervenor-Appellant Amerind"
+  - name: "Gene E. Franchini"
+    for: "the Appellees"
+  - name: "Harry R. Sachse"
+    title: "Office of the Solicitor General"
+    for: "the Secretary of the Interior, Appellant"
+  sections:
+  - {label: "Sherman", counsel: "Harris D. Sherman", t: 10692.5}
+  - {label: "Franchini", counsel: "Gene E. Franchini", t: 11507.7}
+  - {label: "Rebuttal", counsel: "Harry R. Sachse", t: 13799.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/morton-v-mancari/1974-04-24.json
+    checksum: a5790f92323840ab7eebdb1c4e09f86ab4dc719c94e2c348069f6cef133ef779
+    media_type: application/json
+    bytes: 76340
 rights:
   status: no-permission-needed
   basis: us-government-work

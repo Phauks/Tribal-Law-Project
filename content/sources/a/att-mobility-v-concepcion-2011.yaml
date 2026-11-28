@@ -118,6 +118,30 @@ argument_transcripts:
     checksum: d330bae63973139a3d28594e6ff472e4eba3083f82204b76c5d45a363464bafd
     media_type: application/pdf
     bytes: 328494
+argument_timing:
+- date: '2010-11-09'
+  made: official transcript
+  model: Whisper small.en
+  turns: 177
+  recording:
+  - {key: supreme-court-audio/court/2010/09-893.mp3, seconds: 3633.74}
+  span: [0.0, 3633.7]
+  counsel:
+  - name: "Andrew J. Pincus"
+    title: "Washington, D.C."
+    for: "the Petitioner"
+  - name: "Deepak Gupta"
+    title: "Washington, D.C."
+    for: "the Respondents"
+  sections:
+  - {label: "Pincus", counsel: "Andrew J. Pincus", t: 10.8}
+  - {label: "Gupta", counsel: "Deepak Gupta", t: 1582.5}
+  - {label: "Rebuttal", counsel: "Andrew J. Pincus", t: 3391.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/att-mobility-v-concepcion-2011/2010-11-09.json
+    checksum: 62f4d49e2fea4293a4a8c81eb1f9274240909609e9048ae6cfc30261ed0ba942
+    media_type: application/json
+    bytes: 74163
 rights:
   status: no-permission-needed
   basis: us-government-work

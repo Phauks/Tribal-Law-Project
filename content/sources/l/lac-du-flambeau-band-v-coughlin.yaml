@@ -135,6 +135,34 @@ argument_transcripts:
     checksum: 16c1f18c99c2c0b3a88a0bf1216fa02155038bf827c4c52533436d86e0f9e5c7
     media_type: application/pdf
     bytes: 418319
+argument_timing:
+- date: '2023-04-24'
+  made: official transcript
+  model: Whisper small.en
+  turns: 239
+  recording:
+  - {key: supreme-court-audio/court/2022/22-227.mp3, seconds: 3492.53}
+  span: [0.0, 3492.5]
+  counsel:
+  - name: "Pratik A. Shah"
+    title: "Washington, D.C."
+    for: "the Petitioners"
+  - name: "Gregory G. Rapawy"
+    title: "Washington, D.C."
+    for: "the Respondent"
+  - name: "Austin Raynor"
+    title: "Assistant to the Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Respondent"
+  sections:
+  - {label: "Shah", counsel: "Pratik A. Shah", t: 12.8}
+  - {label: "Rapawy", counsel: "Gregory G. Rapawy", t: 1769.8}
+  - {label: "Raynor", counsel: "Austin Raynor", t: 2673.7}
+  - {label: "Rebuttal", counsel: "Pratik A. Shah", t: 3310.4}
+  file:
+    storage_key: supreme-court-transcripts/timed/lac-du-flambeau-band-v-coughlin/2023-04-24.json
+    checksum: b858e3b4af1047ebb5b62a365ec959e8b983fdcd0973b1428d634e7674b92ef5
+    media_type: application/json
+    bytes: 81209
 rights:
   status: no-permission-needed
   basis: us-government-work

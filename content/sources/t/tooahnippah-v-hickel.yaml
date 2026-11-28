@@ -141,6 +141,30 @@ argument_transcripts:
     checksum: 066c0f1857698f9b7c3b39dd12851b8b98ee127a54895b977301fd13efd467ff
     media_type: application/pdf
     bytes: 15336143
+argument_timing:
+- date: '1970-01-14'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 218
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-768-300-19700114-1of2.mp3, seconds: 3616.37}
+  - {key: supreme-court-audio/national-archives/black-series/267-768-300-19700114-2of2.mp3, seconds: 1068.43}
+  span: [0.0, 4684.8]
+  counsel:
+  - name: "Omer Luellen"
+    for: "petitioners"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397598/usrep397598.pdf
+  - name: "Richard B. Stone"
+    for: "respondent Hickel"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397598/usrep397598.pdf
+  - name: "Houston Bus Hill"
+    for: "respondent Horse"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep397/usrep397598/usrep397598.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/tooahnippah-v-hickel/1970-01-14.json
+    checksum: 286a73db37eaa25ba2686802480c4894627e672fbb87eadb9fbe37961510e5eb
+    media_type: application/json
+    bytes: 80077
 rights:
   status: no-permission-needed
   basis: us-government-work

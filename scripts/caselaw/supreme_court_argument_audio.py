@@ -88,6 +88,10 @@ CATALOG = "https://catalog.archives.gov/id/"
 # The dataset gives each file's address in the Archives' storage bucket, which refuses outside requests (403, Nov. 27, 2026);
 # the catalog serves the same file from its own media host, at the same path under /medialz/.
 MEDIA_HOST = "https://catalog.archives.gov/medialz/"
+# Catalog descriptions whose file is another day's reel, with the reel that holds the session described. Heard Nov. 28, 2026:
+# 118975039 (Mar. 23, 1994, Dolan; Milhelm Attea) links 267-912, which opens "Tuesday, March 22nd, 1994" and holds
+# Shannon v. United States and Tuilaepa v. California; 267-911 opens "Wednesday, March 23rd, 1994" and calls Dolan first.
+MISFILED = {"118975039": {"267-912.mp3": "267-911.mp3"}}
 
 
 def media_link(link: str) -> str:
@@ -365,7 +369,11 @@ def archive_rows(cases: dict, cache: Path) -> list[dict]:
                 if black:
                     # One file per case: 267-<tape>-<docket>-<date>[-1of2].mp3
                     files = [f for f in files if (re.match(r"267-\d+-([^-]+)-", f["name"]) or [None, None])[1] in (short | case["dockets"])] or files
+                fixed = MISFILED.get(str(item["naId"]), {})
                 for one in files:
+                    name = one["link"].rsplit("/", 1)[1]
+                    if name in fixed:
+                        one = {**one, "link": one["link"][: -len(name)] + fixed[name], "bytes": None}
                     rows.append({"case": case["key"], "kind": kind, "date": made.isoformat(), "source": "archives",
                                  "series": item["series"], "catalog_id": str(item["naId"]), "catalog_title": item["title"],
                                  "segment": words, "whole_session": "no" if black else "yes", "date_note": note or "",

@@ -96,6 +96,27 @@ argument_transcripts:
     checksum: 50e3a6197e6718674152ea876fb7f5797d4a8f7a6146499d0010f80ea027ba0c
     media_type: application/pdf
     bytes: 12516036
+argument_timing:
+- date: '1983-10-04'
+  made: official transcript
+  model: Whisper small.en
+  turns: 70
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-450.mp3, seconds: 15114.42}
+  span: [7920.8, 11750.5]
+  counsel:
+  - name: "Mark J. Spooner"
+    for: "Appellants"
+  - name: "Marx J. Spccner"
+    for: "Appellants"
+  sections:
+  - {label: "Spooner", counsel: "Mark J. Spooner", t: 7942.4}
+  - {label: "Spccner", counsel: "Marx J. Spccner", t: 11565.7}
+  file:
+    storage_key: supreme-court-transcripts/timed/southland-corp-v-keating-1984/1983-10-04.json
+    checksum: e83311697a35818e5a9fc05d8d39366def24a908b91677ddda1956570f66fcd3
+    media_type: application/json
+    bytes: 56566
 rights:
   status: no-permission-needed
   basis: us-government-work

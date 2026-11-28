@@ -183,6 +183,33 @@ argument_transcripts:
     checksum: 7bf3850f48d7fe380dfcaffe55c70f5e2b1596d5f7b6779418c56add26c039bc
     media_type: application/pdf
     bytes: 2843637
+argument_timing:
+- date: '1977-10-12'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 275
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-202-r1.mp3, seconds: 3767.72}
+  - {key: supreme-court-audio/national-archives/red-series/267-202-r2.mp3, seconds: 3470.63}
+  - {key: supreme-court-audio/national-archives/red-series/267-202-r3.mp3, seconds: 3229.88}
+  - {key: supreme-court-audio/national-archives/red-series/267-202-r4.mp3, seconds: 3119.62}
+  span: [43.3, 7217.4]
+  counsel:
+  - name: "Archibald Cox"
+    for: "petitioner"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep438/usrep438265/usrep438265.pdf
+  - name: "Reynold H. Colvin"
+    for: "respondent"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep438/usrep438265/usrep438265.pdf
+  - name: "Wade H. McCree, Jr."
+    title: "Solicitor General"
+    for: "the United States as amicus curiae"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep438/usrep438265/usrep438265.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/regents-of-the-university-of-california-v-bakke/1977-10-12.json
+    checksum: 8bebcfbd793d8a8c508d54905df76beebfc3beb7bb3383fb795e8ecb96bac1f7
+    media_type: application/json
+    bytes: 105881
 rights:
   status: no-permission-needed
   basis: us-government-work

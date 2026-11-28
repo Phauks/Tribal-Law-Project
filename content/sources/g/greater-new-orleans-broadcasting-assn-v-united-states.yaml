@@ -132,6 +132,30 @@ argument_transcripts:
     checksum: 78e2b194bce6d7841a79be1b2b1150eaf9ea5322e25764d493fc353f83815e3c
     media_type: application/pdf
     bytes: 11948854
+argument_timing:
+- date: '1999-04-27'
+  made: official transcript
+  model: Whisper small.en
+  turns: 288
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-1108.mp3, seconds: 8040.96}
+  span: [586.0, 4328.4]
+  counsel:
+  - name: "Bruce J. Ennis, Jr."
+    title: "Washington, D.C."
+    for: "the Petitioners"
+  - name: "Barbara D. Underwood"
+    title: "Deputy Solicitor General"
+    for: "the Respondents"
+  sections:
+  - {label: "Ennis", counsel: "Bruce J. Ennis, Jr.", t: 619.9}
+  - {label: "Underwood", counsel: "Barbara D. Underwood", t: 2250.5}
+  - {label: "Rebuttal", counsel: "Bruce J. Ennis, Jr.", t: 4118.7}
+  file:
+    storage_key: supreme-court-transcripts/timed/greater-new-orleans-broadcasting-assn-v-united-states/1999-04-27.json
+    checksum: 92ffb5e66af1fd2e6466da4c25845ddac7792867a10fab2b15833b877c50c2e4
+    media_type: application/json
+    bytes: 77707
 rights:
   status: no-permission-needed
   basis: us-government-work

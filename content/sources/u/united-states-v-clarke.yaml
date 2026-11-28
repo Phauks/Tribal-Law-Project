@@ -134,6 +134,51 @@ argument_audio:
     checksum: 30d34887e9411dd18b07681200b8d779a513fdb35af926830cf849daedc12282
     media_type: audio/mpeg
     bytes: 229328057
+argument_timing:
+- date: '1980-01-15'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 38
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-303.mp3, seconds: 14270.04}
+  span: [13427.3, 14270.0]
+  counsel:
+  - name: "Harlon L. Dalton"
+    for: "the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep445/usrep445253/usrep445253.pdf
+  - name: "Robert S. Pelcyger"
+    for: "Bertha Mae Tabbytite, respondent under this Court's Rule 21(4), in support of the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep445/usrep445253/usrep445253.pdf
+  - name: "Richard Arthur Weinig"
+    for: "respondents"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep445/usrep445253/usrep445253.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-clarke/1980-01-15.json
+    checksum: 6e57e9b98666eea2dd50516f78cf78b51f775307ea5f2ffdd4a586ac72f3d162
+    media_type: application/json
+    bytes: 13753
+- date: '1980-01-16'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 164
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-304.mp3, seconds: 14332.87}
+  span: [105.6, 2903.3]
+  counsel:
+  - name: "Harlon L. Dalton"
+    for: "the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep445/usrep445253/usrep445253.pdf
+  - name: "Robert S. Pelcyger"
+    for: "Bertha Mae Tabbytite, respondent under this Court's Rule 21(4), in support of the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep445/usrep445253/usrep445253.pdf
+  - name: "Richard Arthur Weinig"
+    for: "respondents"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep445/usrep445253/usrep445253.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-clarke/1980-01-16.json
+    checksum: 6a1588c81c87fa730da3573aab79c9b4be49cd9d233a721342fc3498fcf76734
+    media_type: application/json
+    bytes: 47782
 rights:
   status: no-permission-needed
   basis: us-government-work

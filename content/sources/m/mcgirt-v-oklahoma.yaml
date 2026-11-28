@@ -96,6 +96,37 @@ argument_transcripts:
     checksum: 986bd87eeef2ec78028be62131a7abcfcb06d46bb906783d147e58e861d7a098
     media_type: application/pdf
     bytes: 477837
+argument_timing:
+- date: '2020-05-11'
+  made: official transcript
+  model: Whisper small.en
+  turns: 211
+  recording:
+  - {key: supreme-court-audio/court/2019/18-9526.mp3, seconds: 5505.05}
+  span: [0.0, 5505.1]
+  counsel:
+  - name: "Ian H. Gershengorn"
+    title: "Washington, D.C."
+    for: "the Petitioner"
+  - name: "Riyaz A. Kanji"
+    for: "the Muscogee (creek) Nation, as Amicus Curiae, Supporting the Petitioner"
+  - name: "Mithun Mansinghani"
+    title: "Solicitor General"
+    for: "the Respondent"
+  - name: "Edwin S. Kneedler"
+    title: "Deputy Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Respondent"
+  sections:
+  - {label: "Gershengorn", counsel: "Ian H. Gershengorn", t: 9.8}
+  - {label: "Kanji", counsel: "Riyaz A. Kanji", t: 1430.2}
+  - {label: "Mansinghani", counsel: "Mithun Mansinghani", t: 2615.2}
+  - {label: "Kneedler", counsel: "Edwin S. Kneedler", t: 3906.9}
+  - {label: "Rebuttal", counsel: "Ian H. Gershengorn", t: 5369.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/mcgirt-v-oklahoma/2020-05-11.json
+    checksum: 6f9f8aa2529bea6c49eea488d84f00f36e91ff28d689312b84c6f8de90a9401c
+    media_type: application/json
+    bytes: 101772
 rights:
   status: no-permission-needed
   basis: us-government-work

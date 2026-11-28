@@ -132,6 +132,34 @@ argument_transcripts:
     checksum: cd6ee779d9cdbeff8efb3b083b8d142aa5a1392ee16a04e552395712e4e10358
     media_type: application/pdf
     bytes: 13864259
+argument_timing:
+- date: '1995-04-24'
+  made: official transcript
+  model: Whisper small.en
+  turns: 228
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-956.mp3, seconds: 14632.99}
+  span: [7279.6, 11030.4]
+  counsel:
+  - name: "Charles Rothfeld"
+    title: "Washington, D.C."
+    for: "the Petitioner"
+  - name: "Dennis W. Arrow"
+    title: "Oklahoma City, Oklahoma"
+    for: "the Respondent"
+  - name: "Paul A. Engelmayer"
+    title: "Assistant to the Solicitor General"
+    for: "the U.s., as Amicus Curiae, Supporting the Respondent"
+  sections:
+  - {label: "Rothfeld", counsel: "Charles Rothfeld", t: 7309.7}
+  - {label: "Arrow", counsel: "Dennis W. Arrow", t: 8872.4}
+  - {label: "Engelmayer", counsel: "Paul A. Engelmayer", t: 10096.8}
+  - {label: "Rebuttal", counsel: "Charles Rothfeld", t: 10709.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/oklahoma-tax-commission-v-chickasaw-nation/1995-04-24.json
+    checksum: 27a993b50bf209f06bbe0a8f1fedc2ce58198774d76ee16022f6f5c7d165faf1
+    media_type: application/json
+    bytes: 85055
 rights:
   status: no-permission-needed
   basis: us-government-work

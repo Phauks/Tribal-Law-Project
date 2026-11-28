@@ -140,6 +140,29 @@ argument_transcripts:
     checksum: 506e39e34a440ff0c3528acd69c7401f567738df9d2c16e8ea9dc4aec52d304b
     media_type: application/pdf
     bytes: 11999248
+argument_timing:
+- date: '1979-10-09'
+  made: official transcript
+  model: Whisper small.en
+  turns: 178
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-285.mp3, seconds: 14284.23}
+  span: [127.5, 5063.7]
+  counsel:
+  - name: "Slade Gorton"
+    title: "t Js&^prn&y General of-Washington"
+    for: "the Appellants"
+  - name: "Louis F. Claiborne"
+    for: "the Appellees"
+  sections:
+  - {label: "Gorton", counsel: "Slade Gorton", t: 166.8}
+  - {label: "Claiborne", counsel: "Louis F. Claiborne", t: 3742.8}
+  - {label: "Rebuttal", counsel: "Slade Gorton", t: 4636.8}
+  file:
+    storage_key: supreme-court-transcripts/timed/washington-v-confederated-tribes-of-the-colville-indian-reservation/1979-10-09.json
+    checksum: 756b0fd16b6222eb78db48d4e58a40abc72f594727617cb29b124a3ad0e32ef8
+    media_type: application/json
+    bytes: 79685
 rights:
   status: no-permission-needed
   basis: us-government-work

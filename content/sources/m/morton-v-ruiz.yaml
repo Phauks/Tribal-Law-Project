@@ -331,6 +331,56 @@ argument_transcripts:
     checksum: ee607b04832fb3fdf7eaa3305b30a2b997d2512f041ad999a6838dc09bf3f7de
     media_type: application/pdf
     bytes: 6636693
+argument_timing:
+- date: '1973-11-05'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 33
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-33-r1.mp3, seconds: 232.12}
+  - {key: supreme-court-audio/national-archives/red-series/267-33-r2.mp3, seconds: 3948.54}
+  - {key: supreme-court-audio/national-archives/red-series/267-33-r3.mp3, seconds: 1191.11}
+  - {key: supreme-court-audio/national-archives/red-series/267-33-r4.mp3, seconds: 3868.42}
+  - {key: supreme-court-audio/national-archives/red-series/267-33-r5.mp3, seconds: 4225.28}
+  - {key: supreme-court-audio/national-archives/red-series/267-33-r6.mp3, seconds: 756.19}
+  span: [13450.4, 14221.7]
+  counsel:
+  - name: "Harry R. Sachse"
+    for: "petitioner (the Secretary of the Interior)"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep415/usrep415199/usrep415199.pdf
+  - name: "Winton D. Woods, Jr."
+    for: "respondents"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep415/usrep415199/usrep415199.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/morton-v-ruiz/1973-11-05.json
+    checksum: 483c427f7f6ecd2bc09f0605aaf002ac0aa469c0d1ec8553ca3b67a21971d9d9
+    media_type: application/json
+    bytes: 12174
+- date: '1973-11-06'
+  made: official transcript
+  model: Whisper small.en
+  turns: 59
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r1.mp3, seconds: 127.03}
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r2.mp3, seconds: 2893.87}
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r3.mp3, seconds: 2726.43}
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r4.mp3, seconds: 3596.56}
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r5.mp3, seconds: 3379.62}
+  - {key: supreme-court-audio/national-archives/red-series/267-34-r6.mp3, seconds: 1583.1}
+  span: [121.9, 3025.5]
+  counsel:
+  - name: "Harry R. Sachse"
+    for: "the Petitioner - Resumed"
+  - name: "Winton D. Woods, Jr."
+    for: "the Respondents"
+  sections:
+  - {label: "Sachse", counsel: "Harry R. Sachse", t: 153.4}
+  - {label: "Woods", counsel: "Winton D. Woods, Jr.", t: 1195.2}
+  file:
+    storage_key: supreme-court-transcripts/timed/morton-v-ruiz/1973-11-06.json
+    checksum: 14e317f109d45c9d3f34b81d764e4ddd4dda150dd54d601ed9805fa5e578d4cf
+    media_type: application/json
+    bytes: 47431
 rights:
   status: no-permission-needed
   basis: us-government-work

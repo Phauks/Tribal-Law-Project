@@ -1,0 +1,76 @@
+# Hears the Supreme Court argument recordings with a speech recognition model,
+# for scripts/caselaw/supreme_court_argument_timing.py: the words heard, each
+# with its time, time the official transcripts and are the transcript where
+# the Court kept none. Runs when a branch other than main changes a request
+# file under research/speech-requests/, or by hand. Uses no secrets: the
+# recordings are fetched from the Court's site and the National Archives
+# Catalog, and the words come back as workflow artifacts kept for five days,
+# which the session files in the bucket. Request files are removed from the
+# branch before it merges.
+name: speech recognition
+
+on:
+  push:
+    branches-ignore: [main]
+    paths:
+      - "research/speech-requests/*.json"
+  workflow_dispatch:
+    inputs:
+      request:
+        description: "Request file path on the chosen branch"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      request: ${{ steps.pick.outputs.request }}
+      shards: ${{ steps.pick.outputs.shards }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 2
+      - id: pick
+        env:
+          REQUEST: ${{ inputs.request }}
+        run: |
+          if [ -n "$REQUEST" ]; then file="$REQUEST"; else
+            file=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'research/speech-requests/*.json' | head -1); fi
+          echo "request=$file" >> "$GITHUB_OUTPUT"
+          # A push that only removes request files has nothing to hear.
+          if [ -z "$file" ]; then echo "shards=[]" >> "$GITHUB_OUTPUT"; exit 0; fi
+          echo "shards=$(python3 -c "import json,sys; print(json.dumps(list(range(len(json.load(open(sys.argv[1]))['shards'])))))" "$file")" >> "$GITHUB_OUTPUT"
+
+  hear:
+    needs: plan
+    if: needs.plan.outputs.shards != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        shard: ${{ fromJson(needs.plan.outputs.shards) }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Install the speech recognition model's runtime
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q faster-whisper==1.2.1
+      - name: Hear the shard's recordings
+        timeout-minutes: 330
+        run: python3 scripts/caselaw/supreme_court_argument_timing.py transcribe --request "${{ needs.plan.outputs.request }}" --shard ${{ matrix.shard }} --out words
+      # Keeps whatever was heard, even when the step failed or ran out of time.
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: words-${{ matrix.shard }}
+          path: words/
+          retention-days: 5
+          if-no-files-found: ignore

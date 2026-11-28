@@ -132,6 +132,27 @@ argument_transcripts:
     checksum: 045d20be1c5dee55c1498a3483675278f8e4e7a91c81a996463205354049eb63
     media_type: application/pdf
     bytes: 9014484
+argument_timing:
+- date: '1979-12-03'
+  made: official transcript
+  model: Whisper small.en
+  turns: 180
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-296.mp3, seconds: 13843.04}
+  span: [3191.0, 7015.2]
+  counsel:
+  - name: "Louis F. Claiborne"
+    for: "the Petitioner"
+  - name: "Charles A. Hobbs"
+  sections:
+  - {label: "Claiborne", counsel: "Louis F. Claiborne", t: 3267.2}
+  - {label: "Hobbs", counsel: "Charles A. Hobbs", t: 4941.5}
+  - {label: "Rebuttal", counsel: "Louis F. Claiborne", t: 6796.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/united-states-v-mitchell/1979-12-03.json
+    checksum: f635cb72873d4c39289ea8b37381c472cdd0a126227a3c83dcf0e0681421d063
+    media_type: application/json
+    bytes: 64977
 rights:
   status: no-permission-needed
   basis: us-government-work

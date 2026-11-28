@@ -145,6 +145,19 @@ argument_transcripts:
     checksum: 044f42a61e84c248927c825483ab34a2a679f82aa9c8de5f267d9aceb899362c
     media_type: application/pdf
     bytes: 13539444
+argument_timing:
+- date: '1986-01-14'
+  made: official transcript
+  model: Whisper small.en
+  turns: 89
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-546.mp3, seconds: 13711.99}
+  span: [0.0, 3565.9]
+  file:
+    storage_key: supreme-court-transcripts/timed/bowen-v-roy/1986-01-14.json
+    checksum: cfb5d5caa7a7d0faf57397370755886444c591c7a013123a1ea0723bd3b8f6ab
+    media_type: application/json
+    bytes: 67858
 rights:
   status: no-permission-needed
   basis: us-government-work

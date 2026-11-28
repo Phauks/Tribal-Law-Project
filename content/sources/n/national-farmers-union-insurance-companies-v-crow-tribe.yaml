@@ -197,6 +197,33 @@ argument_transcripts:
     checksum: a78be0d3723dcffe81ce90fc122c8d4d0e21cce8ab2e503456f7e0a25e101f87
     media_type: application/pdf
     bytes: 12064253
+argument_timing:
+- date: '1985-04-16'
+  made: official transcript
+  model: Whisper small.en
+  turns: 146
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-524-r1.mp3, seconds: 2006.0}
+  - {key: supreme-court-audio/national-archives/red-series/267-524-r2.mp3, seconds: 1817.23}
+  - {key: supreme-court-audio/national-archives/red-series/267-524-r3.mp3, seconds: 1688.56}
+  - {key: supreme-court-audio/national-archives/red-series/267-524-r4.mp3, seconds: 2017.67}
+  - {key: supreme-court-audio/national-archives/red-series/267-524-r5.mp3, seconds: 1976.19}
+  - {key: supreme-court-audio/national-archives/red-series/267-524-r6.mp3, seconds: 663.33}
+  - {key: supreme-court-audio/national-archives/red-series/267-524-r7.mp3, seconds: 918.52}
+  - {key: supreme-court-audio/national-archives/red-series/267-524-r8.mp3, seconds: 1490.21}
+  span: [434.7, 3839.7]
+  counsel:
+  - name: "Clay Riggs Smith"
+    for: "Curiae in Support of Petitioners"
+  - name: "Rodney T. Hartman"
+  sections:
+  - {label: "Smith", counsel: "Clay Riggs Smith", t: 454.7}
+  - {label: "Hartman", counsel: "Rodney T. Hartman", t: 702.6}
+  file:
+    storage_key: supreme-court-transcripts/timed/national-farmers-union-insurance-companies-v-crow-tribe/1985-04-16.json
+    checksum: f9bc7e77c12078ab2595f2366b54bee9345ea7521b86a4a8fb572bc8e86b513a
+    media_type: application/json
+    bytes: 57669
 rights:
   status: no-permission-needed
   basis: us-government-work

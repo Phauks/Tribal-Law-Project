@@ -140,6 +140,27 @@ argument_transcripts:
     checksum: 6531cc3de1dd71147d3d7dd1d543f76122469cf94edd41dcce66e169ab41e31a
     media_type: application/pdf
     bytes: 12050987
+argument_timing:
+- date: '1985-11-06'
+  made: official transcript
+  model: Whisper small.en
+  turns: 180
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-536.mp3, seconds: 13090.85}
+  span: [3630.1, 7030.3]
+  counsel:
+  - name: "K. Preston Oade, Jr."
+    for: "the Petitioners"
+  - name: "Jerome A. Susskind"
+    for: "the Respondents"
+  sections:
+  - {label: "Oade", counsel: "K. Preston Oade, Jr.", t: 3652.7}
+  - {label: "Susskind", counsel: "Jerome A. Susskind", t: 5449.9}
+  file:
+    storage_key: supreme-court-transcripts/timed/wygant-v-jackson-board-of-education/1985-11-06.json
+    checksum: a4d8487febc69f0e3977ce90c1b195119910f6852ad5bc664d5c5dd9196b7bd3
+    media_type: application/json
+    bytes: 64505
 rights:
   status: no-permission-needed
   basis: us-government-work

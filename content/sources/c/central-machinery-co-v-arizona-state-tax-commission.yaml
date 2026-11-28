@@ -136,6 +136,28 @@ argument_transcripts:
     checksum: 4ecd9fb699debb5dd729b8291b542f40454fa7301157e99996fd4d4f96f032d9
     media_type: application/pdf
     bytes: 9768528
+argument_timing:
+- date: '1980-01-14'
+  made: official transcript
+  model: Whisper small.en
+  turns: 201
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-302.mp3, seconds: 14284.09}
+  span: [167.3, 3944.1]
+  counsel:
+  - name: "Rodney B. Lewis"
+    title: "Assistant Attorney ^ General"
+    for: "the Appellant"
+  - name: "Ian A. Macpherson"
+    for: "the Appellee"
+  sections:
+  - {label: "Lewis", counsel: "Rodney B. Lewis", t: 203.2}
+  - {label: "Macpherson", counsel: "Ian A. Macpherson", t: 2097.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/central-machinery-co-v-arizona-state-tax-commission/1980-01-14.json
+    checksum: 19e3673ec759793e8f35953ac853893bce85cd201e5b7c1d877af7d32db88f5c
+    media_type: application/json
+    bytes: 68456
 rights:
   status: no-permission-needed
   basis: us-government-work

@@ -116,6 +116,27 @@ argument_audio:
     checksum: bc12226dc4ca6b66eb72241aa5a8825e0519a1374d026bae34139ef75496e171
     media_type: audio/mpeg
     bytes: 59740159
+argument_timing:
+- date: '1961-12-13'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 176
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-354-62-19611213.mp3, seconds: 3733.73}
+  span: [0.0, 3733.7]
+  counsel:
+  - name: "Glen A. Wilkinson"
+    for: "petitioner"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep368/usrep368351/usrep368351.pdf
+  - name: "Stephen C. Way"
+    title: "Assistant Attorney General of Washington"
+    for: "respondent"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep368/usrep368351/usrep368351.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/seymour-v-superintendent-of-washington-state-penitentiary/1961-12-13.json
+    checksum: 995ef61eb77bc6b01f20682db4755ea794dcafeae069d4b6bb44e9fc501a57ee
+    media_type: application/json
+    bytes: 51186
 rights:
   status: no-permission-needed
   basis: us-government-work

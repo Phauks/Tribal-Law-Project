@@ -117,6 +117,28 @@ argument_transcripts:
     checksum: 87001331582790f23790f4e332dbc86961fe4f27fed9d9164e00273c1efe0e1c
     media_type: application/pdf
     bytes: 13371123
+argument_timing:
+- date: '1986-12-09'
+  made: official transcript
+  model: Whisper small.en
+  turns: 299
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-584.mp3, seconds: 13021.99}
+  span: [9130.9, 13022.0]
+  counsel:
+  - name: "Roderick E. Walston"
+    for: "the Petitioner"
+  - name: "Glenn M. Feldman"
+    for: "the Respondents"
+  sections:
+  - {label: "Walston", counsel: "Roderick E. Walston", t: 9210.3}
+  - {label: "Feldman", counsel: "Glenn M. Feldman", t: 10753.0}
+  - {label: "Rebuttal", counsel: "Roderick E. Walston", t: 12640.7}
+  file:
+    storage_key: supreme-court-transcripts/timed/california-v-cabazon-band-of-mission-indians/1986-12-09.json
+    checksum: 1ecd853a52e2521c459acf27a776ca04f5cc3ccd49f14c1335fb0b0a0f8bc29e
+    media_type: application/json
+    bytes: 84222
 rights:
   status: no-permission-needed
   basis: us-government-work

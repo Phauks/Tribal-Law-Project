@@ -260,6 +260,32 @@ argument_transcripts:
     checksum: ac628209567f27027a4e528d0b52d142f562e4533f6aeef6c426a77400ce1550
     media_type: application/pdf
     bytes: 7085300
+argument_timing:
+- date: '1976-01-20'
+  made: official transcript
+  model: Whisper small.en
+  turns: 144
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-135-r1.mp3, seconds: 102.24}
+  - {key: supreme-court-audio/national-archives/red-series/267-135-r2.mp3, seconds: 67.63}
+  - {key: supreme-court-audio/national-archives/red-series/267-135-r3.mp3, seconds: 3830.91}
+  - {key: supreme-court-audio/national-archives/red-series/267-135-r4.mp3, seconds: 3678.9}
+  - {key: supreme-court-audio/national-archives/red-series/267-135-r5.mp3, seconds: 1716.61}
+  - {key: supreme-court-audio/national-archives/red-series/267-135-r6.mp3, seconds: 2789.28}
+  span: [9377.4, 12185.6]
+  counsel:
+  - name: "Sam E. Haddon"
+    for: "John C. Moe, et al."
+  - name: "Richard A. Baenen"
+    for: "the Confederated Salish and Kootenai Tribes of the Flathead Reservation, et al."
+  sections:
+  - {label: "Haddon", counsel: "Sam E. Haddon", t: 9440.3}
+  - {label: "Baenen", counsel: "Richard A. Baenen", t: 11236.5}
+  file:
+    storage_key: supreme-court-transcripts/timed/moe-v-confederated-salish-and-kootenai-tribes-of-the-flathead-reservation/1976-01-20.json
+    checksum: e7850983530d06fe1dffb74f5b5ce32c89deeafa2d468f42270a5efadaac71b1
+    media_type: application/json
+    bytes: 50367
 rights:
   status: no-permission-needed
   basis: us-government-work

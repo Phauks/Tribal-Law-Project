@@ -177,6 +177,32 @@ argument_transcripts:
     checksum: 3d4afc8dce8b706115b181ac62b2317510a339d56d41f5e804c7a1116a9e6572
     media_type: application/pdf
     bytes: 12613578
+argument_timing:
+- date: '1977-11-29'
+  made: official transcript
+  model: Whisper small.en
+  turns: 155
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-210-r1.mp3, seconds: 141.79}
+  - {key: supreme-court-audio/national-archives/red-series/267-210-r2.mp3, seconds: 103.81}
+  - {key: supreme-court-audio/national-archives/red-series/267-210-r3.mp3, seconds: 3541.37}
+  - {key: supreme-court-audio/national-archives/red-series/267-210-r4.mp3, seconds: 3644.4}
+  - {key: supreme-court-audio/national-archives/red-series/267-210-r5.mp3, seconds: 3492.31}
+  - {key: supreme-court-audio/national-archives/red-series/267-210-r6.mp3, seconds: 3433.04}
+  span: [10906.5, 14356.7]
+  counsel:
+  - name: "M&rcelino Prelo"
+    for: "the Petitioners"
+  - name: "Richard B. Collins"
+    for: "the Respondents"
+  sections:
+  - {label: "Prelo", counsel: "M&rcelino Prelo", t: 10974.4}
+  - {label: "Collins", counsel: "Richard B. Collins", t: 12441.3}
+  file:
+    storage_key: supreme-court-transcripts/timed/santa-clara-pueblo-v-martinez/1977-11-29.json
+    checksum: 2c9bb12549ed70f7c017d3c92b278537cc56a0933405507ca6ef07fc1528bed2
+    media_type: application/json
+    bytes: 70549
 rights:
   status: no-permission-needed
   basis: us-government-work

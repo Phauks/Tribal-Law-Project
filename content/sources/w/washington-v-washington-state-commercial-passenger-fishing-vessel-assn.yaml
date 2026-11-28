@@ -128,6 +128,36 @@ argument_transcripts:
     checksum: 579ed67b71d48f527e4a221ccc782366e30b3451cb935f16ae34981b0c86ba17
     media_type: application/pdf
     bytes: 15534228
+argument_timing:
+- date: '1979-02-28'
+  made: official transcript
+  model: Whisper small.en
+  turns: 293
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-268.mp3, seconds: 13166.71}
+  span: [137.9, 6106.3]
+  counsel:
+  - name: "Slade Gorton"
+    title: "Attorney General"
+    for: "the Petitioner State of Washington"
+  - name: "Philip A. Laccvara"
+    title: "N.W., Washington> D. C*"
+    for: "Petitioners Puget Sound Gxllnetters Assoc., St al"
+  - name: "Mason D. Morisset"
+    for: "Respondent Indian Tribes"
+  - name: "Louis F. Claiborne"
+    title: "Assistant to the Solicitor General"
+    for: "Respondent United States"
+  sections:
+  - {label: "Gorton", counsel: "Slade Gorton", t: 179.4}
+  - {label: "Laccvara", counsel: "Philip A. Laccvara", t: 1979.8}
+  - {label: "Morisset", counsel: "Mason D. Morisset", t: 2913.3}
+  - {label: "Claiborne", counsel: "Louis F. Claiborne", t: 3895.8}
+  file:
+    storage_key: supreme-court-transcripts/timed/washington-v-washington-state-commercial-passenger-fishing-vessel-assn/1979-02-28.json
+    checksum: 0a964a982bbb0af9151412fa86818b40166ebcb08b7a26a9ac9aff94837ac40f
+    media_type: application/json
+    bytes: 108137
 rights:
   status: no-permission-needed
   basis: us-government-work

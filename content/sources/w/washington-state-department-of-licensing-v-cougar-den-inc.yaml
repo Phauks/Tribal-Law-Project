@@ -162,6 +162,34 @@ argument_transcripts:
     checksum: 9c373ba6a477ae5ea996f2814a66fb2be0f6ce61284e4d7180c5c7739c816273
     media_type: application/pdf
     bytes: 776363
+argument_timing:
+- date: '2018-10-30'
+  made: official transcript
+  model: Whisper small.en
+  turns: 325
+  recording:
+  - {key: supreme-court-audio/court/2018/16-1498.mp3, seconds: 3627.53}
+  span: [0.0, 3627.5]
+  counsel:
+  - name: "Noah Purcell"
+    title: "Washington State Solicitor General"
+    for: "the Petitioner"
+  - name: "Ann O'Connell"
+    title: "Assistant to the Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Petitioner"
+  - name: "Adam G. Unikowsky"
+    title: "Washington, D.C."
+    for: "the Respondent"
+  sections:
+  - {label: "Purcell", counsel: "Noah Purcell", t: 11.4}
+  - {label: "O'Connell", counsel: "Ann O'Connell", t: 997.3}
+  - {label: "Unikowsky", counsel: "Adam G. Unikowsky", t: 1606.8}
+  - {label: "Rebuttal", counsel: "Noah Purcell", t: 3413.9}
+  file:
+    storage_key: supreme-court-transcripts/timed/washington-state-department-of-licensing-v-cougar-den-inc/2018-10-30.json
+    checksum: 1ba2a57470807a2facdbccec144e45bf3c671fccd125eab5ff1072267257c935
+    media_type: application/json
+    bytes: 95160
 rights:
   status: no-permission-needed
   basis: us-government-work

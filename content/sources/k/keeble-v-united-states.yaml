@@ -168,6 +168,29 @@ argument_transcripts:
     checksum: 61d5f5b68aba2611c044fda403653de05095d4f34ef00a4e3a1564f5b0f81468
     media_type: application/pdf
     bytes: 11933546
+argument_timing:
+- date: '1973-03-27'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 179
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-20-r1.mp3, seconds: 3797.21}
+  - {key: supreme-court-audio/national-archives/red-series/267-20-r2.mp3, seconds: 3930.88}
+  - {key: supreme-court-audio/national-archives/red-series/267-20-r3.mp3, seconds: 4072.59}
+  - {key: supreme-court-audio/national-archives/red-series/267-20-r4.mp3, seconds: 1628.16}
+  span: [7728.7, 11801.6]
+  counsel:
+  - name: "Mark V. Meierhenry"
+    for: "petitioner"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep412/usrep412205/usrep412205.pdf
+  - name: "Richard B. Stone"
+    for: "the United States"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep412/usrep412205/usrep412205.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/keeble-v-united-states/1973-03-27.json
+    checksum: 190d3eccf1be99ce27ab7b984d800dac3f2337a36882a218ac84fd60cb5ca111
+    media_type: application/json
+    bytes: 74825
 rights:
   status: no-permission-needed
   basis: us-government-work

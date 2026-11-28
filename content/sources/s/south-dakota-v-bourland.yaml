@@ -132,6 +132,34 @@ argument_transcripts:
     checksum: 7bb20f123baa803efac4fd20c36a7e5d939a14fd8d62f0001d9c60accf6b5556
     media_type: application/pdf
     bytes: 13109172
+argument_timing:
+- date: '1993-03-02'
+  made: official transcript
+  model: Whisper small.en
+  turns: 244
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-872.mp3, seconds: 10733.06}
+  span: [3647.7, 7341.4]
+  counsel:
+  - name: "Mark Barnett"
+    title: "Attorney General of South Dakota"
+    for: "the Petitioner"
+  - name: "Brian S. Koukoutchos"
+    title: "Lexington, Massachusetts"
+    for: "the Respondents"
+  - name: "James A. Feldman"
+    title: "Assistant to the Solicitor General"
+    for: "the United States, as Amicus Curiae, Supporting the Respondents"
+  sections:
+  - {label: "Barnett", counsel: "Mark Barnett", t: 3735.9}
+  - {label: "Koukoutchos", counsel: "Brian S. Koukoutchos", t: 5350.6}
+  - {label: "Feldman", counsel: "James A. Feldman", t: 6551.2}
+  - {label: "Rebuttal", counsel: "Mark Barnett", t: 7145.9}
+  file:
+    storage_key: supreme-court-transcripts/timed/south-dakota-v-bourland/1993-03-02.json
+    checksum: 064c0b02b0cfedd3d0c8fa62fee56b61862d95afc05d5e36d791867286240bab
+    media_type: application/json
+    bytes: 79048
 rights:
   status: no-permission-needed
   basis: us-government-work

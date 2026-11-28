@@ -116,6 +116,27 @@ argument_audio:
     checksum: 1d91fdde5e65820209b89a8d0631150471575dd12beba8e5225c191131ab90ed
     media_type: audio/mpeg
     bytes: 56006529
+argument_timing:
+- date: '1965-03-09'
+  made: speech recognition
+  model: Whisper small.en
+  turns: 208
+  recording:
+  - {key: supreme-court-audio/national-archives/black-series/267-533-115-19650309.mp3, seconds: 3500.38}
+  span: [0.0, 3500.4]
+  counsel:
+  - name: "Edward Jacobson"
+    for: "appellant"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep380/usrep380685/usrep380685.pdf
+  - name: "Philip M. Haggerty"
+    title: "Assistant Attorney General of Arizona"
+    for: "appellees"
+    source: https://tile.loc.gov/storage-services/service/ll/usrep/usrep380/usrep380685/usrep380685.pdf
+  file:
+    storage_key: supreme-court-transcripts/timed/warren-trading-post-co-v-arizona-tax-commission/1965-03-09.json
+    checksum: aac8fee41f2e67f1a11865b680418da45a4cebde481b216a9118a820da40902a
+    media_type: application/json
+    bytes: 61371
 rights:
   status: no-permission-needed
   basis: us-government-work

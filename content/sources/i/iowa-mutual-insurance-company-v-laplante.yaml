@@ -114,6 +114,27 @@ argument_transcripts:
     checksum: 810fda145f47e25ccaf75d44b19db9266b1441e84498ea779d6f399a29645c0e
     media_type: application/pdf
     bytes: 11489275
+argument_timing:
+- date: '1986-12-01'
+  made: official transcript
+  model: Whisper small.en
+  turns: 194
+  recording:
+  - {key: supreme-court-audio/national-archives/red-series/267-580.mp3, seconds: 13665.04}
+  span: [3607.7, 6921.2]
+  counsel:
+  - name: "Joe R. Bottomly"
+    for: "the Respondent"
+  - name: "Maxon R. Davis"
+    for: "the Petitioner"
+  sections:
+  - {label: "Bottomly", counsel: "Joe R. Bottomly", t: 5288.8}
+  - {label: "Davis", counsel: "Maxon R. Davis", t: 6714.0}
+  file:
+    storage_key: supreme-court-transcripts/timed/iowa-mutual-insurance-company-v-laplante/1986-12-01.json
+    checksum: 8eb4e8e9f850ac4b2ca9d5b02ef0e3d84cdeda9e6ed587b8acf829fc8618bb3a
+    media_type: application/json
+    bytes: 67118
 rights:
   status: no-permission-needed
   basis: us-government-work
