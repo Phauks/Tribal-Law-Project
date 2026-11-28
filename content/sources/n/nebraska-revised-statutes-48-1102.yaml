@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://nebraskalegislature.gov/laws/statutes.php?statute=48-1102
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261023155131/https://nebraskalegislature.gov/laws/statutes.php?statute=48-1102
+  captured: '2026-10-23'
 history:
   status: live
   last_checked: '2026-11-27'

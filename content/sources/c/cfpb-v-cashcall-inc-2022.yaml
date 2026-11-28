@@ -18,7 +18,10 @@ citation:
   number: 18-55407
 original_link: https://www.courtlistener.com/opinion/6470930/cfpb-v-cashcall-inc/
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128120043/https://www.courtlistener.com/opinion/6470930/cfpb-v-cashcall-inc/
+  captured: '2026-11-28'
 history:
   status: live
   last_checked: '2026-11-26'

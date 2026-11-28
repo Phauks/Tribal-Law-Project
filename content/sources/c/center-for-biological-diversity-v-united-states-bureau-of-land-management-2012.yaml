@@ -21,7 +21,10 @@ citation:
   number: 10-72356, 10-72552, 10-72762, 10-72768, 10-72775
 original_link: https://static.case.law/f3d/698/html/1101-01.html
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20261128115432/https://static.case.law/f3d/698/html/1101-01.html
+  captured: '2026-11-28'
 history:
   status: live
   last_checked: '2026-11-26'

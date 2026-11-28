@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://nebraskalegislature.gov/laws/statutes.php?statute=26-123
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260124032946/https://www.nebraskalegislature.gov/laws/statutes.php?statute=26-123
+  captured: '2026-01-24'
 history:
   status: live
   last_checked: '2026-11-27'

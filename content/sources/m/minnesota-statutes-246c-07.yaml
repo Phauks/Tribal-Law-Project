@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.revisor.mn.gov/statutes/cite/246C.07
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260209100420/https://www.revisor.mn.gov/statutes/cite/246C.07
+  captured: '2026-02-09'
 history:
   status: live
   last_checked: '2026-11-27'
