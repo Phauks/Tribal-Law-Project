@@ -17,7 +17,10 @@ citation:
       - 27
 original_link: https://www.oregonlegislature.gov/bills_laws/ors/ors430.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260513060714/https://www.oregonlegislature.gov/bills_laws/ors/ors430.html
+  captured: '2026-05-13'
 history:
   status: live
   last_checked: '2026-11-27'

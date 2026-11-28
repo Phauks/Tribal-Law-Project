@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os53.pdf#page=18
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20251209172524/https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os53.pdf
+  captured: '2025-12-09'
 history:
   status: live
   last_checked: '2026-11-26'

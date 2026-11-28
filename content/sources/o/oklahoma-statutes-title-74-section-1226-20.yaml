@@ -23,7 +23,10 @@ citation:
       - 26
 original_link: https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os74.pdf#page=855
 retrieved: '2026-11-26'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260708034604/https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os74.pdf
+  captured: '2026-07-08'
 history:
   status: live
   last_checked: '2026-11-26'

@@ -20,7 +20,10 @@ citation:
       - 27
 original_link: https://www.oregonlegislature.gov/bills_laws/ors/ors236.html
 retrieved: '2026-11-27'
-archives: []
+archives:
+- service: wayback
+  link: https://web.archive.org/web/20260927031225/https://www.oregonlegislature.gov/bills_laws/ors/ors236.html
+  captured: '2026-09-27'
 history:
   status: live
   last_checked: '2026-11-27'
